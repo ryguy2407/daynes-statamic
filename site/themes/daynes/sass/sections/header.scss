@@ -1,3 +1,18 @@
+header {
+  position: static;
+  top: 0;
+  margin-bottom: 20px;
+
+  .navbar-toggler {
+    background-color: $secondaryBlue;
+  }
+
+  .navbar-toggler-icon {
+    background: url("../img/hamburger.svg");
+    fill: #ffffff;
+  }
+}
+
 div.topBar {
   background: $secondaryBlue;
 
@@ -12,14 +27,13 @@ div.topBar {
 div.main {
   background: $baseBlue;
   padding: 25px 0;
+}
 
-  ul.nav {
-    li {
-      display: inline-block;
-      a {
-        color: #fff;
-        margin-left: 20px;
-      }
-    }
+nav.navbar {
+  width: 100%;
+  background: none;
+
+  li > a {
+    color: #fff;
   }
 }

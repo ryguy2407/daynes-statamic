@@ -28,6 +28,10 @@ class RexListings implements CRMInterface {
 							"value" => "withdrawn"
 						],
 						[
+							'name' => 'listing.system_listing_state',
+							"value" => "current"
+						],
+						[
 							'name' => 'property.property_category_id',
 							"type" => "!=",
 							"value" => "commercial"

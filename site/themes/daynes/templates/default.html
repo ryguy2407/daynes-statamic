@@ -1,38 +1,53 @@
-<div class="container px-0">
-    <h1>{{ title }}</h1>
-    <hr/>
+<div class="pageContent mb-5">
     {{ home_content }}
 
     {{ if type == "text" }}
 
-    <div class="text">
-        {{ text }}
-    </div>
+        <div class="section">
+            <div class="text">
+                {{ text }}
+            </div>
+        </div>
 
     {{ elseif type == "image" }}
 
-        {{ assets:image }}
-            <img src="{{ url }}" width="100" />
-        {{ /assets:image }}
+        <div class="section">
+            {{ assets:image }}
+                <img src="{{ url }}" width="100" />
+            {{ /assets:image }}
+        </div>
+
+    {{ elseif type == "video" }}
+
+        <div class="section">
+            <div class='embed-container'>
+                <iframe src='{{ video | embed_url }}' frameborder='0' allowfullscreen></iframe>
+            </div>
+        </div>
 
     {{ /if }}
 
     {{ /home_content }}
+</div><!-- end pageContent -->
 
     {{ c_r_m_listings }}
         {{ if listings }}
-            <ul>
+            <div class="listings d-flex flex-wrap justify-content-between">
                 {{ listings }}
-                <li>
+                <div class="listing col-lg-4">
+                    {{ images }}
+                        {{ if first }}
+                            <img src="{{ url }}" style="width: 100%;">
+                        {{ endif }}
+                    {{ /images }}
                     {{ advert_internet }}
-                        {{ heading }}
+                        <h5 class="title">{{ heading }}</h5>
                     {{ /advert_internet }}
-                </li>
+                </div>
                 {{ /listings }}
-            </ul>
+            </div>
         {{ endif }}
 
         {{ pagination }}
     {{ /c_r_m_listings }}
-</div>
 

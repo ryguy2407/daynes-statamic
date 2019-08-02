@@ -20,6 +20,7 @@ class CRMListingsTags extends Tags
 
     public function __construct(CRMInterface $crm)
     {
+        parent::__construct();
         $this->crm = $crm;
         $this->limit = 20;
     }
@@ -35,11 +36,14 @@ class CRMListingsTags extends Tags
         //Query the API and return the results
         $result = $this->crm->getListings(null, $this->offset(request('page')))['result'];
 
+        //Paginate the results
         $pagination = new LengthAwarePaginator($result['rows'], $result['total'], $this->limit);
 
+        //Get just the listings from the result
         $listings = $result['rows'];
         //$data[1]['pagination'] = $pagination->render();
 
+        //Return the data to the antler tags
         return $this->parseLoop([
             [
                 'listings' => $listings

@@ -40,6 +40,12 @@ sections:
                 mode: grid
                 type: assets
                 display: image
+          video:
+            display: Video
+            fields:
+              video:
+                type: video
+                display: Video
         type: bard
         display: 'Home Content'
 taxonomies: true

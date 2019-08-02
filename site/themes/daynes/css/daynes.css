@@ -1,3 +1,18 @@
+header {
+  position: static;
+  top: 0;
+  margin-bottom: 20px;
+}
+
+header .navbar-toggler {
+  background-color: #02A5E2;
+}
+
+header .navbar-toggler-icon {
+  background: url("../img/hamburger.svg");
+  fill: #ffffff;
+}
+
 div.topBar {
   background: #02A5E2;
   padding: 15px 0;
@@ -13,13 +28,32 @@ div.main {
   padding: 25px 0;
 }
 
-div.main ul.nav li {
-  display: inline-block;
+nav.navbar {
+  width: 100%;
+  background: none;
 }
 
-div.main ul.nav li a {
+nav.navbar li > a {
   color: #fff;
-  margin-left: 20px;
+}
+
+div.section {
+  margin: 25px 0;
+}
+
+div.listings {
+  margin: 0 -10px;
+}
+
+div.listings div.listing {
+  padding: 0 10px;
+  margin-bottom: 15px;
+}
+
+div.listings div.listing .title {
+  background: #00aeef;
+  color: #fff;
+  padding: 25px;
 }
 
 footer {
@@ -28,12 +62,24 @@ footer {
   flex-shrink: none;
 }
 
-body, html {
-  height: 100%;
-}
-
 #pageContent {
   flex: 1 0 auto;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /*# sourceMappingURL=daynes.css.map */

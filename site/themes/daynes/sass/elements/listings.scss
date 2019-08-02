@@ -1,0 +1,14 @@
+div.listings {
+  margin: 0 -10px;
+
+  div.listing {
+    padding: 0 10px;
+    margin-bottom: 15px;
+
+    .title {
+      background: $baseBlue;
+      color: #fff;
+      padding: 25px;
+    }
+  }
+}
