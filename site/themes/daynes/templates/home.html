@@ -1,0 +1,23 @@
+<div class="container px-0">
+    <h1>{{ title }}</h1>
+    <hr/>
+    {{ home_content }}
+
+    {{ if type == "text" }}
+
+    <div class="text">
+        {{ text }}
+    </div>
+
+    {{ elseif type == "image" }}
+
+    <figure>
+        <img src="{{ image }}" alt="{{ caption }}" />
+        <figcaption>{{ caption }}</figcaption>
+    </figure>
+
+    {{ /if }}
+
+    {{ /home_content }}
+</div>
+

@@ -1,0 +1,39 @@
+div.topBar {
+  background: #02A5E2;
+  padding: 15px 0;
+}
+
+div.topBar p, div.topBar a {
+  color: #fff;
+  margin: 0;
+}
+
+div.main {
+  background: #00aeef;
+  padding: 25px 0;
+}
+
+div.main ul.nav li {
+  display: inline-block;
+}
+
+div.main ul.nav li a {
+  color: #fff;
+  margin-left: 20px;
+}
+
+footer {
+  background: #23282d;
+  color: #999;
+  flex-shrink: none;
+}
+
+body, html {
+  height: 100%;
+}
+
+#pageContent {
+  flex: 1 0 auto;
+}
+
+/*# sourceMappingURL=daynes.css.map */

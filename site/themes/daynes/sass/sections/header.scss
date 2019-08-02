@@ -1,0 +1,25 @@
+div.topBar {
+  background: $secondaryBlue;
+
+  padding: 15px 0;
+
+  p, a {
+    color: #fff;
+    margin: 0;
+  }
+}
+
+div.main {
+  background: $baseBlue;
+  padding: 25px 0;
+
+  ul.nav {
+    li {
+      display: inline-block;
+      a {
+        color: #fff;
+        margin-left: 20px;
+      }
+    }
+  }
+}

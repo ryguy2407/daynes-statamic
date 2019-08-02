@@ -1,0 +1,4 @@
+name: CRMListings
+version: '1.0'
+description: 'Fetch real estate listings from CRM Api and display them on the site'
+developer: 'Ryan Murray'

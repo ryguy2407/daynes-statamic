@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a7cdc701fb81365b655f1231bc47b006",
+    "content-hash": "3d08565c9eb8a73f4cb5614da1fa0e92",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -2535,6 +2535,20 @@
             "time": "2016-02-11T07:05:27+00:00"
         },
         {
+            "name": "ryan-murray/crmlistings",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "../site/addons/CRMListings",
+                "reference": "4b3a4ff6fcfcd196a620fd74db0031036272d93e",
+                "shasum": null
+            },
+            "type": "library",
+            "transport-options": {
+                "symlink": false
+            }
+        },
+        {
             "name": "socialiteproviders/manager",
             "version": "v2.2.1",
             "source": {
@@ -4444,8 +4458,7 @@
             "authors": [
                 {
                     "name": "Chris Boulton",
-                    "homepage": "http://github.com/chrisboulton",
-                    "role": "Original developer"
+                    "homepage": "http://github.com/chrisboulton"
                 }
             ],
             "description": "A comprehensive library for generating differences between two hashable objects (strings or arrays).",
@@ -4642,8 +4655,8 @@
             "authors": [
                 {
                     "name": "Sebastian Bergmann",
-                    "email": "sb@sebastian-bergmann.de",
-                    "role": "lead"
+                    "role": "lead",
+                    "email": "sb@sebastian-bergmann.de"
                 }
             ],
             "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
@@ -4910,8 +4923,8 @@
             "authors": [
                 {
                     "name": "Sebastian Bergmann",
-                    "email": "sebastian@phpunit.de",
-                    "role": "lead"
+                    "role": "lead",
+                    "email": "sebastian@phpunit.de"
                 }
             ],
             "description": "The PHP Unit Testing framework.",
@@ -5554,7 +5567,8 @@
         "league/flysystem-ziparchive": 20,
         "mustangostang/spyc": 20,
         "michelf/php-smartypants": 20,
-        "netcarver/textile": 20
+        "netcarver/textile": 20,
+        "ryan-murray/crmlistings": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,

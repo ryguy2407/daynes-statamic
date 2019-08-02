@@ -1,0 +1,38 @@
+<div class="container px-0">
+    <h1>{{ title }}</h1>
+    <hr/>
+    {{ home_content }}
+
+    {{ if type == "text" }}
+
+    <div class="text">
+        {{ text }}
+    </div>
+
+    {{ elseif type == "image" }}
+
+        {{ assets:image }}
+            <img src="{{ url }}" width="100" />
+        {{ /assets:image }}
+
+    {{ /if }}
+
+    {{ /home_content }}
+
+    {{ c_r_m_listings }}
+        {{ if listings }}
+            <ul>
+                {{ listings }}
+                <li>
+                    {{ advert_internet }}
+                        {{ heading }}
+                    {{ /advert_internet }}
+                </li>
+                {{ /listings }}
+            </ul>
+        {{ endif }}
+
+        {{ pagination }}
+    {{ /c_r_m_listings }}
+</div>
+
