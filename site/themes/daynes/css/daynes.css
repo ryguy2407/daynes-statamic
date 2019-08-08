@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 header {
   position: static;
   top: 0;
@@ -41,6 +42,12 @@ div.section {
   margin: 25px 0;
 }
 
+div.fullImage img {
+  border: 5px solid #ccc;
+  background: #fff;
+  padding: 1px;
+}
+
 div.listings {
   margin: 0 -10px;
 }
@@ -56,10 +63,50 @@ div.listings div.listing .title {
   padding: 25px;
 }
 
+div.listings div.listing div.details {
+  border: 1px solid #ddd;
+  border-top: none;
+  background: #fff;
+  margin-bottom: 10px;
+}
+
+div.listings div.listing div.details ul {
+  padding: 25px;
+}
+
+div.listings div.listing div.details li {
+  list-style-type: none;
+}
+
+div.listings div.listing div.details h4 {
+  padding: 25px;
+}
+
+form.searchForm {
+  background: #fff;
+  padding: 25px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+div.agent {
+  background: #fff;
+  padding: 20px 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 40px;
+}
+
 footer {
   background: #23282d;
   color: #999;
   flex-shrink: none;
+}
+
+body {
+  background: #fafafa;
+  font-family: "Lato", "Helvetica", "Arial", sans-serif;
+  color: #666666;
+  font-weight: 400;
 }
 
 #pageContent {
@@ -80,6 +127,24 @@ footer {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+div.columns {
+  column-count: 2;
+  column-gap: 40px;
+}
+
+@media (max-width: 991.98px) {
+  div.columns {
+    column-count: 1 !important;
+  }
+}
+
+@media (min-width: 992px) {
+  div.carousel {
+    height: 600px;
+    overflow: hidden;
+  }
 }
 
 /*# sourceMappingURL=daynes.css.map */

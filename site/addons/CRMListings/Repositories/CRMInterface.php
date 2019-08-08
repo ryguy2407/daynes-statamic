@@ -4,5 +4,5 @@ namespace Statamic\Addons\CRMListings\Repositories;
 
 interface CRMInterface {
 	public function getToken();
-	public function getListings($criteria, $offset);
+	public function getListings($status, $listing_type, $offset);
 }

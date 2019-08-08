@@ -1,0 +1,9 @@
+title: Listings
+fieldset: listings
+template: listings/show
+searchable:
+  - status
+columns:
+  - title
+  - slug
+  - status

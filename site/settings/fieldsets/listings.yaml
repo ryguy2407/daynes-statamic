@@ -1,0 +1,39 @@
+sections:
+  main:
+    display: Main
+    fields:
+      price:
+        type: text
+        display: Price
+      bedrooms:
+        type: text
+        display: Bedrooms
+      bathrooms:
+        type: text
+        display: Bathrooms
+      cars:
+        type: text
+        display: Cars
+      status:
+        options:
+          current: Current
+          sold: Sold
+          leased: Leased
+        type: select
+        display: Status
+      content:
+        cheatsheet: false
+        restrict_assets: false
+        type: markdown
+        display: Content
+      images:
+        mode: table
+        fields:
+          url:
+            type: text
+            display: url
+        type: grid
+        display: Images
+taxonomies: true
+title: Listings
+create_title: Listing

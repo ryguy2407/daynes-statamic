@@ -1,0 +1,39 @@
+sections:
+  main:
+    display: Main
+    fields:
+      email:
+        type: text
+        display: Email
+        validate: required|email
+      mobile:
+        type: text
+        display: Mobile
+      landline:
+        type: text
+        display: Landline
+      bio:
+        cheatsheet: false
+        restrict_assets: false
+        type: markdown
+        display: Bio
+      photo:
+        container: main
+        folder: /
+        restrict: false
+        max_files: 1
+        type: assets
+        display: Photo
+  sidebar:
+    display: Sidebar
+    fields:
+      listings:
+        label: '{{ title }}'
+        collection:
+          - listings
+        mode: tags
+        type: collection
+        display: Listings
+taxonomies: true
+title: Agents
+create_title: Agent

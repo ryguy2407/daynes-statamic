@@ -1,0 +1,18 @@
+b012afa8-7969-41dd-8f09-d062e4c909df:
+  title: 'Super User'
+  slug: super_user
+  permissions:
+    - super
+37bb8110-1fb3-475f-88bd-84bbce23020f:
+  title: Agent
+  slug: agent
+  permissions:
+    - 'cp:access'
+    - 'pages:view'
+    - 'pages:edit'
+    - 'pages:create'
+    - 'pages:delete'
+    - 'pages:reorder'
+    - 'collections:listings:view'
+    - 'collections:listings:edit'
+    - forms

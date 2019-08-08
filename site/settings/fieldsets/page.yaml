@@ -1,0 +1,62 @@
+sections:
+  main:
+    display: Main
+    fields:
+      page_content:
+        buttons:
+          - h2
+          - h3
+          - bold
+          - italic
+          - unorderedlist
+          - orderedlist
+          - removeformat
+          - quote
+          - anchor
+        style: sans
+        spellcheck: true
+        allow_source: true
+        allow_internal_links: true
+        link_noopener: false
+        link_noreferrer: false
+        target_blank: false
+        semantic_elements: false
+        restrict_assets: false
+        sets:
+          column_text:
+            display: 'Column Text'
+            fields:
+              column_text:
+                cheatsheet: false
+                restrict_assets: false
+                type: markdown
+                display: 'Column Text'
+          full_image:
+            display: 'Full Image'
+            fields:
+              image:
+                container: main
+                folder: /
+                restrict: false
+                type: assets
+                display: Image
+                max_files: 1
+          full_text:
+            display: 'Full Text'
+            fields:
+              full_text:
+                cheatsheet: false
+                restrict_assets: false
+                type: markdown
+                display: 'Full Text'
+        type: bard
+        display: 'Page Content'
+  sidebar:
+    display: Sidebar
+    fields:
+      template:
+        type: template
+        display: Template
+taxonomies: true
+title: Page
+create_title: Page

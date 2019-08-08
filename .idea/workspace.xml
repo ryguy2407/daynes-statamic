@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d535f71-57d1-4f68-98ff-e1b830531154" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/sections/content.scss" />
+    <list default="true" id="0cbf393f-363a-4ecb-8d28-7dcb3725bf11" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/elements/agent.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/elements/searchForm.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/agents/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/agents/show.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/pages/show.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site/users/ryan.yaml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsServiceProvider.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsServiceProvider.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsTags.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsTags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/CRMInterface.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/CRMInterface.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/pages/index.md" afterPath="$PROJECT_DIR$/site/content/pages/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/fieldsets/home_fields.yaml" afterPath="$PROJECT_DIR$/site/settings/fieldsets/home_fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/routes.yaml" afterPath="$PROJECT_DIR$/site/settings/routes.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/users.yaml" afterPath="$PROJECT_DIR$/site/settings/users.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/users/groups.yaml" afterPath="$PROJECT_DIR$/site/settings/users/groups.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/users/roles.yaml" afterPath="$PROJECT_DIR$/site/settings/users/roles.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css" afterPath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css.map" afterPath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/layouts/default.html" afterPath="$PROJECT_DIR$/site/themes/daynes/layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/sections/header.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/sections/header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/elements/listings.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/elements/listings.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/sections/content.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/sections/content.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/variables.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/variables.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/home.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/home.html" />
     </list>
-    <ignored path="statamic.iws" />
+    <ignored path="daynesproperty.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,15 +45,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="statamic" />
+    <favorites_list name="daynesproperty" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/themes/daynes/layouts/default.html">
+      <file leaf-file-name="daynes.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40727273">
-              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.68421054">
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -54,27 +68,50 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/base/reset.scss" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/base/variables.scss" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/css/daynes.css" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/variables.scss" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/sections/footer.scss" />
-        <option value="$PROJECT_DIR$/site/settings/fieldsets/home.yaml" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/templates/home.html" />
-        <option value="$PROJECT_DIR$/site/content/pages/index.md" />
-        <option value="$PROJECT_DIR$/site/addons/CRMListings/resources/Repositories/CRMInterface.php" />
-        <option value="$PROJECT_DIR$/site/addons/CRMListings/Repositories/CRMInterface.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/resources/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/app/RexRepository/RexRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/RexRepository/CRMInterface.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_19_105710_create_listings_table.php" />
+        <option value="$PROJECT_DIR$/app/Listing.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CRMListingsController.php" />
+        <option value="$PROJECT_DIR$/resources/views/listings/show.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_30_012854_create_pages_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/verify.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_31_024524_create_roles_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_31_024634_create_roles_user.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_31_024900_create_roles_user.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/app/Policies/PagePolicy.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/main.blade.php" />
+        <option value="$PROJECT_DIR$/app/Page.php" />
+        <option value="$PROJECT_DIR$/resources/views/errors/validation.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/pages/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/pages/edit.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/StorePage.php" />
+        <option value="$PROJECT_DIR$/resources/views/pages/show.blade.php" />
+        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
+        <option value="$PROJECT_DIR$/app/RexRepository/RexRepository.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ListingsController.php" />
+        <option value="$PROJECT_DIR$/app/RexRepository/EagleRepository.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsServiceProvider.php" />
-        <option value="$PROJECT_DIR$/statamic/core/Presenters/PaginationPresenter.php" />
-        <option value="$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php" />
-        <option value="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsTags.php" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/elements/listings.scss" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/sections/content.scss" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/sass/sections/header.scss" />
         <option value="$PROJECT_DIR$/site/themes/daynes/layouts/default.html" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss" />
       </list>
     </option>
   </component>
@@ -88,10 +125,32 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="152" />
+    <option name="x" value="177" />
     <option name="y" value="23" />
-    <option name="width" value="1145" />
+    <option name="width" value="1263" />
     <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpUndefinedClassInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -100,7 +159,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -118,105 +177,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Collection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -226,11 +212,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -248,11 +234,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -274,11 +260,41 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daynes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="listings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -300,71 +316,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="elements" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -386,11 +342,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
+              <option name="myItemId" value="daynesproperty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -398,74 +354,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CRMListings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CRMListings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Repositories" />
+              <option name="myItemId" value="settings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="Presenter&#9;FILE&#9;file:///Users/ryanmurray/Code/statamic/statamic/core/Presenters/PaginationPresenter.php&#10;Leng&#9;FILE&#9;file:///Users/ryanmurray/Code/statamic/statamic/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php&#10;Paginator&#9;FILE&#9;file:///Users/ryanmurray/Code/statamic/statamic/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php&#10;parseLoop&#9;null&#9;null&#10;CollectionTag&#9;null&#9;null&#10;Collec&#9;null&#9;null" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="getChanges&#9;null&#9;null" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/site/addons/CRMListings" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -514,22 +417,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d535f71-57d1-4f68-98ff-e1b830531154" name="Default" comment="" />
-      <created>1564622351722</created>
+      <changelist id="0cbf393f-363a-4ecb-8d28-7dcb3725bf11" name="Default" comment="" />
+      <created>1563420780532</created>
       <option name="number" value="Default" />
-      <updated>1564622351722</updated>
+      <updated>1563420780532</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="23" width="1145" height="877" extended-state="0" />
+    <frame x="177" y="23" width="1263" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27510917" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940617" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -544,6 +448,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -561,371 +468,119 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/default.html">
+    <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <marker date="1564740536992" expanded="true" signature="29:683" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="112:204" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="143:189" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="269:399" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="464:636" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="506:621" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="835:1346" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="913:1295" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="1043:1055" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27151516">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/content/assets/main.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/helpers/cp/override.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/bootstrap/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7490909">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/CP/Fieldset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/CP/FieldtypeFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1721212">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/CP/Publish/Publisher.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33939394">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/Contracts/Data/Entries/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/API/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0363636">
-          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/API/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/css/daynes.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07017544">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/sections/footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10526316">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.16969697">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/storage/logs/statamic-2019-08-01.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.392727">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/settings/fieldsets/home_fields.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6969697">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsAPI.php">
+    <entry file="file://$PROJECT_DIR$/site/settings/routes.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/meta.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/routes.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/content/pages/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31578946">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20363636">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6787879">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/bundles/Entries/EntriesTags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30545455">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06787879">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/View/Antlers/Template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79636365">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsModifier.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8245614">
-          <caret line="26" column="138" selection-start-line="26" selection-start-column="138" selection-end-line="26" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/bundles/Collection/CollectionTags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.68363637">
-          <caret line="520" column="82" selection-start-line="520" selection-start-column="21" selection-end-line="520" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/Presenter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13575758">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3551515">
-          <caret line="122" column="36" selection-start-line="122" selection-start-column="27" selection-end-line="122" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/Presenters/PaginationPresenter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2557576">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsFieldtype.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/Repositories/CRMInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16969697">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statamic/core/Extend/Tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3890909">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsTags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35151514">
-          <caret line="36" column="46" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/elements/listings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1754386">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding>
-            <marker date="1564736800881" expanded="true" signature="13:191" placeholder="{...}" />
-            <marker date="1564736800881" expanded="true" signature="49:189" placeholder="{...}" />
-            <marker date="1564736800881" expanded="true" signature="109:185" placeholder="{...}" />
+            <marker date="1565254058449" expanded="true" signature="0:68" placeholder="collections:" />
+            <marker date="1565254058449" expanded="true" signature="69:85" placeholder="taxonomies:" />
+            <marker date="1565254058449" expanded="true" signature="86:145" placeholder="routes:" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16969697">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="14" />
+        <state vertical-scroll-proportion="2.1721213">
+          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
           <folding>
-            <marker date="1564740536992" expanded="true" signature="29:683" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="112:204" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="143:189" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="269:399" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="464:636" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="506:621" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="835:1346" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="913:1295" placeholder="..." />
-            <marker date="1564740536992" expanded="true" signature="1043:1055" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/sections/content.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03508772">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding>
-            <marker date="1564740602947" expanded="true" signature="12:33" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06787879">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <marker date="1564740619309" expanded="true" signature="147:168" placeholder="{...}" />
-            <marker date="1564740619309" expanded="true" signature="187:290" placeholder="{...}" />
-            <marker date="1564740619309" expanded="true" signature="364:441" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/sections/header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10526316">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <marker date="1564740705457" expanded="true" signature="7:220" placeholder="{...}" />
-            <marker date="1564740705457" expanded="true" signature="81:124" placeholder="{...}" />
-            <marker date="1564740705457" expanded="true" signature="149:218" placeholder="{...}" />
-            <marker date="1564740705457" expanded="true" signature="233:332" placeholder="{...}" />
-            <marker date="1564740705457" expanded="true" signature="293:330" placeholder="{...}" />
-            <marker date="1564740705457" expanded="true" signature="343:390" placeholder="{...}" />
-            <marker date="1564740705457" expanded="true" signature="403:474" placeholder="{...}" />
-            <marker date="1564740705457" expanded="true" signature="450:472" placeholder="{...}" />
+            <marker date="1565260470581" expanded="true" signature="29:683" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="112:204" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="143:189" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="269:399" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="464:636" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="506:621" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="786:1601" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="829:1593" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="855:1167" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="942:1152" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="1193:1426" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="1280:1411" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="1472:1582" placeholder="..." />
+            <marker date="1565260470581" expanded="false" signature="1539:1551" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="1666:3013" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="1734:3006" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="1847:2960" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="1884:2098" placeholder="..." />
+            <marker date="1565260470581" expanded="false" signature="2002:2014" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="2192:2941" placeholder="..." />
+            <marker date="1565260470581" expanded="true" signature="2270:2828" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/daynes/layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40727273">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.6787879">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+          <folding>
+            <marker date="1565260536672" expanded="true" signature="244:4663" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="269:907" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="943:4654" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="976:3614" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1005:1184" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1072:1169" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1211:3600" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1247:3585" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1305:3566" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1359:1463" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1672:1768" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1870:3543" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1918:3516" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="1975:2079" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="2129:2239" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="2289:2397" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="2447:2556" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="2606:2716" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="2775:3486" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="2961:3048" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="3149:3452" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="3660:3702" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="3716:3929" placeholder="..." />
+            <marker date="1565260536672" expanded="true" signature="3765:3915" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="30" />
+          <folding>
+            <marker date="1565260880387" expanded="true" signature="71:89" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="90:1155" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="129:159" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="160:321" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="181:193" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="231:242" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="281:293" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="383:549" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="610:839" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="718:806" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="760:790" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="946:1012" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="1081:1147" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="1228:1245" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="1246:1702" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="1742:1759" placeholder="..." />
+            <marker date="1565260880387" expanded="true" signature="1760:1865" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68421054">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
           <folding />
         </state>
       </provider>

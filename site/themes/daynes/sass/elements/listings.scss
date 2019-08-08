@@ -10,5 +10,23 @@ div.listings {
       color: #fff;
       padding: 25px;
     }
+
+    div.details {
+
+      border: 1px solid #ddd;
+      border-top: none;
+      background: #fff;
+      margin-bottom: 10px;
+
+      ul {
+        padding: 25px;
+      }
+      li {
+        list-style-type: none;
+      }
+      h4 {
+        padding: 25px;
+      }
+    }
   }
 }

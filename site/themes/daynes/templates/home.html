@@ -1,23 +1,85 @@
-<div class="container px-0">
-    <h1>{{ title }}</h1>
-    <hr/>
+<div class="pageContent mb-5">
     {{ home_content }}
 
     {{ if type == "text" }}
 
-    <div class="text">
-        {{ text }}
+    <div class="section">
+        <div class="text">
+            {{ text }}
+        </div>
     </div>
 
     {{ elseif type == "image" }}
 
-    <figure>
-        <img src="{{ image }}" alt="{{ caption }}" />
-        <figcaption>{{ caption }}</figcaption>
-    </figure>
+    <div class="section">
+        {{ assets:image }}
+        <img src="{{ url }}" width="100" />
+        {{ /assets:image }}
+    </div>
+
+    {{ elseif type == "video" }}
+
+    <div class="section">
+        <div class='embed-container'>
+            <iframe src='{{ video | embed_url }}' frameborder='0' allowfullscreen></iframe>
+        </div>
+    </div>
 
     {{ /if }}
 
     {{ /home_content }}
+</div><!-- end pageContent -->
+
+<form class="mb-5 searchForm" method="post" action="/!/CRMListings/listings">
+    {{ csrf_field }}
+    <div class="row">
+        <div class="col">
+            <select name="suburb" class="form-control" id="exampleFormControlSelect1">
+                <option value="">Select a suburb</option>
+                <option value="acacia ridge">Acacia Ridge</option>
+                <option value="south bank">South Bank</option>
+            </select>
+        </div>
+        <div class="col">
+            <select name="status" class="form-control" id="exampleFormControlSelect1">
+                <option value="">Select a status</option>
+                <option value="sold">Sold</option>
+            </select>
+        </div>
+        <div class="col justify-content-end">
+            <button type="submit" class="btn btn-primary" style="width: 100%;">Search</button>
+        </div>
+    </div>
+</form>
+
+<div class="listings d-flex flex-wrap justify-content-between">
+    <div class="listings d-flex flex-wrap justify-content-between">
+        {{ collection:listings status:contains="current" limit="20"}}
+        <div class="listing col-lg-4">
+            {{ images }}
+            {{ if first }}
+            <img src="{{ url }}" style="width: 100%;">
+            {{ endif }}
+            {{ /images }}
+
+            <h5 class="title m-0">{{ title }}</h5>
+            <div class="details">
+                <ul class="d-flex justify-content-between m-0 flex-wrap">
+                    {{ if landarea }}
+                    <li class="mb-4"><i class="fas fa-ruler-combined mr-2"></i>{{ landarea }} m2</li>
+                    {{ endif }}
+                    {{ if bedrooms }}
+                    <li><i class="fas fa-bed mr-2"></i>{{ bedrooms }} Bedrooms</li>
+                    {{ endif }}
+                    {{ if bathrooms }}
+                    <li><i class="fas fa-bath mr-2"></i>{{ bathrooms }} Bathrooms</li>
+                    {{ endif }}
+                </ul>
+                <hr class="m-0">
+                <h4 class="m-0">{{ price }}</h4>
+            </div>
+        </div>
+        {{ /collection:listings }}
+    </div>
 </div>
 

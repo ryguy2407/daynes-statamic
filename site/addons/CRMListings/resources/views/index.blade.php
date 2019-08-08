@@ -1,5 +1,5 @@
 @extends('layout')
 
 @section('content')
-    <p>Content</p>
+    <p>This is the single listing</p>
 @endsection

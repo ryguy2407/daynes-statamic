@@ -1,0 +1,29 @@
+<div class="pageContent mb-5">
+
+    <div class="section">
+        {{ page_content }}
+            {{ if type == "full_text" }}
+                <div class="text text py-4">
+                    {{ full_text | markdown }}
+                </div>
+            {{ /if }}
+
+            {{ if type == "column_text" }}
+                <div class="columns text py-4">
+                    {{ column_text | markdown }}
+                </div>
+            {{ /if }}
+
+            {{ if type == "full_image" }}
+                <div class="py-4 fullImage">
+                    {{ assets:image }}
+                        <img src="{{ url }}" style="width: 100%;"/>
+                    {{ /assets:image }}
+                </div>
+            {{ /if }}
+        {{ /page_content }}
+    </div>
+</div><!-- end pageContent -->
+
+
+

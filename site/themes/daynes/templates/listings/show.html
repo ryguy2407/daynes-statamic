@@ -1,0 +1,55 @@
+<div id="demo" class="carousel slide my-5" data-ride="carousel" style="position:relative;">
+
+    <div class="overlay p-5" style="position: absolute;z-index: 1;">
+        <h2 style="color: #fff;">{{ title }}</h2>
+        <h4 style="color: #fff">House - Sale</h4>
+        <h4 style="color: #fff;">{{ price }}</h4>
+    </div>
+
+    <!-- Indicators -->
+    <ul class="carousel-indicators">
+        {{ images }}
+            <li data-target="#demo" data-slide-to="{{ zero_index }}" class="{{ if first }}active{{ /if }}"></li>
+        {{ /images }}
+    </ul>
+
+    <!-- The slideshow -->
+    <div class="carousel-inner">
+        {{ images }}
+        <div class="carousel-item {{ if first }}active{{ /if }}" data-interval="5000">
+            <img src="{{ url }}" style="width: 100%;margin-top: -100px">
+        </div>
+        {{ /images }}
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
+
+</div>
+
+<ul class="d-flex justify-content-between my-5 flex-wrap pl-0" style="list-style: none;">
+    {{ if landarea }}
+        <li class="mb-4"><i class="fas fa-ruler-combined mr-2"></i>{{ landarea }} m2</li>
+    {{ endif }}
+    {{ if bedrooms }}
+        <li><i class="fas fa-bed mr-2"></i>{{ bedrooms }} Bedrooms</li>
+    {{ endif }}
+    {{ if bathrooms }}
+        <li><i class="fas fa-bath mr-2"></i>{{ bathrooms }} Bathrooms</li>
+    {{ endif }}
+    {{ if cars }}
+        <li><i class="fas fa-car mr-2"></i>{{ cars }} Cars</li>
+    {{ endif }}
+</ul>
+
+<div class="content p-5 mb-5" style="background: #fff;">
+    <h3>{{ title }}</h3>
+    {{ content | markdown }}
+    <hr class="my-5">
+    <h3>Location</h3>
+</div>

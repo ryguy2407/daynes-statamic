@@ -24,6 +24,6 @@ class CRMListingsServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->bind('Statamic\Addons\CRMListings\Repositories\CRMInterface', 'Statamic\Addons\CRMListings\Repositories\RexListings');
+        $this->app->bind('Statamic\Addons\CRMListings\Repositories\CRMInterface', 'Statamic\Addons\CRMListings\Repositories\EagleListings');
     }
 }

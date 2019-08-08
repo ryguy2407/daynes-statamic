@@ -6,14 +6,40 @@ use GuzzleHttp\Client;
 
 class RexListings implements CRMInterface {
 
-	public function getListings( $criteria, $offset = 0 )
-	{
-		if (! session('token')) {
-			session()->put('token', $token = $this->getToken());
+	public function getListings( $status = 'current', $offset = 0, $criteria = null ) {
+		if ( ! session( 'token' ) ) {
+			session()->put( 'token', $token = $this->getToken() );
 		}
 
-		$client = new Client();
+		//Build a search array in the rex format
+		$criteriaArray = $this->buildCriteria($status, $offset, $criteria);
+
+		$client   = new Client();
+		$response = $client->request('GET', 'https://api.rexsoftware.com/rex.php', $criteriaArray);
+
+		$resArray = json_decode( $response->getBody()->getContents(), true );
+
+		return $resArray;
+	}
+
+	public function getToken() {
+		$client   = new Client();
 		$response = $client->request( 'GET', 'https://api.rexsoftware.com/rex.php', [
+			'query' => [
+				'method' => 'Authentication::login',
+				'args'   => [
+					'email'       => env( 'REX_EMAIL' ),
+					'password'    => env( 'REX_PASSWORD' ),
+					'application' => 'rex'
+				]
+			]
+		] );
+
+		return json_decode( $response->getBody()->getContents() );
+	}
+
+	private function buildCriteria($status, $offset, $criteria) {
+		$arr = [
 			'query' => [
 				'method' => 'PublishedListings::search',
 				'args' => [
@@ -23,17 +49,17 @@ class RexListings implements CRMInterface {
 							'value' => 'published',
 						],
 						[
-							'name' => 'listing.system_listing_state',
-							"type" => "!=",
+							'name'  => 'listing.system_listing_state',
+							"type"  => "!=",
 							"value" => "withdrawn"
 						],
 						[
-							'name' => 'listing.system_listing_state',
-							"value" => "current"
+							'name'  => 'listing.system_listing_state',
+							"value" => $status
 						],
 						[
-							'name' => 'property.property_category_id',
-							"type" => "!=",
+							'name'  => 'property.property_category_id',
+							"type"  => "!=",
 							"value" => "commercial"
 						]
 					],
@@ -49,27 +75,17 @@ class RexListings implements CRMInterface {
 						'system_ctime' => 'asc',
 					],
 				],
-				'token'  => session('token')->result,
+				'token'  => session( 'token' )->result,
 			]
-		]);
+		];
 
-		$resArray = json_decode($response->getBody()->getContents(), true);
-		return $resArray;
-	}
+		if ( $criteria['suburb'] != '' ) {
+			array_push($arr['query']['args']['criteria'], [
+				'name'  => 'property.adr_suburb_or_town',
+				'value' => $criteria['suburb']
+			]);
+		}
 
-	public function getToken()
-	{
-		$client = new Client();
-		$response = $client->request('GET', 'https://api.rexsoftware.com/rex.php', [
-			'query' => [
-				'method' => 'Authentication::login',
-				'args' => [
-					'email' => env('REX_EMAIL'),
-					'password' => env('REX_PASSWORD'),
-					'application' => 'rex'
-				]
-			]
-		]);
-		return json_decode($response->getBody()->getContents());
+		return $arr;
 	}
 }

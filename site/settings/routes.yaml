@@ -1,0 +1,7 @@
+collections:
+  listings: '/listing/{slug}'
+  agents: '/agent/{slug}'
+taxonomies: {  }
+routes:
+  /listings: listings/index
+  /agents: agents/index
