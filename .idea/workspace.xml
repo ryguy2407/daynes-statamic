@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cbf393f-363a-4ecb-8d28-7dcb3725bf11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/elements/agent.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/elements/searchForm.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/agents/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/agents/show.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/pages/show.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/users/ryan.yaml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsServiceProvider.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsServiceProvider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsTags.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsTags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/CRMInterface.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/CRMInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/RexListings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/routes.yaml" afterPath="$PROJECT_DIR$/site/settings/routes.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/users.yaml" afterPath="$PROJECT_DIR$/site/settings/users.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/users/groups.yaml" afterPath="$PROJECT_DIR$/site/settings/users/groups.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/users/roles.yaml" afterPath="$PROJECT_DIR$/site/settings/users/roles.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css" afterPath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css.map" afterPath="$PROJECT_DIR$/site/themes/daynes/css/daynes.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/layouts/default.html" afterPath="$PROJECT_DIR$/site/themes/daynes/layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/elements/listings.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/elements/listings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/sections/content.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/sections/content.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/sass/variables.scss" afterPath="$PROJECT_DIR$/site/themes/daynes/sass/variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/home.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/home.html" />
     </list>
     <ignored path="daynesproperty.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="daynes.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss">
+      <file leaf-file-name="slideshow.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/elements/slideshow.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68421054">
-              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.3508772">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/webpack.mix.js" />
         <option value="$PROJECT_DIR$/resources/sass/_variables.scss" />
@@ -110,8 +85,10 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
         <option value="$PROJECT_DIR$/site/themes/daynes/layouts/default.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html" />
         <option value="$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/sass/elements/slideshow.scss" />
       </list>
     </option>
   </component>
@@ -177,18 +154,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -198,7 +175,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -212,7 +189,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -234,7 +211,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -260,7 +237,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -290,7 +267,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -316,7 +293,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="statamic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -336,31 +313,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="settings" />
+              <option name="myItemId" value="elements" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -433,7 +396,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -443,6 +405,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -468,11 +431,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+          <folding>
+            <marker date="1565320138901" expanded="true" signature="299:420" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="435:456" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="475:578" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="652:729" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="743:785" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="816:871" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="832:869" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="899:959" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="916:957" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16969697">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -480,11 +460,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1565254058449" expanded="true" signature="0:68" placeholder="collections:" />
-            <marker date="1565254058449" expanded="true" signature="69:85" placeholder="taxonomies:" />
-            <marker date="1565254058449" expanded="true" signature="86:145" placeholder="routes:" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -492,29 +468,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.1721213">
           <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
-          <folding>
-            <marker date="1565260470581" expanded="true" signature="29:683" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="112:204" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="143:189" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="269:399" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="464:636" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="506:621" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="786:1601" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="829:1593" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="855:1167" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="942:1152" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="1193:1426" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="1280:1411" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="1472:1582" placeholder="..." />
-            <marker date="1565260470581" expanded="false" signature="1539:1551" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="1666:3013" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="1734:3006" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="1847:2960" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="1884:2098" placeholder="..." />
-            <marker date="1565260470581" expanded="false" signature="2002:2014" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="2192:2941" placeholder="..." />
-            <marker date="1565260470581" expanded="true" signature="2270:2828" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -522,65 +476,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6787879">
           <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-          <folding>
-            <marker date="1565260536672" expanded="true" signature="244:4663" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="269:907" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="943:4654" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="976:3614" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1005:1184" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1072:1169" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1211:3600" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1247:3585" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1305:3566" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1359:1463" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1672:1768" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1870:3543" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1918:3516" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="1975:2079" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="2129:2239" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="2289:2397" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="2447:2556" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="2606:2716" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="2775:3486" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="2961:3048" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="3149:3452" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="3660:3702" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="3716:3929" placeholder="..." />
-            <marker date="1565260536672" expanded="true" signature="3765:3915" placeholder="..." />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30545455">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="30" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.06787879">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
           <folding>
-            <marker date="1565260880387" expanded="true" signature="71:89" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="90:1155" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="129:159" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="160:321" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="181:193" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="231:242" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="281:293" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="383:549" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="610:839" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="718:806" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="760:790" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="946:1012" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="1081:1147" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="1228:1245" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="1246:1702" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="1742:1759" placeholder="..." />
-            <marker date="1565260880387" expanded="true" signature="1760:1865" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="71:89" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="90:1116" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="121:282" placeholder="..." />
+            <marker date="1565319941007" expanded="false" signature="142:154" placeholder="..." />
+            <marker date="1565319941007" expanded="false" signature="192:203" placeholder="..." />
+            <marker date="1565319941007" expanded="false" signature="242:254" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="344:510" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="571:800" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="679:767" placeholder="..." />
+            <marker date="1565319941007" expanded="false" signature="721:751" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="907:973" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="1042:1108" placeholder="..." />
+            <marker date="1565319941007" expanded="false" signature="1189:1206" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="1207:1663" placeholder="..." />
+            <marker date="1565319941007" expanded="false" signature="1703:1720" placeholder="..." />
+            <marker date="1565319941007" expanded="true" signature="1721:1826" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/daynes.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68421054">
-          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.21052632">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <marker date="1565320138901" expanded="true" signature="299:420" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="435:456" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="475:578" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="652:729" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="743:785" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="816:871" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="832:869" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="899:959" placeholder="{...}" />
+            <marker date="1565320138901" expanded="true" signature="916:957" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/elements/slideshow.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3508772">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
