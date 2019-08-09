@@ -1,58 +1,26 @@
 ---
 title: 'Outstanding Position - Build Your New Home Here!'
-price: '$595,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '48 Orsova Road, YERONGA'
+main_image: 'https://img.eagleagent.com.au/VZk7QaC7FmsOdS2Hvoox0ndudsE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819405/105712628-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-1_2979324250_20140411041042.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-1_2979324250_20140411041042_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-1_2979324250_20140411041042_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-1_2979324250_20140411041042_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-1_2979324250_20140411041042_80x60.jpg
-    modtime: '1397168189'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819409/105712628-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-2_1002693530_20140411041045.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-2_1002693530_20140411041045_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-2_1002693530_20140411041045_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-2_1002693530_20140411041045_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-2_1002693530_20140411041045_80x60.jpg
-    modtime: '1397168189'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819408/105712628-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-3_3289198628_20140411041045.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-3_3289198628_20140411041045_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-3_3289198628_20140411041045_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-3_3289198628_20140411041045_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-3_3289198628_20140411041045_80x60.jpg
-    modtime: '1397168189'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819407/105712628-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-4_5782563207_20140411041046.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-4_5782563207_20140411041046_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-4_5782563207_20140411041046_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-4_5782563207_20140411041046_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-4_5782563207_20140411041046_80x60.jpg
-    modtime: '1397168189'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819406/105712628-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-5_6610474992_20140411041044.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-5_6610474992_20140411041044_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-5_6610474992_20140411041044_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-5_6610474992_20140411041044_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98011/images/105712628-5_6610474992_20140411041044_80x60.jpg
-    modtime: '1397168189'
-    dimensions: null
-property_id: '145573'
-id: 55cd9c25-0084-4ee2-801d-651a0ae339f2
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819405/105712628-image-M.jpg'
+property_id: '434966'
+id: 89d2779c-341b-4fc3-908d-eb98c4db7304
 ---
 Here is a great opportunity to secure a 650sqm level block within 150m of the Brisbane river. With plenty of high calibre homes and in close proximity to riverfront properties, this block has plenty of potential for someone to build a very special home.
 

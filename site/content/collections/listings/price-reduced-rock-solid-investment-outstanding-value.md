@@ -1,98 +1,38 @@
 ---
 title: 'Price Reduced - Rock Solid Investment - Outstanding Value!'
 price: '$379,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '4'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 4
+status: Sold
+address: '61 Merchiston Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/MReTm0tKCHfogNtpZWZ3QFWSat8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823372/120744353-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Front_676171830_20150915074905.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Front_676171830_20150915074905_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Front_676171830_20150915074905_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Front_676171830_20150915074905_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Front_676171830_20150915074905_80x60.jpg
-    modtime: '1442366803'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823380/120744353-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining3_4156953194_20150915074823.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining3_4156953194_20150915074823_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining3_4156953194_20150915074823_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining3_4156953194_20150915074823_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining3_4156953194_20150915074823_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823379/120744353-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining2_9704903737_20150915074827.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining2_9704903737_20150915074827_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining2_9704903737_20150915074827_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining2_9704903737_20150915074827_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Entertaining2_9704903737_20150915074827_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823378/120744353-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Kitchen_9646862578_20150915074903.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Kitchen_9646862578_20150915074903_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Kitchen_9646862578_20150915074903_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Kitchen_9646862578_20150915074903_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Kitchen_9646862578_20150915074903_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823377/120744353-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Living_3676392347_20150915074922.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Living_3676392347_20150915074922_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Living_3676392347_20150915074922_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Living_3676392347_20150915074922_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Living_3676392347_20150915074922_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823376/120744353-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Dining_9868283947_20150915074805.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Dining_9868283947_20150915074805_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Dining_9868283947_20150915074805_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Dining_9868283947_20150915074805_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Dining_9868283947_20150915074805_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823375/120744353-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Bathroom_9867656478_20150915074746.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Bathroom_9867656478_20150915074746_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Bathroom_9867656478_20150915074746_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Bathroom_9867656478_20150915074746_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Bathroom_9867656478_20150915074746_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823374/120744353-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Main-Bedroom_6397027197_20150915074921.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Main-Bedroom_6397027197_20150915074921_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Main-Bedroom_6397027197_20150915074921_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Main-Bedroom_6397027197_20150915074921_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Main-Bedroom_6397027197_20150915074921_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823373/120744353-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Garage_2349547897_20150915074847.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Garage_2349547897_20150915074847_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Garage_2349547897_20150915074847_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Garage_2349547897_20150915074847_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492771/images/Garage_2349547897_20150915074847_80x60.jpg
-    modtime: '1442370171'
-    dimensions: 1200x900
-property_id: '1241612'
-id: 369c094a-f587-4196-b7e7-d96d330237c2
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823372/120744353-image-M.jpg'
+property_id: '435339'
+id: b75c6d77-252b-4aff-865e-b90cff1200ff
 ---
-This home has been the delight of the current owners, and their love and enjoyment is evident in the attention to detail and liveability of the property. Featuring double brick fully insulated construction and fully insulated ceilings, this will be a solid investment for years to come. 
+This home has been the delight of the current owners, and their love and enjoyment is evident in the attention to detail and liveability of the property. Featuring double brick fully insulated construction and fully insulated ceilings, this will be a solid investment for years to come.
 
-With an open plan living, kitchen and dining stepping out to a cool undercover entertaining area to the front of the property, this property promises great spaces for entertaining and enjoyment. Also featuring a massive, 19 x 6 metre air-conditioned, partially lockable and separately 20 amp powered back shed, this is a wonderful chance for tradesmen and alike to have a workshop and storage at home. This property affords an excellent opportunity for the savvy investor or lifestyle-seeking families. 
+With an open plan living, kitchen and dining stepping out to a cool undercover entertaining area to the front of the property, this property promises great spaces for entertaining and enjoyment. Also featuring a massive, 19 x 6 metre air-conditioned, partially lockable and separately 20 amp powered back shed, this is a wonderful chance for tradesmen and alike to have a workshop and storage at home. This property affords an excellent opportunity for the savvy investor or lifestyle-seeking families.
 
 This home features:
 
@@ -116,8 +56,8 @@ This home features:
 
 Situated on a 746sqm block, this home promises plenty of space for a growing family, entertainers and those wanting to get the best potential from their next investment.
 
-Merchiston Street is a beautiful, leafy and elevated street, with many homes undergoing renovation and Convenient to both the Elizabeth Street shopping centre and the larger Beaudesert Road shopping centre, which includes both Woolworths and Aldi. 
+Merchiston Street is a beautiful, leafy and elevated street, with many homes undergoing renovation and Convenient to both the Elizabeth Street shopping centre and the larger Beaudesert Road shopping centre, which includes both Woolworths and Aldi.
 
-Close to bus stops, major transport thoroughfares, primary schools and high schools, beautiful parks and walkways, the convenience is second to none. 
+Close to bus stops, major transport thoroughfares, primary schools and high schools, beautiful parks and walkways, the convenience is second to none.
 
 Inspection by appointment only, call Adrian today so you do not miss out on this wonderful opportunity!

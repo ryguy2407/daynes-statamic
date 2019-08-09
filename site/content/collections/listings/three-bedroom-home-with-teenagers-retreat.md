@@ -1,76 +1,30 @@
 ---
 title: 'Three Bedroom Home with Teenagers Retreat'
 price: '$379,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 1
+status: Sold
+address: '20 Sandeman Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/7ART_P8v6SDS7GDFGKKG30V9PMs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823063/117759191-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Front_6793355532_20140825105549.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Front_6793355532_20140825105549_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Front_6793355532_20140825105549_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Front_6793355532_20140825105549_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Front_6793355532_20140825105549_80x60.jpg
-    modtime: '1408928221'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823069/117759191-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living2_1035028752_20140825105541.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living2_1035028752_20140825105541_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living2_1035028752_20140825105541_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living2_1035028752_20140825105541_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living2_1035028752_20140825105541_80x60.jpg
-    modtime: '1408928221'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823068/117759191-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Kitchen_2392562534_20140825105545.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Kitchen_2392562534_20140825105545_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Kitchen_2392562534_20140825105545_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Kitchen_2392562534_20140825105545_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Kitchen_2392562534_20140825105545_80x60.jpg
-    modtime: '1408928221'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823067/117759191-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Rumpus_9513712470_20140825105543.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Rumpus_9513712470_20140825105543_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Rumpus_9513712470_20140825105543_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Rumpus_9513712470_20140825105543_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Rumpus_9513712470_20140825105543_80x60.jpg
-    modtime: '1408928221'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823066/117759191-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living_9215106513_20140825105547.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living_9215106513_20140825105547_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living_9215106513_20140825105547_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living_9215106513_20140825105547_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Living_9215106513_20140825105547_80x60.jpg
-    modtime: '1408928221'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823065/117759191-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bedroom_7918545394_20140825105541.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bedroom_7918545394_20140825105541_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bedroom_7918545394_20140825105541_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bedroom_7918545394_20140825105541_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bedroom_7918545394_20140825105541_80x60.jpg
-    modtime: '1408928221'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823064/117759191-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bathroom_9494565186_20140825105543.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bathroom_9494565186_20140825105543_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bathroom_9494565186_20140825105543_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bathroom_9494565186_20140825105543_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/224775/images/Bathroom_9494565186_20140825105543_80x60.jpg
-    modtime: '1408928221'
-    dimensions: 1200x900
-property_id: '451759'
-id: bad6e70f-35ce-412e-b8c0-b88f5ce8a0f0
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823063/117759191-image-M.jpg'
+property_id: '435310'
+id: 7db420d1-a512-4f67-a3f1-a0a744673267
 ---
 This property which is situated in one of Acacia Ridge's best streets is now offered for sale. Situated on a 665sqm elevated block which is completely fenced with established gardens. Constructed of chamfer board with a tiled roof. This home is in very good condition and will be appreciated once you view it.
 
@@ -88,8 +42,8 @@ Features include;
 *  Water tank
 *  New power board and hot water system
 *  Currently rented for $370 per week
-*  The home has been recently fully repainted on the outside 
+*  The home has been recently fully repainted on the outside
 *  Only 12min drive to Brisbane CBD
 *  Close to all amenities
- 
+
 Properties in Acacia Ridge have been selling extremely quickly with values increasing rapidly. Looking forward to seeing you at the open for inspection this Saturday between 11.45am - 12.15pm

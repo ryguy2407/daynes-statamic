@@ -1,58 +1,26 @@
 ---
 title: 'Great Unit at a Great Price'
-price: '$428,000'
-bedrooms: '2'
-bathrooms: '2'
-cars: '2'
-status: sold
+price: ''
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 2
+status: Sold
+address: '11 Stamford Street, YEERONGPILLY'
+main_image: 'https://img.eagleagent.com.au/8hzCzrpeRq315Jv5cgS4iATA9Cg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819128/105287409-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-1_3392763827_20140411041444.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-1_3392763827_20140411041444_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-1_3392763827_20140411041444_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-1_3392763827_20140411041444_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-1_3392763827_20140411041444_80x60.jpg
-    modtime: '1397168456'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819132/105287409-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-2_6937299310_20140411041444.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-2_6937299310_20140411041444_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-2_6937299310_20140411041444_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-2_6937299310_20140411041444_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-2_6937299310_20140411041444_80x60.jpg
-    modtime: '1397168456'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819131/105287409-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-3_7978724949_20140411041444.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-3_7978724949_20140411041444_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-3_7978724949_20140411041444_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-3_7978724949_20140411041444_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-3_7978724949_20140411041444_80x60.jpg
-    modtime: '1397168456'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819130/105287409-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-4_6484794528_20140411041445.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-4_6484794528_20140411041445_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-4_6484794528_20140411041445_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-4_6484794528_20140411041445_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-4_6484794528_20140411041445_80x60.jpg
-    modtime: '1397168456'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819129/105287409-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-5_87014744_20140411041450.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-5_87014744_20140411041450_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-5_87014744_20140411041450_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-5_87014744_20140411041450_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97995/images/105287409-5_87014744_20140411041450_80x60.jpg
-    modtime: '1397168456'
-    dimensions: null
-property_id: '145519'
-id: 8448fcb9-ebfc-4a60-9050-15e1baa70726
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819128/105287409-image-M.jpg'
+property_id: '434934'
+id: a8e8440f-4298-425b-aed9-2160d74f3fc0
 ---
 Located on a quiet street in Yeerongpilly this brand new two bedroom unit is in a complex of eight.
 

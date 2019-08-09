@@ -1,139 +1,44 @@
 ---
 title: 'Just Needs An External Paint But Has So Much To Offer!'
 price: '$389,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 2
+status: Sold
+address: '23 Alveston Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/ffBXsrYlom-_Eo66AvRDRd7t3eY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823045/117642331-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front_7320893696_20140807060452.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front_7320893696_20140807060452_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front_7320893696_20140807060452_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front_7320893696_20140807060452_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front_7320893696_20140807060452_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823058/117642331-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Kitchen_9338698215_20140807060439.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Kitchen_9338698215_20140807060439_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Kitchen_9338698215_20140807060439_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Kitchen_9338698215_20140807060439_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Kitchen_9338698215_20140807060439_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823057/117642331-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front-Deck_8143169452_20140807060443.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front-Deck_8143169452_20140807060443_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front-Deck_8143169452_20140807060443_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front-Deck_8143169452_20140807060443_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Front-Deck_8143169452_20140807060443_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823056/117642331-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Living_4361834144_20140807060434.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Living_4361834144_20140807060434_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Living_4361834144_20140807060434_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Living_4361834144_20140807060434_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Living_4361834144_20140807060434_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823055/117642331-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Dining_688249636_20140807060437.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Dining_688249636_20140807060437_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Dining_688249636_20140807060437_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Dining_688249636_20140807060437_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Dining_688249636_20140807060437_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823054/117642331-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Rumpus_3883526348_20140807060448.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Rumpus_3883526348_20140807060448_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Rumpus_3883526348_20140807060448_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Rumpus_3883526348_20140807060448_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Rumpus_3883526348_20140807060448_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823053/117642331-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Untitled_HDR22_1613252917_20140807060501.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Untitled_HDR22_1613252917_20140807060501_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Untitled_HDR22_1613252917_20140807060501_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Untitled_HDR22_1613252917_20140807060501_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Untitled_HDR22_1613252917_20140807060501_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823052/117642331-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Outdoor-Area_3674613498_20140807060448.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Outdoor-Area_3674613498_20140807060448_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Outdoor-Area_3674613498_20140807060448_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Outdoor-Area_3674613498_20140807060448_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Outdoor-Area_3674613498_20140807060448_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823051/117642331-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bathroom_1536900205_20140807060429.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bathroom_1536900205_20140807060429_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bathroom_1536900205_20140807060429_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bathroom_1536900205_20140807060429_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bathroom_1536900205_20140807060429_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823050/117642331-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed3_3105701087_20140807060425.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed3_3105701087_20140807060425_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed3_3105701087_20140807060425_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed3_3105701087_20140807060425_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed3_3105701087_20140807060425_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823049/117642331-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed1_2115748007_20140807060426.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed1_2115748007_20140807060426_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed1_2115748007_20140807060426_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed1_2115748007_20140807060426_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed1_2115748007_20140807060426_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823048/117642331-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed2_6370373857_20140807060431.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed2_6370373857_20140807060431_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed2_6370373857_20140807060431_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed2_6370373857_20140807060431_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Bed2_6370373857_20140807060431_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823047/117642331-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard2_7400341127_20140807060457.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard2_7400341127_20140807060457_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard2_7400341127_20140807060457_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard2_7400341127_20140807060457_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard2_7400341127_20140807060457_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823046/117642331-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard_8256112971_20140807060459.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard_8256112971_20140807060459_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard_8256112971_20140807060459_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard_8256112971_20140807060459_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/212036/images/Backyard_8256112971_20140807060459_80x60.jpg
-    modtime: '1407398794'
-    dimensions: 1200x900
-property_id: '424125'
-id: 3e2b63ba-3740-47e6-8fc3-054d679d3f92
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823045/117642331-image-M.jpg'
+property_id: '435308'
+id: e16c4ede-e3cb-4dd4-af05-9e4eb4dbed39
 ---
 ***Price Reduction - Slashed by $10,000***
 

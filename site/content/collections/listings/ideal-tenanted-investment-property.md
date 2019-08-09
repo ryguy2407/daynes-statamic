@@ -1,58 +1,26 @@
 ---
 title: 'Ideal Tenanted Investment Property'
 price: '$309,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: null
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 0
+status: Sold
+address: '38 Sandpiper Street, INALA'
+main_image: 'https://img.eagleagent.com.au/NkBA0jPwJh9svsu0mGt5_FPdXns=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820721/105979692-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-1_5439083716_20140411032424.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-1_5439083716_20140411032424_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-1_5439083716_20140411032424_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-1_5439083716_20140411032424_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-1_5439083716_20140411032424_80x60.jpg
-    modtime: '1397165527'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820725/105979692-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-2_5592471077_20140411032423.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-2_5592471077_20140411032423_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-2_5592471077_20140411032423_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-2_5592471077_20140411032423_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-2_5592471077_20140411032423_80x60.jpg
-    modtime: '1397165527'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820724/105979692-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-3_7078123763_20140411032422.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-3_7078123763_20140411032422_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-3_7078123763_20140411032422_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-3_7078123763_20140411032422_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-3_7078123763_20140411032422_80x60.jpg
-    modtime: '1397165527'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820723/105979692-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-4_3173036161_20140411032423.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-4_3173036161_20140411032423_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-4_3173036161_20140411032423_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-4_3173036161_20140411032423_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-4_3173036161_20140411032423_80x60.jpg
-    modtime: '1397165527'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820722/105979692-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-5_2827726248_20140411032424.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-5_2827726248_20140411032424_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-5_2827726248_20140411032424_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-5_2827726248_20140411032424_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98176/images/1164766-5_2827726248_20140411032424_80x60.jpg
-    modtime: '1397165527'
-    dimensions: null
-property_id: '146090'
-id: fc370c73-ecfe-4266-a910-03792aa4dc3f
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820721/105979692-image-M.jpg'
+property_id: '435123'
+id: 987adcc0-6960-4d1e-907f-ec2d886d0cb0
 ---
 Good, tidy tenant in place on a 12 month lease until 28th May 2010 at $280 per week.
 

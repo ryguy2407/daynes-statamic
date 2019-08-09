@@ -1,31 +1,20 @@
 ---
 title: 'OWNER WANTS THIS SOLD - MAKE AN OFFER TODAY'
 price: 'Price slashed $30,000 to $369,000'
-bedrooms: '4'
-bathrooms: '2'
-cars: null
-status: sold
+rent: null
+bedrooms: 4
+bathrooms: 2
+cars: 0
+status: Sold
+address: '21 Brentford Road, RICHLANDS'
+main_image: 'https://img.eagleagent.com.au/mE-x6UCbO3zyWKgHJ1Tl5bozSVw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820520/111217371-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-1_9213528955_20140411035238.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-1_9213528955_20140411035238_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-1_9213528955_20140411035238_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-1_9213528955_20140411035238_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-1_9213528955_20140411035238_80x60.jpg
-    modtime: '1397167034'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820521/111217371-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-2_411284747_20140411035238.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-2_411284747_20140411035238_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-2_411284747_20140411035238_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-2_411284747_20140411035238_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98071/images/111217371-2_411284747_20140411035238_80x60.jpg
-    modtime: '1397167034'
-    dimensions: null
-property_id: '145732'
-id: d07065eb-3aa5-4278-a6cb-179c9ef48d96
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820520/111217371-image-M.jpg'
+property_id: '435102'
+id: 971725f3-337e-4dd1-9bf9-602792b47412
 ---
 Price slashed $30,000 to $369,000
 
@@ -35,7 +24,7 @@ Relatively roomy living areas with hardwood timber floors.
 
 Both units are in relevantly original condition although the rear unit has had the kitchen upgraded.
 
-Build date is estimated around the early 1960s
+Build date is estimated around the early 1960’s
 
 The rent return currently is $240 for unit 1 and $230 for unit 2 a total of $470 per week.
 

@@ -1,98 +1,38 @@
 ---
 title: 'Attention Investors - Affordable NRAS Property'
 price: '$349,000 - Owner Must Sell!'
-bedrooms: '4'
-bathrooms: '2'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 4
+bathrooms: 2
+cars: 2
+status: Sold
+address: '50 Lilley Terrace, CHUWAR'
+main_image: 'https://img.eagleagent.com.au/wZCrVKGXrYujPBSqfszYD_v04ZA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824244/113760071-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034549-97898_8583671907_20140411032215.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034549-97898_8583671907_20140411032215_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034549-97898_8583671907_20140411032215_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034549-97898_8583671907_20140411032215_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034549-97898_8583671907_20140411032215_80x60.jpg
-    modtime: '1397165405'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824252/113760071-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034553-95146_3754352867_20140411032214.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034553-95146_3754352867_20140411032214_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034553-95146_3754352867_20140411032214_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034553-95146_3754352867_20140411032214_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034553-95146_3754352867_20140411032214_80x60.jpg
-    modtime: '1397165405'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824251/113760071-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034435-32410_8018797050_20140411032214.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034435-32410_8018797050_20140411032214_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034435-32410_8018797050_20140411032214_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034435-32410_8018797050_20140411032214_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034435-32410_8018797050_20140411032214_80x60.jpg
-    modtime: '1397165405'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824250/113760071-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034557-30919_9785018550_20140411032219.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034557-30919_9785018550_20140411032219_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034557-30919_9785018550_20140411032219_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034557-30919_9785018550_20140411032219_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034557-30919_9785018550_20140411032219_80x60.jpg
-    modtime: '1397165405'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824249/113760071-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034601-19205_5238775145_20140411032218.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034601-19205_5238775145_20140411032218_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034601-19205_5238775145_20140411032218_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034601-19205_5238775145_20140411032218_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034601-19205_5238775145_20140411032218_80x60.jpg
-    modtime: '1397165405'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824248/113760071-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034605-14134_878141890_20140411032218.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034605-14134_878141890_20140411032218_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034605-14134_878141890_20140411032218_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034605-14134_878141890_20140411032218_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034605-14134_878141890_20140411032218_80x60.jpg
-    modtime: '1397165405'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824247/113760071-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034614-73147_8024292821_20140411032217.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034614-73147_8024292821_20140411032217_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034614-73147_8024292821_20140411032217_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034614-73147_8024292821_20140411032217_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034614-73147_8024292821_20140411032217_80x60.jpg
-    modtime: '1397165405'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824246/113760071-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034609-24399_4638536898_20140411032218.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034609-24399_4638536898_20140411032218_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034609-24399_4638536898_20140411032218_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034609-24399_4638536898_20140411032218_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034609-24399_4638536898_20140411032218_80x60.jpg
-    modtime: '1397165406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824245/113760071-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034544-81472_9057316096_20140411032223.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034544-81472_9057316096_20140411032223_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034544-81472_9057316096_20140411032223_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034544-81472_9057316096_20140411032223_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98192/images/20130507034544-81472_9057316096_20140411032223_80x60.jpg
-    modtime: '1397165406'
-    dimensions: null
-property_id: '146148'
-id: de5c51b1-784c-432a-8394-502feddc8ae8
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824244/113760071-image-M.jpg'
+property_id: '435408'
+id: 4e8e2473-0094-4372-bf71-d1cbcc7e0df4
 ---
 This property is leased through the National Rental Affordable Scheme (NRAS). The NRAS period for this property expires on 09/05/2022 which means you have approximately a further 9 years of benefits from the scheme.
 
-For those folks out there that are not totally familiar with this scheme please donâ€™t hesitate to contact me for any queries you have relating to NRAS as I will be able to answer your questions and clarify any issues.
+For those folks out there that are not totally familiar with this scheme please dont hesitate to contact me for any queries you have relating to NRAS as I will be able to answer your questions and clarify any issues.
 
 The property is a low-set four bedroom brick and tile home on 600m2 in a relatively new estate at Chuwar.
 

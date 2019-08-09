@@ -1,85 +1,32 @@
 ---
 title: 'Amazing Potential'
 price: 'For Sale'
-bedrooms: '3'
-bathrooms: '1'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 2
+status: Sold
+address: '17 Forgan Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/imgya2mqLRD37Glxf2Brv53nmS8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821900/128154398-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Front-Dayn_4407427164_20180418082240.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Front-Dayn_4407427164_20180418082240_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Front-Dayn_4407427164_20180418082240_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Front-Dayn_4407427164_20180418082240_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Front-Dayn_4407427164_20180418082240_80x60.jpg
-    modtime: '1524096439'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821907/128154398-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard-D_8275360527_20180418082232.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard-D_8275360527_20180418082232_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard-D_8275360527_20180418082232_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard-D_8275360527_20180418082232_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard-D_8275360527_20180418082232_80x60.jpg
-    modtime: '1524096439'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821906/128154398-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard2-_4266328078_20180418082232.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard2-_4266328078_20180418082232_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard2-_4266328078_20180418082232_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard2-_4266328078_20180418082232_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Backyard2-_4266328078_20180418082232_80x60.jpg
-    modtime: '1524096439'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821905/128154398-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Living-Day_5409903929_20180418082244.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Living-Day_5409903929_20180418082244_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Living-Day_5409903929_20180418082244_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Living-Day_5409903929_20180418082244_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Living-Day_5409903929_20180418082244_80x60.jpg
-    modtime: '1524046986'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821904/128154398-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Dining-Day_4671501572_20180418082240.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Dining-Day_4671501572_20180418082240_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Dining-Day_4671501572_20180418082240_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Dining-Day_4671501572_20180418082240_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Dining-Day_4671501572_20180418082240_80x60.jpg
-    modtime: '1524046986'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821903/128154398-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Kitchen-Da_4355358314_20180418082244.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Kitchen-Da_4355358314_20180418082244_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Kitchen-Da_4355358314_20180418082244_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Kitchen-Da_4355358314_20180418082244_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Kitchen-Da_4355358314_20180418082244_80x60.jpg
-    modtime: '1524046986'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821902/128154398-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Bed1-Dayne_8679584297_20180418082236.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Bed1-Dayne_8679584297_20180418082236_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Bed1-Dayne_8679584297_20180418082236_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Bed1-Dayne_8679584297_20180418082236_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Bed1-Dayne_8679584297_20180418082236_80x60.jpg
-    modtime: '1524046986'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821901/128154398-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Block-Dayn_3731684316_20180418082235.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Block-Dayn_3731684316_20180418082235_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Block-Dayn_3731684316_20180418082235_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Block-Dayn_3731684316_20180418082235_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452176/images/Forgan-17-Block-Dayn_3731684316_20180418082235_80x60.jpg
-    modtime: '1524046986'
-    dimensions: 1200x900
-property_id: '1923862'
-id: 20c441d6-0f94-4ea3-850b-397bbb16f8a5
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821900/128154398-image-M.jpg'
+property_id: '435221'
+id: f542fbff-c6fb-45b8-9433-d8c4fce8d9a1
 ---
 Situated on a generous 741sqm flat parcel of land in one of the most convenient pockets of Acacia Ridge, this property represents a myriad of options to savvy investors and home buyers alike. Of much sought-after low-set design and functional internal layout, this home is the perfect blank slate and ripe for renovation. The internal spaces are generous and flow well, with open plan living and dining adjoining the galley-style kitchen. The three good-sized bedrooms are situated away from the main living and have large windows allowing plenty of natural light.
 

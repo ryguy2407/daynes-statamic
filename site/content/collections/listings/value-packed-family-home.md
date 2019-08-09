@@ -1,85 +1,32 @@
 ---
 title: 'Value Packed Family Home'
 price: '$549,000 - Price Slashed by $50,000!'
-bedrooms: '4'
-bathrooms: '2'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 4
+bathrooms: 2
+cars: 2
+status: Sold
+address: '4 Croome Close, ASPLEY'
+main_image: 'https://img.eagleagent.com.au/CQTzn5UWmLq8SrOmAMoaa7vXPSk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820387/109802441-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-1_2221934362_20140411035450.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-1_2221934362_20140411035450_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-1_2221934362_20140411035450_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-1_2221934362_20140411035450_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-1_2221934362_20140411035450_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820394/109802441-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-2_5586367161_20140411035450.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-2_5586367161_20140411035450_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-2_5586367161_20140411035450_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-2_5586367161_20140411035450_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-2_5586367161_20140411035450_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820393/109802441-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-3_7968234178_20140411035456.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-3_7968234178_20140411035456_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-3_7968234178_20140411035456_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-3_7968234178_20140411035456_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-3_7968234178_20140411035456_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820392/109802441-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-4_1729771956_20140411035455.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-4_1729771956_20140411035455_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-4_1729771956_20140411035455_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-4_1729771956_20140411035455_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-4_1729771956_20140411035455_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820391/109802441-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-5_7747307257_20140411035454.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-5_7747307257_20140411035454_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-5_7747307257_20140411035454_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-5_7747307257_20140411035454_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-5_7747307257_20140411035454_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820390/109802441-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-6_7293485617_20140411035455.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-6_7293485617_20140411035455_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-6_7293485617_20140411035455_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-6_7293485617_20140411035455_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-6_7293485617_20140411035455_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820389/109802441-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-7_2331977160_20140411035454.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-7_2331977160_20140411035454_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-7_2331977160_20140411035454_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-7_2331977160_20140411035454_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-7_2331977160_20140411035454_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820388/109802441-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-8_6518390724_20140411035501.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-8_6518390724_20140411035501_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-8_6518390724_20140411035501_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-8_6518390724_20140411035501_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98062/images/109802441-8_6518390724_20140411035501_80x60.jpg
-    modtime: '1397167159'
-    dimensions: null
-property_id: '145718'
-id: 34a59f0a-123a-4525-85a4-e7a90b344600
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820387/109802441-image-M.jpg'
+property_id: '435089'
+id: 59ee7ded-01c7-4f3b-800b-faf4f8060fab
 ---
 This four bedroom brick and tile home is situated on 716sqm block in a quiet cul-de-sac in this prestigious part of Aspley Grove.
 

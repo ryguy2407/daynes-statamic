@@ -1,32 +1,21 @@
 ---
 title: 'Cottage on 607sqm LMR'
 price: 'SOLD OFF-MARKET'
-bedrooms: '3'
-bathrooms: '1'
-cars: null
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 0
+status: Sold
+address: '19 Hanify Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/ODZaX1D1j6CI4ZxzWX8kmSjPB18=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822190/130469034-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Block-Dayn_9323809990_20181010082111.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Block-Dayn_9323809990_20181010082111_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Block-Dayn_9323809990_20181010082111_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Block-Dayn_9323809990_20181010082111_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Block-Dayn_9323809990_20181010082111_80x60.jpg
-    modtime: '1539166905'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822191/130469034-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Front-Dayn_5446551060_20181010082131.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Front-Dayn_5446551060_20181010082131_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Front-Dayn_5446551060_20181010082131_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Front-Dayn_5446551060_20181010082131_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1567911/images/Hanify-19-Front-Dayn_5446551060_20181010082131_80x60.jpg
-    modtime: '1539166905'
-    dimensions: 1200x900
-property_id: '1922933'
-id: f3d956d1-3e20-4189-b52b-0c6626e8d1fb
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822190/130469034-image-M.jpg'
+property_id: '435246'
+id: 7b9b7d94-1fc7-4eb6-82fe-6fff9a7730c2
 ---
-This cute three bedroom cottage is situated in a quiet and leafy pocket of Acacia Ridge, on a 607sqm Low Medium Residential (LMR) block. Promising great short and long term potential, the property is a desirable rental as is with the zoning giving investors plenty of development options. 
+This cute three bedroom cottage is situated in a quiet and leafy pocket of Acacia Ridge, on a 607sqm Low Medium Residential (LMR) block. Promising great short and long term potential, the property is a desirable rental as is with the zoning giving investors plenty of development options.
 
 The house itself is a neat and tidy dwelling with polished timber floors and a well-presented interior. The kitchen and bathroom are dated but functional, the bedrooms and living are spacious. A real bonus of the property is the large, shed and undercover garden area, perfect for hobbies and storage and highly desirable to tenants. The yard is fully fenced and private with a grassy lawn.

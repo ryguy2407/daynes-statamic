@@ -1,67 +1,28 @@
 ---
 title: 'Perfect LMR Development Site'
 price: '$445,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: null
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 0
+status: Sold
+address: '23 Amherst Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/-QT7uMC8hHxvzla-3zOCPUaup7Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823195/118543347-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/23-Only_9067618065_20141120044310.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/23-Only_9067618065_20141120044310_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/23-Only_9067618065_20141120044310_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/23-Only_9067618065_20141120044310_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/23-Only_9067618065_20141120044310_80x60.jpg
-    modtime: '1416465836'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823200/118543347-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Front_7047550590_20141120044308.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Front_7047550590_20141120044308_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Front_7047550590_20141120044308_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Front_7047550590_20141120044308_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Front_7047550590_20141120044308_80x60.jpg
-    modtime: '1416465836'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823199/118543347-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Rear_3685634364_20141120044312.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Rear_3685634364_20141120044312_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Rear_3685634364_20141120044312_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Rear_3685634364_20141120044312_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Rear_3685634364_20141120044312_80x60.jpg
-    modtime: '1416465836'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823198/118543347-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Backyard_2757552927_20141120044305.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Backyard_2757552927_20141120044305_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Backyard_2757552927_20141120044305_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Backyard_2757552927_20141120044305_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Backyard_2757552927_20141120044305_80x60.jpg
-    modtime: '1416465836'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823197/118543347-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom_3530967599_20141120044300.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom_3530967599_20141120044300_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom_3530967599_20141120044300_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom_3530967599_20141120044300_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom_3530967599_20141120044300_80x60.jpg
-    modtime: '1416465836'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823196/118543347-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom2_3537785197_20141120044304.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom2_3537785197_20141120044304_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom2_3537785197_20141120044304_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom2_3537785197_20141120044304_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/300374/images/Amherst-Bedroom2_3537785197_20141120044304_80x60.jpg
-    modtime: '1416465836'
-    dimensions: 1200x900
-property_id: '571601'
-id: 5c42926f-f7ec-45fe-a818-cc08f412a60c
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823195/118543347-image-M.jpg'
+property_id: '435321'
+id: 295dea95-d561-445f-84e5-49e8c0314ff5
 ---
 Here we have a flat 825sqm (Low-Medium Density Residential) block with a tenanted three bedroom house situated very close to Elizabeth Street Shopping Centre.
 

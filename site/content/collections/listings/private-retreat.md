@@ -1,182 +1,69 @@
 ---
 title: 'Private Retreat'
-price: '$335 per week'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: leased
+price: 'For Sale'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '1284 Beaudesert Road, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/6OzbxS63-AuPC3ovdh4n6e_TB-s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821297/125872574-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_5306867845_20170814114151.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_5306867845_20170814114151_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_5306867845_20170814114151_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_5306867845_20170814114151_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_5306867845_20170814114151_80x60.jpg
-    modtime: '1502685458'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821318/125872574-image-V.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_6150711016_20170814114150.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_6150711016_20170814114150_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_6150711016_20170814114150_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_6150711016_20170814114150_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_6150711016_20170814114150_80x60.jpg
-    modtime: '1502685458'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821317/125872574-image-U.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6145317112_20170814114152.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6145317112_20170814114152_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6145317112_20170814114152_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6145317112_20170814114152_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6145317112_20170814114152_80x60.jpg
-    modtime: '1499588948'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821316/125872574-image-T.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_3687853240_20170814114152.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_3687853240_20170814114152_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_3687853240_20170814114152_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_3687853240_20170814114152_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_3687853240_20170814114152_80x60.jpg
-    modtime: '1499522937'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821315/125872574-image-S.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6579883034_20170814114153.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6579883034_20170814114153_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6579883034_20170814114153_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6579883034_20170814114153_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-livi_6579883034_20170814114153_80x60.jpg
-    modtime: '1499522937'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821314/125872574-image-R.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-entr_2334647672_20170814114154.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-entr_2334647672_20170814114154_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-entr_2334647672_20170814114154_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-entr_2334647672_20170814114154_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-entr_2334647672_20170814114154_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821313/125872574-image-Q.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_9175241068_20170814114154.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_9175241068_20170814114154_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_9175241068_20170814114154_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_9175241068_20170814114154_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_9175241068_20170814114154_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821312/125872574-image-P.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_1813601479_20170814114155.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_1813601479_20170814114155_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_1813601479_20170814114155_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_1813601479_20170814114155_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_1813601479_20170814114155_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821311/125872574-image-O.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_6979595022_20170814114156.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_6979595022_20170814114156_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_6979595022_20170814114156_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_6979595022_20170814114156_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-kitc_6979595022_20170814114156_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821310/125872574-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-deck_1441279077_20170814114156.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-deck_1441279077_20170814114156_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-deck_1441279077_20170814114156_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-deck_1441279077_20170814114156_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-deck_1441279077_20170814114156_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821309/125872574-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7015836709_20170814114157.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7015836709_20170814114157_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7015836709_20170814114157_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7015836709_20170814114157_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7015836709_20170814114157_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821308/125872574-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-stud_9370553205_20170814114158.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-stud_9370553205_20170814114158_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-stud_9370553205_20170814114158_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-stud_9370553205_20170814114158_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-stud_9370553205_20170814114158_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821307/125872574-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_4862512606_20170814114159.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_4862512606_20170814114159_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_4862512606_20170814114159_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_4862512606_20170814114159_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_4862512606_20170814114159_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821306/125872574-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-meal_4766604425_20170814114200.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-meal_4766604425_20170814114200_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-meal_4766604425_20170814114200_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-meal_4766604425_20170814114200_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-meal_4766604425_20170814114200_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821305/125872574-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_9189358526_20170814114200.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_9189358526_20170814114200_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_9189358526_20170814114200_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_9189358526_20170814114200_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_9189358526_20170814114200_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821304/125872574-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7388752066_20170814114201.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7388752066_20170814114201_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7388752066_20170814114201_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7388752066_20170814114201_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bedr_7388752066_20170814114201_80x60.jpg
-    modtime: '1499170104'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821303/125872574-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bath_9398429213_20170814114201.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bath_9398429213_20170814114201_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bath_9398429213_20170814114201_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bath_9398429213_20170814114201_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-bath_9398429213_20170814114201_80x60.jpg
-    modtime: '1499251957'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821302/125872574-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_2397156781_20170814114204.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_2397156781_20170814114204_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_2397156781_20170814114204_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_2397156781_20170814114204_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1240786/images/beaudesert-1284-fron_2397156781_20170814114204_80x60.jpg
-    modtime: '1502684961'
-    dimensions: 1200x900
-property_id: '1912934'
-id: a0568e6c-83b3-4ced-b6c9-3bfcca03ead6
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821301/125872574-image-D.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821300/125872574-image-C.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821299/125872574-image-B.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821298/125872574-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821297/125872574-image-M.jpg'
+property_id: '435172'
+id: 07d8fb6f-7c82-46d8-a9ec-39054067aad8
 ---
 Secluded behind a tropical leafy frontage is this private family home, promising years of enjoyment of the spacious interiors and idillic surrounds. Generous, light-filled interiors in a neutral colour palette are hidden away behind beautiful leafy gardens and latticing. Stepping inside, you are welcomed by the lovely formal entry which leads straight into the open plan living area on one side and into the expansive kitchen on the other. The home has been thoughtfully renovated to preserve and showcase the beautiful timber floors, stunning cornices and original features.
- 
+
 The home is a desirable low-set design, with a convenient layout for families; the three bedrooms and bathroom are privately set to the rear of the home. A feature of the comfortable living area is the lovely fireplace, perfect for cosy winter evenings at home. The shady timber back deck steps off the kitchen, making for convenient entertaining with family and friends. This deck has latticing for breezy summer entertaining and roll-up blinds for cooler winter evenings.
- 
+
+Ideal for those who need a little extra from their home, this property features high quality finishes and a tasteful renovation. The back studio is an added bonus giving options to be utilised as a home office, self-contained rental or simply additional space for busy families. This studio is tiled and insulated, and serviced by kitchenette, and combined shower and laundry. The original outhouse has been renovated, preserving the unique history of the property. No detail has been left unattended and with the neutral and fresh colour scheme throughout, it is ready and waiting for your own personal creative vision.
+
 This property features:
- 
+
 *  Large open plan living with fan and working fireplace
 *  Living flows into large combined kitchen and dining
 *  Kitchen with timber-look bench tops, original retro cabinetry, chalkboard splash-back
@@ -186,17 +73,18 @@ This property features:
 *  Remote roller door to carport, recently replaced
 *  Neutral colour palette throughout interiors and externally, recently repainted
 *  Hardwood timber floors to living and kitchen
-*  High ceilings with original cornices 
+*  High ceilings with original cornices
 *  Insulated ceiling in main house and studio
-*  Three good sized bedrooms 
-*  Master with lovely traditional windows, plenty of storage twin built-ins and overhead storage 
+*  Three good sized bedrooms
+*  Master with lovely traditional windows, plenty of storage twin built-ins and overhead storage
 • Nice-size office, could also be used as a nursery or converted to an énsuite / walk-in wardrobe
-*  Family bathroom with plenty of natural light, attractive built in vanity, shower and toilet 
+*  Family bathroom with plenty of natural light, attractive built in vanity, shower and toilet
+*  Two hot water systems, one each for the house and the studio
 *  Studio serviced by own carport, laundry and shower, kitchenette
-*  Two phone lines and cable internet for property ideal to service a home office 
+*  Two phone lines and cable internet for property ideal to service a home office
 *  Security and insect screens throughout, security roller shutter to the front
 *  Ample size garden storage shed with work beaches, shelving, taps and light
 *  Laundry room conveniently opens out onto deck with clothes line
-*  Clad exterior 
+*  Clad exterior
 
-Convenient to the great primary schools the area has to offer including Acacia Ridge State School and St Fatima’s Primary School, in addition to daycares and childcare options.  The Acacia Market Place is close by and includes Woolworths and Aldi in addition to a great range of boutique shops.
+Situated on a generous 607sqm block with a fully fenced backyard and lovely gardens. This position is ideal for those who are seeking the convenience and exposure of the area, and access to all the major transport routes. The Acacia Market Place includes Woolworths and Aldi in addition to a great range of boutique shops. Convenient to the great primary schools the area has to offer including Acacia Ridge State School and St Fatima’s Primary School, in addition to daycares and childcare options. Acacia Ridge is a rapidly developing area with investors recognising the potential in this suburb only 15km from Brisbane CBD.

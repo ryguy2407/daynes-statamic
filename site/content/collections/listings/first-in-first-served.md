@@ -1,112 +1,38 @@
 ---
 title: 'First In First Served!'
 price: '$380,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '11 Courtice Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/StM7CfgqbQMrx8Wt6z_bgeohKnA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823220/118648051-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Front_6061576740_20141204042514.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Front_6061576740_20141204042514_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Front_6061576740_20141204042514_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Front_6061576740_20141204042514_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Front_6061576740_20141204042514_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823230/118648051-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Back_2835084963_20141204042413.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Back_2835084963_20141204042413_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Back_2835084963_20141204042413_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Back_2835084963_20141204042413_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Back_2835084963_20141204042413_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823229/118648051-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Deck_905405175_20141204042520.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Deck_905405175_20141204042520_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Deck_905405175_20141204042520_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Deck_905405175_20141204042520_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Deck_905405175_20141204042520_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823228/118648051-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Living_725924884_20141204042539.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Living_725924884_20141204042539_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Living_725924884_20141204042539_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Living_725924884_20141204042539_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Living_725924884_20141204042539_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823227/118648051-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch_1095397449_20141204042526.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch_1095397449_20141204042526_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch_1095397449_20141204042526_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch_1095397449_20141204042526_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch_1095397449_20141204042526_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823226/118648051-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch2_3618501732_20141204042541.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch2_3618501732_20141204042541_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch2_3618501732_20141204042541_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch2_3618501732_20141204042541_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Kitch2_3618501732_20141204042541_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823225/118648051-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom1_8392135091_20141204042430.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom1_8392135091_20141204042430_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom1_8392135091_20141204042430_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom1_8392135091_20141204042430_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom1_8392135091_20141204042430_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823224/118648051-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom2_5440392960_20141204042441.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom2_5440392960_20141204042441_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom2_5440392960_20141204042441_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom2_5440392960_20141204042441_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom2_5440392960_20141204042441_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823223/118648051-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom3_9484806960_20141204042449.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom3_9484806960_20141204042449_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom3_9484806960_20141204042449_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom3_9484806960_20141204042449_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bedroom3_9484806960_20141204042449_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823222/118648051-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bathroom_9256857359_20141204042411.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bathroom_9256857359_20141204042411_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bathroom_9256857359_20141204042411_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bathroom_9256857359_20141204042411_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bathroom_9256857359_20141204042411_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823221/118648051-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bar-Fridge_657255714_20141204042357.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bar-Fridge_657255714_20141204042357_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bar-Fridge_657255714_20141204042357_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bar-Fridge_657255714_20141204042357_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/309268/images/Bar-Fridge_657255714_20141204042357_80x60.jpg
-    modtime: '1417674391'
-    dimensions: 1200x900
-property_id: '591564'
-id: dfdbb8c4-4595-4268-ae13-a94e9569dd78
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823220/118648051-image-M.jpg'
+property_id: '435324'
+id: 5807022e-7931-47ae-aa71-abb0d95e8776
 ---
 This is another property that will be snapped up very quickly. This property is zoned LMR (Low Medium Residential) which is extremely sought-after in Acacia Ridge. Situated on 673m2 of land, this block will give potential developers plenty of project space. Courtice Street is a quiet and leafy street in a great pocket of Acacia Ridge and the property would complement a small boutique development.
 

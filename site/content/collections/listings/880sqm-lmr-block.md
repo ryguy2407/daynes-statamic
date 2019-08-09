@@ -1,130 +1,42 @@
 ---
 title: '880sqm LMR Block'
 price: 'For Sale'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '14 Limerick Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/SO7BcDLw9yPdWqlWsDD_TgUnmIs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822361/129758366-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_961406492_20181031091833.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_961406492_20181031091833_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_961406492_20181031091833_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_961406492_20181031091833_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_961406492_20181031091833_80x60.jpg
-    modtime: '1542982670'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822373/129758366-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Front-Da_4522988572_20181031091832.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Front-Da_4522988572_20181031091832_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Front-Da_4522988572_20181031091832_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Front-Da_4522988572_20181031091832_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Front-Da_4522988572_20181031091832_80x60.jpg
-    modtime: '1542982670'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822372/129758366-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Block-Da_2313172215_20181031095636.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Block-Da_2313172215_20181031095636_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Block-Da_2313172215_20181031095636_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Block-Da_2313172215_20181031095636_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Block-Da_2313172215_20181031095636_80x60.jpg
-    modtime: '1542982670'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822371/129758366-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Patio-Da_258614219_20181031091813.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Patio-Da_258614219_20181031091813_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Patio-Da_258614219_20181031091813_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Patio-Da_258614219_20181031091813_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Patio-Da_258614219_20181031091813_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822370/129758366-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living2-_3224474801_20181031091822.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living2-_3224474801_20181031091822_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living2-_3224474801_20181031091822_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living2-_3224474801_20181031091822_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living2-_3224474801_20181031091822_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822369/129758366-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living-D_6594593677_20181031091820.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living-D_6594593677_20181031091820_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living-D_6594593677_20181031091820_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living-D_6594593677_20181031091820_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Living-D_6594593677_20181031091820_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822368/129758366-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen2_6070314881_20181031091814.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen2_6070314881_20181031091814_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen2_6070314881_20181031091814_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen2_6070314881_20181031091814_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen2_6070314881_20181031091814_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822367/129758366-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen-_2085433838_20181031091823.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen-_2085433838_20181031091823_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen-_2085433838_20181031091823_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen-_2085433838_20181031091823_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Kitchen-_2085433838_20181031091823_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822366/129758366-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed2-Day_7084873478_20181031091830.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed2-Day_7084873478_20181031091830_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed2-Day_7084873478_20181031091830_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed2-Day_7084873478_20181031091830_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed2-Day_7084873478_20181031091830_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822365/129758366-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed1-Day_4099280785_20181031091812.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed1-Day_4099280785_20181031091812_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed1-Day_4099280785_20181031091812_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed1-Day_4099280785_20181031091812_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed1-Day_4099280785_20181031091812_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822364/129758366-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed3-Day_2673557593_20181031091812.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed3-Day_2673557593_20181031091812_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed3-Day_2673557593_20181031091812_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed3-Day_2673557593_20181031091812_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Bed3-Day_2673557593_20181031091812_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822363/129758366-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6312880442_20181031091834.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6312880442_20181031091834_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6312880442_20181031091834_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6312880442_20181031091834_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6312880442_20181031091834_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822362/129758366-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6931104680_20181031091831.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6931104680_20181031091831_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6931104680_20181031091831_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6931104680_20181031091831_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1713788/images/Limerick-14-Backyard_6931104680_20181031091831_80x60.jpg
-    modtime: '1540987093'
-    dimensions: 1200x900
-property_id: '1923923'
-id: 3bfdceac-0639-4806-8493-d910052a5d4f
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822361/129758366-image-M.jpg'
+property_id: '435260'
+id: 280ef5d7-2d42-40a4-a39d-4a2d4bbf893d
 ---
 Situated on a 880sqm flat block, zoned Low Medium Residential (LMR), this property offers potential plus to the lucky future owners with amazing long-term growth. The perfect property for the savvy investor or homeowner, this investment represents the option to renovate with the aim to move in or tenant, or develop now or in the future. As an LMR site, this property has many options in both the short and long term to maximise your return on investment. Being such a generous parcel of land with a wide frontage, the land could potentially accommodate a unit, townhouse or subdivision development.
 

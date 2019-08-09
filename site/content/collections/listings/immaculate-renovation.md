@@ -1,112 +1,38 @@
 ---
 title: 'Immaculate Renovation!'
-price: '$390 per week'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: leased
+price: 'Offers Over $420,000'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '8 Kirkley Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/lN--zkUjgzu7_NMCOCug2Gg-rGM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821425/126212862-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-front-dayn_7238077539_20171020093307.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-front-dayn_7238077539_20171020093307_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-front-dayn_7238077539_20171020093307_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-front-dayn_7238077539_20171020093307_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-front-dayn_7238077539_20171020093307_80x60.jpg
-    modtime: '1503052625'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821435/126212862-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-patio-dayn_5434990929_20171020093308.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-patio-dayn_5434990929_20171020093308_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-patio-dayn_5434990929_20171020093308_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-patio-dayn_5434990929_20171020093308_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-patio-dayn_5434990929_20171020093308_80x60.jpg
-    modtime: '1503052625'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821434/126212862-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-kitchen-da_8665384279_20171020093309.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-kitchen-da_8665384279_20171020093309_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-kitchen-da_8665384279_20171020093309_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-kitchen-da_8665384279_20171020093309_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-kitchen-da_8665384279_20171020093309_80x60.jpg
-    modtime: '1503052625'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821433/126212862-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living-day_8254769905_20171020093309.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living-day_8254769905_20171020093309_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living-day_8254769905_20171020093309_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living-day_8254769905_20171020093309_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living-day_8254769905_20171020093309_80x60.jpg
-    modtime: '1503052625'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821432/126212862-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living2-da_8874723969_20171020093310.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living2-da_8874723969_20171020093310_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living2-da_8874723969_20171020093310_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living2-da_8874723969_20171020093310_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-living2-da_8874723969_20171020093310_80x60.jpg
-    modtime: '1503052625'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821431/126212862-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed1-dayne_4017203054_20171020093311.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed1-dayne_4017203054_20171020093311_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed1-dayne_4017203054_20171020093311_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed1-dayne_4017203054_20171020093311_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed1-dayne_4017203054_20171020093311_80x60.jpg
-    modtime: '1503052697'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821430/126212862-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed2-dayne_8751363508_20171020093311.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed2-dayne_8751363508_20171020093311_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed2-dayne_8751363508_20171020093311_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed2-dayne_8751363508_20171020093311_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed2-dayne_8751363508_20171020093311_80x60.jpg
-    modtime: '1503052697'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821429/126212862-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed3-dayne_8334476822_20171020093312.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed3-dayne_8334476822_20171020093312_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed3-dayne_8334476822_20171020093312_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed3-dayne_8334476822_20171020093312_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bed3-dayne_8334476822_20171020093312_80x60.jpg
-    modtime: '1503052697'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821428/126212862-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bathroom-d_5419257409_20171020093312.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bathroom-d_5419257409_20171020093312_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bathroom-d_5419257409_20171020093312_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bathroom-d_5419257409_20171020093312_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-bathroom-d_5419257409_20171020093312_80x60.jpg
-    modtime: '1503052697'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821427/126212862-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-backpatio-_6799077266_20171020093313.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-backpatio-_6799077266_20171020093313_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-backpatio-_6799077266_20171020093313_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-backpatio-_6799077266_20171020093313_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-backpatio-_6799077266_20171020093313_80x60.jpg
-    modtime: '1503052697'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821426/126212862-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-map-daynes_1523300454_20171020093314.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-map-daynes_1523300454_20171020093314_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-map-daynes_1523300454_20171020093314_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-map-daynes_1523300454_20171020093314_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288534/images/kirkley-8-map-daynes_1523300454_20171020093314_80x60.jpg
-    modtime: '1503052625'
-    dimensions: 1200x900
-property_id: '1925645'
-id: def141c5-f4f6-48de-ac2b-97add7d241d4
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821425/126212862-image-M.jpg'
+property_id: '435183'
+id: 6ed47fe7-becc-4d1e-8280-cdaaaff662a4
 ---
 Step inside this immaculately renovated property and immediately feel at home. Situated on an elevated and generous 607sqm block, surrounded by lovely lawns and on a quiet street. The renovation has been thoughtfully applied, with fresh neutral colours and clean finishes; this home is the perfect opportunity for those looking to move straight in! The home has had a full internal and external repaint in tasteful modern colours. The hardwood timber floors have been polished and are perfectly complimented by the fresh white walls. The modernisation has been completed with new recessed downlights throughout the home.
 
@@ -128,4 +54,4 @@ This property features:
 *  Two small rainwater tanks for irrigation
 *  Undercover storage under house
 
-Convenient to Elizabeth Street Shopping Centre and Acacia Marketplace on Beaudesert Road, both boasting a great range of amenities. Also situated to be convenient to a great range of primary schools and daycare centres in the surrounding local area. Perfect for those who commute, with great transport options to the north, south and west of Brisbane. This home will not last long, call today to arrange an inspection!
+Situated in a quiet pocket of Acacia Ridge, this home is a peaceful setting for a growing family. Likewise, investors will see potential in this home of solid construction and in a desirable location, ticking many boxes for potential tenants. Convenient to Elizabeth Street Shopping Centre and Acacia Marketplace on Beaudesert Road, both boasting a great range of amenities. Also situated to be convenient to a great range of primary schools and daycare centres in the surrounding local area. Perfect for those who commute, with great transport options to the north, south and west of Brisbane. This home will not last long, call today to arrange an inspection!

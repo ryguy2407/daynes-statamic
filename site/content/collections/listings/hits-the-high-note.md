@@ -1,152 +1,50 @@
 ---
 title: 'Hits The High Note!'
 price: 'Offers Over $425,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '18 Fadden Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/P40V9kYtMzjSB_O1fNXZw6ZHICc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820986/124412126-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living2-Da_5993411723_20161228104244.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living2-Da_5993411723_20161228104244_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living2-Da_5993411723_20161228104244_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living2-Da_5993411723_20161228104244_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living2-Da_5993411723_20161228104244_80x60.jpg
-    modtime: '1486131460'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821000/124412126-image-O.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Front2-Day_6598528153_20161228104048.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Front2-Day_6598528153_20161228104048_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Front2-Day_6598528153_20161228104048_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Front2-Day_6598528153_20161228104048_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Front2-Day_6598528153_20161228104048_80x60.jpg
-    modtime: '1484694789'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820999/124412126-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Patio-Dayn_1186505626_20161228104457.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Patio-Dayn_1186505626_20161228104457_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Patio-Dayn_1186505626_20161228104457_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Patio-Dayn_1186505626_20161228104457_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Patio-Dayn_1186505626_20161228104457_80x60.jpg
-    modtime: '1484694789'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820998/124412126-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen3-D_938451592_20161228104133.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen3-D_938451592_20161228104133_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen3-D_938451592_20161228104133_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen3-D_938451592_20161228104133_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen3-D_938451592_20161228104133_80x60.jpg
-    modtime: '1486131460'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820997/124412126-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen2-D_2534380373_20161228104159.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen2-D_2534380373_20161228104159_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen2-D_2534380373_20161228104159_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen2-D_2534380373_20161228104159_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Kitchen2-D_2534380373_20161228104159_80x60.jpg
-    modtime: '1483067860'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820996/124412126-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living3-Da_786274727_20161228104306.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living3-Da_786274727_20161228104306_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living3-Da_786274727_20161228104306_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living3-Da_786274727_20161228104306_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Living3-Da_786274727_20161228104306_80x60.jpg
-    modtime: '1483067860'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820995/124412126-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck3-Dayn_8788153669_20161228105023.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck3-Dayn_8788153669_20161228105023_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck3-Dayn_8788153669_20161228105023_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck3-Dayn_8788153669_20161228105023_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck3-Dayn_8788153669_20161228105023_80x60.jpg
-    modtime: '1483067860'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820994/124412126-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck2-Dayn_71970368_20161228104019.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck2-Dayn_71970368_20161228104019_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck2-Dayn_71970368_20161228104019_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck2-Dayn_71970368_20161228104019_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Deck2-Dayn_71970368_20161228104019_80x60.jpg
-    modtime: '1482929634'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820993/124412126-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-MusicRoom-_4371544318_20161228104540.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-MusicRoom-_4371544318_20161228104540_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-MusicRoom-_4371544318_20161228104540_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-MusicRoom-_4371544318_20161228104540_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-MusicRoom-_4371544318_20161228104540_80x60.jpg
-    modtime: '1483067860'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820992/124412126-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed2-Dayne_7011708957_20161228105101.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed2-Dayne_7011708957_20161228105101_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed2-Dayne_7011708957_20161228105101_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed2-Dayne_7011708957_20161228105101_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed2-Dayne_7011708957_20161228105101_80x60.jpg
-    modtime: '1483067860'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820991/124412126-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed1-Dayne_382356015_20161228103752.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed1-Dayne_382356015_20161228103752_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed1-Dayne_382356015_20161228103752_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed1-Dayne_382356015_20161228103752_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bed1-Dayne_382356015_20161228103752_80x60.jpg
-    modtime: '1483067860'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820990/124412126-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bathroom-D_4637533114_20161228103634.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bathroom-D_4637533114_20161228103634_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bathroom-D_4637533114_20161228103634_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bathroom-D_4637533114_20161228103634_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Bathroom-D_4637533114_20161228103634_80x60.jpg
-    modtime: '1483067860'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820989/124412126-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park-Daynes-_4291596026_20161230015929.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park-Daynes-_4291596026_20161230015929_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park-Daynes-_4291596026_20161230015929_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park-Daynes-_4291596026_20161230015929_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park-Daynes-_4291596026_20161230015929_80x60.jpg
-    modtime: '1483084188'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820988/124412126-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park2-Daynes_6594231487_20161230015930.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park2-Daynes_6594231487_20161230015930_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park2-Daynes_6594231487_20161230015930_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park2-Daynes_6594231487_20161230015930_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Wray-18-Park2-Daynes_6594231487_20161230015930_80x60.jpg
-    modtime: '1483084188'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820987/124412126-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Map-Daynes_2121532778_20161228104456.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Map-Daynes_2121532778_20161228104456_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Map-Daynes_2121532778_20161228104456_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Map-Daynes_2121532778_20161228104456_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1017863/images/Fadden-18-Map-Daynes_2121532778_20161228104456_80x60.jpg
-    modtime: '1483084188'
-    dimensions: 1200x900
-property_id: '1913807'
-id: 78b014d7-53ae-4bbd-a5bf-1ec2b8a747e1
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820986/124412126-image-M.jpg'
+property_id: '435148'
+id: 9d38a3c9-eb98-46d5-a239-6aee83b646ed
 ---
-Step inside this warm inviting home and it’s not hard to imagine the easy entertaining and relaxation. The beautifully presented polished timber floors are perfectly showcased by the open-plan kitchen, living and dining areas. Also a feature of the comfortable living area is the brick fireplace, perfect for cosy winter evenings at home. The shady timber back deck steps off the kitchen, making for convenient entertaining with family and friends. 
+Step inside this warm inviting home and it’s not hard to imagine the easy entertaining and relaxation. The beautifully presented polished timber floors are perfectly showcased by the open-plan kitchen, living and dining areas. Also a feature of the comfortable living area is the brick fireplace, perfect for cosy winter evenings at home. The shady timber back deck steps off the kitchen, making for convenient entertaining with family and friends.
 
-The home is a desirable low-set design, with a convenient layout for families; the three bedrooms and bathroom are privately set away from the living spaces. Situated on a large 716sqm, fully fenced block with wide frontage, this is perfect for families with children and pets. A great additional feature of this property is the room built off the garage. Currently utilised as a music room, this space could be transformed for a variety of useful purposes. 
+The home is a desirable low-set design, with a convenient layout for families; the three bedrooms and bathroom are privately set away from the living spaces. Situated on a large 716sqm, fully fenced block with wide frontage, this is perfect for families with children and pets. A great additional feature of this property is the room built off the garage. Currently utilised as a music room, this space could be transformed for a variety of useful purposes.
 
 This property features:
 

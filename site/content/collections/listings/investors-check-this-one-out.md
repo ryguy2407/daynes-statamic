@@ -1,76 +1,30 @@
 ---
 title: 'Investors? Check this one out!!'
-price: '$310,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 1
+status: Sold
+address: '2 / 8 Buckingham Place, EIGHT MILE PLAINS'
+main_image: 'https://img.eagleagent.com.au/m-JTc_ncywDfstOt-_rK6g-iA7w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818253/104173750-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-1_6324933525_20140411033750.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-1_6324933525_20140411033750_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-1_6324933525_20140411033750_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-1_6324933525_20140411033750_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-1_6324933525_20140411033750_80x60.jpg
-    modtime: '1397166207'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818259/104173750-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-2_1215912732_20140411033750.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-2_1215912732_20140411033750_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-2_1215912732_20140411033750_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-2_1215912732_20140411033750_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-2_1215912732_20140411033750_80x60.jpg
-    modtime: '1397166207'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818258/104173750-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-3_1839960594_20140411033748.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-3_1839960594_20140411033748_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-3_1839960594_20140411033748_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-3_1839960594_20140411033748_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-3_1839960594_20140411033748_80x60.jpg
-    modtime: '1397166207'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818257/104173750-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-4_7207105654_20140411033748.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-4_7207105654_20140411033748_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-4_7207105654_20140411033748_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-4_7207105654_20140411033748_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-4_7207105654_20140411033748_80x60.jpg
-    modtime: '1397166207'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818256/104173750-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-5_21850015_20140411033750.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-5_21850015_20140411033750_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-5_21850015_20140411033750_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-5_21850015_20140411033750_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-5_21850015_20140411033750_80x60.jpg
-    modtime: '1397166207'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818255/104173750-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-6_6634273860_20140411033754.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-6_6634273860_20140411033754_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-6_6634273860_20140411033754_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-6_6634273860_20140411033754_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-6_6634273860_20140411033754_80x60.jpg
-    modtime: '1397166207'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818254/104173750-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-7_9593333127_20140411033753.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-7_9593333127_20140411033753_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-7_9593333127_20140411033753_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-7_9593333127_20140411033753_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98104/images/104173750-7_9593333127_20140411033753_80x60.jpg
-    modtime: '1397166207'
-    dimensions: null
-property_id: '146009'
-id: 49a155c0-d494-4231-a044-3df4bc194a48
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818253/104173750-image-M.jpg'
+property_id: '434843'
+id: e7a14eed-88d3-459e-8286-df24d2319d39
 ---
 Situated in a six-year old complex of 74 dwellings in Eight Mile Plains, this three bedroom, two bathroom, free-standing home is a great opportunity for the astute investor.
 

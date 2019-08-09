@@ -1,58 +1,26 @@
 ---
 title: 'Investment Opportunity In Moorooka!'
-price: '$340,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 1
+status: Sold
+address: '19 / 118 Hamilton Road, MOOROOKA'
+main_image: 'https://img.eagleagent.com.au/hUXtke7hyWYSZQM2mn6RRMvqal0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818340/104321094-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-1_9798093294_20140411033452.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-1_9798093294_20140411033452_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-1_9798093294_20140411033452_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-1_9798093294_20140411033452_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-1_9798093294_20140411033452_80x60.jpg
-    modtime: '1397166130'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818344/104321094-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-2_7203133349_20140411033458.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-2_7203133349_20140411033458_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-2_7203133349_20140411033458_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-2_7203133349_20140411033458_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-2_7203133349_20140411033458_80x60.jpg
-    modtime: '1397166130'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818343/104321094-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-3_2385313874_20140411033456.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-3_2385313874_20140411033456_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-3_2385313874_20140411033456_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-3_2385313874_20140411033456_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-3_2385313874_20140411033456_80x60.jpg
-    modtime: '1397166131'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818342/104321094-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-4_1151594831_20140411033456.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-4_1151594831_20140411033456_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-4_1151594831_20140411033456_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-4_1151594831_20140411033456_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-4_1151594831_20140411033456_80x60.jpg
-    modtime: '1397166131'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818341/104321094-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-5_4924006015_20140411033458.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-5_4924006015_20140411033458_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-5_4924006015_20140411033458_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-5_4924006015_20140411033458_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98119/images/104321094-5_4924006015_20140411033458_80x60.jpg
-    modtime: '1397166131'
-    dimensions: null
-property_id: '146024'
-id: d47dda31-d159-4dc1-99cf-bb1b99924b48
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818340/104321094-image-M.jpg'
+property_id: '434851'
+id: 2a5ca9ea-6313-4781-b5d5-d8a3c0014ab9
 ---
 Secure this lovely three-bedroom ensuited townhouse for your future!
 Currently on a long lease at $295pw in a complex of 30.

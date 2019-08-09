@@ -1,33 +1,66 @@
 ---
-title: 'SOLD OFF MARKET'
-price: SOLD
-bedrooms: '3'
-bathrooms: '1'
-cars: '3'
-status: sold
+title: 'Sold Off-Market'
+price: 'Sold Off-Market'
+rent: null
+bedrooms: 4
+bathrooms: 1
+cars: 2
+status: Sold
+address: '7 Forgan Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/zMu2swH_1x4PGHY33V-e36D3a24=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821885/130469066-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1053730/images/Hemsworth-42-Front-D_7561707134_20170404075744.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1053730/images/Hemsworth-42-Front-D_7561707134_20170404075744_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1053730/images/Hemsworth-42-Front-D_7561707134_20170404075744_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1053730/images/Hemsworth-42-Front-D_7561707134_20170404075744_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1053730/images/Hemsworth-42-Front-D_7561707134_20170404075744_80x60.jpg
-    modtime: '1491300108'
-    dimensions: 1200x900
-property_id: '146231'
-id: 98f8631a-f80e-41c7-8735-97ec508706f8
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821898/130469066-image-N.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821897/130469066-image-L.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821896/130469066-image-K.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821895/130469066-image-J.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821894/130469066-image-I.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821893/130469066-image-H.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821892/130469066-image-G.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821891/130469066-image-F.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821890/130469066-image-E.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821889/130469066-image-D.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821888/130469066-image-C.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821887/130469066-image-B.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821886/130469066-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821885/130469066-image-M.jpg'
+property_id: '435220'
+id: 85004afa-0aa4-4b9c-b6a9-491250c6127d
 ---
-This lowset brick home is of solid construction and sought-after design. A generous family home, this property is a value-packed move in ready opportunity in one of the best neighbourhoods of Acacia Ridge. The residents of Hemsworth Street famously decorate their houses with festive cheer to celebrate Christmas. Needless to say, this is a warm community perfect for families. This property is an excellent opportunity for first home buyers to secure a home to grow into. Also a fantastic investment for those looking to secure a solid home with a promising rental return.
+This generous family home is perfect for those needing more space for their growing family. Situated with a sunny north-facing aspect, the home is full of light. The property is fronted by a private patio which opens out from the large living area. Stepping off the living are two carpeted rooms, with a door between and the ability to close off from the main house. Ideal as a nursery, home office or study, or a rumpus room. The additional three bedrooms are spacious and the bathroom modern. Situated in a quiet pocket, offers the very best of convenience and a friendly community. A much sought-after low-set design with lovely street appeal, this home is large and a great layout for busy families with plenty of space.
 
-This property features:
-*  Three good-sized bedrooms, two with ceiling fans, master with air conditioning
-*  Utility room to the side of the property, ideal for a variety of uses
-*  Family living area with air conditioning
-*  Timber venetian blinds, insect screens and security screens to windows
-*  Under cover entertaining area with bar
-*  Carpets over original timber floorboards
-*  Tandem lock up garage with drive-through access to yard, single car carport on driveway
-*  Large 6x4m lockable shed in back yard
+Features:
 
-Situated on a 610sqm block, fully fenced, beautifully landscaped and private, the backyard affords a generous piece of land to enjoy. Within walking distance to Acacia Ridge State Primary School and an easy driving distance to other great schools. Convenient to the great range of amenities this great area has to offer with the Elizabeth Street local shops, and the Acacia Market Place with both Woolworths and Aldi, only a short drive away. This property presents a sound investment opportunity for those at any stage of their property journey.
+*  Good sized tiled kitchen with plenty of storage, electric oven, stove and range hood
+*  Polished timber floors throughout living, dining and bedrooms
+*  Living and dining with ceiling fans
+*  Beautiful north facing patio off living
+*  Two connected rooms off living with brand new carpet, one with ceiling fan
+*  Three good sized bedrooms all with ceiling fans
+*  Bathroom with shower and vanity with storage
+*  Large laundry with double sink and internal hotwater system
+*  Drive through access to yard, double carport and single lock up shed
+*  Colourbond fencing
+
+Location:
+
+*  Short drive to Elizabeth Street Shopping Centre (IGA, newsagency, takeaway foods, coffee shop, pharmacy, doctors surgery)
+*  Short walk to bus stops, servicing city and Inala Plaza
+*  Walking distance to parks and public swimming pool
+*  Short drive to primary schools and childcare centres
+*  7km drive to Griffith University Nathan Campus
+*  8km drive to Sunnybank Plaza & Market Square
+*  10km drive to Westfield Garden City

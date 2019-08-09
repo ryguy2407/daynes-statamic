@@ -1,157 +1,58 @@
 ---
 title: 'One Of A Kind!'
-price: '$400 per week'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: leased
+price: 'For Sale'
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 1
+status: Sold
+address: '49 Oxley Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/kq_1eRntOa6tuhC0Dz5R0wr1g9Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821763/127723758-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living3-Day_6853097107_20180523112115.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living3-Day_6853097107_20180523112115_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living3-Day_6853097107_20180523112115_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living3-Day_6853097107_20180523112115_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living3-Day_6853097107_20180523112115_80x60.jpg
-    modtime: '1527049239'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821776/127723758-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen-Day_3353909114_20180523112107.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen-Day_3353909114_20180523112107_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen-Day_3353909114_20180523112107_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen-Day_3353909114_20180523112107_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen-Day_3353909114_20180523112107_80x60.jpg
-    modtime: '1527049239'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821775/127723758-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen2-Da_3596900063_20180523112109.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen2-Da_3596900063_20180523112109_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen2-Da_3596900063_20180523112109_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen2-Da_3596900063_20180523112109_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Kitchen2-Da_3596900063_20180523112109_80x60.jpg
-    modtime: '1527049239'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821774/127723758-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living2-Day_4202467361_20180523112112.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living2-Day_4202467361_20180523112112_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living2-Day_4202467361_20180523112112_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living2-Day_4202467361_20180523112112_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living2-Day_4202467361_20180523112112_80x60.jpg
-    modtime: '1527049239'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821773/127723758-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living-Dayn_1855384534_20180523112111.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living-Dayn_1855384534_20180523112111_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living-Dayn_1855384534_20180523112111_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living-Dayn_1855384534_20180523112111_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Living-Dayn_1855384534_20180523112111_80x60.jpg
-    modtime: '1527049239'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821772/127723758-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bed1-Daynes_425738240_20180523112103.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bed1-Daynes_425738240_20180523112103_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bed1-Daynes_425738240_20180523112103_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bed1-Daynes_425738240_20180523112103_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bed1-Daynes_425738240_20180523112103_80x60.jpg
-    modtime: '1527049239'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821771/127723758-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bathroom-Da_7907185630_20180523112059.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bathroom-Da_7907185630_20180523112059_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bathroom-Da_7907185630_20180523112059_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bathroom-Da_7907185630_20180523112059_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Bathroom-Da_7907185630_20180523112059_80x60.jpg
-    modtime: '1527049239'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821770/127723758-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Stairs-Dayn_3875489280_20180523112119.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Stairs-Dayn_3875489280_20180523112119_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Stairs-Dayn_3875489280_20180523112119_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Stairs-Dayn_3875489280_20180523112119_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Stairs-Dayn_3875489280_20180523112119_80x60.jpg
-    modtime: '1527049240'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821769/127723758-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs-Da_3133987773_20180523112124.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs-Da_3133987773_20180523112124_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs-Da_3133987773_20180523112124_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs-Da_3133987773_20180523112124_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs-Da_3133987773_20180523112124_80x60.jpg
-    modtime: '1527049240'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821768/127723758-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs2-D_210530876_20180523112124.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs2-D_210530876_20180523112124_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs2-D_210530876_20180523112124_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs2-D_210530876_20180523112124_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Upstairs2-D_210530876_20180523112124_80x60.jpg
-    modtime: '1527049240'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821767/127723758-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Ensuite-Day_2255420577_20180523112103.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Ensuite-Day_2255420577_20180523112103_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Ensuite-Day_2255420577_20180523112103_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Ensuite-Day_2255420577_20180523112103_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Ensuite-Day_2255420577_20180523112103_80x60.jpg
-    modtime: '1527049240'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821766/127723758-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Patio-Dayne_1217122660_20180523112119.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Patio-Dayne_1217122660_20180523112119_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Patio-Dayne_1217122660_20180523112119_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Patio-Dayne_1217122660_20180523112119_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Patio-Dayne_1217122660_20180523112119_80x60.jpg
-    modtime: '1527049240'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821765/127723758-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Front-Dayne_4108284862_20180523112107.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Front-Dayne_4108284862_20180523112107_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Front-Dayne_4108284862_20180523112107_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Front-Dayne_4108284862_20180523112107_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Front-Dayne_4108284862_20180523112107_80x60.jpg
-    modtime: '1527049240'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821764/127723758-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Backyard-Da_1345688830_20180523112100.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Backyard-Da_1345688830_20180523112100_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Backyard-Da_1345688830_20180523112100_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Backyard-Da_1345688830_20180523112100_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1508726/images/Oxley-49-Backyard-Da_1345688830_20180523112100_80x60.jpg
-    modtime: '1527038540'
-    dimensions: 1200x900
-property_id: '1926171'
-id: eea6685a-e25d-4d58-9569-28771cf65478
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821763/127723758-image-M.jpg'
+property_id: '435211'
+id: 1256ea8d-910a-48ab-be2f-33098ec5e8dc
 ---
-A welcoming place to call home, this property has great street appeal with plenty of character. Oxley Street is a lovely wide street with glimpses towards Brisbane CBD, lined by well-kept homes and gardens. Stepping inside, the large living and kitchen space is open and inviting with beautiful polished timber flooring. The kitchen is sleek and modern, with stainless steel appliances and lovely neutral cabinetry. The home is made truly one of a kind, with the second storey extension giving a spacious third bedroom with ensuite. This striking space is a lofty and spacious retreat above the main living of the home. The other ground-floor bedrooms are also bright and airy with large windows. 
+This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the unique design. A welcoming place to call home, this property has great street appeal with plenty of character. Oxley Street is a lovely wide street with glimpses towards Brisbane CBD, lined by well-kept homes and gardens. With the second storey extension, this property stands out and is an exciting opportunity to create a generous family home. Stepping inside, the large living spaces are open and inviting, the perfect blank slate to create functional spaces for busy families.
 
-Features:
+The home is made truly one of a kind, with the second storey extension giving a spacious bedroom with ensuite. This striking space is a lofty and spacious retreat above the main living of the home. The other ground-floor bedroom is also bright and airy with large windows. The home is almost completely original with the retro kitchen and bathroom in good condition for the age of the property. Carpets, tiles and lino hide beautiful hardwood floors for which these homes are much sought-after.
+
+This property features:
 
 *  Large open plan living spaces with modern air conditioner
-*  Newly renovated kitchen with modern appliances
-*  Two large bedrooms on ground floor
+*  Eat-in kitchen with original cabinetry
+*  Kitchen steps out to carport and laundry
+*  Large bedroom on ground floor
 *  Unique full-height second storey with large ensuited bedroom
-*  Beautiful new family bathroom on ground floor
-*  Office or storage space with stairs to top level
 *  Single car carport with undercover access to house
 *  Carport can also be utilised as outdoor sitting area
+*  Bathroom original but functional condition
 
-Location:
-*  Situated in a leafy and quiet residential pocket with plenty of parks
-*  Close to Acacia Ridge Primary School 
-*  Convenient to other great local schools and childcare centres
-*  Acacia Market with Woolworths and Aldi, and Elizabeth Street shopping centre nearby 
-*  Handy to Archerfield Airport and industrial estate
-*  Only 17km from Brisbane City
+Situated on a fully fenced and flat 653sqm block, in a quiet pocket of this gem of a suburb, this is a great opportunity to secure a parcel of land within 15km of Brisbane CBD. Easy access to public transport on Gregory Street, major transport thoroughfares and is in close proximity to industrial and commercial hubs. The property is within walking distance to Souths Sports Club, Acacia Ridge Primary School, Lady Fatima Primary School and local shops. The Acacia Marketplace is a short drive away on Beaudesert Road, with both Woolworths and Aldi and a great range of other shops and amenities.

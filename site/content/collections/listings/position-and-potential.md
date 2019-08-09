@@ -1,130 +1,42 @@
 ---
 title: 'Position and Potential'
 price: '$430,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '4'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 4
+status: Sold
+address: '17 Scouse Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/WzPba_R6cOfC2p43IHCW6TQtR3E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821569/126652282-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front3-Day_9339032087_20171011094244.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front3-Day_9339032087_20171011094244_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front3-Day_9339032087_20171011094244_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front3-Day_9339032087_20171011094244_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front3-Day_9339032087_20171011094244_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821581/126652282-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front4-Day_7477874594_20171011094337.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front4-Day_7477874594_20171011094337_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front4-Day_7477874594_20171011094337_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front4-Day_7477874594_20171011094337_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front4-Day_7477874594_20171011094337_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821580/126652282-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living-Day_4951314406_20171011094421.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living-Day_4951314406_20171011094421_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living-Day_4951314406_20171011094421_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living-Day_4951314406_20171011094421_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living-Day_4951314406_20171011094421_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821579/126652282-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Kitchen-Da_4120997943_20171011094401.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Kitchen-Da_4120997943_20171011094401_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Kitchen-Da_4120997943_20171011094401_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Kitchen-Da_4120997943_20171011094401_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Kitchen-Da_4120997943_20171011094401_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821578/126652282-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living2-Da_6543746827_20171011094420.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living2-Da_6543746827_20171011094420_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living2-Da_6543746827_20171011094420_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living2-Da_6543746827_20171011094420_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Living2-Da_6543746827_20171011094420_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821577/126652282-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-BackDeck-D_6972037876_20171011093941.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-BackDeck-D_6972037876_20171011093941_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-BackDeck-D_6972037876_20171011093941_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-BackDeck-D_6972037876_20171011093941_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-BackDeck-D_6972037876_20171011093941_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821576/126652282-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Back-Dayne_1650858096_20171011093942.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Back-Dayne_1650858096_20171011093942_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Back-Dayne_1650858096_20171011093942_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Back-Dayne_1650858096_20171011093942_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Back-Dayne_1650858096_20171011093942_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821575/126652282-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed2-Dayne_5573370823_20171011094024.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed2-Dayne_5573370823_20171011094024_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed2-Dayne_5573370823_20171011094024_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed2-Dayne_5573370823_20171011094024_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed2-Dayne_5573370823_20171011094024_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821574/126652282-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed3-Dayne_8760558861_20171011094120.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed3-Dayne_8760558861_20171011094120_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed3-Dayne_8760558861_20171011094120_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed3-Dayne_8760558861_20171011094120_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bed3-Dayne_8760558861_20171011094120_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821573/126652282-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bath-Dayne_2739955490_20171011094011.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bath-Dayne_2739955490_20171011094011_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bath-Dayne_2739955490_20171011094011_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bath-Dayne_2739955490_20171011094011_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Bath-Dayne_2739955490_20171011094011_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821572/126652282-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front2-Day_7378118466_20171011094202.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front2-Day_7378118466_20171011094202_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front2-Day_7378118466_20171011094202_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front2-Day_7378118466_20171011094202_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front2-Day_7378118466_20171011094202_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821571/126652282-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front-Dayn_9503678288_20171011094252.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front-Dayn_9503678288_20171011094252_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front-Dayn_9503678288_20171011094252_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front-Dayn_9503678288_20171011094252_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-Front-Dayn_9503678288_20171011094252_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821570/126652282-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-block-Dayn_2549260187_20171011094109.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-block-Dayn_2549260187_20171011094109_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-block-Dayn_2549260187_20171011094109_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-block-Dayn_2549260187_20171011094109_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1275818/images/Scouse-17-block-Dayn_2549260187_20171011094109_80x60.jpg
-    modtime: '1507722302'
-    dimensions: 1200x900
-property_id: '1924381'
-id: 8af49424-184e-4263-a48a-c67de8c97a91
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821569/126652282-image-M.jpg'
+property_id: '435193'
+id: d7560830-4061-4645-aa83-5a0540bca20b
 ---
 This inviting family home is ideal for those who need a little extra from their property, while retaining the chance to realise their renovating dream. Beautifully presented with lovely neutral colours throughout, this home is unique for the vaulted ceilings, giving an interesting feel to the home. Attractive and low-maintenance lino flooring hides beautiful hardwood floors for which these homes are much sought-after. The carpets to the bedrooms are in great condition and well chosen for the neutral colour scheme.
 

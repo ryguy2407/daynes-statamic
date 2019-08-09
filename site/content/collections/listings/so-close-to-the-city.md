@@ -1,58 +1,26 @@
 ---
 title: 'So Close To The City!'
 price: '$390,000'
-bedrooms: '2'
-bathrooms: '2'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 1
+status: Sold
+address: '3-15 Lagonda Street, ANNERLEY'
+main_image: 'https://img.eagleagent.com.au/YJxYwKpNIkOZcGVnhMjJSvEfqR4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824104/115532775-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094203-22373_7402230655_20140411030626.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094203-22373_7402230655_20140411030626_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094203-22373_7402230655_20140411030626_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094203-22373_7402230655_20140411030626_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094203-22373_7402230655_20140411030626_80x60.jpg
-    modtime: '1397164389'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824108/115532775-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094206-24455_7424394856_20140411030626.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094206-24455_7424394856_20140411030626_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094206-24455_7424394856_20140411030626_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094206-24455_7424394856_20140411030626_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094206-24455_7424394856_20140411030626_80x60.jpg
-    modtime: '1397164389'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824107/115532775-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094209-18889_4211321049_20140411030626.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094209-18889_4211321049_20140411030626_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094209-18889_4211321049_20140411030626_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094209-18889_4211321049_20140411030626_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094209-18889_4211321049_20140411030626_80x60.jpg
-    modtime: '1397164389'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824106/115532775-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094217-64756_4579849960_20140411030625.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094217-64756_4579849960_20140411030625_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094217-64756_4579849960_20140411030625_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094217-64756_4579849960_20140411030625_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094217-64756_4579849960_20140411030625_80x60.jpg
-    modtime: '1397164389'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824105/115532775-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094221-74276_7108867238_20140411030632.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094221-74276_7108867238_20140411030632_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094221-74276_7108867238_20140411030632_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094221-74276_7108867238_20140411030632_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98217/images/20131125094221-74276_7108867238_20140411030632_80x60.jpg
-    modtime: '1397164389'
-    dimensions: null
-property_id: '146332'
-id: a07cdc36-eb9b-46eb-a776-caa3ddf07369
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824104/115532775-image-M.jpg'
+property_id: '435395'
+id: 61d903f5-453e-47a3-9345-dbd20a8b77ee
 ---
 This brand new, well presented 2 bedroom unit is in a small complex of 5 units. It is only a stones throw to the Fairfield railway station with only a few stops to Central Station and Fairfield shopping Centre just a short stroll away.
 

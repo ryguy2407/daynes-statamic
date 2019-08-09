@@ -1,123 +1,52 @@
 ---
-title: 'Renovator’s Dream!'
-price: '$340,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+title: 'Renovators Dream!'
+price: 'Offers Over $340,000'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '21 Courtice Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/pvNWQ21pTeveqGsTTpqOXYjSSuQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821582/126729526-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Front-Da_1958279377_20170201092135.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Front-Da_1958279377_20170201092135_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Front-Da_1958279377_20170201092135_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Front-Da_1958279377_20170201092135_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Front-Da_1958279377_20170201092135_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821590/126729526-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back-Day_3993879720_20170201092015.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back-Day_3993879720_20170201092015_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back-Day_3993879720_20170201092015_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back-Day_3993879720_20170201092015_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back-Day_3993879720_20170201092015_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821589/126729526-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Living-D_106106591_20170201091955.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Living-D_106106591_20170201091955_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Living-D_106106591_20170201091955_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Living-D_106106591_20170201091955_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Living-D_106106591_20170201091955_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821588/126729526-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen-_3188105272_20170201091402.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen-_3188105272_20170201091402_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen-_3188105272_20170201091402_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen-_3188105272_20170201091402_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen-_3188105272_20170201091402_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821587/126729526-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen2_7181781805_20170201091500.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen2_7181781805_20170201091500_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen2_7181781805_20170201091500_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen2_7181781805_20170201091500_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Kitchen2_7181781805_20170201091500_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821586/126729526-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed1-Day_9934055787_20170201091433.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed1-Day_9934055787_20170201091433_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed1-Day_9934055787_20170201091433_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed1-Day_9934055787_20170201091433_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed1-Day_9934055787_20170201091433_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821585/126729526-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed2-Day_9961390179_20170201091536.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed2-Day_9961390179_20170201091536_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed2-Day_9961390179_20170201091536_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed2-Day_9961390179_20170201091536_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bed2-Day_9961390179_20170201091536_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821584/126729526-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Patio-Da_3389520985_20170201091634.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Patio-Da_3389520985_20170201091634_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Patio-Da_3389520985_20170201091634_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Patio-Da_3389520985_20170201091634_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Patio-Da_3389520985_20170201091634_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821583/126729526-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bathroom_2520679435_20170201091534.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bathroom_2520679435_20170201091534_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bathroom_2520679435_20170201091534_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bathroom_2520679435_20170201091534_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Bathroom_2520679435_20170201091534_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
-  -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back2-Da_5418509217_20170201091830.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back2-Da_5418509217_20170201091830_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back2-Da_5418509217_20170201091830_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back2-Da_5418509217_20170201091830_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Back2-Da_5418509217_20170201091830_80x60.jpg
-    modtime: '1485948283'
-    dimensions: 1200x900
-  -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Map-Dayn_416716630_20170202092642.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Map-Dayn_416716630_20170202092642_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Map-Dayn_416716630_20170202092642_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Map-Dayn_416716630_20170202092642_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1030023/images/Highbury-33-Map-Dayn_416716630_20170202092642_80x60.jpg
-    modtime: '1485991622'
-    dimensions: 1200x900
-property_id: '1924199'
-id: 2ec58336-1177-4091-b136-0b16ab266d6a
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821582/126729526-image-M.jpg'
+property_id: '435194'
+id: b73d5283-3ff8-4889-87bc-dec2644bfb37
 ---
-This cute cottage situated on a generous 607sqm block is a renovator's dream! Original interiors and a classic design give the lucky future owners an opportunity to realise their creative renovation dreams. 
+This neat low-set property is your chance to secure what has been the setting of many happy family memories. Situated on a generous 673sqm block, behind the tidy timber fence and surrounded by lovingly cared for gardens and lawns, this home has lovely street appeal. Inside, the front sunroom has been converted and combined into the living area, giving plenty of space for relaxing and entertaining. The dining is also incorporated into this area and flows through to the kitchen at the rear of the property. The kitchen, while dated, is functional and services the undercover entertaining area at the back of the home. The three bedrooms are well appointed, with the master and one additional room including air conditioners.
 
-This home features:
+This home is tired and does require cosmetic improvements. However, those with an eye for a good investment will see the potential of this property. The value and functionality of this property is enhanced by the single lock up garage giving plenty of space for storage, perfect for project work or home tradesmen. In addition to this, there is drive through access to the backyard and shed, meaning this property has the potential to tick all the boxes for those with specific requirements for their next home. The undercover entertaining area to the rear of the home could also be utilised as additional vehicle accommodation or workshop space.
 
-*  Leafy private frontage
-*  Original kitchen and bathroom in wood panel
-*  Solid construction featuring hardwood floors, currently under carpet and lino
-*  Living room opening to sunroom through lovely timber doors
-*  Single car carport to side
-*  Large grassy flat yard
-*  Paved patio area out the back
+This property features:
 
-This property is located within a small residential pocket of Acacia Ridge, behind the Acacia Market Place. This pocket is ideal for those who are seeking the convenience of the area and access to all the major transport routes with minimal through traffic. The Acacia Market Place includes Woolworths and Aldi in addition to a great range of boutique shops. Convenient to the great primary schools the area has to offer including Acacia Ridge State School and St Fatima’s Primary School, in addition to daycares and childcare options. Acacia Ridge is a rapidly developing area with investors recognising the potential in this suburb only 17km from Brisbane CBD.
+*  Beautiful hardwood timber floors throughout
+*  Kitchen with plenty of bench and storage space, electric cooktop and oven, double sink, breakfast bar
+*  Open plan living and dining, expanded with enclosed sunroom
+*  Master bedroom with air conditioner, ceiling fan and built in wardrobes
+*  Additional two bedrooms with ceiling fans, one with air conditioner
+*  Part of original sunroom converted to a small study
+*  Bathroom with shower over small bath
+*  Additional toilet off kitchen
+*  Drive through access to backyard
+*  Undercover area perfect for entertaining but could also be additional car accommodation
+*  Lovely backyard with well maintained gardens and single car shed
+*  Laundry to the rear
+
+This property is situated on a lovely, leafy street, within a great community. Also ideally situated with access to public transport on Gregory Street, major transport thoroughfares and is in close proximity to industrial and commercial hubs. The property is within walking distance to Souths Sports Club, Acacia Ridge Primary School, Lady Fatima Primary School and local shops. The Acacia Marketplace is a short drive away on Beaudesert Road, with both Woolworths and Aldi and a great range of other shops and amenities. Only 15km from Brisbane's CBD, Acacia Ridge is leading this corridor of rapid development. This is your chance to secure a property with great potential in this great area, make sure you get in quick!

@@ -1,58 +1,26 @@
 ---
 title: 'Definately The Best You Will Find'
-price: '$385,000'
-bedrooms: '2'
-bathrooms: '2'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 1
+status: Sold
+address: '4 / 11 Birdwood Road, CARINA HEIGHTS'
+main_image: 'https://img.eagleagent.com.au/bh_VkJN8F6SzSfpZC3guI48_5CE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818048/103965380-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-1_2711047935_20140411034151.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-1_2711047935_20140411034151_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-1_2711047935_20140411034151_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-1_2711047935_20140411034151_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-1_2711047935_20140411034151_80x60.jpg
-    modtime: '1397166420'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818052/103965380-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-2_2983432333_20140411034152.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-2_2983432333_20140411034152_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-2_2983432333_20140411034152_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-2_2983432333_20140411034152_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-2_2983432333_20140411034152_80x60.jpg
-    modtime: '1397166420'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818051/103965380-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-3_5617148490_20140411034151.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-3_5617148490_20140411034151_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-3_5617148490_20140411034151_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-3_5617148490_20140411034151_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-3_5617148490_20140411034151_80x60.jpg
-    modtime: '1397166420'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818050/103965380-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-4_462272847_20140411034157.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-4_462272847_20140411034157_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-4_462272847_20140411034157_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-4_462272847_20140411034157_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-4_462272847_20140411034157_80x60.jpg
-    modtime: '1397166420'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818049/103965380-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-5_3296016482_20140411034157.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-5_3296016482_20140411034157_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-5_3296016482_20140411034157_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-5_3296016482_20140411034157_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98086/images/103965380-5_3296016482_20140411034157_80x60.jpg
-    modtime: '1397166420'
-    dimensions: null
-property_id: '145931'
-id: 06f7d766-5dc6-407f-9333-1116eba030f7
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818048/103965380-image-M.jpg'
+property_id: '434794'
+id: 30fee893-b667-46cf-9b97-6e630d14207c
 ---
 You will love this brand new 2 bedroom tri-level townhouse, it has everything you need.  Live in an exclusive 5 townhouse complex close to transport and shopping centres.
 

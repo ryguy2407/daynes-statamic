@@ -1,161 +1,65 @@
 ---
 title: 'Renovated Family Home'
-price: '$395 per week'
-bedrooms: '3'
-bathrooms: '1'
-cars: '2'
-status: leased
+price: 'Offers Over $450,000'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 3
+status: Sold
+address: '18 Nyngam Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/kfcUKej7qEpF4VPqEI61epMB6eg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821274/126030334-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Front-Day_9812634112_20171129073658.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Front-Day_9812634112_20171129073658_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Front-Day_9812634112_20171129073658_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Front-Day_9812634112_20171129073658_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Front-Day_9812634112_20171129073658_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821287/126030334-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Kitchen-D_8054687631_20171129073559.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Kitchen-D_8054687631_20171129073559_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Kitchen-D_8054687631_20171129073559_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Kitchen-D_8054687631_20171129073559_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Kitchen-D_8054687631_20171129073559_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821286/126030334-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living2-D_8467615954_20171129073459.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living2-D_8467615954_20171129073459_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living2-D_8467615954_20171129073459_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living2-D_8467615954_20171129073459_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living2-D_8467615954_20171129073459_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821285/126030334-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living-Da_1145934304_20171129073548.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living-Da_1145934304_20171129073548_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living-Da_1145934304_20171129073548_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living-Da_1145934304_20171129073548_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Living-Da_1145934304_20171129073548_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821284/126030334-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Study-Day_1970275541_20171129073529.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Study-Day_1970275541_20171129073529_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Study-Day_1970275541_20171129073529_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Study-Day_1970275541_20171129073529_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Study-Day_1970275541_20171129073529_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821283/126030334-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed3-Dayn_9593613623_20171129073512.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed3-Dayn_9593613623_20171129073512_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed3-Dayn_9593613623_20171129073512_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed3-Dayn_9593613623_20171129073512_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed3-Dayn_9593613623_20171129073512_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821282/126030334-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed2-Dayn_1951670848_20171129073514.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed2-Dayn_1951670848_20171129073514_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed2-Dayn_1951670848_20171129073514_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed2-Dayn_1951670848_20171129073514_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed2-Dayn_1951670848_20171129073514_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821281/126030334-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed1-Dayn_6062632384_20171129073526.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed1-Dayn_6062632384_20171129073526_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed1-Dayn_6062632384_20171129073526_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed1-Dayn_6062632384_20171129073526_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bed1-Dayn_6062632384_20171129073526_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821280/126030334-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bath-Dayn_2789678976_20171129073559.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bath-Dayn_2789678976_20171129073559_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bath-Dayn_2789678976_20171129073559_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bath-Dayn_2789678976_20171129073559_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Bath-Dayn_2789678976_20171129073559_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821279/126030334-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio2-D_9497763236_20171129073424.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio2-D_9497763236_20171129073424_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio2-D_9497763236_20171129073424_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio2-D_9497763236_20171129073424_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio2-D_9497763236_20171129073424_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821278/126030334-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio-Da_3486418569_20171129073500.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio-Da_3486418569_20171129073500_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio-Da_3486418569_20171129073500_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio-Da_3486418569_20171129073500_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Studio-Da_3486418569_20171129073500_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821277/126030334-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Patio-Day_1257674965_20171129073648.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Patio-Day_1257674965_20171129073648_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Patio-Day_1257674965_20171129073648_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Patio-Day_1257674965_20171129073648_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Patio-Day_1257674965_20171129073648_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821276/126030334-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Carport-D_5664130669_20171129073636.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Carport-D_5664130669_20171129073636_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Carport-D_5664130669_20171129073636_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Carport-D_5664130669_20171129073636_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Carport-D_5664130669_20171129073636_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821275/126030334-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Backyard-_9096648749_20171129073442.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Backyard-_9096648749_20171129073442_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Backyard-_9096648749_20171129073442_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Backyard-_9096648749_20171129073442_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1334337/images/Beatty-509-Backyard-_9096648749_20171129073442_80x60.jpg
-    modtime: '1511948546'
-    dimensions: 1200x900
-property_id: '1912799'
-id: 8d36c31f-ec28-47bd-b75d-37131ca468aa
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821274/126030334-image-M.jpg'
+property_id: '435170'
+id: f0080646-30f2-42d7-8c6a-6b1e46f32036
 ---
-This is a spacious family home situated on a large 1,062sqm block, offering plenty of space for busy families both inside and out. The main house has been completely renovated with a tasteful neutral colour scheme and low-maintenance finishes. The secondary dwelling is a large studio space with ensuite and would be perfect for multi-generational families.
+Sitting behind the pretty white picket fence sits this thoughtfully renovated home which will surely be the delight of its lucky future owners. This is a home to be proud of with the rendered exterior and tiled roof surrounded by neat lawns, giving the property great street appeal. Stepping inside, the home delights with open plan living and dining flowing effortlessly into the kitchen and beyond to the spacious back patio. The living spaces have been beautifully finished in neutral colours, the stone tiles have been tastefully chosen to provide a low maintenance finish in a designer aesthetic. This perfectly complements the clean finishes of the newly installed kitchen, with white two pac cabinetry and quality stainless steel appliances. The design of this kitchen will be a delight to those who love to entertain, with plenty of bench and cupboard space and easy access to the entertaining areas.
 
-Features:
+The shady, paved back patio extends beyond the width of the house, providing an expansive area for entertaining, relaxing and playing. North facing and sheltered, this is a lovely space overlooking the grassy backyard and neat garden beds. The yard also features two lockable sheds and potential for drive through access from carport, exciting for those with trailers or home hobbyists. Each of the bedrooms has been finished with thick carpet, ceiling fans and built in wardrobes. The bathroom, like the kitchen, has been tastefully presented with neutral tiles and features a shower and bathtub; perfect for families. In addition to the large air conditioner to the living area, the home can be cooled with the Cardiff-Air system, installed in the hallway. The thoughtful renovation of this home makes it move-in-ready for families or those seeking their next investment.
 
-*  Low set brick home with attractive inlaid stonework
-*  Beautifully renovated
-*  Galley-style kitchen overlooking family room, fully renovated with attractive neutral cabinetry
-*  Large family room with air conditioner
-*  Three good-sized bedrooms
-*  Bathroom fully tiled with large shower, combined with toilet
-*  Paved and undercover barbecue area to the side of the house
-*  Sleep out with large room and ensuite to the rear of the house
-*  Multiple car and trailer storage options
-*  Fully fenced yard
-*  Well-maintained gardens 
-*  Two sheds and trailer accommodation to the rear of the block
-*  Hills hoist clothesline 
+This property features:
 
-Location
-*  Across the road from Acacia Ridge Primary School 
-*  Convenient to other great local schools and childcare centres
-*  Acacia Market with Woolworths and Aldi, and Elizabeth Street shopping centre nearby 
-*  Handy to Archerfield Airport and industrial estate
-*  Only 15km from Brisbane City
+*  Desirable low-set design, rendered exterior, tiled roof
+*  Beautiful white picket fence to the front, fully fenced yard
+*  Stone floor tiles throughout kitchen living and dining
+*  Kitchen with laminate bench tops and white two pack cabinetry, double stainless steel sink, electric oven and stove top with rangehood
+*  Sky lights to kitchen and bathroom for maximum natural light
+*  Kitchen opens to laundry with door to rear with insect screens
+*  Security screens throughout
+*  Large air conditioner and ceiling fan to living
+*  Kitchen and dining open to beautiful north-facing undercover paved patio
+*  Two lockable garden sheds
+*  Bathroom with shower and bath, large vanity and plenty of room for families
+*  Cardiff-Air for great environmentally friendly house cooling
+*  New neutral carpets, ceiling fans and built in wardrobes to all three bedrooms
+*  Attractive linen-look block-out blinds to bedroom and other windows
+*  Triple tandem carport with undercover access to house, drive-through access to rear
+
+Situated on a generous 607sqm fully fenced and completely flat block. This property is located across the road from Acacia Ridge Primary School and convenient to other great local schools and childcare centres. A short walk to a bus stop, with buses servicing the city, Garden City and Inala. Handy to Archerfield Airport and industrial estate, Acacia Market with Woolworths and Aldi, and Elizabeth Street shopping centre. Acacia Ridge is a rapidly developing suburb, situated on major transport thoroughfares and only 15km from Brisbane City. This is a not to be missed opportunity!

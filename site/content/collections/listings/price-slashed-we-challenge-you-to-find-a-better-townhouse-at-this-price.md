@@ -1,112 +1,38 @@
 ---
 title: 'Price Slashed - We Challenge You To Find A Better Townhouse At This Price'
 price: 'Price Slashed from $625,000 - NOW $599,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 2
+status: Sold
+address: '2 / 64 Armadale Street, ST LUCIA'
+main_image: 'https://img.eagleagent.com.au/70xX6e5RFiYPU7Tg3QizHhqzRus=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820697/105954775-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-1_7993348870_20140411032439.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-1_7993348870_20140411032439_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-1_7993348870_20140411032439_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-1_7993348870_20140411032439_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-1_7993348870_20140411032439_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820707/105954775-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-2_3829674567_20140411032440.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-2_3829674567_20140411032440_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-2_3829674567_20140411032440_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-2_3829674567_20140411032440_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-2_3829674567_20140411032440_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820706/105954775-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-3_1311183464_20140411032444.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-3_1311183464_20140411032444_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-3_1311183464_20140411032444_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-3_1311183464_20140411032444_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-3_1311183464_20140411032444_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820705/105954775-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-4_6622877158_20140411032445.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-4_6622877158_20140411032445_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-4_6622877158_20140411032445_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-4_6622877158_20140411032445_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-4_6622877158_20140411032445_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820704/105954775-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-5_9046603013_20140411032444.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-5_9046603013_20140411032444_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-5_9046603013_20140411032444_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-5_9046603013_20140411032444_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-5_9046603013_20140411032444_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820703/105954775-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-6_6756415069_20140411032445.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-6_6756415069_20140411032445_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-6_6756415069_20140411032445_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-6_6756415069_20140411032445_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-6_6756415069_20140411032445_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820702/105954775-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-7_2527994527_20140411032444.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-7_2527994527_20140411032444_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-7_2527994527_20140411032444_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-7_2527994527_20140411032444_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-7_2527994527_20140411032444_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820701/105954775-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-8_9585460099_20140411032450.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-8_9585460099_20140411032450_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-8_9585460099_20140411032450_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-8_9585460099_20140411032450_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-8_9585460099_20140411032450_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820700/105954775-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-9_8842098965_20140411032449.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-9_8842098965_20140411032449_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-9_8842098965_20140411032449_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-9_8842098965_20140411032449_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-9_8842098965_20140411032449_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820699/105954775-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-10_1394579108_20140411032449.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-10_1394579108_20140411032449_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-10_1394579108_20140411032449_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-10_1394579108_20140411032449_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-10_1394579108_20140411032449_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820698/105954775-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-11_5253349440_20140411032449.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-11_5253349440_20140411032449_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-11_5253349440_20140411032449_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-11_5253349440_20140411032449_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98174/images/1154227-11_5253349440_20140411032449_80x60.jpg
-    modtime: '1397165552'
-    dimensions: null
-property_id: '146088'
-id: 69b67035-44bc-46e4-afa8-3944a64337fc
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820697/105954775-image-M.jpg'
+property_id: '435121'
+id: d8452f29-efd3-4491-88cf-432b3a796672
 ---
 Situated in an enviable location on Armadale Street is this superbly renovated tri-level townhouse. Whether you are an investor or owner occupier, this property at its now reduced price offers a great opportunity in prestigious St Lucia.
 

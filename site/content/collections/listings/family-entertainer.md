@@ -1,145 +1,50 @@
 ---
 title: 'Family Entertainer'
 price: 'Offers Over $420,000'
-bedrooms: '4'
-bathrooms: '2'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 4
+bathrooms: 2
+cars: 2
+status: Sold
+address: '12 Gregory Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/2YweGfPOcjTpnPEoYRwzOytrtSo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823662/123045818-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool-Dayn_9404337029_20160705085131.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool-Dayn_9404337029_20160705085131_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool-Dayn_9404337029_20160705085131_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool-Dayn_9404337029_20160705085131_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool-Dayn_9404337029_20160705085131_80x60.jpg
-    modtime: '1467672766'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823675/123045818-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool2-Day_1530320723_20160705085049.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool2-Day_1530320723_20160705085049_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool2-Day_1530320723_20160705085049_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool2-Day_1530320723_20160705085049_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Pool2-Day_1530320723_20160705085049_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823674/123045818-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Front-Day_6179702985_20160705085232.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Front-Day_6179702985_20160705085232_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Front-Day_6179702985_20160705085232_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Front-Day_6179702985_20160705085232_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Front-Day_6179702985_20160705085232_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823673/123045818-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living1-D_7780878744_20160705084527.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living1-D_7780878744_20160705084527_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living1-D_7780878744_20160705084527_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living1-D_7780878744_20160705084527_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living1-D_7780878744_20160705084527_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823672/123045818-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living2-D_4865436228_20160705084612.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living2-D_4865436228_20160705084612_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living2-D_4865436228_20160705084612_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living2-D_4865436228_20160705084612_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Living2-D_4865436228_20160705084612_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823671/123045818-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen2-_3473015698_20160705084733.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen2-_3473015698_20160705084733_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen2-_3473015698_20160705084733_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen2-_3473015698_20160705084733_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen2-_3473015698_20160705084733_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823670/123045818-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen-D_5974161676_20160705084802.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen-D_5974161676_20160705084802_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen-D_5974161676_20160705084802_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen-D_5974161676_20160705084802_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Kitchen-D_5974161676_20160705084802_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823669/123045818-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom2-_3076194543_20160705084801.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom2-_3076194543_20160705084801_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom2-_3076194543_20160705084801_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom2-_3076194543_20160705084801_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom2-_3076194543_20160705084801_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823668/123045818-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom-D_1233187699_20160705084844.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom-D_1233187699_20160705084844_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom-D_1233187699_20160705084844_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom-D_1233187699_20160705084844_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Sunroom-D_1233187699_20160705084844_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823667/123045818-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Outdoor-D_5654961551_20160705084926.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Outdoor-D_5654961551_20160705084926_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Outdoor-D_5654961551_20160705084926_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Outdoor-D_5654961551_20160705084926_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Outdoor-D_5654961551_20160705084926_80x60.jpg
-    modtime: '1467680546'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823666/123045818-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed2-Dayn_4226394421_20160705084502.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed2-Dayn_4226394421_20160705084502_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed2-Dayn_4226394421_20160705084502_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed2-Dayn_4226394421_20160705084502_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed2-Dayn_4226394421_20160705084502_80x60.jpg
-    modtime: '1467672766'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823665/123045818-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed1-Dayn_3469044417_20160705084508.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed1-Dayn_3469044417_20160705084508_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed1-Dayn_3469044417_20160705084508_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed1-Dayn_3469044417_20160705084508_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed1-Dayn_3469044417_20160705084508_80x60.jpg
-    modtime: '1467672766'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823664/123045818-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed4-Dayn_544846481_20160705084657.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed4-Dayn_544846481_20160705084657_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed4-Dayn_544846481_20160705084657_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed4-Dayn_544846481_20160705084657_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bed4-Dayn_544846481_20160705084657_80x60.jpg
-    modtime: '1467672766'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823663/123045818-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bathroom-_5512891794_20160705084603.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bathroom-_5512891794_20160705084603_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bathroom-_5512891794_20160705084603_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bathroom-_5512891794_20160705084603_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/829397/images/Gregory-12-Bathroom-_5512891794_20160705084603_80x60.jpg
-    modtime: '1467672766'
-    dimensions: 1200x900
-property_id: '1922866'
-id: ac9c089b-28c7-403f-9c59-9bcb31993b5f
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823662/123045818-image-M.jpg'
+property_id: '435363'
+id: 01ac698e-920b-49b6-a15b-33885fa73f4e
 ---
-This beautifully presented family home, positioned on the leafy and desirable Gregory Street, is a rare and unique opportunity for families and investors alike. Featuring expansive open plan living and entertaining areas, this home is perfect for those who love to relax and spend time with their family and friends. 
+This beautifully presented family home, positioned on the leafy and desirable Gregory Street, is a rare and unique opportunity for families and investors alike. Featuring expansive open plan living and entertaining areas, this home is perfect for those who love to relax and spend time with their family and friends.
 
-Overlooking the sparkling pool is a large, multi-functional paved and undercover patio with bar area, ideal for enjoying long summer barbecues. Stepping into the house through the bespoke timber doors, you are treated to a cool, tiled rumpus room with large windows looking out to the pool and patio area. The north-facing eat-in kitchen is large and functional, with lovely timber paneling and cupboards giving warmth and providing a lovely space to create memories. 
+Overlooking the sparkling pool is a large, multi-functional paved and undercover patio with bar area, ideal for enjoying long summer barbecues. Stepping into the house through the bespoke timber doors, you are treated to a cool, tiled rumpus room with large windows looking out to the pool and patio area. The north-facing eat-in kitchen is large and functional, with lovely timber paneling and cupboards giving warmth and providing a lovely space to create memories.
 
-This home is value-packed and unique, a great opportunity for the savvy buyer. The four bedrooms and two bathrooms are generously proportioned, perfect for growing families, and an unusual treat in the Acacia Ridge area. 
+This home is value-packed and unique, a great opportunity for the savvy buyer. The four bedrooms and two bathrooms are generously proportioned, perfect for growing families, and an unusual treat in the Acacia Ridge area.
 
 This property features:
 
@@ -147,16 +52,16 @@ This property features:
 *  Living room steps down to den or study nook
 *  Kitchen with space for dining table with lovely timber panel cupboards and stainless steel appliances, tiled floors and ceiling fan
 *  Master bedroom with large built in wardrobe
-*  Two bedrooms with ceiling fans, one with built in wardrobe, one with air conditioner 
+*  Two bedrooms with ceiling fans, one with built in wardrobe, one with air conditioner
 *  One additional bedroom off living area
 *  Family bathroom with shower and vanity with storage
 *  Large laundry stepping through to additional bathroom with shower and toilet
 *  Rear rumpus room, tiled and air conditioned opening to undercover paved patio and pool
-*  Patio area perfect for entertaining with plenty of room for relaxing and enjoying 
+*  Patio area perfect for entertaining with plenty of room for relaxing and enjoying
 *  Bar area attached to pool shed
 *  Large additional sleep out across patio, could be used as storage or sleep out with insect and security screen
-*  Crimsafe screen to the front door 
-*  Security and or insect screens to most windows and doors 
+*  Crimsafe screen to the front door
+*  Security and or insect screens to most windows and doors
 *  Six solar panels on roof
 *  Recently replaced Colourbond roof
 *  Grass to the side of the property with clothesline and veggie gardens

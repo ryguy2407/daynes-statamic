@@ -1,40 +1,22 @@
 ---
 title: 'A Must See For Investors!'
-price: '$365,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 1
+status: Sold
+address: '1 / 118 Hamilton Road, MOOROOKA'
+main_image: 'https://img.eagleagent.com.au/do54c5STp-zZh13nTDxZGw7weVk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818359/104371236-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-1_1986620398_20140411033435.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-1_1986620398_20140411033435_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-1_1986620398_20140411033435_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-1_1986620398_20140411033435_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-1_1986620398_20140411033435_80x60.jpg
-    modtime: '1397166110'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818361/104371236-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-2_8605139251_20140411033436.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-2_8605139251_20140411033436_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-2_8605139251_20140411033436_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-2_8605139251_20140411033436_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-2_8605139251_20140411033436_80x60.jpg
-    modtime: '1397166110'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818360/104371236-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-3_1341990418_20140411033436.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-3_1341990418_20140411033436_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-3_1341990418_20140411033436_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-3_1341990418_20140411033436_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98122/images/104371236-3_1341990418_20140411033436_80x60.jpg
-    modtime: '1397166110'
-    dimensions: null
-property_id: '146029'
-id: 65d9605a-f1b8-4684-b428-d7c5bb7e9d8f
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818359/104371236-image-M.jpg'
+property_id: '434854'
+id: f25dafb7-793a-4c46-be19-58fe754c1960
 ---
 Situated in a seven-year old complex of 30 dwellings in Moorooka, this three bedroom, two bathroom villa would suit an investor greatly.
 

@@ -1,105 +1,56 @@
 ---
-title: 'Neat as a Pin!'
-price: '$350 per week'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: leased
+title: 'Neat as a Pin'
+price: '$369,000'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '16 Annear Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/S3Ua0_OHOG6A94etxU5GCJ470Es=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821350/116781523-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Front-Daynes_1213445566_20180130090201.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Front-Daynes_1213445566_20180130090201_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Front-Daynes_1213445566_20180130090201_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Front-Daynes_1213445566_20180130090201_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Front-Daynes_1213445566_20180130090201_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821361/116781523-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living-Dayne_417565379_20180130090200.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living-Dayne_417565379_20180130090200_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living-Dayne_417565379_20180130090200_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living-Dayne_417565379_20180130090200_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living-Dayne_417565379_20180130090200_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821360/116781523-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living2-Dayn_9078365696_20180130090223.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living2-Dayn_9078365696_20180130090223_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living2-Dayn_9078365696_20180130090223_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living2-Dayn_9078365696_20180130090223_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Living2-Dayn_9078365696_20180130090223_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821359/116781523-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Kitchen-Dayn_4095209316_20180130090133.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Kitchen-Dayn_4095209316_20180130090133_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Kitchen-Dayn_4095209316_20180130090133_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Kitchen-Dayn_4095209316_20180130090133_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Kitchen-Dayn_4095209316_20180130090133_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821358/116781523-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bathroom-Day_5723735793_20180130085924.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bathroom-Day_5723735793_20180130085924_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bathroom-Day_5723735793_20180130085924_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bathroom-Day_5723735793_20180130085924_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bathroom-Day_5723735793_20180130085924_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821357/116781523-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed1-Daynes-_1737135497_20180130090019.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed1-Daynes-_1737135497_20180130090019_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed1-Daynes-_1737135497_20180130090019_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed1-Daynes-_1737135497_20180130090019_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed1-Daynes-_1737135497_20180130090019_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821356/116781523-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed2-Daynes-_6159770396_20180130090111.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed2-Daynes-_6159770396_20180130090111_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed2-Daynes-_6159770396_20180130090111_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed2-Daynes-_6159770396_20180130090111_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed2-Daynes-_6159770396_20180130090111_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821355/116781523-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed3-Daynes-_2532255880_20180130090114.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed3-Daynes-_2532255880_20180130090114_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed3-Daynes-_2532255880_20180130090114_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed3-Daynes-_2532255880_20180130090114_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Bed3-Daynes-_2532255880_20180130090114_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821354/116781523-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Backyard-Day_2869044836_20180130090032.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Backyard-Day_2869044836_20180130090032_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Backyard-Day_2869044836_20180130090032_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Backyard-Day_2869044836_20180130090032_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1365141/images/Galah-3-Backyard-Day_2869044836_20180130090032_80x60.jpg
-    modtime: '1517310279'
-    dimensions: 1200x900
-property_id: '2972179'
-id: 6b8179c7-5ff1-4332-98dc-2b6062c0d3cd
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821353/116781523-image-C.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821352/116781523-image-B.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821351/116781523-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821350/116781523-image-M.jpg'
+property_id: '435176'
+id: 24b78724-2968-4f0b-9755-320d8bab50c0
 ---
-This beautifully presented, low maintenance property is perfect for those who are after a spacious home without sacrificing convenience. Situated close to transport, Brisbane Markets, leafy parks and a great range of amenities, this property really can offer it all.
+You decide whether you would like to develop the site as it is zoned LMR on 607m2, live in it or simply rent it.
 
-This property features:
-*  Three good-sized bedrooms, main with air-conditioning and built-in wardrobes
-*  Air-conditioned open plan kitchen, living and dining area
-*  Modern kitchen with plenty of bench space and storage
-*  Low-maintenance polished hardwood timber floors throughout
-*  Beautiful renovated family bathroom
-*  Separate laundry with additional toilet
-*  Grassy yard, garden shed and hills hoist clothes line
-*  Semi-furnished
+Features include;
+*  The house is absolutely immaculate
+*  Cyprus pine weatherboards with an iron roof
+*  3 Bedrooms, 2 with built in robes
+*  2.7 mtr or 9ft ceilings
+*  Polished cyprus pine floors to lounge area
+*  Ceiling fans in living area and master bedrooms
+*  Upgraded kitchen
+*  Landscaped gardens
+*  Huge veggie garden
+*  5000Ltr water tank
+*  Carport and garden shed
+*  New hot water system and stove
+*  Fully fenced yard
 
-Situated only 9km from Brisbane CBD and handy for commuters going north, south and west, this property is excellently positioned. Also in the Rocklea State School and Yeronga State High School catchments.
+Located close to all amenities including shops, parks, Acacia Ridge State School and Souths Sports Club. A bus stop is situated less than 100 metres away.

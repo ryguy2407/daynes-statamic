@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97
+class ComposerStaticInit362ff105fbeec6fd51a427555424dadd
 {
     public static $files = array (
         '95a22d2145ae40de20dc7ea7be07a610' => __DIR__ . '/../..' . '/bootstrap/helpers.php',
@@ -2791,6 +2791,9 @@ class ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97
         'Statamic\\Addons\\CRMListings\\CRMListingsTags' => __DIR__ . '/../..' . '/../site/addons/CRMListings/CRMListingsTags.php',
         'Statamic\\Addons\\CRMListings\\CRMListingsTasks' => __DIR__ . '/../..' . '/../site/addons/CRMListings/CRMListingsTasks.php',
         'Statamic\\Addons\\CRMListings\\CRMListingsWidget' => __DIR__ . '/../..' . '/../site/addons/CRMListings/CRMListingsWidget.php',
+        'Statamic\\Addons\\CRMListings\\Repositories\\CRMInterface' => __DIR__ . '/../..' . '/../site/addons/CRMListings/Repositories/CRMInterface.php',
+        'Statamic\\Addons\\CRMListings\\Repositories\\EagleListings' => __DIR__ . '/../..' . '/../site/addons/CRMListings/Repositories/EagleListings.php',
+        'Statamic\\Addons\\CRMListings\\Repositories\\RexListings' => __DIR__ . '/../..' . '/../site/addons/CRMListings/Repositories/RexListings.php',
         'Statamic\\Addons\\Cache\\CacheTags' => __DIR__ . '/../..' . '/bundles/Cache/CacheTags.php',
         'Statamic\\Addons\\Can\\CanAPI' => __DIR__ . '/../..' . '/bundles/Can/CanAPI.php',
         'Statamic\\Addons\\Can\\CanTags' => __DIR__ . '/../..' . '/bundles/Can/CanTags.php',
@@ -3369,9 +3372,6 @@ class ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97
         'Statamic\\Search\\IndexNotFoundException' => __DIR__ . '/../..' . '/core/Search/IndexNotFoundException.php',
         'Statamic\\Search\\ItemResolver' => __DIR__ . '/../..' . '/core/Search/ItemResolver.php',
         'Statamic\\Search\\Search' => __DIR__ . '/../..' . '/core/Search/Search.php',
-        'Statamic\\SiteHelpers\\Filters' => __DIR__ . '/../..' . '/../site/helpers/Filters.php',
-        'Statamic\\SiteHelpers\\Modifiers' => __DIR__ . '/../..' . '/../site/helpers/Modifiers.php',
-        'Statamic\\SiteHelpers\\Tags' => __DIR__ . '/../..' . '/../site/helpers/Tags.php',
         'Statamic\\Stache\\AggregateRepository' => __DIR__ . '/../..' . '/core/Stache/AggregateRepository.php',
         'Statamic\\Stache\\Driver' => __DIR__ . '/../..' . '/core/Stache/Driver.php',
         'Statamic\\Stache\\Drivers\\AbstractDriver' => __DIR__ . '/../..' . '/core/Stache/Drivers/AbstractDriver.php',
@@ -4036,11 +4036,11 @@ class ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97::$prefixDirsPsr4;
-            $loader->fallbackDirsPsr4 = ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97::$fallbackDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInit872a52fc87c3c36c14eb1a4e89338f97::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit362ff105fbeec6fd51a427555424dadd::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit362ff105fbeec6fd51a427555424dadd::$prefixDirsPsr4;
+            $loader->fallbackDirsPsr4 = ComposerStaticInit362ff105fbeec6fd51a427555424dadd::$fallbackDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit362ff105fbeec6fd51a427555424dadd::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit362ff105fbeec6fd51a427555424dadd::$classMap;
 
         }, null, ClassLoader::class);
     }

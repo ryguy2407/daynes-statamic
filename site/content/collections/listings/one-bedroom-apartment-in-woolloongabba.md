@@ -1,67 +1,28 @@
 ---
 title: 'One Bedroom Apartment In Woolloongabba'
-price: '$239,000'
-bedrooms: '1'
-bathrooms: '1'
-cars: null
-status: sold
+price: ''
+rent: null
+bedrooms: 1
+bathrooms: 1
+cars: 0
+status: Sold
+address: '6 / 9 Lockhart Street, WOOLLOONGABBA'
+main_image: 'https://img.eagleagent.com.au/HT717FX9PZxj-ivqJppmCuFC8lI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818499/104632209-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-1_9959992883_20140411033210.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-1_9959992883_20140411033210_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-1_9959992883_20140411033210_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-1_9959992883_20140411033210_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-1_9959992883_20140411033210_80x60.jpg
-    modtime: '1397165970'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818504/104632209-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-2_4851068049_20140411033210.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-2_4851068049_20140411033210_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-2_4851068049_20140411033210_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-2_4851068049_20140411033210_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-2_4851068049_20140411033210_80x60.jpg
-    modtime: '1397165970'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818503/104632209-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-3_3193681785_20140411033210.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-3_3193681785_20140411033210_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-3_3193681785_20140411033210_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-3_3193681785_20140411033210_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-3_3193681785_20140411033210_80x60.jpg
-    modtime: '1397165970'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818502/104632209-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-4_7884162641_20140411033209.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-4_7884162641_20140411033209_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-4_7884162641_20140411033209_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-4_7884162641_20140411033209_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-4_7884162641_20140411033209_80x60.jpg
-    modtime: '1397165970'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818501/104632209-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-5_1665922268_20140411033215.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-5_1665922268_20140411033215_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-5_1665922268_20140411033215_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-5_1665922268_20140411033215_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-5_1665922268_20140411033215_80x60.jpg
-    modtime: '1397165970'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818500/104632209-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-6_4074467318_20140411033214.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-6_4074467318_20140411033214_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-6_4074467318_20140411033214_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-6_4074467318_20140411033214_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98140/images/104632209-6_4074467318_20140411033214_80x60.jpg
-    modtime: '1397165970'
-    dimensions: null
-property_id: '146050'
-id: cce03f95-614d-4ec2-b4f4-ff528891771d
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818499/104632209-image-M.jpg'
+property_id: '434875'
+id: 62181d66-b1c2-4b50-b55a-3cafc013fe14
 ---
 Get yourself into the real estate market with this affordable one bedroom unit located in the heart of Woolloongabba. Situated in a complex of 8, the unit has a floor area of 46sqm which comprises of a loft style bedroom with study area underneath and a separate living/kitchen area.
 

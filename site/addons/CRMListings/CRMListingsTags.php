@@ -2,12 +2,14 @@
 
 namespace Statamic\Addons\CRMListings;
 
+use Aws\Handler\GuzzleV5\GuzzleHandler;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Statamic\Addons\CRMListings\Repositories\CRMInterface;
 use Statamic\API\Collection;
 use Statamic\API\Entry;
 use Statamic\API\Fieldset;
 use Statamic\Extend\Tags;
+use GuzzleHttp\Client;
 
 class CRMListingsTags extends Tags
 {
@@ -21,11 +23,14 @@ class CRMListingsTags extends Tags
 
     public $limit;
 
-    public function __construct(CRMInterface $crm)
+    public $client;
+
+    public function __construct(CRMInterface $crm, Client $client)
     {
         parent::__construct();
         $this->crm = $crm;
         $this->limit = 20;
+        $this->client = $client;
     }
 
     /**
@@ -61,22 +66,22 @@ class CRMListingsTags extends Tags
             $fieldset->save();
         }
 
-        $limit = 20;
-        $result = $this->crm->getListings('Sold', 'residential_sale', 0);
+        $limit = 60;
+        $result = $this->crm->getListings('Sold', 'residential_sale', $offset);
 
-        $count = count($result);
+        $count = count($result['data']);
 
         // Keep running until all listings are saved into DB
         if($count == $limit) {
             $offset += $limit;
-            foreach($result as $listing) {
+            foreach($result['data'] as $listing) {
                 $this->store($listing);
             }
             $this->createlistings($offset);
         }
 
         // Run this loop when count is less than limit
-        foreach($result as $listing) {
+        foreach($result['data'] as $listing) {
             $this->store($listing);
         }
 
@@ -85,19 +90,28 @@ class CRMListingsTags extends Tags
 
     public function store($listing)
     {
+        $images = $this->crm->getImages($listing['relationships']['images']['links']['related']);
+        $imagesArray = [];
 
-        $factory = Entry::create($listing['advert_internet']['heading'])
+        foreach($images['data'] as $image) {
+            $imagesArray[] = ['url' => $image['attributes']['url']];
+        }
+
+        $factory = Entry::create($listing['attributes']['headline'])
                         ->collection('listings')
                         ->with([
-                            'title' => $listing['advert_internet']['heading'],
-                            'content' => $listing['advert_internet']['body'],
-                            'price' => $listing['price_advertise_as'],
+                            'title' => $listing['attributes']['headline'],
+                            'content' => $listing['attributes']['description'],
+                            'price' => $listing['attributes']['alt_to_price'],
+                            'rent' => $listing['attributes']['rental_per_week'],
                             'bedrooms' => $listing['attributes']['bedrooms'],
                             'bathrooms' => $listing['attributes']['bathrooms'],
-                            'cars' => $listing['attributes']['total_car_accom'],
-                            'status' => $listing['system_listing_state'],
-                            'images' => $listing['images'],
-                            'property_id' => $listing['property_id']
+                            'cars' => $listing['attributes']['car_spaces'],
+                            'status' => $listing['attributes']['status'],
+                            'address' => $listing['attributes']['full_address'],
+                            'main_image' => $listing['attributes']['primary_image'],
+                            'images' => $imagesArray,
+                            'property_id' => $listing['id']
                         ]);
 
         $entry = $factory->get();

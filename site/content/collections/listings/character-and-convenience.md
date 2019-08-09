@@ -1,134 +1,46 @@
 ---
 title: 'Character and Convenience'
 price: 'Offers Over $428,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '25 Janzoon Street, ARCHERFIELD'
+main_image: 'https://img.eagleagent.com.au/JQxXnVp_o6dzNaKfN8THlVWecAg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822242/129139746-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Front-Day_3002308578_20180822014324.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Front-Day_3002308578_20180822014324_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Front-Day_3002308578_20180822014324_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Front-Day_3002308578_20180822014324_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Front-Day_3002308578_20180822014324_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822254/129139746-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Patio-Day_2227925637_20180822014318.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Patio-Day_2227925637_20180822014318_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Patio-Day_2227925637_20180822014318_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Patio-Day_2227925637_20180822014318_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Patio-Day_2227925637_20180822014318_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822253/129139746-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living2-D_6985419177_20180822014336.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living2-D_6985419177_20180822014336_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living2-D_6985419177_20180822014336_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living2-D_6985419177_20180822014336_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living2-D_6985419177_20180822014336_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822252/129139746-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen2-_6328507628_20180822014333.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen2-_6328507628_20180822014333_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen2-_6328507628_20180822014333_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen2-_6328507628_20180822014333_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen2-_6328507628_20180822014333_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822251/129139746-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living-Da_6045411160_20180822014339.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living-Da_6045411160_20180822014339_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living-Da_6045411160_20180822014339_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living-Da_6045411160_20180822014339_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Living-Da_6045411160_20180822014339_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822250/129139746-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen-D_3649021503_20180822014336.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen-D_3649021503_20180822014336_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen-D_3649021503_20180822014336_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen-D_3649021503_20180822014336_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Kitchen-D_3649021503_20180822014336_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822249/129139746-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Deck-Dayn_6078023697_20180822014331.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Deck-Dayn_6078023697_20180822014331_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Deck-Dayn_6078023697_20180822014331_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Deck-Dayn_6078023697_20180822014331_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Deck-Dayn_6078023697_20180822014331_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822248/129139746-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed1-Dayn_7475411244_20180822014341.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed1-Dayn_7475411244_20180822014341_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed1-Dayn_7475411244_20180822014341_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed1-Dayn_7475411244_20180822014341_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed1-Dayn_7475411244_20180822014341_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822247/129139746-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed3-Dayn_9199531489_20180822014347.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed3-Dayn_9199531489_20180822014347_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed3-Dayn_9199531489_20180822014347_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed3-Dayn_9199531489_20180822014347_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed3-Dayn_9199531489_20180822014347_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822246/129139746-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed2-Dayn_5273985062_20180822014342.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed2-Dayn_5273985062_20180822014342_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed2-Dayn_5273985062_20180822014342_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed2-Dayn_5273985062_20180822014342_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Bed2-Dayn_5273985062_20180822014342_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822245/129139746-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard-_5457928140_20180822014329.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard-_5457928140_20180822014329_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard-_5457928140_20180822014329_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard-_5457928140_20180822014329_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard-_5457928140_20180822014329_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822244/129139746-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard2_5369074525_20180822014323.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard2_5369074525_20180822014323_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard2_5369074525_20180822014323_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard2_5369074525_20180822014323_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Backyard2_5369074525_20180822014323_80x60.jpg
-    modtime: '1534909521'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822243/129139746-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Block-Day_6912047796_20180822020749.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Block-Day_6912047796_20180822020749_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Block-Day_6912047796_20180822020749_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Block-Day_6912047796_20180822020749_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1602806/images/Janzoon-25-Block-Day_6912047796_20180822020749_80x60.jpg
-    modtime: '1534910895'
-    dimensions: 1200x900
-property_id: '1927715'
-id: b2cb9107-5516-49ae-80ff-9897f91cfc3f
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822242/129139746-image-M.jpg'
+property_id: '435251'
+id: 3475091a-b6c3-45f0-a58f-0b95a3e8bc7e
 ---
-This property is full of character and creative flair, perfect for those looking for a little extra for their next home. The home is full of history and bespoke features. No detail has been left unattended both inside and out, with the home being the pride and joy of the current owner. Approaching the property, the tranquility of the area is apparent and this combined with the abundance of trees make this place a lovely escape. A home with great street appeal, the gardens have been thoughtfully planted with low maintenance and bird attracting native trees. The home itself has been freshly re-painted and is a private high-set design allowing a lovely elevated outlook. 
+This property is full of character and creative flair, perfect for those looking for a little extra for their next home. The home is full of history and bespoke features. No detail has been left unattended both inside and out, with the home being the pride and joy of the current owner. Approaching the property, the tranquility of the area is apparent and this combined with the abundance of trees make this place a lovely escape. A home with great street appeal, the gardens have been thoughtfully planted with low maintenance and bird attracting native trees. The home itself has been freshly re-painted and is a private high-set design allowing a lovely elevated outlook.
 
-The real highlight of the home is the back deck overlooking the leafy gardens. Promising plenty of happy times enjoying the company of loved ones in the cool summer breezes. The enclosed section is council approved and built to be a bathroom/wet area and would be a perfect spot for an outdoor spa. This room has also been used as an outdoor lounge room/ TV room, a computer games room and an artist studio. Stepping inside, the kitchen has been thoughtfully designed for maximum style and convenience, with the solid timber feature bench a single piece from a hoop pine tree. The kitchen opens effortlessly to the living and dining, and out to the deck beyond. This home is unique in providing all the convenience of a thoroughly modern home coupled with the character of bespoke finishes. 
+The real highlight of the home is the back deck overlooking the leafy gardens. Promising plenty of happy times enjoying the company of loved ones in the cool summer breezes. The enclosed section is council approved and built to be a bathroom/wet area and would be a perfect spot for an outdoor spa. This room has also been used as an outdoor lounge room/ TV room, a computer games room and an artist studio. Stepping inside, the kitchen has been thoughtfully designed for maximum style and convenience, with the solid timber feature bench a single piece from a hoop pine tree. The kitchen opens effortlessly to the living and dining, and out to the deck beyond. This home is unique in providing all the convenience of a thoroughly modern home coupled with the character of bespoke finishes.
 
 This property features:
 

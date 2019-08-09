@@ -1,58 +1,26 @@
 ---
 title: 'Two Bedroom Unit in Lovely Location'
 price: '$289,000'
-bedrooms: '2'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 2
+bathrooms: 1
+cars: 1
+status: Sold
+address: '3 / 65 Goodwin Terrace, MOOROOKA'
+main_image: 'https://img.eagleagent.com.au/lYHAsVZZrU3pBnMtfRX2SfX_Rvk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823381/120760481-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Front_3656863738_20150915075105.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Front_3656863738_20150915075105_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Front_3656863738_20150915075105_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Front_3656863738_20150915075105_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Front_3656863738_20150915075105_80x60.jpg
-    modtime: '1442310793'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823385/120760481-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Living_5863399478_20150915075125.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Living_5863399478_20150915075125_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Living_5863399478_20150915075125_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Living_5863399478_20150915075125_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Living_5863399478_20150915075125_80x60.jpg
-    modtime: '1442310793'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823384/120760481-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Kitchen_657834252_20150915075117.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Kitchen_657834252_20150915075117_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Kitchen_657834252_20150915075117_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Kitchen_657834252_20150915075117_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Kitchen_657834252_20150915075117_80x60.jpg
-    modtime: '1442310793'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823383/120760481-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Driveway_6213955749_20150915075051.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Driveway_6213955749_20150915075051_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Driveway_6213955749_20150915075051_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Driveway_6213955749_20150915075051_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Driveway_6213955749_20150915075051_80x60.jpg
-    modtime: '1442310793'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823382/120760481-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Bathroom_468375142_20150915075108.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Bathroom_468375142_20150915075108_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Bathroom_468375142_20150915075108_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Bathroom_468375142_20150915075108_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/492772/images/Bathroom_468375142_20150915075108_80x60.jpg
-    modtime: '1442310793'
-    dimensions: 1200x900
-property_id: '1241613'
-id: 279200f8-6a5b-4d02-95c7-1205239153a4
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823381/120760481-image-M.jpg'
+property_id: '435340'
+id: f9f1ce95-11a9-43b5-95dc-7fe4e5e85966
 ---
 This lovely two bedroom unit is situated in the heart of Moorooka amongst newly landscaped grounds and a quiet and leafy street. Enjoy the privacy of this unit in the middle of a boutique complex of four, featuring a lovely sheltered balcony off the living area affording an elevated and leafy view. The two bedrooms a good-sized and the open plan kitchen and living areas are well proportioned. Ready for some simple renovations, this is a fantastic opportunity for the savvy investor or first home buyer to make their move into the booming Moorooka property market.
 

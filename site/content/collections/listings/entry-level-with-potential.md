@@ -1,58 +1,26 @@
 ---
 title: 'Entry-Level with Potential!'
 price: 'Offers Over $300,000'
-bedrooms: '2'
-bathrooms: '1'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 2
+bathrooms: 1
+cars: 2
+status: Sold
+address: '8 Sussex Road, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/Brt3iZUb24scJfsYT4r4XiDkT7c=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823459/121485018-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/_MG_1337_4668560098_20151205043049.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/_MG_1337_4668560098_20151205043049_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/_MG_1337_4668560098_20151205043049_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/_MG_1337_4668560098_20151205043049_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/_MG_1337_4668560098_20151205043049_80x60.jpg
-    modtime: '1449297045'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823463/121485018-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR4_1841154312_20151205043032.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR4_1841154312_20151205043032_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR4_1841154312_20151205043032_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR4_1841154312_20151205043032_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR4_1841154312_20151205043032_80x60.jpg
-    modtime: '1449297045'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823462/121485018-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR2_4662346733_20151205043027.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR2_4662346733_20151205043027_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR2_4662346733_20151205043027_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR2_4662346733_20151205043027_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR2_4662346733_20151205043027_80x60.jpg
-    modtime: '1449297045'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823461/121485018-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR6_6911389372_20151205043015.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR6_6911389372_20151205043015_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR6_6911389372_20151205043015_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR6_6911389372_20151205043015_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR6_6911389372_20151205043015_80x60.jpg
-    modtime: '1449297045'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823460/121485018-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR8_7090655766_20151205043012.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR8_7090655766_20151205043012_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR8_7090655766_20151205043012_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR8_7090655766_20151205043012_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/645591/images/Untitled_HDR8_7090655766_20151205043012_80x60.jpg
-    modtime: '1449297045'
-    dimensions: 1200x900
-property_id: '1810050'
-id: 73a1362e-42d8-4659-84c6-4da180b9b7d1
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823459/121485018-image-M.jpg'
+property_id: '435349'
+id: 10b047b6-1689-4a40-8f05-516ed67e8d5a
 ---
 This cute cottage is is an amazing opportunity for those who want to secure a piece of this rapidly developing suburb. The property is situated in a convenient location, on a low maintenance 437sqm flat block with Low Medium Residential (LMR) zoning. Of solid construction, the house has hardwood flooring throughout, chamfer board exterior and steel roof. Internally, the rooms are well proportioned and functional with a combined living and dining off the good-sized kitchen. This house is a great chance to bring your own renovation dreams to life, both investors and first home owners alike.
 

@@ -1,94 +1,34 @@
 ---
 title: 'Modern Two Bedroom Apartment in Quiet Complex'
 price: '$359,000'
-bedrooms: '2'
-bathrooms: '2'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 2
+status: Sold
+address: '14 / 329 Lillian Avenue, SALISBURY'
+main_image: 'https://img.eagleagent.com.au/bsp_NzxcSCYvDBqa3Ow7hLX-69I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822555/117300447-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/main_7266168623_2014_4305475913_20140818103058.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/main_7266168623_2014_4305475913_20140818103058_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/main_7266168623_2014_4305475913_20140818103058_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/main_7266168623_2014_4305475913_20140818103058_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/main_7266168623_2014_4305475913_20140818103058_80x60.jpg
-    modtime: '1431406048'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822563/117300447-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Deck_6890160935_20140818103027.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Deck_6890160935_20140818103027_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Deck_6890160935_20140818103027_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Deck_6890160935_20140818103027_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Deck_6890160935_20140818103027_80x60.jpg
-    modtime: '1431406048'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822562/117300447-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Living_6254896019_20140818103030.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Living_6254896019_20140818103030_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Living_6254896019_20140818103030_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Living_6254896019_20140818103030_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Living_6254896019_20140818103030_80x60.jpg
-    modtime: '1431406048'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822561/117300447-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Kitchen_7117880294_20140818103028.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Kitchen_7117880294_20140818103028_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Kitchen_7117880294_20140818103028_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Kitchen_7117880294_20140818103028_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/Kitchen_7117880294_20140818103028_80x60.jpg
-    modtime: '1431406048'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822560/117300447-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image5_6941008414_20140620043959.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image5_6941008414_20140620043959_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image5_6941008414_20140620043959_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image5_6941008414_20140620043959_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image5_6941008414_20140620043959_80x60.jpg
-    modtime: '1431406048'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822559/117300447-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-4_1855430472_20140620043955.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-4_1855430472_20140620043955_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-4_1855430472_20140620043955_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-4_1855430472_20140620043955_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-4_1855430472_20140620043955_80x60.jpg
-    modtime: '1431406048'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822558/117300447-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-6_5763557665_20140620043959.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-6_5763557665_20140620043959_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-6_5763557665_20140620043959_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-6_5763557665_20140620043959_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/2014-6_5763557665_20140620043959_80x60.jpg
-    modtime: '1431406048'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822557/117300447-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image8_6753689205_20140620044003.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image8_6753689205_20140620044003_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image8_6753689205_20140620044003_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image8_6753689205_20140620044003_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image8_6753689205_20140620044003_80x60.jpg
-    modtime: '1431406048'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822556/117300447-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image7_318445996_20140620044005.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image7_318445996_20140620044005_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image7_318445996_20140620044005_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image7_318445996_20140620044005_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/179053/images/image7_318445996_20140620044005_80x60.jpg
-    modtime: '1431406048'
-    dimensions: null
-property_id: '146137'
-id: eaba86ef-472c-4972-bbdf-bbb3f53adb1a
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822555/117300447-image-M.jpg'
+property_id: '435274'
+id: 3d6ac4da-ffd1-4585-90cc-cfedc31147d3
 ---
 Act now to secure this terrific investment opportunity or to live with great convenience in Salisbury.
 

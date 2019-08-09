@@ -1,40 +1,73 @@
 ---
 title: 'SOLD BY DAYNES PROPERTY'
-price: SOLD
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+price: 'SOLD BY DAYNES'
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 1
+status: Sold
+address: '9 / 69 Cook Street, OXLEY'
+main_image: 'https://img.eagleagent.com.au/VYBBVa7yq1ojhNjqY62mRv4AQGw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822134/130469042-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Front-Dayn_2645518435_20170525072500.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Front-Dayn_2645518435_20170525072500_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Front-Dayn_2645518435_20170525072500_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Front-Dayn_2645518435_20170525072500_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Front-Dayn_2645518435_20170525072500_80x60.jpg
-    modtime: '1495704708'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822154/130469042-image-U.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Map-Daynes_805581477_20170525074653.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Map-Daynes_805581477_20170525074653_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Map-Daynes_805581477_20170525074653_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Map-Daynes_805581477_20170525074653_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1152486/images/Kirkley-8-Map-Daynes_805581477_20170525074653_80x60.jpg
-    modtime: '1495706043'
-    dimensions: 1200x900
-property_id: '1925645'
-id: 328cf9ee-f734-4c79-be6a-ac555e5d3fe1
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822153/130469042-image-T.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822152/130469042-image-S.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822151/130469042-image-R.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822150/130469042-image-Q.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822149/130469042-image-P.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822148/130469042-image-O.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822147/130469042-image-N.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822146/130469042-image-L.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822145/130469042-image-K.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822144/130469042-image-J.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822143/130469042-image-I.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822142/130469042-image-H.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822141/130469042-image-G.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822140/130469042-image-F.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822139/130469042-image-E.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822138/130469042-image-D.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822137/130469042-image-C.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822136/130469042-image-B.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822135/130469042-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822134/130469042-image-M.jpg'
+property_id: '435243'
+id: 37d8a759-b399-4e32-8bca-d7cefe37212d
 ---
-The home, while comfortable and beautifully presented as is, represents an opportunity for the first home buyer or investor to renovate, making this home truly your own. A cool and comfortable home, with a spacious combined living and dining area. The large kitchen is situated to the rear of the home, and steps out to the backyard giving plenty of opportunity for easy outdoor entertaining. The three good-sized bedrooms are well-appointed and full of light.
+Oxley Central Apartments / / Boutique Development Offering Unique Location & Lifestyle
 
-This property features:
+Enjoy living where you can leave the city noise behind, trees line wide streets and kids run free in broad parklands. Located 11km from Brisbane CBD, Oxley offers residents a vibrant range of facilities and entertainment to suit any lifestyle.
 
-*  Spacious combined living and dining
-*  Kitchen with plenty of storage
-*  Carpets throughout living and bedrooms, original hardwood floors underneath 
-*  Three good sized bedrooms
-*  Fully fenced mainly flat block, Perfect for children and pets 
+This stunning collection of 17 two-bedroom, two bathroom apartments have been built from the foundation of a home with the style and convenience of an urban oasis.
 
-Situated in a quiet pocket of Acacia Ridge, this home is a peaceful setting for a growing family. Likewise, investors will see potential in this home of solid construction and in a desirable location. Convenient to Elizabeth Street Shopping Centre and Acacia Marketplace on Beaudesert Road, both boasting a great range of amenities. Also situated to be convenient to a great range of primary schools and daycare centres in the surrounding local area. Perfect for those who commute, with great transport options to the north, south and west of Brisbane. This home will not last long, call today to arrange an inspection!
+Creative layouts deliver the most in living, relaxation, and are ideal for entertaining. Main living areas open onto broad courtyards and balconies, ranging in size from 15sqm to 23sqm, where you can create perfect afternoon barbeques with friends, or simply enjoy watching the sunset over the suburban treetops.
+
+Exquisite master bedrooms provide an abundance of space and incorporate impressive walk-in-robes and stylish ensuites, while Oxley Central's state of the art kitchens are a contemporary space, delivering plenty of room for culinary creations.
+
+Boasting access to all of Brisbane's premium south-western facilities, here you truly have the room to choose. Close to parklands, lifestyle amenities, education, and public transport, you truly are positioned at the heart of Oxley’s rich environment. All convenience needs are met at The Station Oxley with Woolworths and specialties stores only moments from your door. The Brisbane Markets at Rocklea are eight minutes from Oxley Central, where you'll find the largest collection of fresh produce and flower markets every weekend.
+
+A growing number of café and dining options weave through Oxley streets, creating plenty of choice for residents. Oxley Golf Complex delivers first class facilities at their picturesque 9-hole golf course and is only three minutes from Oxley Central, or the range of open parklands at Nixon and Cawonga Parks and are perfect for getting out and about exploring nature or simply kicking back on a sunny afternoon.
+
+Local schools and community spots are an easy stroll, and if you ever need to venture further there are plenty of local bus stops along main streets, plus Oxley Train Station running frequent services to the CBD just 260 metres from your door.
+
+Enquire today for your opportunity to secure a piece of Oxley’s most prestigious developments!

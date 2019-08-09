@@ -1,58 +1,26 @@
 ---
 title: 'Looking For Quality & Value For Money?'
-price: '$509,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '2'
-status: sold
+price: ''
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 2
+status: Sold
+address: '3 / 11 Denman Street, GREENSLOPES'
+main_image: 'https://img.eagleagent.com.au/WVHQ7qZb6eJ6UgqAjBIPsmC362w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819259/105463279-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-1_9422476907_20140411041252.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-1_9422476907_20140411041252_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-1_9422476907_20140411041252_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-1_9422476907_20140411041252_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-1_9422476907_20140411041252_80x60.jpg
-    modtime: '1397168332'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819263/105463279-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-2_6094235364_20140411041253.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-2_6094235364_20140411041253_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-2_6094235364_20140411041253_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-2_6094235364_20140411041253_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-2_6094235364_20140411041253_80x60.jpg
-    modtime: '1397168332'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819262/105463279-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-3_6727727340_20140411041252.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-3_6727727340_20140411041252_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-3_6727727340_20140411041252_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-3_6727727340_20140411041252_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-3_6727727340_20140411041252_80x60.jpg
-    modtime: '1397168332'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819261/105463279-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-4_2944116448_20140411041258.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-4_2944116448_20140411041258_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-4_2944116448_20140411041258_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-4_2944116448_20140411041258_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-4_2944116448_20140411041258_80x60.jpg
-    modtime: '1397168332'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819260/105463279-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-5_1955006155_20140411041256.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-5_1955006155_20140411041256_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-5_1955006155_20140411041256_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-5_1955006155_20140411041256_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98001/images/105463279-5_1955006155_20140411041256_80x60.jpg
-    modtime: '1397168332'
-    dimensions: null
-property_id: '145559'
-id: 98869f68-6f8a-4a6c-84bd-5db4c9733c7a
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819259/105463279-image-M.jpg'
+property_id: '434951'
+id: e791ed2d-28b5-4607-b2e8-45f308e638f6
 ---
 This near new, three bedroom, two bathroom townhouse is located in a quiet Greenslopes street within a small complex of two townhouses and a renovated Queenslander.
 

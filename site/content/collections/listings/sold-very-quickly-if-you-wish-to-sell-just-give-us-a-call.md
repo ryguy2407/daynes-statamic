@@ -1,49 +1,24 @@
 ---
 title: 'Sold very quickly - If you wish to sell, just give us a call'
-price: '$560,000'
-bedrooms: '4'
-bathrooms: '1'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 4
+bathrooms: 1
+cars: 1
+status: Sold
+address: '129 Park Road, WOOLLOONGABBA'
+main_image: 'https://img.eagleagent.com.au/bsbK7s7idKJZUTcQ0hCbq7cm844=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818018/103861748-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-1_5952984588_20140411034224.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-1_5952984588_20140411034224_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-1_5952984588_20140411034224_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-1_5952984588_20140411034224_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-1_5952984588_20140411034224_80x60.jpg
-    modtime: '1397166448'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818021/103861748-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-2_5550792860_20140411034223.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-2_5550792860_20140411034223_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-2_5550792860_20140411034223_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-2_5550792860_20140411034223_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-2_5550792860_20140411034223_80x60.jpg
-    modtime: '1397166448'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818020/103861748-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-3_7123879823_20140411034224.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-3_7123879823_20140411034224_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-3_7123879823_20140411034224_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-3_7123879823_20140411034224_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-3_7123879823_20140411034224_80x60.jpg
-    modtime: '1397166448'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818019/103861748-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-4_7952078968_20140411034222.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-4_7952078968_20140411034222_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-4_7952078968_20140411034222_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-4_7952078968_20140411034222_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98082/images/103861748-4_7952078968_20140411034222_80x60.jpg
-    modtime: '1397166448'
-    dimensions: null
-property_id: '145923'
-id: 24b3212c-27c1-47fa-82ef-9ebb624cd3b9
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818018/103861748-image-M.jpg'
+property_id: '434790'
+id: cb7fc1ec-708f-4fad-aa60-cff0cfbae386
 ---
 Here we have a semi-renovated Queenslander  so close to the city.  Situated on a generous 610 sqm of land with off street parking.
 

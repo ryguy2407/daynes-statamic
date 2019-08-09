@@ -2,6 +2,9 @@ sections:
   main:
     display: Main
     fields:
+      address:
+        type: text
+        display: Address
       price:
         type: text
         display: Price
@@ -14,6 +17,9 @@ sections:
       cars:
         type: text
         display: Cars
+      main_image:
+        type: text
+        display: Main Image
       status:
         options:
           current: Current

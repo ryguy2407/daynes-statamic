@@ -1,134 +1,46 @@
 ---
 title: 'Prime Position!'
 price: 'FOR SALE'
-bedrooms: '3'
-bathrooms: '1'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 2
+status: Sold
+address: '15 Leawarra Crescent, FERNY HILLS'
+main_image: 'https://img.eagleagent.com.au/CIdQSep7s2iDL-w_8zO8FgtMtHk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821261/125821254-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Da_8913541455_20170629083906.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Da_8913541455_20170629083906_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Da_8913541455_20170629083906_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Da_8913541455_20170629083906_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Da_8913541455_20170629083906_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821273/125821254-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living2-_6673429213_20170629083902.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living2-_6673429213_20170629083902_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living2-_6673429213_20170629083902_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living2-_6673429213_20170629083902_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living2-_6673429213_20170629083902_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821272/125821254-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Ba_3645920600_20170629083906.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Ba_3645920600_20170629083906_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Ba_3645920600_20170629083906_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Ba_3645920600_20170629083906_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Front-Ba_3645920600_20170629083906_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821271/125821254-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Kitchen-_793210668_20170704100511.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Kitchen-_793210668_20170704100511_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Kitchen-_793210668_20170704100511_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Kitchen-_793210668_20170704100511_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Kitchen-_793210668_20170704100511_80x60.jpg
-    modtime: '1499169918'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821270/125821254-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living-D_9156910880_20170629083904.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living-D_9156910880_20170629083904_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living-D_9156910880_20170629083904_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living-D_9156910880_20170629083904_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Living-D_9156910880_20170629083904_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821269/125821254-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed1-Day_4686615211_20170629083856.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed1-Day_4686615211_20170629083856_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed1-Day_4686615211_20170629083856_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed1-Day_4686615211_20170629083856_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed1-Day_4686615211_20170629083856_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821268/125821254-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed3-Day_6546136215_20170629083859.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed3-Day_6546136215_20170629083859_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed3-Day_6546136215_20170629083859_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed3-Day_6546136215_20170629083859_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed3-Day_6546136215_20170629083859_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821267/125821254-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed2-Day_4706891240_20170629083900.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed2-Day_4706891240_20170629083900_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed2-Day_4706891240_20170629083900_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed2-Day_4706891240_20170629083900_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bed2-Day_4706891240_20170629083900_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821266/125821254-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bath-Day_2534408043_20170629083856.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bath-Day_2534408043_20170629083856_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bath-Day_2534408043_20170629083856_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bath-Day_2534408043_20170629083856_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Bath-Day_2534408043_20170629083856_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821265/125821254-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_9390025693_20170629083901.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_9390025693_20170629083901_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_9390025693_20170629083901_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_9390025693_20170629083901_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_9390025693_20170629083901_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821264/125821254-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_7799502285_20170629083904.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_7799502285_20170629083904_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_7799502285_20170629083904_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_7799502285_20170629083904_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Backyard_7799502285_20170629083904_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821263/125821254-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Garage-D_2904563793_20170629083859.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Garage-D_2904563793_20170629083859_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Garage-D_2904563793_20170629083859_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Garage-D_2904563793_20170629083859_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Leawarra-15-Garage-D_2904563793_20170629083859_80x60.jpg
-    modtime: '1498689581'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821262/125821254-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Map-15-Leawarra_860285889_20170629090427.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Map-15-Leawarra_860285889_20170629090427_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Map-15-Leawarra_860285889_20170629090427_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Map-15-Leawarra_860285889_20170629090427_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1175275/images/Map-15-Leawarra_860285889_20170629090427_80x60.jpg
-    modtime: '1498691072'
-    dimensions: 1200x900
-property_id: '2941601'
-id: d118ad9b-b988-4b62-a429-073a7867cc62
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821261/125821254-image-M.jpg'
+property_id: '435169'
+id: 5ff7da5f-40b0-42a3-acfa-e2af8598e180
 ---
-This generous family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. One of the original homes of the area, this property boasts an exceptional elevated outlook. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.  
+This generous family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. One of the original homes of the area, this property boasts an exceptional elevated outlook. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 
-It is easy to imagine enjoying morning coffee on the front balcony enjoying one of the best outlooks in the area. This balcony steps out from the spacious living area, a lovely feature for families. The living area flows effortlessly into the dining and kitchen area, all generously proportioned and the perfect blank slate for your renovation dreams. Under the house is a thoughtfully designed space, with laundry, double car garage and a comfortable rumpus room. These classic homes are solidly built, featuring often untouched hardwood floors under carpets and lino and exceptional construction, making them perfect for renovation. 
+It is easy to imagine enjoying morning coffee on the front balcony enjoying one of the best outlooks in the area. This balcony steps out from the spacious living area, a lovely feature for families. The living area flows effortlessly into the dining and kitchen area, all generously proportioned and the perfect blank slate for your renovation dreams. Under the house is a thoughtfully designed space, with laundry, double car garage and a comfortable rumpus room. These classic homes are solidly built, featuring often untouched hardwood floors under carpets and lino and exceptional construction, making them perfect for renovation.
 
 The home, while comfortable and beautifully presented as is, represents an opportunity for the first home buyer or investor looking to renovate, making this home truly your own.
 
@@ -137,11 +49,11 @@ This home features:
 *  Stunning open plan living flowing into spacious kitchen and dining
 *  Original kitchen, spacious and functional as is
 *  Three good sized bedrooms
-*  Neat tiled bathroom with separate shower and bath tub 
+*  Neat tiled bathroom with separate shower and bath tub
 *  Under house fully enclosed with double lock up garage
-*  Under house also has additional space for entertaining 
-*  Brick, high-set construction 
-*  Hardwood timber floors under carpets and lino 
+*  Under house also has additional space for entertaining
+*  Brick, high-set construction
+*  Hardwood timber floors under carpets and lino
 *  Tiled roof
 *  Beautifully maintained gardens, front and back
 
@@ -154,10 +66,10 @@ Location:
 Schools
 *  Ferny Hills State School – 750m - 10 minute walk
 *  Ferny Grove State High School - 1.2 km - 15 minute walk
-*  Patricks Road State School - 1.6km 
+*  Patricks Road State School - 1.6km
 *  St Andrews Catholic College - 2.5 km
 
-Shops/Clubs/Parks 
+Shops/Clubs/Parks
 *  Coles Ferny Grove - 1.7km
 *  Arana Hills Plaza - Coles, Kmart, Aldi etc – 2.2km
 *  Woolworths Great Western – 2.9km

@@ -1,76 +1,30 @@
 ---
 title: 'Ideal Investment - Cash Flow Positive!'
 price: '$369,000'
-bedrooms: '4'
-bathrooms: '2'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 4
+bathrooms: 2
+cars: 2
+status: Sold
+address: '44 Melia Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/ngfxBZvveoi_FXkiLQlWRin7aIM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824091/115510415-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030304-63520_7116432660_20140411030638.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030304-63520_7116432660_20140411030638_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030304-63520_7116432660_20140411030638_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030304-63520_7116432660_20140411030638_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030304-63520_7116432660_20140411030638_80x60.jpg
-    modtime: '1397164406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824097/115510415-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030309-56049_3382389722_20140411030638.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030309-56049_3382389722_20140411030638_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030309-56049_3382389722_20140411030638_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030309-56049_3382389722_20140411030638_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030309-56049_3382389722_20140411030638_80x60.jpg
-    modtime: '1397164406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824096/115510415-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030313-63073_5890572853_20140411030636.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030313-63073_5890572853_20140411030636_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030313-63073_5890572853_20140411030636_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030313-63073_5890572853_20140411030636_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030313-63073_5890572853_20140411030636_80x60.jpg
-    modtime: '1397164406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824095/115510415-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030319-92977_4302627603_20140411030643.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030319-92977_4302627603_20140411030643_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030319-92977_4302627603_20140411030643_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030319-92977_4302627603_20140411030643_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030319-92977_4302627603_20140411030643_80x60.jpg
-    modtime: '1397164406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824094/115510415-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030322-44840_1059285043_20140411030642.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030322-44840_1059285043_20140411030642_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030322-44840_1059285043_20140411030642_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030322-44840_1059285043_20140411030642_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030322-44840_1059285043_20140411030642_80x60.jpg
-    modtime: '1397164406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824093/115510415-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030325-73759_9826962259_20140411030643.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030325-73759_9826962259_20140411030643_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030325-73759_9826962259_20140411030643_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030325-73759_9826962259_20140411030643_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030325-73759_9826962259_20140411030643_80x60.jpg
-    modtime: '1397164407'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824092/115510415-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030328-82492_3761294517_20140411030643.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030328-82492_3761294517_20140411030643_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030328-82492_3761294517_20140411030643_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030328-82492_3761294517_20140411030643_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97894/images/20131121030328-82492_3761294517_20140411030643_80x60.jpg
-    modtime: '1397164407'
-    dimensions: null
-property_id: '145548'
-id: b758a8ae-af05-4893-9fc3-c6facda86554
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824091/115510415-image-M.jpg'
+property_id: '435393'
+id: 1eb841ba-7303-4b0b-836b-37df46eb5c45
 ---
 Currently rented at $870 per week
 Thatâ€™s right! $870 per week on a room to room basis.

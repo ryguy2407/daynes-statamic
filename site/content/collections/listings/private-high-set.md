@@ -1,172 +1,67 @@
 ---
-title: 'Private High-Set'
-price: '$420 per week'
-bedrooms: '3'
-bathrooms: '1'
-cars: '3'
-status: leased
+title: 'Private High Set'
+price: 'Offers Over $495,000'
+rent: null
+bedrooms: 4
+bathrooms: 2
+cars: 2
+status: Sold
+address: '33 Dunkeld Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/y0ImSWG3GCxBHMPYJkvK1QWoXJ0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821458/126234930-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front-dayn_3005198506_20160831012825.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front-dayn_3005198506_20160831012825_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front-dayn_3005198506_20160831012825_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front-dayn_3005198506_20160831012825_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front-dayn_3005198506_20160831012825_80x60.jpg
-    modtime: '1468411801'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821469/126234930-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen2-d_1696368213_20160831012826.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen2-d_1696368213_20160831012826_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen2-d_1696368213_20160831012826_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen2-d_1696368213_20160831012826_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen2-d_1696368213_20160831012826_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821468/126234930-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-deck-dayne_5447618039_20160831012827.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-deck-dayne_5447618039_20160831012827_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-deck-dayne_5447618039_20160831012827_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-deck-dayne_5447618039_20160831012827_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-deck-dayne_5447618039_20160831012827_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821467/126234930-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen-da_40389751_20160831012827.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen-da_40389751_20160831012827_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen-da_40389751_20160831012827_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen-da_40389751_20160831012827_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen-da_40389751_20160831012827_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821466/126234930-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen3-d_9657972102_20160831012828.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen3-d_9657972102_20160831012828_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen3-d_9657972102_20160831012828_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen3-d_9657972102_20160831012828_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-kitchen3-d_9657972102_20160831012828_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821465/126234930-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living-day_386378807_20160831012829.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living-day_386378807_20160831012829_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living-day_386378807_20160831012829_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living-day_386378807_20160831012829_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living-day_386378807_20160831012829_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821464/126234930-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living2-da_2129095723_20160831012829.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living2-da_2129095723_20160831012829_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living2-da_2129095723_20160831012829_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living2-da_2129095723_20160831012829_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-living2-da_2129095723_20160831012829_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821463/126234930-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed1-dayne_3789075254_20160831012830.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed1-dayne_3789075254_20160831012830_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed1-dayne_3789075254_20160831012830_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed1-dayne_3789075254_20160831012830_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed1-dayne_3789075254_20160831012830_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821462/126234930-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed2-dayne_2559088627_20160831012830.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed2-dayne_2559088627_20160831012830_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed2-dayne_2559088627_20160831012830_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed2-dayne_2559088627_20160831012830_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed2-dayne_2559088627_20160831012830_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821461/126234930-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed3-dayne_8358302107_20160831012831.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed3-dayne_8358302107_20160831012831_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed3-dayne_8358302107_20160831012831_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed3-dayne_8358302107_20160831012831_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bed3-dayne_8358302107_20160831012831_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821460/126234930-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard2-_8515735595_20160831012832.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard2-_8515735595_20160831012832_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard2-_8515735595_20160831012832_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard2-_8515735595_20160831012832_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard2-_8515735595_20160831012832_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821459/126234930-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard-d_1391708846_20160831012833.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard-d_1391708846_20160831012833_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard-d_1391708846_20160831012833_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard-d_1391708846_20160831012833_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-backyard-d_1391708846_20160831012833_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
-  -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-underneath_9317876408_20160831012833.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-underneath_9317876408_20160831012833_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-underneath_9317876408_20160831012833_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-underneath_9317876408_20160831012833_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-underneath_9317876408_20160831012833_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
-  -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bath-dayne_347999986_20160831012834.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bath-dayne_347999986_20160831012834_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bath-dayne_347999986_20160831012834_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bath-dayne_347999986_20160831012834_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-bath-dayne_347999986_20160831012834_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
-  -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front2-day_8929212378_20160831012835.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front2-day_8929212378_20160831012835_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front2-day_8929212378_20160831012835_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front2-day_8929212378_20160831012835_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/895946/images/spowers-9-front2-day_8929212378_20160831012835_80x60.jpg
-    modtime: '1468412006'
-    dimensions: 1200x900
-property_id: '1927730'
-id: 1dc49314-3657-4842-9a15-d6085d8673a5
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821458/126234930-image-M.jpg'
+property_id: '435185'
+id: 9b9eeb08-f633-470a-9845-5699361cf9c7
 ---
-This high-set clad home is situated in a quiet and leafy residential pocket of Archerfield. Featuring a recently renovated open-plan kitchen stepping out through bespoke timber doors to a beautiful back deck, this is the perfect property for those who love to entertain. The expansive combined living area and sunroom also allows for plenty of space to enjoy indoors. All spaces are generous and full of light in this north-facing home. 
+This private family home is set on a generous and elevated block in one of the best streets in the area. Stepping inside, the open plan living spaces flow from front to back out to beautiful verandas, making the most of the leafy surrounds. The interiors are full of light and are beautifully proportioned for easy family living. The kitchen has been updated with neat cabinetry, laminate benchtops and a large gas cooker. The kitchen steps into the dining space and out to the back veranda, ideal for entertainers. The back deck overlooks the leafy backyard and sparkling pool, areas perfectly designed for endless fun and enjoyment from your surrounds. The four bedrooms are all well appointed, each with built in wardrobes and large windows with insect screens. The bathroom has also been modernised, with fresh white and neutral tiles, bath tub and shower, and functional layout.
 
-All three bedrooms are generously sized and appointed with plush carpets. The master bedroom is expansive and features a ceiling fan, air conditioning and built-in wardrobe. The layout of the home affords privacy to the bedrooms from the open-plan living areas, an excellent arrangement for busy families. 
+Under the house is an absolute treat; fully enclosed and featuring a versatile room equipped with bar facilities and accessible from the yard, perfect for a whole range of uses. This area also includes a laundry, additional bathroom, ample storage and workshop space, and a double lock up garage. With a few cosmetic renovations, this property is an excellent opportunity for the savvy home buyer to secure a spacious home to enjoy. Also a fantastic investment for those looking to secure a solid house with a promising rental return.
 
-This home features:
+This property features:
 
-*  Renovated open-plan kitchen stepping out to beautiful shady timber deck
-*  Kitchen with stainless steel appliances, white two pac cupboards, stone bench tops, plenty of storage and attractive modern fittings 
-*  Deck overlooking neat and well-maintained backyard
-*  Polished timber floors throughout living and kitchen
-*  Spacious open-plan living and sunroom, north-facing and attracting plenty of light
-*  Living room with ceiling fan and large air conditioner 
-*  Three good sized bedrooms, all with good quality carpet
-*  Master with built-in wardrobe, block-out blinds, ceiling fan and air conditioner
-*  One bedroom with air conditioner and one with built-in wardrobe
-*  Bathroom with separate bath and shower, fully tiled and functional
-*  Toilet separate 
-*  Solar panels on car port roof
-*  Two car carport with option to drive small car under house and drive through access to back yard
-*  7000L rain water tank
-*  Hillshoist clothesline
-*  Partially enclosed and large space downstairs with plenty of storage, work bench and laundry 
-*  Paved area adjoins grassy backyard, perfect for a shady kids play area
-*  Fully fenced block, private and perfect for children and pets
+*  Elevated block, highset chamferboard with brick on lower level, privately set back from road
+*  Beautifully maintained gardens and lawns
+*  Cute front porch with elevated leafy outlook
+*  Living room extends through diving door to front deck
+*  Living room large with ceiling fan and air conditioner
+*  Open plan living, kitchen and dining
+*  Updated kitchen cabinetry and laminate bench tops, good condition
+*  Gas cooktop, stainless steel oven and dishwasher, sink with water filter
+*  Carpets to living, dining and bedrooms, tiled to the kitchen and bathroom
+*  Lovely north facing tiled back deck overlooks leafy gardens, pool and primary school oval
+*  Dining flows through to bedroom with built in wardrobes and sliding door out to deck
+*  Three additional bedrooms, all with built in wardrobes, master with air conditioner  and one with ceiling fan
+*  Bathroom updated with shower and separate bath, white vanity and fresh neutral and white tiles
+*  Toilet separate, dual flush
+*  Insect screens throughout, security screens to front, back and sliding doors
+*  Double garage under house with roller doors
+*  Laundry and additional bathroom under house with toilet and shower
+*  Plenty of under house storage potential, workshop with built in bench and storage
+*  Enclosed billiards room with built in bar with sink, insect screens to windows and a sliding door to the yard, perfect as rumpus or kids retreat
+*  Water tank in yard
+*  Solar-heated pool with shade sail, paved area for barbecues and grassy surrounds and tropical gardens
 
-This home is situated in a quiet residential pocket between Boundary and Kerry Roads, meaning amazing convenience to those who work in the surrounding areas and the CBD. Easy access and a 3 minute drive to Woolworths and Aldi in the Acacia Marketplace on Beaudesert Road, and walking distance to the Archerfield Park. Also on the 122 and 117 bus routes, it is handy to Iceworld ice skating rink and Souths Sports Club in Acacia Ridge. A 5 minute drive to Acacia Ridge State School, and a range of other great schools and daycares in the area. This is a great opportunity for those seeking a home in a quiet residential pocket without sacrificing convenience.
+Situated on a 610sqm block, fully fenced, beautifully landscaped and private, the yard affords a generous piece of land to enjoy. Within walking distance to Acacia Ridge State Primary School and an easy driving distance to other great schools. Convenient to the great range of amenities this great area has to offer with the Elizabeth Street local shops, and the Acacia Market Place with both Woolworths and Aldi, only a short drive away. This property presents a sound investment opportunity for those at any stage of their property journey. Call today to arrange an inspection, this one will not last long!

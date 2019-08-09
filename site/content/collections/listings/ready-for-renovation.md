@@ -1,112 +1,38 @@
 ---
 title: 'Ready For Renovation!'
 price: 'SOLD OFF MARKET'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '73 Mortimer Road, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/PGkGBSwUGLAAXOb11E072YaTQJI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821791/130469070-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Front-Da_9159766091_20180427090438.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Front-Da_9159766091_20180427090438_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Front-Da_9159766091_20180427090438_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Front-Da_9159766091_20180427090438_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Front-Da_9159766091_20180427090438_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821801/130469070-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living2-_2648543757_20180427090444.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living2-_2648543757_20180427090444_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living2-_2648543757_20180427090444_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living2-_2648543757_20180427090444_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living2-_2648543757_20180427090444_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821800/130469070-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living-D_2923885729_20180427090452.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living-D_2923885729_20180427090452_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living-D_2923885729_20180427090452_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living-D_2923885729_20180427090452_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Living-D_2923885729_20180427090452_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821799/130469070-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Dining-D_9806199428_20180427090445.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Dining-D_9806199428_20180427090445_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Dining-D_9806199428_20180427090445_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Dining-D_9806199428_20180427090445_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Dining-D_9806199428_20180427090445_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821798/130469070-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed1-Day_8712104074_20180427090504.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed1-Day_8712104074_20180427090504_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed1-Day_8712104074_20180427090504_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed1-Day_8712104074_20180427090504_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed1-Day_8712104074_20180427090504_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821797/130469070-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bath-Day_3419370916_20180427090450.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bath-Day_3419370916_20180427090450_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bath-Day_3419370916_20180427090450_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bath-Day_3419370916_20180427090450_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bath-Day_3419370916_20180427090450_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821796/130469070-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed2-Day_8665890304_20180427090500.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed2-Day_8665890304_20180427090500_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed2-Day_8665890304_20180427090500_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed2-Day_8665890304_20180427090500_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed2-Day_8665890304_20180427090500_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821795/130469070-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed3-Day_5516000280_20180427090454.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed3-Day_5516000280_20180427090454_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed3-Day_5516000280_20180427090454_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed3-Day_5516000280_20180427090454_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Bed3-Day_5516000280_20180427090454_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821794/130469070-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Backyard_7975580781_20180427090510.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Backyard_7975580781_20180427090510_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Backyard_7975580781_20180427090510_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Backyard_7975580781_20180427090510_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Backyard_7975580781_20180427090510_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821793/130469070-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Back-Day_6073757452_20180427090510.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Back-Day_6073757452_20180427090510_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Back-Day_6073757452_20180427090510_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Back-Day_6073757452_20180427090510_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Back-Day_6073757452_20180427090510_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821792/130469070-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Block-Da_9387740440_20180427090439.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Block-Da_9387740440_20180427090439_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Block-Da_9387740440_20180427090439_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Block-Da_9387740440_20180427090439_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1395882/images/Mortimer-73-Block-Da_9387740440_20180427090439_80x60.jpg
-    modtime: '1524827137'
-    dimensions: 1200x900
-property_id: '1922545'
-id: c9bcb020-b8ba-4d79-800a-68a0b4f3a5fc
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821791/130469070-image-M.jpg'
+property_id: '435213'
+id: 84b1cb94-d8cb-44d4-b01b-c9ac85b1dff1
 ---
 This classic Acacia Ridge cottage is of solid construction with tiled roof, chamferboard exterior and hardwood floors. Original interiors will require complete renovation. Situated on a 607sqm block, across from Archerfield Airport.
 

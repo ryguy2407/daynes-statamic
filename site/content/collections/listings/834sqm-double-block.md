@@ -1,49 +1,24 @@
 ---
 title: '834sqm Double Block'
 price: 'Offers Over $485,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: null
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 0
+status: Sold
+address: '18 Beatty Road, ROCKLEA'
+main_image: 'https://img.eagleagent.com.au/OjrN2Kxmrjytv4DkBNBkq2OGUkE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821063/124794958-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Map-Daynes_7166573988_20170407084708.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Map-Daynes_7166573988_20170407084708_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Map-Daynes_7166573988_20170407084708_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Map-Daynes_7166573988_20170407084708_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Map-Daynes_7166573988_20170407084708_80x60.jpg
-    modtime: '1491562102'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821066/124794958-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front-Dayn_3881503199_20170407084710.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front-Dayn_3881503199_20170407084710_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front-Dayn_3881503199_20170407084710_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front-Dayn_3881503199_20170407084710_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front-Dayn_3881503199_20170407084710_80x60.jpg
-    modtime: '1491562102'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821065/124794958-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front2-Day_3125032158_20170407084705.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front2-Day_3125032158_20170407084705_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front2-Day_3125032158_20170407084705_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front2-Day_3125032158_20170407084705_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Front2-Day_3125032158_20170407084705_80x60.jpg
-    modtime: '1491562102'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821064/124794958-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Park-Dayne_8247865583_20170407084711.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Park-Dayne_8247865583_20170407084711_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Park-Dayne_8247865583_20170407084711_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Park-Dayne_8247865583_20170407084711_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1063341/images/Beatty-18-Park-Dayne_8247865583_20170407084711_80x60.jpg
-    modtime: '1491562102'
-    dimensions: 1200x900
-property_id: '2081293'
-id: 5644241a-29f5-46b4-9107-c4e26e7f4ad0
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821063/124794958-image-M.jpg'
+property_id: '435153'
+id: 6e9a8c05-62b6-4f64-a39d-a1e0b890603c
 ---
 Attention developers! This is a rare opportunity to secure an excellent site for immediate or future development. A generous 834sqm block, already on two lots and with excellent access, this property holds the potential to generate a tidy profit for the savvy investor.
 

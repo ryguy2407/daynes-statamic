@@ -1,152 +1,61 @@
 ---
 title: 'Easy Living'
-price: '$450 per week'
-bedrooms: '4'
-bathrooms: '2'
-cars: '2'
-status: leased
+price: 'Offers Over $435,000'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 2
+status: Sold
+address: '5 Delong Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/wqYo7h5Y12K_JCHEUDUJtQu2abg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821319/125896234-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living-_9657908925_20180417084918.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living-_9657908925_20180417084918_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living-_9657908925_20180417084918_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living-_9657908925_20180417084918_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living-_9657908925_20180417084918_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821329/125896234-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Kitchen_9925248097_20180417084915.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Kitchen_9925248097_20180417084915_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Kitchen_9925248097_20180417084915_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Kitchen_9925248097_20180417084915_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Kitchen_9925248097_20180417084915_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821328/125896234-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living2_9102860140_20180417084917.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living2_9102860140_20180417084917_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living2_9102860140_20180417084917_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living2_9102860140_20180417084917_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living2_9102860140_20180417084917_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821327/125896234-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living3_2920144597_20180417084914.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living3_2920144597_20180417084914_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living3_2920144597_20180417084914_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living3_2920144597_20180417084914_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Living3_2920144597_20180417084914_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821326/125896234-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Patio-D_2218224753_20180417084910.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Patio-D_2218224753_20180417084910_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Patio-D_2218224753_20180417084910_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Patio-D_2218224753_20180417084910_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Patio-D_2218224753_20180417084910_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821325/125896234-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed1-Da_2488833246_20180417084928.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed1-Da_2488833246_20180417084928_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed1-Da_2488833246_20180417084928_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed1-Da_2488833246_20180417084928_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed1-Da_2488833246_20180417084928_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821324/125896234-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Ensuite_4649818357_20180417084926.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Ensuite_4649818357_20180417084926_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Ensuite_4649818357_20180417084926_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Ensuite_4649818357_20180417084926_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Ensuite_4649818357_20180417084926_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821323/125896234-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed4-Da_2866898214_20180417084920.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed4-Da_2866898214_20180417084920_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed4-Da_2866898214_20180417084920_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed4-Da_2866898214_20180417084920_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed4-Da_2866898214_20180417084920_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821322/125896234-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed3-Da_2282846810_20180417084922.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed3-Da_2282846810_20180417084922_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed3-Da_2282846810_20180417084922_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed3-Da_2282846810_20180417084922_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed3-Da_2282846810_20180417084922_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821321/125896234-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed2-Da_4969000214_20180417084925.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed2-Da_4969000214_20180417084925_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed2-Da_4969000214_20180417084925_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed2-Da_4969000214_20180417084925_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bed2-Da_4969000214_20180417084925_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821320/125896234-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bathroo_9938176190_20180417084922.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bathroo_9938176190_20180417084922_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bathroo_9938176190_20180417084922_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bathroo_9938176190_20180417084922_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Bathroo_9938176190_20180417084922_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
-  -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Backyar_5476244974_20180417084911.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Backyar_5476244974_20180417084911_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Backyar_5476244974_20180417084911_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Backyar_5476244974_20180417084911_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Backyar_5476244974_20180417084911_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
-  -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Front-D_3030429126_20180417084957.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Front-D_3030429126_20180417084957_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Front-D_3030429126_20180417084957_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Front-D_3030429126_20180417084957_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1454329/images/MtFlinders-7-Front-D_3030429126_20180417084957_80x60.jpg
-    modtime: '1523962231'
-    dimensions: 1200x900
-property_id: '4179522'
-id: 6c5ef42e-2f76-44ec-a2b3-1fd4b87b23c5
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821319/125896234-image-M.jpg'
+property_id: '435173'
+id: 4f82258d-0b59-4ff0-adce-a89d5bc8207d
 ---
-This low set, immaculately presented home is perfect for families after a little more from their home. Situated in a quiet pocket, offers the very best of convenience and a friendly community. A much sought-after design with lovely street appeal, the home is solid brick and a great layout for busy families. Generous open plan kitchen and dining spaces flow out to the under cover paved patio. The open plan living areas are conveniently and privately separated from the bedrooms and bathrooms. The four good sized bedrooms are airy and full of light. The master features air conditioning and an ensuite. Each additional bedroom is well appointed with built-in storage, carpeted floors and serviced by a generous family bathroom. 
+This generous family home has it all for those who are seeking lifestyle and convenience. A low-maintenance, low-set design, this comfortable home has been lovingly cared for and presents an opportunity to move straight in. Set in immaculately presented gardens in a quiet pocket of Acacia Ridge, this property offers privacy and convenience, all on the one level! Well proportioned for comfortable family living, this home boasts plenty of space for outdoor and indoor entertaining and relaxing. Generous open plan kitchen and dining spaces flow out to the large under cover paved patio. This patio is an entertainers delight, with a built in bar area and plenty of room for a barbeque, all overlooking the beautiful gardens and lawn.
 
-Features:
+A much sought-after design and construction with lovely street appeal, the home is solid brick and a great layout for busy families. The open plan living areas are conveniently and privately separated from the bedrooms and bathrooms. The three good sized bedrooms are airy and full of light. Each room is well appointed with built-in storage, carpeted floors and serviced by a generous family bathroom. An attractive property to both home-owners and investors alike.
 
-*  Four good sized bedrooms, each with lovely carpets and built in robes, three with ceiling fans
-*  Kitchen with neutral cabinetry, stainless steel oven, stove top and rangehood, dishwasher
-*  Living with large air conditioner
-*  Dining with fan flows out to undercover patio overlooking leafy yard
-*  Master with generous ensuite
-*  Bathroom with shower and bath, separate toilet
-*  Double remote access garage
-*  Insect and security screens throughout
-*  Tiled entry, hall, kitchen and dining, carpeted living
-*  Lovely neutral colour scheme throughout
-*  Newly replaced hot water system
-*  Solar panels 
+This property features:
 
-Location:
+*  Low-set brick design
+*  Tiles throughout kitchen, dining and hallways, neutral carpets to living and bedrooms
+*  Large gourmet kitchen with gas cooktop, plenty of storage and great preparation space
+*  Kitchen flows out to shady back patio with outdoor kitchen
+*  Open plan living area with air conditioner
+*  Three good-sized bedrooms, master with ceiling fan, built-in wardrobe and air conditioning
+*  Two additional bedrooms with built-in wardrobes, one with ceiling fan
+*  Roller shutters to front windows for shade, privacy and security
+*  Large laundry with toilet
+*  Family bathroom with bath tub and separate shower
+*  Insect screens throughout, security screens to doors
+*  Fully fenced
+*  Double remote access car port, access to rear patio and undercover access to house
+*  3.5wk solar panels and solar hot water
+*  Manicured gardens, front and back
+*  Lockable back shed
+*  Large rainwater tank
 
-*  Situated in the Algester State School and Calamvale Community College catchments
-*  Walking distance to local park
-*  10 minute drive to Sunnybank Hills Shoppingtown and Calamvale Central Shopping Centre
-*  Handy to major traffic routes south and west of Brisbane
-*  18km from Brisbane CBD
+Situated on a low-maintenance 409sqm block with a wide frontage, this property is the perfect investment at any stage of life. A generous family home, attractive rental or comfortable property for those who require a low-set design, this is a must-see. In addition to this, the convenience of location is second to none. Walking distance to kindergarten, YMCA recreational area, large park and Elizabeth Street Shopping Centre. A short drive down Beaudesert Road to Woolworths and Aldi in the Acacia Market Place, and close to Souths Sports Club. Acacia Ridge is a rapidly developing suburb, situated on major transport thoroughfares and only 15km from Brisbane City. This property will not last long, call today to arrange an inspection!

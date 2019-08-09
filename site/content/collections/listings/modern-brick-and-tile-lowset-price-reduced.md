@@ -1,67 +1,28 @@
 ---
 title: 'Modern Brick and Tile Lowset - Price Reduced'
 price: '$388,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 2
+status: Sold
+address: '10 Stanley Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/fNeNAUKwkZ--gsAKOfS12be1GhA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824098/115517519-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015828-98877_4998298129_20140411030632.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015828-98877_4998298129_20140411030632_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015828-98877_4998298129_20140411030632_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015828-98877_4998298129_20140411030632_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015828-98877_4998298129_20140411030632_80x60.jpg
-    modtime: '1397164396'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824103/115517519-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015834-66872_6315166089_20140411030631.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015834-66872_6315166089_20140411030631_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015834-66872_6315166089_20140411030631_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015834-66872_6315166089_20140411030631_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015834-66872_6315166089_20140411030631_80x60.jpg
-    modtime: '1397164396'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824102/115517519-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015839-39077_6696035448_20140411030631.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015839-39077_6696035448_20140411030631_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015839-39077_6696035448_20140411030631_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015839-39077_6696035448_20140411030631_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015839-39077_6696035448_20140411030631_80x60.jpg
-    modtime: '1397164396'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824101/115517519-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015846-19545_6864238084_20140411030632.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015846-19545_6864238084_20140411030632_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015846-19545_6864238084_20140411030632_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015846-19545_6864238084_20140411030632_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015846-19545_6864238084_20140411030632_80x60.jpg
-    modtime: '1397164396'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824100/115517519-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015853-12482_1174801252_20140411030638.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015853-12482_1174801252_20140411030638_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015853-12482_1174801252_20140411030638_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015853-12482_1174801252_20140411030638_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015853-12482_1174801252_20140411030638_80x60.jpg
-    modtime: '1397164396'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824099/115517519-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015859-66099_5931067187_20140411030638.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015859-66099_5931067187_20140411030638_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015859-66099_5931067187_20140411030638_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015859-66099_5931067187_20140411030638_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97895/images/20131125015859-66099_5931067187_20140411030638_80x60.jpg
-    modtime: '1397164396'
-    dimensions: null
-property_id: '146330'
-id: 369e3df6-1361-4ed2-905d-4619d8281243
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824098/115517519-image-M.jpg'
+property_id: '435394'
+id: c348d10f-c57a-4efd-82da-12209fe1ce70
 ---
 Situated on a 405m2 block in this modern estate this home was built about 15 years ago by Devine Homes.
 

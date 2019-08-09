@@ -1,202 +1,58 @@
 ---
 title: 'SOLD BY DAYNES'
 price: SOLD
-bedrooms: '2'
-bathrooms: '2'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 1
+status: Sold
+address: '2 / 69 Cook Street, OXLEY'
+main_image: 'https://img.eagleagent.com.au/ZhcstAZn_LopXN0NO4R3srq-wjk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822155/130469038-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-External-201_4700616240_20190203095615.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-External-201_4700616240_20190203095615_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-External-201_4700616240_20190203095615_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-External-201_4700616240_20190203095615_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-External-201_4700616240_20190203095615_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822175/130469038-image-U.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen2-Day_7256705410_20190203095623.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen2-Day_7256705410_20190203095623_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen2-Day_7256705410_20190203095623_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen2-Day_7256705410_20190203095623_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen2-Day_7256705410_20190203095623_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822174/130469038-image-T.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen-Dayn_239734470_20190203095619.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen-Dayn_239734470_20190203095619_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen-Dayn_239734470_20190203095619_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen-Dayn_239734470_20190203095619_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Kitchen-Dayn_239734470_20190203095619_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822173/130469038-image-S.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Balcony-Dayn_7054073621_20190203095535.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Balcony-Dayn_7054073621_20190203095535_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Balcony-Dayn_7054073621_20190203095535_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Balcony-Dayn_7054073621_20190203095535_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Balcony-Dayn_7054073621_20190203095535_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822172/130469038-image-R.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bathroom-Day_7301736194_20190203095540.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bathroom-Day_7301736194_20190203095540_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bathroom-Day_7301736194_20190203095540_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bathroom-Day_7301736194_20190203095540_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bathroom-Day_7301736194_20190203095540_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822171/130469038-image-Q.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed1-Daynes-_4923405084_20190203095546.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed1-Daynes-_4923405084_20190203095546_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed1-Daynes-_4923405084_20190203095546_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed1-Daynes-_4923405084_20190203095546_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed1-Daynes-_4923405084_20190203095546_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822170/130469038-image-P.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed2-Daynes-_7504896929_20190203095551.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed2-Daynes-_7504896929_20190203095551_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed2-Daynes-_7504896929_20190203095551_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed2-Daynes-_7504896929_20190203095551_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bed2-Daynes-_7504896929_20190203095551_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822169/130469038-image-O.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Ensuite-Dayn_494383706_20190203095605.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Ensuite-Dayn_494383706_20190203095605_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Ensuite-Dayn_494383706_20190203095605_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Ensuite-Dayn_494383706_20190203095605_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Ensuite-Dayn_494383706_20190203095605_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822168/130469038-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus-Daynes-P_5826745584_20190203095554.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus-Daynes-P_5826745584_20190203095554_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus-Daynes-P_5826745584_20190203095554_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus-Daynes-P_5826745584_20190203095554_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus-Daynes-P_5826745584_20190203095554_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822167/130469038-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus2-Daynes-_1293954638_20190203095600.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus2-Daynes-_1293954638_20190203095600_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus2-Daynes-_1293954638_20190203095600_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus2-Daynes-_1293954638_20190203095600_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Bus2-Daynes-_1293954638_20190203095600_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822166/130469038-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living-Dayne_5872208535_20190203095632.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living-Dayne_5872208535_20190203095632_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living-Dayne_5872208535_20190203095632_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living-Dayne_5872208535_20190203095632_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living-Dayne_5872208535_20190203095632_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822165/130469038-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living2-Dayn_2569928993_20190203095639.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living2-Dayn_2569928993_20190203095639_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living2-Dayn_2569928993_20190203095639_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living2-Dayn_2569928993_20190203095639_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Living2-Dayn_2569928993_20190203095639_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822164/130469038-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Park-Daynes-_1810580255_20190203095644.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Park-Daynes-_1810580255_20190203095644_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Park-Daynes-_1810580255_20190203095644_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Park-Daynes-_1810580255_20190203095644_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Park-Daynes-_1810580255_20190203095644_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822163/130469038-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Primary-Dayn_3494662774_20190203095650.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Primary-Dayn_3494662774_20190203095650_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Primary-Dayn_3494662774_20190203095650_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Primary-Dayn_3494662774_20190203095650_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Primary-Dayn_3494662774_20190203095650_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822162/130469038-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_7323504798_20190203095658.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_7323504798_20190203095658_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_7323504798_20190203095658_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_7323504798_20190203095658_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_7323504798_20190203095658_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822161/130469038-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_6792354088_20190203095707.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_6792354088_20190203095707_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_6792354088_20190203095707_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_6792354088_20190203095707_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-StationOxley_6792354088_20190203095707_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822160/130469038-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street-Dayne_8344689011_20190203095721.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street-Dayne_8344689011_20190203095721_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street-Dayne_8344689011_20190203095721_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street-Dayne_8344689011_20190203095721_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street-Dayne_8344689011_20190203095721_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822159/130469038-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street2-Dayn_1266883597_20190203095729.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street2-Dayn_1266883597_20190203095729_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street2-Dayn_1266883597_20190203095729_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street2-Dayn_1266883597_20190203095729_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Street2-Dayn_1266883597_20190203095729_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822158/130469038-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train-Daynes_397004442_20190203095737.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train-Daynes_397004442_20190203095737_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train-Daynes_397004442_20190203095737_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train-Daynes_397004442_20190203095737_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train-Daynes_397004442_20190203095737_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822157/130469038-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train2-Dayne_4387113533_20190203095739.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train2-Dayne_4387113533_20190203095739_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train2-Dayne_4387113533_20190203095739_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train2-Dayne_4387113533_20190203095739_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Train2-Dayne_4387113533_20190203095739_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822156/130469038-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Woolies-Dayn_5890873320_20190203095743.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Woolies-Dayn_5890873320_20190203095743_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Woolies-Dayn_5890873320_20190203095743_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Woolies-Dayn_5890873320_20190203095743_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1544995/images/Cook-69-Woolies-Dayn_5890873320_20190203095743_80x60.jpg
-    modtime: '1549151920'
-    dimensions: 1200x900
-property_id: '2176222'
-id: 7a774b91-2abf-4c29-9016-96d383e93dab
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822155/130469038-image-M.jpg'
+property_id: '435244'
+id: 0b505bdb-d34a-4d61-8d72-1cb43acc85be
 ---
 Oxley Central Apartments / / Boutique Development Offering Unique Location & Lifestyle
 

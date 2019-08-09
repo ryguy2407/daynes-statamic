@@ -1,134 +1,46 @@
 ---
 title: 'Spacious and Inviting'
-price: '$390 per week'
-bedrooms: '3'
-bathrooms: '1'
-cars: '4'
-status: leased
+price: '$425,000'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 4
+status: Sold
+address: '8 Saxon Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/oicBfmK9T89qLQ8cEZ9ej1rq7QI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821727/127660638-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front2-dayne_7515970241_20180720045803.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front2-dayne_7515970241_20180720045803_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front2-dayne_7515970241_20180720045803_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front2-dayne_7515970241_20180720045803_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front2-dayne_7515970241_20180720045803_80x60.jpg
-    modtime: '1532070315'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821739/127660638-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front-daynes_4184279161_20180720045802.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front-daynes_4184279161_20180720045802_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front-daynes_4184279161_20180720045802_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front-daynes_4184279161_20180720045802_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-front-daynes_4184279161_20180720045802_80x60.jpg
-    modtime: '1532070315'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821738/127660638-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-deck-daynes-_2779285840_20180720045804.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-deck-daynes-_2779285840_20180720045804_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-deck-daynes-_2779285840_20180720045804_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-deck-daynes-_2779285840_20180720045804_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-deck-daynes-_2779285840_20180720045804_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821737/127660638-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen-dayn_8250255561_20180720045804.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen-dayn_8250255561_20180720045804_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen-dayn_8250255561_20180720045804_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen-dayn_8250255561_20180720045804_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen-dayn_8250255561_20180720045804_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821736/127660638-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen2-day_8139395347_20180720045805.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen2-day_8139395347_20180720045805_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen2-day_8139395347_20180720045805_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen2-day_8139395347_20180720045805_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-kitchen2-day_8139395347_20180720045805_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821735/127660638-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-living-dayne_7438952463_20180720045805.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-living-dayne_7438952463_20180720045805_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-living-dayne_7438952463_20180720045805_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-living-dayne_7438952463_20180720045805_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-living-dayne_7438952463_20180720045805_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821734/127660638-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed1-daynes-_2899880256_20180720045806.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed1-daynes-_2899880256_20180720045806_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed1-daynes-_2899880256_20180720045806_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed1-daynes-_2899880256_20180720045806_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed1-daynes-_2899880256_20180720045806_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821733/127660638-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bathroom-day_9776520227_20180720045806.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bathroom-day_9776520227_20180720045806_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bathroom-day_9776520227_20180720045806_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bathroom-day_9776520227_20180720045806_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bathroom-day_9776520227_20180720045806_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821732/127660638-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed2-daynes-_4991182771_20180720045807.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed2-daynes-_4991182771_20180720045807_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed2-daynes-_4991182771_20180720045807_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed2-daynes-_4991182771_20180720045807_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed2-daynes-_4991182771_20180720045807_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821731/127660638-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed3-daynes-_2708908954_20180720045808.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed3-daynes-_2708908954_20180720045808_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed3-daynes-_2708908954_20180720045808_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed3-daynes-_2708908954_20180720045808_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-bed3-daynes-_2708908954_20180720045808_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821730/127660638-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back-daynes-_3135867386_20180720045809.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back-daynes-_3135867386_20180720045809_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back-daynes-_3135867386_20180720045809_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back-daynes-_3135867386_20180720045809_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back-daynes-_3135867386_20180720045809_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821729/127660638-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back2-daynes_2507406689_20180720045809.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back2-daynes_2507406689_20180720045809_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back2-daynes_2507406689_20180720045809_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back2-daynes_2507406689_20180720045809_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-back2-daynes_2507406689_20180720045809_80x60.jpg
-    modtime: '1523958881'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821728/127660638-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-block-daynes_2689496325_20180720045810.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-block-daynes_2689496325_20180720045810_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-block-daynes_2689496325_20180720045810_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-block-daynes_2689496325_20180720045810_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1571566/images/saxon-8-block-daynes_2689496325_20180720045810_80x60.jpg
-    modtime: '1518179380'
-    dimensions: 1200x900
-property_id: '1922763'
-id: 57da2c70-6f46-48b7-83be-02531ed3dbd7
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821727/127660638-image-M.jpg'
+property_id: '435208'
+id: 41394da3-e22f-488c-b78a-e51428406c7a
 ---
-A spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front patio, enjoying the tranquility afforded by the quiet neighbourhood. Inside, the clever layout affords families a bright open-plan living and large eat-in kitchen down a generous wide hallway. The kitchen steps out to a cute patio, perfect for a veggie patch or for children to play. 
+Beyond the modern timber fence and gorgeous manicured gardens of this immaculately presented property is this low-set rendered brick home awaiting its next chapter. A spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front patio, enjoying the tranquility afforded by the quiet neighbourhood. Inside, the clever layout affords families a bright open-plan living and large eat-in kitchen down a generous wide hallway. The kitchen steps out to a cute patio, perfect for a veggie patch or for children to play.
 
-Plenty of car accommodation and drive-through access to the large back shed also presents irresistible value. The three bedrooms are privately set to the side of the home with a large master bedroom.
+A super low-maintenance home with attractive tiles throughout and neutral colours on the walls, this is a great property for families and investors alike. Plenty of car accommodation and drive-through access to the large back shed also presents irresistible value. The three bedrooms are privately set to the side of the home with a large master bedroom. This property allows plenty of space for relaxation and entertaining alike, just move in and enjoy!
 
 This property features:
 
@@ -144,4 +56,4 @@ This property features:
 *  Modern downlights throughout
 *  Attractive modern timber fence to the front, fully fenced block
 
-Convenient to Elizabeth Street Shopping Centre and Acacia Marketplace on Beaudesert Road, both boasting a great range of amenities. Also situated to be convenient to a great range of primary schools and daycare centres in the surrounding local area.
+Situated on a generous 708sqm block in a quiet and leafy pocket of Acacia Ridge, on a no-thoroughfare street, this is wonderful opportunity to secure one of the best properties in the area. This home is in a peaceful, family friendly area and a great setting for a growing family. Likewise, investors will see potential in this home of solid construction and desirable location. Convenient to Elizabeth Street Shopping Centre and Acacia Marketplace on Beaudesert Road, both boasting a great range of amenities. Also situated to be convenient to a great range of primary schools and daycare centres in the surrounding local area. This property represents an exciting opportunity to investors and owner-occupiers alike and will not last long!

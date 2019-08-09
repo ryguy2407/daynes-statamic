@@ -1,166 +1,50 @@
 ---
 title: 'Rare Opportunity - 582sqm Prime Land'
 price: 'Offers Over $380,000'
-bedrooms: '4'
-bathrooms: '2'
-cars: '2'
-status: sold
+rent: null
+bedrooms: 4
+bathrooms: 2
+cars: 2
+status: Sold
+address: '28 Ingham Street, OXLEY'
+main_image: 'https://img.eagleagent.com.au/c8qQLXDrRTBIg_yL0swQxTmi5Go=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821085/125316470-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Map-_4564785357_20170424075811.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Map-_4564785357_20170424075811_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Map-_4564785357_20170424075811_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Map-_4564785357_20170424075811_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Map-_4564785357_20170424075811_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821101/125316470-image-Q.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Fron_7892935104_20170424074357.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Fron_7892935104_20170424074357_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Fron_7892935104_20170424074357_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Fron_7892935104_20170424074357_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Fron_7892935104_20170424074357_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821100/125316470-image-P.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5103825475_20170424074357.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5103825475_20170424074357_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5103825475_20170424074357_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5103825475_20170424074357_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5103825475_20170424074357_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821099/125316470-image-O.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_9253674220_20170424074400.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_9253674220_20170424074400_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_9253674220_20170424074400_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_9253674220_20170424074400_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_9253674220_20170424074400_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821098/125316470-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5414185547_20170424074400.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5414185547_20170424074400_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5414185547_20170424074400_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5414185547_20170424074400_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_5414185547_20170424074400_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821097/125316470-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_4624432223_20170424074402.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_4624432223_20170424074402_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_4624432223_20170424074402_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_4624432223_20170424074402_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Daynes-Property-Park_4624432223_20170424074402_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821096/125316470-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyBusStat_6383632380_20170424074344.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyBusStat_6383632380_20170424074344_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyBusStat_6383632380_20170424074344_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyBusStat_6383632380_20170424074344_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyBusStat_6383632380_20170424074344_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821095/125316470-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPool-Da_7166202008_20170424074345.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPool-Da_7166202008_20170424074345_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPool-Da_7166202008_20170424074345_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPool-Da_7166202008_20170424074345_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPool-Da_7166202008_20170424074345_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821094/125316470-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPrimary_6022139434_20170424074347.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPrimary_6022139434_20170424074347_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPrimary_6022139434_20170424074347_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPrimary_6022139434_20170424074347_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyPrimary_6022139434_20170424074347_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821093/125316470-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_5938499225_20170424074347.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_5938499225_20170424074347_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_5938499225_20170424074347_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_5938499225_20170424074347_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_5938499225_20170424074347_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821092/125316470-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4764416395_20170424074349.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4764416395_20170424074349_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4764416395_20170424074349_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4764416395_20170424074349_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4764416395_20170424074349_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821091/125316470-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_2966492781_20170424074349.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_2966492781_20170424074349_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_2966492781_20170424074349_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_2966492781_20170424074349_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_2966492781_20170424074349_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821090/125316470-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4261441389_20170424074350.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4261441389_20170424074350_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4261441389_20170424074350_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4261441389_20170424074350_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyStation_4261441389_20170424074350_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821089/125316470-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain-D_7145718793_20170424074351.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain-D_7145718793_20170424074351_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain-D_7145718793_20170424074351_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain-D_7145718793_20170424074351_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain-D_7145718793_20170424074351_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821088/125316470-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain2-_3134271186_20170424074352.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain2-_3134271186_20170424074352_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain2-_3134271186_20170424074352_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain2-_3134271186_20170424074352_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-OxleyTrain2-_3134271186_20170424074352_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821087/125316470-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park-Daynes-_8200750077_20170424074353.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park-Daynes-_8200750077_20170424074353_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park-Daynes-_8200750077_20170424074353_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park-Daynes-_8200750077_20170424074353_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park-Daynes-_8200750077_20170424074353_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821086/125316470-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park2-Daynes_7195037198_20170424074354.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park2-Daynes_7195037198_20170424074354_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park2-Daynes_7195037198_20170424074354_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park2-Daynes_7195037198_20170424074354_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1070801/images/Cook-69-Park2-Daynes_7195037198_20170424074354_80x60.jpg
-    modtime: '1492984694'
-    dimensions: 1200x900
-property_id: '3166372'
-id: 0bee2459-2d79-4a75-9cd0-89c398726115
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821085/125316470-image-M.jpg'
+property_id: '435155'
+id: 91ea5612-e231-4d2b-a4ab-266ab7a7eb78
 ---
 This is a rare opportunity to secure a generous parcel of land only 16km from Brisbane CBD. The Oxley area is exciting many investors and home owners for it's excellent services, amenities, connectivity and warm communities. This is a lovely 582sqm property and is situated next to a modern estate, reaping the benefits of overlooking the lush parkland. With approximately a 15.6m frontage and overall a flat block this is the perfect canvas to create your dream home.
 

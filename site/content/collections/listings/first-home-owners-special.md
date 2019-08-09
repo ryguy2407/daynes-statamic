@@ -1,60 +1,28 @@
 ---
 title: 'First Home Owners Special!'
 price: '$329,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '23 Benton Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/RbV5E07pqI79Eji56nxpBoLGAts=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824207/116582299-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074327-48105_6387847113_20140411025902.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074327-48105_6387847113_20140411025902_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074327-48105_6387847113_20140411025902_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074327-48105_6387847113_20140411025902_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074327-48105_6387847113_20140411025902_80x60.jpg
-    modtime: '1397163896'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824211/116582299-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074318-80115_9653218464_20140411025901.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074318-80115_9653218464_20140411025901_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074318-80115_9653218464_20140411025901_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074318-80115_9653218464_20140411025901_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/20140402074318-80115_9653218464_20140411025901_80x60.jpg
-    modtime: '1397163896'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824210/116582299-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8749_7674567434_20140505115934.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8749_7674567434_20140505115934_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8749_7674567434_20140505115934_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8749_7674567434_20140505115934_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8749_7674567434_20140505115934_80x60.jpg
-    modtime: '1399255186'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824209/116582299-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8750_5725659621_20140505115935.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8750_5725659621_20140505115935_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8750_5725659621_20140505115935_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8750_5725659621_20140505115935_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8750_5725659621_20140505115935_80x60.jpg
-    modtime: '1399255186'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824208/116582299-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8751_3362053917_20140505115941.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8751_3362053917_20140505115941_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8751_3362053917_20140505115941_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8751_3362053917_20140505115941_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/97976/images/IMG_8751_3362053917_20140505115941_80x60.jpg
-    modtime: '1399255186'
-    dimensions: null
-property_id: '146413'
-id: a0eec754-d186-4271-b5c6-34c9c8c6d8fc
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824207/116582299-image-M.jpg'
+property_id: '435405'
+id: 78a80049-b5e7-494f-982b-67976f20ff4e
 ---
-This three bedroom home on a 615sqm corner block will impress buyers looking for good presentation and practicality. 
+This three bedroom home on a 615sqm corner block will impress buyers looking for good presentation and practicality.
 
 Features include;
 

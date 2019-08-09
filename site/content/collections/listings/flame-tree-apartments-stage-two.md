@@ -1,22 +1,18 @@
 ---
 title: 'Flame Tree Apartments - Stage Two'
-price: '$375,000'
-bedrooms: '2'
-bathrooms: '2'
-cars: null
-status: sold
+price: ''
+rent: null
+bedrooms: 2
+bathrooms: 2
+cars: 0
+status: Sold
+address: '4 / 9 Lindwall Street, UPPER MOUNT GRAVATT'
+main_image: 'https://img.eagleagent.com.au/ss_a4DbGn4PvrtYAowgJoZ0Lb0s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818104/104017173-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98094/images/104017173-1_5061628008_20140411034058.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98094/images/104017173-1_5061628008_20140411034058_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98094/images/104017173-1_5061628008_20140411034058_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98094/images/104017173-1_5061628008_20140411034058_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98094/images/104017173-1_5061628008_20140411034058_80x60.jpg
-    modtime: '1397166354'
-    dimensions: null
-property_id: '145984'
-id: 2786f298-7f63-4ccc-871c-d69ed6c49a38
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818104/104017173-image-M.jpg'
+property_id: '434826'
+id: a4fa9508-c32a-4869-b539-f5b0c4089e7d
 ---
 This one-bedroom unit is sure to please. With the kitchen comprising of electric European appliances, and garbage disposal and the apartments also include clothes dryer, washing machine and gas hot water.
 

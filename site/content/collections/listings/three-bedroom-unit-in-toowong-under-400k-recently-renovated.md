@@ -1,85 +1,32 @@
 ---
 title: 'Three Bedroom Unit in Toowong under $400k! Recently Renovated!'
 price: SOLD
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: 'A1 / 32 Miskin Street, TOOWONG'
+main_image: 'https://img.eagleagent.com.au/_zBhbWc_Wtl32qI8509_ycRCuRY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820607/113304503-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-1_5132847982_20140411035100.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-1_5132847982_20140411035100_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-1_5132847982_20140411035100_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-1_5132847982_20140411035100_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-1_5132847982_20140411035100_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820614/113304503-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-2_2589209624_20140411035058.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-2_2589209624_20140411035058_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-2_2589209624_20140411035058_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-2_2589209624_20140411035058_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-2_2589209624_20140411035058_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820613/113304503-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-3_3228258313_20140411035059.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-3_3228258313_20140411035059_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-3_3228258313_20140411035059_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-3_3228258313_20140411035059_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-3_3228258313_20140411035059_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820612/113304503-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-4_4338256158_20140411035100.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-4_4338256158_20140411035100_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-4_4338256158_20140411035100_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-4_4338256158_20140411035100_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-4_4338256158_20140411035100_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820611/113304503-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-5_2013305416_20140411035101.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-5_2013305416_20140411035101_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-5_2013305416_20140411035101_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-5_2013305416_20140411035101_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-5_2013305416_20140411035101_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820610/113304503-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-6_7428811505_20140411035106.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-6_7428811505_20140411035106_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-6_7428811505_20140411035106_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-6_7428811505_20140411035106_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-6_7428811505_20140411035106_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820609/113304503-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-7_149002806_20140411035108.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-7_149002806_20140411035108_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-7_149002806_20140411035108_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-7_149002806_20140411035108_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-7_149002806_20140411035108_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820608/113304503-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-8_6567396438_20140411035106.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-8_6567396438_20140411035106_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-8_6567396438_20140411035106_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-8_6567396438_20140411035106_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98077/images/113304503-8_6567396438_20140411035106_80x60.jpg
-    modtime: '1397166945'
-    dimensions: null
-property_id: '145711'
-id: 98ebefd9-8658-48a2-b677-66f0c6839ba5
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820607/113304503-image-M.jpg'
+property_id: '435111'
+id: 8be0b341-8ff2-45cf-a271-d7c0dc6d3cbc
 ---
 You will be hard pressed to find a recently renovated three bedroom unit in Toowong for under $400,000. The property is currently tenanted and achieves $450 per week!
 

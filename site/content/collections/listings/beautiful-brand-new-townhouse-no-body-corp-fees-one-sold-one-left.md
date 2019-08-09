@@ -1,67 +1,28 @@
 ---
 title: 'Beautiful Brand New Townhouse - No Body Corp Fees - One Sold One Left!'
-price: '$449,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 1
+status: Sold
+address: '1 / 36 Helles Street, MOOROOKA'
+main_image: 'https://img.eagleagent.com.au/BusFOnlVaFXRB1CuuKwIGq1FDUA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818062/104008362-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-1_9506840818_20140411034134.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-1_9506840818_20140411034134_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-1_9506840818_20140411034134_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-1_9506840818_20140411034134_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-1_9506840818_20140411034134_80x60.jpg
-    modtime: '1397166406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818067/104008362-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-2_9704289744_20140411034136.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-2_9704289744_20140411034136_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-2_9704289744_20140411034136_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-2_9704289744_20140411034136_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-2_9704289744_20140411034136_80x60.jpg
-    modtime: '1397166406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818066/104008362-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-3_5526335165_20140411034134.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-3_5526335165_20140411034134_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-3_5526335165_20140411034134_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-3_5526335165_20140411034134_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-3_5526335165_20140411034134_80x60.jpg
-    modtime: '1397166406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818065/104008362-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-4_4697507150_20140411034140.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-4_4697507150_20140411034140_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-4_4697507150_20140411034140_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-4_4697507150_20140411034140_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-4_4697507150_20140411034140_80x60.jpg
-    modtime: '1397166406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818064/104008362-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-5_204963255_20140411034141.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-5_204963255_20140411034141_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-5_204963255_20140411034141_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-5_204963255_20140411034141_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-5_204963255_20140411034141_80x60.jpg
-    modtime: '1397166406'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818063/104008362-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-6_8824533639_20140411034141.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-6_8824533639_20140411034141_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-6_8824533639_20140411034141_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-6_8824533639_20140411034141_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98090/images/104008362-6_8824533639_20140411034141_80x60.jpg
-    modtime: '1397166406'
-    dimensions: null
-property_id: '145935'
-id: e01819ac-06c9-41fc-a67d-b7349771c9a8
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818062/104008362-image-M.jpg'
+property_id: '434796'
+id: 268224f6-a3b0-41da-afd7-c6f2ac8523c7
 ---
 Situated in a leafy quiet street in Moorooka.  This 3 bedroom 2 bathroom and 1 powder room townhouse  features large landscaped courtyard, spacious open plan living area, vogue kitchen  with stainless steel appliances.
 Upstairs there are three bedrooms with a study nook and a large walk in robe in the main room.

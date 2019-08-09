@@ -1,112 +1,38 @@
 ---
 title: 'Great Unit In Ultra Handy Position - Price Reduced by $20,000'
 price: 'Price Reduced to $439,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 1
+status: Sold
+address: '7 / 16 Devon Street, YERONGA'
+main_image: 'https://img.eagleagent.com.au/UhzyO9sHxuB2ub9y32AEuCKlop4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820615/105886470-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-1_4645541324_20140411032516.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-1_4645541324_20140411032516_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-1_4645541324_20140411032516_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-1_4645541324_20140411032516_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-1_4645541324_20140411032516_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820625/105886470-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-2_959866526_20140411032522.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-2_959866526_20140411032522_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-2_959866526_20140411032522_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-2_959866526_20140411032522_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-2_959866526_20140411032522_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820624/105886470-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-3_1362914694_20140411032523.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-3_1362914694_20140411032523_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-3_1362914694_20140411032523_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-3_1362914694_20140411032523_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-3_1362914694_20140411032523_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820623/105886470-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-4_4836504422_20140411032522.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-4_4836504422_20140411032522_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-4_4836504422_20140411032522_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-4_4836504422_20140411032522_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-4_4836504422_20140411032522_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820622/105886470-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-5_1079267654_20140411032523.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-5_1079267654_20140411032523_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-5_1079267654_20140411032523_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-5_1079267654_20140411032523_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-5_1079267654_20140411032523_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820621/105886470-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-6_72784586_20140411032523.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-6_72784586_20140411032523_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-6_72784586_20140411032523_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-6_72784586_20140411032523_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-6_72784586_20140411032523_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820620/105886470-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-7_22162054_20140411032528.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-7_22162054_20140411032528_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-7_22162054_20140411032528_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-7_22162054_20140411032528_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-7_22162054_20140411032528_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820619/105886470-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-8_5730321603_20140411032527.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-8_5730321603_20140411032527_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-8_5730321603_20140411032527_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-8_5730321603_20140411032527_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-8_5730321603_20140411032527_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820618/105886470-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-9_7394129490_20140411032528.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-9_7394129490_20140411032528_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-9_7394129490_20140411032528_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-9_7394129490_20140411032528_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-9_7394129490_20140411032528_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820617/105886470-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-10_7349229888_20140411032528.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-10_7349229888_20140411032528_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-10_7349229888_20140411032528_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-10_7349229888_20140411032528_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-10_7349229888_20140411032528_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820616/105886470-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-11_8089051312_20140411032528.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-11_8089051312_20140411032528_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-11_8089051312_20140411032528_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-11_8089051312_20140411032528_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98169/images/1133170-11_8089051312_20140411032528_80x60.jpg
-    modtime: '1397165590'
-    dimensions: null
-property_id: '145770'
-id: 0c126a6a-781c-4fb7-aefc-91afd2025eaf
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820615/105886470-image-M.jpg'
+property_id: '435112'
+id: 264e8270-6195-4e3c-a642-b57811b91d88
 ---
 You will find it quite easy to entertain with this three bedroom, two bathroom unit with its large open plan living area that extends out to a good sized balcony. Situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

@@ -1,127 +1,46 @@
 ---
 title: 'Low-Maintenance Brick Home'
 price: 'Offers Over $360,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '1 Moonstone Place, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/8IS7mVRWzHmvTcIYe-NTv7jV9sU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821601/126769578-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Front-Da_5635144724_20171025083408.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Front-Da_5635144724_20171025083408_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Front-Da_5635144724_20171025083408_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Front-Da_5635144724_20171025083408_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Front-Da_5635144724_20171025083408_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821612/126769578-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living3-_6560442316_20171025083414.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living3-_6560442316_20171025083414_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living3-_6560442316_20171025083414_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living3-_6560442316_20171025083414_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living3-_6560442316_20171025083414_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821611/126769578-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living4-_4872666005_20171025084031.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living4-_4872666005_20171025084031_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living4-_4872666005_20171025084031_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living4-_4872666005_20171025084031_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living4-_4872666005_20171025084031_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821610/126769578-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living-D_8135019375_20171025083408.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living-D_8135019375_20171025083408_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living-D_8135019375_20171025083408_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living-D_8135019375_20171025083408_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Living-D_8135019375_20171025083408_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821609/126769578-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Kitchen-_6263307663_20171025083404.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Kitchen-_6263307663_20171025083404_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Kitchen-_6263307663_20171025083404_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Kitchen-_6263307663_20171025083404_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Kitchen-_6263307663_20171025083404_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821608/126769578-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed1-Day_1602620287_20171025083340.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed1-Day_1602620287_20171025083340_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed1-Day_1602620287_20171025083340_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed1-Day_1602620287_20171025083340_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed1-Day_1602620287_20171025083340_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821607/126769578-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed2-Day_8868709378_20171025083347.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed2-Day_8868709378_20171025083347_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed2-Day_8868709378_20171025083347_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed2-Day_8868709378_20171025083347_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed2-Day_8868709378_20171025083347_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821606/126769578-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed3-Day_3182318561_20171025083343.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed3-Day_3182318561_20171025083343_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed3-Day_3182318561_20171025083343_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed3-Day_3182318561_20171025083343_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bed3-Day_3182318561_20171025083343_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821605/126769578-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bathroom_5462033391_20171025083334.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bathroom_5462033391_20171025083334_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bathroom_5462033391_20171025083334_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bathroom_5462033391_20171025083334_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Bathroom_5462033391_20171025083334_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821604/126769578-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back-Day_8362574201_20171025083332.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back-Day_8362574201_20171025083332_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back-Day_8362574201_20171025083332_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back-Day_8362574201_20171025083332_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back-Day_8362574201_20171025083332_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821603/126769578-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back3-Da_8112486914_20171025083711.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back3-Da_8112486914_20171025083711_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back3-Da_8112486914_20171025083711_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back3-Da_8112486914_20171025083711_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Back3-Da_8112486914_20171025083711_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821602/126769578-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Block-Da_3942675515_20171025083355.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Block-Da_3942675515_20171025083355_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Block-Da_3942675515_20171025083355_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Block-Da_3942675515_20171025083355_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1288176/images/Moonstone-1-Block-Da_3942675515_20171025083355_80x60.jpg
-    modtime: '1508884853'
-    dimensions: 1200x900
-property_id: '1925927'
-id: a89fc69d-a5c5-4ec4-8579-c221a342d9e5
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821601/126769578-image-M.jpg'
+property_id: '435196'
+id: ecf460a1-6f64-4015-862f-54b75abf47d7
 ---
 This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of natural light and looks out to the lovely grassy lawns. The three bedrooms have been finished with new carpets and new blinds have been installed to windows throughout the property. The open plan kitchen, dining and living are perfect for busy families, allowing plenty of space to relax and entertain. This is an excellent entry-level home, perfect for those looking for an opportunity to move in with nothing left to do.
 
 This property featues:
 
-*  New carpets to bedrooms, new blinds to windows throughout 
+*  New carpets to bedrooms, new blinds to windows throughout
 *  Open plan kitchen, dining and living spaces
 *  Kitchen with plenty of bench and cupboard space, lino flooring
 *  Three good sized bedrooms with ample natural light

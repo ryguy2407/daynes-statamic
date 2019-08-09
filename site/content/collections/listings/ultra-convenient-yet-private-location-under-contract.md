@@ -1,85 +1,32 @@
 ---
 title: 'Ultra Convenient Yet Private Location - UNDER CONTRACT'
 price: 'Best offer over $525,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '16 Ferrand Street, TARRAGINDI'
+main_image: 'https://img.eagleagent.com.au/jP80querO7lKCfY54UX4QqXj5Io=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819752/106409987-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-1_7306928132_20140411040513.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-1_7306928132_20140411040513_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-1_7306928132_20140411040513_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-1_7306928132_20140411040513_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-1_7306928132_20140411040513_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819759/106409987-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-2_7054483933_20140411040515.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-2_7054483933_20140411040515_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-2_7054483933_20140411040515_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-2_7054483933_20140411040515_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-2_7054483933_20140411040515_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819758/106409987-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-3_2458521323_20140411040514.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-3_2458521323_20140411040514_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-3_2458521323_20140411040514_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-3_2458521323_20140411040514_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-3_2458521323_20140411040514_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819757/106409987-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-4_6890917374_20140411040515.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-4_6890917374_20140411040515_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-4_6890917374_20140411040515_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-4_6890917374_20140411040515_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-4_6890917374_20140411040515_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819756/106409987-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-5_3369192858_20140411040518.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-5_3369192858_20140411040518_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-5_3369192858_20140411040518_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-5_3369192858_20140411040518_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-5_3369192858_20140411040518_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819755/106409987-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-6_7780211983_20140411040518.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-6_7780211983_20140411040518_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-6_7780211983_20140411040518_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-6_7780211983_20140411040518_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-6_7780211983_20140411040518_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819754/106409987-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-7_412533683_20140411040519.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-7_412533683_20140411040519_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-7_412533683_20140411040519_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-7_412533683_20140411040519_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-7_412533683_20140411040519_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819753/106409987-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-8_5774957081_20140411040518.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-8_5774957081_20140411040518_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-8_5774957081_20140411040518_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-8_5774957081_20140411040518_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98029/images/106409987-8_5774957081_20140411040518_80x60.jpg
-    modtime: '1397167829'
-    dimensions: null
-property_id: '145604'
-id: b6274989-c5ff-46a2-a3af-f9f6960793ca
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819752/106409987-image-M.jpg'
+property_id: '435010'
+id: 5d589d50-3903-428e-b81f-f8c4d5edf384
 ---
 Located on a quiet street in Tarragindi and backing onto forest, this lowest 3 bedroom home has all the privacy you could ask for!
 

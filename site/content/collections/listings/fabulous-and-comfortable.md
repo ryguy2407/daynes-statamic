@@ -1,159 +1,50 @@
 ---
 title: 'Fabulous and Comfortable'
 price: '$450,000'
-bedrooms: '3'
-bathrooms: '2'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 2
+cars: 1
+status: Sold
+address: '10 Emily Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/ikzBIxtY5NRAR1W1aJzqCA-LyIU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821918/128206250-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front2-Dayn_759229291_20180425050034.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front2-Dayn_759229291_20180425050034_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front2-Dayn_759229291_20180425050034_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front2-Dayn_759229291_20180425050034_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front2-Dayn_759229291_20180425050034_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821933/128206250-image-P.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front-Dayne_2004641222_20180425050036.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front-Dayne_2004641222_20180425050036_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front-Dayne_2004641222_20180425050036_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front-Dayne_2004641222_20180425050036_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Front-Dayne_2004641222_20180425050036_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821932/128206250-image-O.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living2-Day_5891814514_20180425050031.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living2-Day_5891814514_20180425050031_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living2-Day_5891814514_20180425050031_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living2-Day_5891814514_20180425050031_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living2-Day_5891814514_20180425050031_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821931/128206250-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living3-Day_4127677021_20180425050029.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living3-Day_4127677021_20180425050029_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living3-Day_4127677021_20180425050029_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living3-Day_4127677021_20180425050029_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living3-Day_4127677021_20180425050029_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821930/128206250-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen2-Da_2744367149_20180425050037.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen2-Da_2744367149_20180425050037_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen2-Da_2744367149_20180425050037_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen2-Da_2744367149_20180425050037_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen2-Da_2744367149_20180425050037_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821929/128206250-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen-Day_2130023430_20180425050039.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen-Day_2130023430_20180425050039_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen-Day_2130023430_20180425050039_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen-Day_2130023430_20180425050039_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Kitchen-Day_2130023430_20180425050039_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821928/128206250-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living-Dayn_9682136996_20180425050038.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living-Dayn_9682136996_20180425050038_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living-Dayn_9682136996_20180425050038_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living-Dayn_9682136996_20180425050038_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Living-Dayn_9682136996_20180425050038_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821927/128206250-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed1-Daynes_1115566708_20180425050026.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed1-Daynes_1115566708_20180425050026_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed1-Daynes_1115566708_20180425050026_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed1-Daynes_1115566708_20180425050026_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed1-Daynes_1115566708_20180425050026_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821926/128206250-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom2-D_9281143204_20180425050026.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom2-D_9281143204_20180425050026_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom2-D_9281143204_20180425050026_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom2-D_9281143204_20180425050026_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom2-D_9281143204_20180425050026_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821925/128206250-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed3-Daynes_3512863518_20180425050027.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed3-Daynes_3512863518_20180425050027_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed3-Daynes_3512863518_20180425050027_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed3-Daynes_3512863518_20180425050027_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed3-Daynes_3512863518_20180425050027_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821924/128206250-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed2-Daynes_7775894180_20180425050028.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed2-Daynes_7775894180_20180425050028_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed2-Daynes_7775894180_20180425050028_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed2-Daynes_7775894180_20180425050028_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bed2-Daynes_7775894180_20180425050028_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821923/128206250-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom-Da_7159272821_20180425050032.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom-Da_7159272821_20180425050032_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom-Da_7159272821_20180425050032_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom-Da_7159272821_20180425050032_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Bathroom-Da_7159272821_20180425050032_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821922/128206250-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Study-Dayne_6415242751_20180425050040.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Study-Dayne_6415242751_20180425050040_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Study-Dayne_6415242751_20180425050040_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Study-Dayne_6415242751_20180425050040_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Study-Dayne_6415242751_20180425050040_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821921/128206250-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back2-Dayne_3642732186_20180425050030.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back2-Dayne_3642732186_20180425050030_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back2-Dayne_3642732186_20180425050030_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back2-Dayne_3642732186_20180425050030_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back2-Dayne_3642732186_20180425050030_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821920/128206250-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back1-Dayne_7962745315_20180425050034.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back1-Dayne_7962745315_20180425050034_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back1-Dayne_7962745315_20180425050034_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back1-Dayne_7962745315_20180425050034_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Back1-Dayne_7962745315_20180425050034_80x60.jpg
-    modtime: '1524640256'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821919/128206250-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Block-Dayne_5794303403_20180426092356.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Block-Dayne_5794303403_20180426092356_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Block-Dayne_5794303403_20180426092356_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Block-Dayne_5794303403_20180426092356_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1452200/images/Emily-10-Block-Dayne_5794303403_20180426092356_80x60.jpg
-    modtime: '1524698698'
-    dimensions: 1200x900
-property_id: '1913770'
-id: d5a37883-ca5e-4ed1-9a96-6639fe5c587f
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821918/128206250-image-M.jpg'
+property_id: '435223'
+id: 136f7548-4c06-4eed-9511-d7bc9ae251ad
 ---
-Completely renovated and immaculately presented both inside and out, this home is one to fall in love with. The home is a classic of mid-century design, with open plan interiors offering liveability and lifestyle in excess. Stepping into the home, the tiled sunroom is both a lovely reception and an extension of the living area. The flowing open plan design integrates the living, dining and kitchen into an airy and functional space, perfect for easy entertaining and relaxation. The modern kitchen has been finished with granite benchtops and glossy two pac cabinetry, and equipped with stainless steel appliances. The tiled floor and finishes have been well-chosen to ensure a low-maintenance and convenient design in the kitchen. The original hardwood timber floors, for which these homes are much sought after, have been polished to perfection throughout the living, hallways and bedrooms. 
+Completely renovated and immaculately presented both inside and out, this home is one to fall in love with. The home is a classic of mid-century design, with open plan interiors offering liveability and lifestyle in excess. Stepping into the home, the tiled sunroom is both a lovely reception and an extension of the living area. The flowing open plan design integrates the living, dining and kitchen into an airy and functional space, perfect for easy entertaining and relaxation. The modern kitchen has been finished with granite benchtops and glossy two pac cabinetry, and equipped with stainless steel appliances. The tiled floor and finishes have been well-chosen to ensure a low-maintenance and convenient design in the kitchen. The original hardwood timber floors, for which these homes are much sought after, have been polished to perfection throughout the living, hallways and bedrooms.
 
 The three generous bedrooms are situated privately to the rear of the home. The master is serviced by a lovely ensuite, a real rarity in the area. Each of the bedrooms has been finished with modern down lights and a neutral colour palette. The completely renovated main bathroom and ensuite have been equipped with designer fittings and finishes. For those who work from home, a study has been cleverly partitioned from the front sunroom, making this an ideal working space. No detail has been left unattended and what has been created is a fabulous, welcoming and comfortable place to call home.
 

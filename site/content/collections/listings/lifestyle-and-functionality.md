@@ -1,112 +1,38 @@
 ---
 title: 'Lifestyle and Functionality'
 price: 'Offers Over $320,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: null
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 0
+status: Sold
+address: '8 Dunkeld Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/r7gLjJZCd4TBoNfdClWEX5kUFqw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821674/127289790-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Front-Dayn_3023381867_20180109091825.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Front-Dayn_3023381867_20180109091825_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Front-Dayn_3023381867_20180109091825_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Front-Dayn_3023381867_20180109091825_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Front-Dayn_3023381867_20180109091825_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821684/127289790-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Entry-Dayn_9697297222_20180109091551.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Entry-Dayn_9697297222_20180109091551_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Entry-Dayn_9697297222_20180109091551_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Entry-Dayn_9697297222_20180109091551_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Entry-Dayn_9697297222_20180109091551_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821683/127289790-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living-Day_5086843204_20180109091554.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living-Day_5086843204_20180109091554_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living-Day_5086843204_20180109091554_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living-Day_5086843204_20180109091554_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living-Day_5086843204_20180109091554_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821682/127289790-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Kitchen-Da_999296657_20180109091554.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Kitchen-Da_999296657_20180109091554_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Kitchen-Da_999296657_20180109091554_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Kitchen-Da_999296657_20180109091554_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Kitchen-Da_999296657_20180109091554_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821681/127289790-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living2-Da_5426694353_20180109091557.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living2-Da_5426694353_20180109091557_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living2-Da_5426694353_20180109091557_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living2-Da_5426694353_20180109091557_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Living2-Da_5426694353_20180109091557_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821680/127289790-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Stairs-Day_64927888_20180109091557.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Stairs-Day_64927888_20180109091557_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Stairs-Day_64927888_20180109091557_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Stairs-Day_64927888_20180109091557_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Stairs-Day_64927888_20180109091557_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821679/127289790-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Downstairs_3170402977_20180109091549.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Downstairs_3170402977_20180109091549_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Downstairs_3170402977_20180109091549_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Downstairs_3170402977_20180109091549_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Downstairs_3170402977_20180109091549_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821678/127289790-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bathroom-D_8176580508_20180109091524.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bathroom-D_8176580508_20180109091524_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bathroom-D_8176580508_20180109091524_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bathroom-D_8176580508_20180109091524_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bathroom-D_8176580508_20180109091524_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821677/127289790-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed1-Dayne_2456596170_20180109091550.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed1-Dayne_2456596170_20180109091550_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed1-Dayne_2456596170_20180109091550_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed1-Dayne_2456596170_20180109091550_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed1-Dayne_2456596170_20180109091550_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821676/127289790-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed2-Dayne_3042649924_20180109091536.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed2-Dayne_3042649924_20180109091536_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed2-Dayne_3042649924_20180109091536_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed2-Dayne_3042649924_20180109091536_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Bed2-Dayne_3042649924_20180109091536_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821675/127289790-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Block-Dayn_3578580988_20180109091547.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Block-Dayn_3578580988_20180109091547_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Block-Dayn_3578580988_20180109091547_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Block-Dayn_3578580988_20180109091547_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357381/images/Dunkeld-8-Block-Dayn_3578580988_20180109091547_80x60.jpg
-    modtime: '1515496770'
-    dimensions: 1200x900
-property_id: '1913651'
-id: 9a7cfa31-a78d-4bdb-a208-cc3798348176
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821674/127289790-image-M.jpg'
+property_id: '435202'
+id: e06ab2e4-a345-4413-8084-59eb7e58bb33
 ---
 This property has it all for lifestyle and functionality, a lovely family home situated in a quiet pocket of Acacia Ridge. Freshly painted internally, the home has been finished in a tasteful, neutral colour palette which is complemented by the the abundance of natural light in every room. The hardwood timber floors have also been recently polished, giving the home a fresh and modern feel. The kitchen and bathroom have been updated. The easy layout of the home gives plenty of space for a growing families with the combined kitchen and dining opening to the living area and to a leafy backyard. The front sunroom also affords plenty of options as a play room, home office or simply a place to enjoy the peaceful neighbourhood.
 

@@ -2,6 +2,7 @@
 
 namespace Statamic\Addons\CRMListings;
 
+use Illuminate\Pagination\Paginator;
 use Statamic\Extend\ServiceProvider;
 
 class CRMListingsServiceProvider extends ServiceProvider
@@ -23,6 +24,6 @@ class CRMListingsServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        $this->app->bind('Statamic\Addons\CRMListings\Repositories\CRMInterface', 'Statamic\Addons\CRMListings\Repositories\EagleListings');
     }
 }

@@ -1,109 +1,54 @@
 ---
 title: 'Generous Family Home'
-price: '$480 per week'
-bedrooms: '4'
-bathrooms: '2'
-cars: '2'
-status: leased
+price: 'Offers Over $399,000'
+rent: null
+bedrooms: 4
+bathrooms: 1
+cars: 1
+status: Sold
+address: '12 Desgrand Street, ARCHERFIELD'
+main_image: 'https://img.eagleagent.com.au/LRIjeAZUHKtBDjvV5Ir92Y-Rcb4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821246/125652794-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Front-Dayn_3289573347_20180109100431.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Front-Dayn_3289573347_20180109100431_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Front-Dayn_3289573347_20180109100431_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Front-Dayn_3289573347_20180109100431_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Front-Dayn_3289573347_20180109100431_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821255/125652794-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Living-Day_7307376938_20180109100432.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Living-Day_7307376938_20180109100432_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Living-Day_7307376938_20180109100432_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Living-Day_7307376938_20180109100432_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Living-Day_7307376938_20180109100432_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821254/125652794-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Kitchen-Da_2451283454_20180109100429.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Kitchen-Da_2451283454_20180109100429_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Kitchen-Da_2451283454_20180109100429_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Kitchen-Da_2451283454_20180109100429_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Kitchen-Da_2451283454_20180109100429_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821253/125652794-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bathroom-D_5993816425_20180109100420.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bathroom-D_5993816425_20180109100420_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bathroom-D_5993816425_20180109100420_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bathroom-D_5993816425_20180109100420_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bathroom-D_5993816425_20180109100420_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821252/125652794-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed1-Dayne_5852100157_20180109100423.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed1-Dayne_5852100157_20180109100423_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed1-Dayne_5852100157_20180109100423_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed1-Dayne_5852100157_20180109100423_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed1-Dayne_5852100157_20180109100423_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821251/125652794-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed2-Dayne_9473166913_20180109100426.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed2-Dayne_9473166913_20180109100426_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed2-Dayne_9473166913_20180109100426_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed2-Dayne_9473166913_20180109100426_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Bed2-Dayne_9473166913_20180109100426_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821250/125652794-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Downstairs_8474691361_20180109100426.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Downstairs_8474691361_20180109100426_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Downstairs_8474691361_20180109100426_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Downstairs_8474691361_20180109100426_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Downstairs_8474691361_20180109100426_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821249/125652794-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Patio-Dayn_7366445454_20180109100433.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Patio-Dayn_7366445454_20180109100433_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Patio-Dayn_7366445454_20180109100433_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Patio-Dayn_7366445454_20180109100433_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Patio-Dayn_7366445454_20180109100433_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821248/125652794-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Backyard-D_335929070_20180109100423.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Backyard-D_335929070_20180109100423_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Backyard-D_335929070_20180109100423_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Backyard-D_335929070_20180109100423_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1357378/images/Phaius-15-Backyard-D_335929070_20180109100423_80x60.jpg
-    modtime: '1515499496'
-    dimensions: 1200x900
-property_id: '1922231'
-id: 2f7a970f-27a2-46e3-88d4-56a83d422604
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821247/125652794-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821246/125652794-image-M.jpg'
+property_id: '435167'
+id: 9c0a9944-026a-4291-ae2e-ae0219fb0d68
 ---
-This is a generous family home offering two levels of living, with a fresh and modern renovation throughout. Perfect for those seeking dual living options with teenagers or elderly parents, with both levels offering great living potential. Upstairs are bright, open-plan living and kitchen areas, beautifully finished with polished timber floors. The three bedrooms are all good-sized with built in storage. Downstairs features kitchenette area and its own living room, with an additional bedroom and modern bathroom. The property also features a lovely outdoor entertaining area, perfect for enjoying long summer evenings. 
+This generous family home has been freshened up and is ready to be snapped up by a savvy investor or homeowner alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home. Immediately as the front door is opened off the cute front patio there is a feeling of spaciousness and light. The fresh, neutral colour scheme enhances the beautiful polished timber floors and large north-facing windows, affording plenty of natural light. The open-plan family and dining room flows into the large kitchen. These spaces are also adjoined by a versatile space with lofty ceilings, with the potential to be utilised as a fourth bedroom, rumpus or study.
 
-Features:
-* Air conditioning in living area and main bedroom
-*  Polished timber floors upstairs, tiles downstairs
-*  Fresh paint throughout
-*  Three good-sized bedrooms upstairs, one bedroom downstairs, all with built in storage and ceiling fans
-*  Upstairs with modern kitchen, open plan living
-*  Downstairs with kitchenette area and tiled living
-*  Two bathrooms
-*  Dual side access
-Location:
-*  Quiet pocket with no through traffic
-*  Convenient to Elizabeth Street Shopping Centre and Acacia Marketplace on Beaudesert Road
-*  Near Souths Sports Club
-*  Walking distance to Our Lady of Fatima Catholic Primary School, convenient to Acacia Ridge State Primary School
-*  Near Iceworld ice skating rink and a great selection of parks and playgrounds
+The kitchen is functional and clean, perfect to move straight into and in a tasteful neutral colour scheme. Likewise the laundry, which is situated in a large wing to the rear of the property with large amounts of storage, a recently renovated family bathroom and toilet. The bathroom features stone benchtops, attractive porcelain tiles, a frameless glass shower and quality fixtures. The three original bedrooms of the property are well-appointed and full of light. This home represents an attractive investment, ticking all the boxes for savvy investors looking for a property desirable to a wide range of prospective tenants.
+
+This property features:
+
+*  Fully fenced, with the rear yard also separately fenced
+*  Single carport, recently installed, with undercover access to house
+*  Beautiful polished timber floors to living, kitchen and three of the bedrooms
+*  Fresh neutral colour scheme throughout
+*  Recently updated kitchen stepping off spacious living area
+*  Four bedrooms, all generous and full of light
+*  Ceiling fans to living and master, new light fittings throughout
+*  Fourth bedroom with new lino flooring, lofty ceilings and useful for a variety of purposes
+*  Large bathroom and laundry to the rear of the home, plenty of room for busy families
+*  Shed and undercover work area to the rear
+*  Large back yard with Colorbond fencing, plenty of safe space for children and pets,
+*  Termite Barrier carried out Rentokil April 2016 with 10 year warranty
+
+This home is situated in a quiet residential pocket between Boundary and Kerry Roads, meaning amazing convenience to those who work in the surrounding areas and the CBD. Easy access and a 3 minute drive to Woolworths and Aldi in the Acacia Marketplace on Beaudesert Road, and walking distance to the Archerfield Park. Also on the 122 and 117 bus routes, it is handy to Iceworld ice skating rink and Souths Sports Club in Acacia Ridge. A 5 minute drive to Acacia Ridge State School, and a range of other great schools and daycares in the area. This is a great opportunity for those seeking a home in a quiet residential pocket without sacrificing convenience. This property will not last long!

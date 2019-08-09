@@ -1,31 +1,53 @@
 ---
-title: 'Potential Plus!'
-price: '$325,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: null
-status: sold
+title: 'Potential Plus'
+price: 'For Sale'
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 2
+status: Sold
+address: '15 Gemstone Crescent, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/fjakFizwkuxvOlOIMcZKcKZ6Oh0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822192/129304534-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/451949/images/84-Merchiston_454591237_20150829011854.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/451949/images/84-Merchiston_454591237_20150829011854_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/451949/images/84-Merchiston_454591237_20150829011854_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/451949/images/84-Merchiston_454591237_20150829011854_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/451949/images/84-Merchiston_454591237_20150829011854_80x60.jpg
-    modtime: '1440818415'
-    dimensions: 1200x900
-property_id: '1135492'
-id: e33c871e-576d-4221-8d57-7f448bc7ccae
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822201/129304534-image-I.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822200/129304534-image-H.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822199/129304534-image-G.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822198/129304534-image-F.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822197/129304534-image-E.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822196/129304534-image-D.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822195/129304534-image-C.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822194/129304534-image-B.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822193/129304534-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822192/129304534-image-M.jpg'
+property_id: '435247'
+id: 3aead066-ab09-4867-bc58-5bfa5df6a18a
 ---
-This lowset three bedroom home sits on an elevated 647sqm block in a quiet pocket of Acacia Ridge. This property represents a great opportunity for the savvy investor, while needing some work, the house has good bones with solid hardwood floors, concrete stumps and a tiled roof.
+This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of light and looks out to the lovely grassy lawns. The open plan eat in kitchen and living are generously proportioned and perfect for accommodating busy families.
 
-*  Three good sized bedrooms
-*  Bathroom tired and kitchen does need replacing
-*  Brick on the outside, besser brick on the inside - solid as a rock!
-*  Tiled roof
-*  Very elevated, flood free
+A super low-maintenance home with tiles through all the high-traffic areas of the home, including kitchen, entry, hallways and bathroom. Excellent for entertaining, the kitchen and laundry step out to a timber deck which is open to the fully-fenced backyard. The three bedrooms set privately to the rear of the home have been finished with carpets and two are air conditioned. This is an excellent entry-level home, and while comfortable as is, represents an opportunity for the first home buyer or investor to renovate, making this home truly your own.
 
-Situated in close proximity to local schools, public transport, Souths Sports Club, major transport routes and industrial/airport areas.
+This property features:
 
-Currently tenanted at $300 per week.
+*  Tiled kitchen with modern cabinetry and dark benchtops
+*  Open plan carpeted living with air conditioner
+*  Three good-sized carpeted bedrooms, two air conditioned and one with built in storage
+*  Bathroom tiled with shower over bath
+*  Large hall cupboard
+*  Laundry off kitchen steps out to timber decking
+*  Insect and security screens throughout
+*  Retractable clothesline
+*  Rainwater tank
+*  Double carport
+*  Large fully fenced block, terraced and established gardens
+
+Situated on a generous 618sqm block and overlooking parkland in a quiet pocket of Acacia Ridge, this is an idyllic location for families. This property is sure to tick all the boxes for the savvy investor. Not only is it a great potential first home for those planning for their family, it is also an amazing opportunity to secure a property so close to the Brisbane CBD. Convenient to Elizabeth Street shopping centre and the larger Beaudesert Road shopping complex which includes both Woolworths and Aldi. Close to bus stops, major transport thoroughfares, local primary schools and Souths Sports Club, the convenience of this location is second to none.

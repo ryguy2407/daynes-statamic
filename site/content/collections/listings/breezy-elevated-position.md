@@ -1,139 +1,44 @@
 ---
 title: 'Breezy Elevated Position'
 price: 'For Sale'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '25 Carowell Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/Gk05gJmVUBBrGwG69M17Zfp6azk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821847/127906778-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front2-D_2649469539_20180319081047.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front2-D_2649469539_20180319081047_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front2-D_2649469539_20180319081047_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front2-D_2649469539_20180319081047_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front2-D_2649469539_20180319081047_80x60.jpg
-    modtime: '1522237071'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821860/127906778-image-N.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front1-D_867448468_20180319081029.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front1-D_867448468_20180319081029_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front1-D_867448468_20180319081029_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front1-D_867448468_20180319081029_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Front1-D_867448468_20180319081029_80x60.jpg
-    modtime: '1522237071'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821859/127906778-image-L.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Living-D_7341207773_20180319081021.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Living-D_7341207773_20180319081021_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Living-D_7341207773_20180319081021_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Living-D_7341207773_20180319081021_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Living-D_7341207773_20180319081021_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821858/127906778-image-K.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen2_7453112811_20180319081039.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen2_7453112811_20180319081039_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen2_7453112811_20180319081039_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen2_7453112811_20180319081039_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen2_7453112811_20180319081039_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821857/127906778-image-J.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen4_8360684262_20180319081026.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen4_8360684262_20180319081026_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen4_8360684262_20180319081026_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen4_8360684262_20180319081026_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen4_8360684262_20180319081026_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821856/127906778-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen3_3996780186_20180319081039.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen3_3996780186_20180319081039_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen3_3996780186_20180319081039_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen3_3996780186_20180319081039_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen3_3996780186_20180319081039_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821855/127906778-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen1_8637306793_20180319081042.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen1_8637306793_20180319081042_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen1_8637306793_20180319081042_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen1_8637306793_20180319081042_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Kitchen1_8637306793_20180319081042_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821854/127906778-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed1-Day_8569705192_20180319081025.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed1-Day_8569705192_20180319081025_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed1-Day_8569705192_20180319081025_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed1-Day_8569705192_20180319081025_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed1-Day_8569705192_20180319081025_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821853/127906778-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed2-Day_2102300159_20180319081023.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed2-Day_2102300159_20180319081023_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed2-Day_2102300159_20180319081023_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed2-Day_2102300159_20180319081023_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bed2-Day_2102300159_20180319081023_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821852/127906778-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bathroom_2739380560_20180319081042.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bathroom_2739380560_20180319081042_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bathroom_2739380560_20180319081042_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bathroom_2739380560_20180319081042_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Bathroom_2739380560_20180319081042_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821851/127906778-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Patio-Da_3847747378_20180319081032.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Patio-Da_3847747378_20180319081032_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Patio-Da_3847747378_20180319081032_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Patio-Da_3847747378_20180319081032_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Patio-Da_3847747378_20180319081032_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821850/127906778-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Backyard_2384547885_20180319081035.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Backyard_2384547885_20180319081035_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Backyard_2384547885_20180319081035_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Backyard_2384547885_20180319081035_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Backyard_2384547885_20180319081035_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821849/127906778-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Shed-Day_5115283756_20180319081036.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Shed-Day_5115283756_20180319081036_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Shed-Day_5115283756_20180319081036_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Shed-Day_5115283756_20180319081036_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Shed-Day_5115283756_20180319081036_80x60.jpg
-    modtime: '1521454361'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821848/127906778-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Block-Da_4489260172_20180320075859.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Block-Da_4489260172_20180320075859_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Block-Da_4489260172_20180320075859_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Block-Da_4489260172_20180320075859_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1423892/images/Carowell-25-Block-Da_4489260172_20180320075859_80x60.jpg
-    modtime: '1521539980'
-    dimensions: 1200x900
-property_id: '1913279'
-id: e57642f2-b792-40a5-bd15-f7eff10ba607
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821847/127906778-image-M.jpg'
+property_id: '435217'
+id: d798d715-4dee-4879-ab73-29ffd284c82b
 ---
 This completely renovated home is the ultimate of modern living, representing the perfect opportunity to secure one of Acacia Ridge's most prestigious properties. With an elevated position, this private family home promises years of enjoyment in the spacious interiors and tranquil surrounds. Stepping inside the living room, provides a warm and inviting space, a showcase of the fresh walls and glossy timber floors. The sleek and modern kitchen is functional and expansive, allowing the space to service busy families. The kitchen features clean white cabinetry, laminate benchtops and stainless steel appliances. Stepping down to the paved undercover outdoor area, it is easy to imagine relaxing with family and friends in this generous home.
 
@@ -145,7 +50,7 @@ This home features:
 *  Updated lighting, plumbing, refurbished roof
 *  Beautiful hardwood timber floors throughout, polished to perfection
 *  Updated kitchen with laminate benchtops, white cabinetry, modern stainless steel appliances
-*  Living air conditioned 
+*  Living air conditioned
 *  Three generous bedrooms with ceiling fans, master very large
 *  Paved patio with new roof to the side off the kitchen, perfect for entertaining
 *  Powered shed with garage door plus garden shed

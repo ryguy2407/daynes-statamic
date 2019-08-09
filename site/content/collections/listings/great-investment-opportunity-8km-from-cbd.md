@@ -1,76 +1,30 @@
 ---
 title: 'Great Investment Opportunity - 8km From CBD'
-price: '$349,000'
-bedrooms: '2'
-bathrooms: '1'
-cars: '1'
-status: sold
+price: ''
+rent: null
+bedrooms: 2
+bathrooms: 1
+cars: 2
+status: Sold
+address: '15 / 118 Hamilton Road, MOOROOKA'
+main_image: 'https://img.eagleagent.com.au/VKyEBeH_L9VyOxXqOFKRZ_LQ8aM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820002/107039007-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-1_8876135117_20140411040119.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-1_8876135117_20140411040119_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-1_8876135117_20140411040119_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-1_8876135117_20140411040119_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-1_8876135117_20140411040119_80x60.jpg
-    modtime: '1397167559'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820008/107039007-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-2_5920381914_20140411040124.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-2_5920381914_20140411040124_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-2_5920381914_20140411040124_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-2_5920381914_20140411040124_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-2_5920381914_20140411040124_80x60.jpg
-    modtime: '1397167559'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820007/107039007-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-3_1122545651_20140411040122.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-3_1122545651_20140411040122_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-3_1122545651_20140411040122_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-3_1122545651_20140411040122_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-3_1122545651_20140411040122_80x60.jpg
-    modtime: '1397167559'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820006/107039007-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-4_8999522049_20140411040122.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-4_8999522049_20140411040122_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-4_8999522049_20140411040122_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-4_8999522049_20140411040122_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-4_8999522049_20140411040122_80x60.jpg
-    modtime: '1397167559'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820005/107039007-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-5_7241283832_20140411040122.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-5_7241283832_20140411040122_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-5_7241283832_20140411040122_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-5_7241283832_20140411040122_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-5_7241283832_20140411040122_80x60.jpg
-    modtime: '1397167559'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820004/107039007-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-6_9399010661_20140411040123.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-6_9399010661_20140411040123_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-6_9399010661_20140411040123_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-6_9399010661_20140411040123_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-6_9399010661_20140411040123_80x60.jpg
-    modtime: '1397167559'
-    dimensions: null
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820003/107039007-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-7_971886431_20140411040128.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-7_971886431_20140411040128_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-7_971886431_20140411040128_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-7_971886431_20140411040128_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/98040/images/107039007-7_971886431_20140411040128_80x60.jpg
-    modtime: '1397167559'
-    dimensions: null
-property_id: '145667'
-id: 23bb88a7-348d-4028-89ef-d8d025abedd5
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820002/107039007-image-M.jpg'
+property_id: '435051'
+id: da17f62c-8901-4648-a710-e5aed48ab4c6
 ---
 Act quickly to secure this lovely two bedroom villa in a managed complex of 30. This property is currently on a six month lease at $320 per week.
 

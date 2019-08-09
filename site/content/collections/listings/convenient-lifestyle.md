@@ -1,113 +1,46 @@
 ---
 title: 'Convenient Lifestyle'
 price: '$275,000'
-bedrooms: '3'
-bathrooms: '1'
-cars: '1'
-status: sold
+rent: null
+bedrooms: 3
+bathrooms: 1
+cars: 1
+status: Sold
+address: '20 / 80 Oswin Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/4lNsrtBtqg114nxBAT8OOttUgsk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821545/126515258-image-M.jpg'
 images:
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Front-Da_6344666927_20170925090210.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Front-Da_6344666927_20170925090210_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Front-Da_6344666927_20170925090210_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Front-Da_6344666927_20170925090210_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Front-Da_6344666927_20170925090210_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821554/126515258-image-I.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Porch-Da_2696593149_20170925090221.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Porch-Da_2696593149_20170925090221_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Porch-Da_2696593149_20170925090221_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Porch-Da_2696593149_20170925090221_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Porch-Da_2696593149_20170925090221_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821553/126515258-image-H.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Kitchen-_3972226453_20170925090211.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Kitchen-_3972226453_20170925090211_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Kitchen-_3972226453_20170925090211_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Kitchen-_3972226453_20170925090211_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Kitchen-_3972226453_20170925090211_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821552/126515258-image-G.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Living-D_9049208439_20170925090213.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Living-D_9049208439_20170925090213_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Living-D_9049208439_20170925090213_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Living-D_9049208439_20170925090213_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Living-D_9049208439_20170925090213_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821551/126515258-image-F.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Patio-Da_7182862914_20170925090214.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Patio-Da_7182862914_20170925090214_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Patio-Da_7182862914_20170925090214_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Patio-Da_7182862914_20170925090214_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Patio-Da_7182862914_20170925090214_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821550/126515258-image-E.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed1-Day_796400859_20170925090207.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed1-Day_796400859_20170925090207_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed1-Day_796400859_20170925090207_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed1-Day_796400859_20170925090207_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed1-Day_796400859_20170925090207_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821549/126515258-image-D.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed2-Day_629858583_20170925090207.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed2-Day_629858583_20170925090207_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed2-Day_629858583_20170925090207_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed2-Day_629858583_20170925090207_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed2-Day_629858583_20170925090207_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821548/126515258-image-C.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed3-Day_5744536593_20170925090209.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed3-Day_5744536593_20170925090209_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed3-Day_5744536593_20170925090209_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed3-Day_5744536593_20170925090209_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bed3-Day_5744536593_20170925090209_80x60.jpg
-    modtime: '1506337298'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821547/126515258-image-B.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bathroom_9704681158_20170925090848.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bathroom_9704681158_20170925090848_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bathroom_9704681158_20170925090848_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bathroom_9704681158_20170925090848_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Bathroom_9704681158_20170925090848_80x60.jpg
-    modtime: '1506337682'
-    dimensions: 1200x900
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821546/126515258-image-A.jpg'
   -
-    url: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Pool-Day_5846297723_20170925090216.jpg
-    thumbs:
-      800x600: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Pool-Day_5846297723_20170925090216_800x600.jpg
-      400x300: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Pool-Day_5846297723_20170925090216_400x300.jpg
-      200x150: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Pool-Day_5846297723_20170925090216_200x150.jpg
-      80x60: //d1tc5nu51f8a53.cloudfront.net/app/livestore/accounts/192/listings/1264430/images/Oswin-20-80-Pool-Day_5846297723_20170925090216_80x60.jpg
-    modtime: '1506337682'
-    dimensions: 1200x900
-property_id: '1924314'
-id: 1c857915-320c-4efb-84ca-b56c69c4187d
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821545/126515258-image-M.jpg'
+property_id: '435191'
+id: 407f1fd3-8e0a-4b27-9ab3-85feb8500bfe
 ---
-This modern dual-level townhouse offers the best of convenience and low maintenance living. With the perfect layout for entertaining and relaxing, the open plan living, kitchen and dining flows effortlessly through the ground floor of the property. Stepping out to the private and leafy courtyard, these are great spaces to relax and unwind. Upstairs, the three well-appointed bedrooms are spacious and full of light. With built-in storage and ceiling fans, each of the bedrooms has been finished in a neutral colour scheme. Upstairs is serviced by the family bathroom with shower, bathtub and separate toilet. This is a serviceable family home in great condition, needing only minor cosmetic updates. Situated in a well maintained and leafy complex in a quiet pocket of Acacia Ridge, this is a desirable place to call home. Onsite management means beautifully presented gardens and a sparkling pool to enjoy. 
+This modern dual-level townhouse offers the best of convenience and low maintenance living. With the perfect layout for entertaining and relaxing, the open plan living, kitchen and dining flows effortlessly through the ground floor of the property. Stepping out to the private and leafy courtyard, these are great spaces to relax and unwind. Upstairs, the three well-appointed bedrooms are spacious and full of light. With built-in storage and ceiling fans, each of the bedrooms has been finished in a neutral colour scheme. Upstairs is serviced by the family bathroom with shower, bathtub and separate toilet. This is a serviceable family home in great condition, needing only minor cosmetic updates. Situated in a well maintained and leafy complex in a quiet pocket of Acacia Ridge, this is a desirable place to call home. Onsite management means beautifully presented gardens and a sparkling pool to enjoy.
 
 This property features:
 *  Open plan kitchen, living and dining with a fresh, neutral colour scheme
-*  Living with ceiling fan and air conditioner 
+*  Living with ceiling fan and air conditioner
 *  Kitchen with attractive cabinetry, laminate benchtops and tiled floors
 *  Kitchen with plenty of storage, double stainless steel sink, dishwasher, stainless steel stove and oven
-*  Laundry off kitchen 
-*  Large leafy and private paved courtyard with sheltered space, perfect for entertaining 
+*  Laundry off kitchen
+*  Large leafy and private paved courtyard with sheltered space, perfect for entertaining
 *  Garden shed in courtyard
 *  Three generous bedrooms, all with built in wardrobes, two with air conditioners
 *  Master suite well appointed, ceiling fan and air conditioner
