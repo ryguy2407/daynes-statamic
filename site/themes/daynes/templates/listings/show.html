@@ -52,4 +52,40 @@
     {{ content | markdown }}
     <hr class="my-5">
     <h3>Location</h3>
+
+    <p id="address">{{ address }}</p>
+    <div id="map"></div>
 </div>
+
+<script>
+    // Initialize and add the map
+    function initMap() {
+        // The map, centered at Uluru
+        var map = new google.maps.Map(
+                document.getElementById('map'), {zoom: 16});
+
+        var geocoder = new google.maps.Geocoder();
+
+        //Geocode the address
+        geocodeAddress(geocoder, map);
+
+        function geocodeAddress(geocoder, resultsMap) {
+            var address = document.getElementById('address').textContent;
+            geocoder.geocode({'address': address}, function(results, status) {
+                if (status === 'OK') {
+                    resultsMap.setCenter(results[0].geometry.location);
+                    new google.maps.Marker({
+                        map: resultsMap,
+                        icon: {url: '{{ theme:img src="icon-home.png" }}', scaledSize: new google.maps.Size(50, 68)},
+                        position: results[0].geometry.location
+                    });
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
+    }
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key={{ env:GOOGLEAPI }}&callback=initMap">
+</script>
