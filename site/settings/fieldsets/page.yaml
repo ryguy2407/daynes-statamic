@@ -58,5 +58,5 @@ sections:
         type: template
         display: Template
 taxonomies: true
-title: Page
-create_title: Page
+title: 'Page Fields'
+create_title: 'Page Fields'

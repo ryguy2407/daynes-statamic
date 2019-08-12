@@ -1,0 +1,26 @@
+title: Default
+sections:
+  main:
+    display: Main
+    fields:
+      title:
+        type: text
+        width: 66
+        localizable: true
+      slug:
+        type: text
+        width: 33
+      content:
+        type: markdown
+        display: Content
+        localizable: true
+        cheatsheet: false
+        restrict_assets: false
+  sidebar:
+    display: Sidebar
+    fields:
+      template:
+        type: template
+        display: Template
+taxonomies: true
+create_title: Default
