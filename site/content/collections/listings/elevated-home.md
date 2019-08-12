@@ -1,8 +1,8 @@
 ---
 title: 'Elevated Home'
+property_type: House
 price: '$375,000'
 rent: null
-show_price: text
 bedrooms: 3
 bathrooms: 1
 cars: 2
@@ -31,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822849/131163894-image-M.jpg'
 property_id: '435294'
-id: a0f07c69-347b-4245-ac73-41feed43b33a
+id: ed0293f2-d894-43d0-a390-3f7cad362247
 ---
 This home is sure to impress with its leafy outlook and ample space for entertaining. Situated in an elevated position ideal to make the most of this peaceful pocket of Acacia Ridge, this home has been thoughtfully designed. Most striking about the property is the sweeping front veranda. Giving the home great street appeal and providing privacy for the interiors, this space is sure to become the focus for all family gatherings and relaxation. Inside, the polished timber floors throughout give the property a clean, low maintenance finish, much sought after to complement busy lives. In keeping with the low maintenance ideal, is the kitchen, which has been finished in a durable stainless steel. Easy to care for and providing a sleek, modern aesthetic, the stainless steel kitchen is truly a delight for those who love to cook and entertain.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Exceptional Presentation & Quality'
+property_type: House
 price: '$399,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823831/123455698-image-M.jpg'
 property_id: '435375'
-id: 3aa1b619-eb72-4124-b549-25021b5aed92
+id: c403355f-2728-4cd1-9e8e-e62df0cac98a
 ---
 Offered for the first time in more than 30 years, this delightful traditional weatherboard home is full of character and beautifully presented. Featuring lofty ceilings and spacious interiors, thoughtful renovations have created a fresh and inviting home. It is easy to imaging relaxing on the front deck of this lovely high-set home, enjoying the tranquility of the leafy surrounds and friendly neighbourhood. Inside, the bright and airy spaces are kept private with the attractive etched glass windows.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Ideal Entry Level Home'
+property_type: House
 price: 'Best Offer Over $325,000'
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823185/118418007-image-M.jpg'
 property_id: '435320'
-id: 45da8699-f9e8-44d0-9cf5-cc10c7b1360d
+id: c022fa38-8b5c-479a-b0bc-63c66a290d0a
 ---
 This three bedroom high-set home is situated on a generous 675sqm block in a quiet and leafy pocket of Acacia Ridge. This home presents a great opportunity for entry-level buyers who are willing to put in some work to value-add and give it their own personal touch. A comfortable home as is so renovate at your own pace.
 

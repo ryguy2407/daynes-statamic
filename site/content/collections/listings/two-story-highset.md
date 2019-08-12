@@ -1,5 +1,6 @@
 ---
 title: 'Two Story / Highset'
+property_type: House
 price: 'Best Offer Over $365,000'
 rent: null
 bedrooms: 3
@@ -44,7 +45,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824212/116643223-image-M.jpg'
 property_id: '435406'
-id: c6147975-2a03-4222-ab7c-763833f07367
+id: cf87b140-e3cb-4327-8b39-df072406fca4
 ---
 Be quick on this one!
 

@@ -1,5 +1,6 @@
 ---
 title: 'Great Lifestyle, Low Maintenance'
+property_type: House
 price: '$379,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823328/120091217-image-M.jpg'
 property_id: '435333'
-id: edb5370e-41e7-4117-99f2-fcd1f81272dd
+id: cddfba2f-0b17-43c8-856e-522cbc7b2dad
 ---
 This low-set brick home is situated in a quiet and leafy pocket of Acacia Ridge and represents an ideal opportunity for first home buyers, families and investors alike. This home is well proportioned for comfortable family living, with plenty of space for outdoor and indoor entertaining and relaxing. Featuring beautiful wooden flooring throughout the kitchen, living and bedrooms inside, and lovingly maintained gardens outside, this is a not to be missed opportunity.
 

@@ -1,8 +1,8 @@
 ---
 title: 'Modern Lifestyle'
+property_type: House
 price: 'Offers Over $660,000'
 rent: null
-show_price: text
 bedrooms: 4
 bathrooms: 2
 cars: 2
@@ -35,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822907/131584494-image-M.jpg'
 property_id: '435299'
-id: 166e3188-57c4-4f6f-9175-0704549e2150
+id: 8b88b657-2885-410a-837f-498b4bbad31d
 ---
 This welcoming and gracious family home promises the new lucky owners the very best in convenience and lifestyle. Sweeping lawns front the property which has been finished with a neutral render and stylishly complemented by treated timber accents, all giving this property great street appeal. What cannot be seen from the outside, however, are the generously proportioned internal spaces with lofty ceilings and beautiful finishes.
 

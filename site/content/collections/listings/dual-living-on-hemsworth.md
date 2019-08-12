@@ -1,5 +1,6 @@
 ---
 title: 'Dual Living on Hemsworth!'
+property_type: House
 price: 'UNDER CONTRACT'
 rent: null
 bedrooms: 3
@@ -44,7 +45,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821201/125441210-image-M.jpg'
 property_id: '435164'
-id: e270a927-4b59-4d21-b6e8-3f8234e98fc0
+id: 720058c8-9018-416c-8b20-a12c2a60cc72
 ---
 A generous family home, this property is a value-packed move in ready opportunity in one of the best neighbourhoods of Acacia Ridge. This house has been the labour of love for the current owners who have renovated it to an exceptional level of quality and thoughtful design. The upstairs portion of the home is characterised by light-filled, open plan living spaces expanding seamlessly out to the front and back decks. Perfect for easy entertaining, the back deck is spacious enough to get the family together and private to enjoy a breakfast coffee with the sunrise.
 

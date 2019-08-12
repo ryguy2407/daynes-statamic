@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT Outstanding Value in Moorooka!'
+property_type: Townhouse
 price: 'Offers Over $385,000'
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823256/119262127-image-M.jpg'
 property_id: '435327'
-id: 6fd1ebb2-92a7-43d1-8a6e-7eb007276439
+id: 8898dff6-2c6d-4d90-af28-069b794e4287
 ---
 This townhouse in the heart of Moorooka has been freshened up and is ready to go! In addition to new paint throughout, the property has been fitted with new quality carpets and new kitchen appliances including electric stove, oven and dishwasher. Thoughtfully designed to maximise convenience and living, the open plan kitchen and dining step out on to a paved under-cover courtyard through double sliding doors. The front and courtyard gardens are well-maintained and manageable, perfect for city living. Upstairs are three good-sized bedrooms, including the master which features an ensuite, built-in wardrobe and air-conditioning. The complex includes thirty townhouses and all grounds are maintains by the on-site manager.
 

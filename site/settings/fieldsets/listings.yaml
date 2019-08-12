@@ -2,6 +2,9 @@ sections:
   main:
     display: Main
     fields:
+      property_type:
+        type: text
+        display: Property Type
       address:
         type: text
         display: Address

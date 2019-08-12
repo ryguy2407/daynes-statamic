@@ -1,5 +1,6 @@
 ---
 title: 'Amazing Potential'
+property_type: House
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821900/128154398-image-M.jpg'
 property_id: '435221'
-id: f542fbff-c6fb-45b8-9433-d8c4fce8d9a1
+id: b8e2eefe-f7f0-4e49-bf15-30b54ee5747c
 ---
 Situated on a generous 741sqm flat parcel of land in one of the most convenient pockets of Acacia Ridge, this property represents a myriad of options to savvy investors and home buyers alike. Of much sought-after low-set design and functional internal layout, this home is the perfect blank slate and ripe for renovation. The internal spaces are generous and flow well, with open plan living and dining adjoining the galley-style kitchen. The three good-sized bedrooms are situated away from the main living and have large windows allowing plenty of natural light.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Three Bedroom Unit in Toowong under $400k! Recently Renovated!'
+property_type: Apartment
 price: SOLD
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820607/113304503-image-M.jpg'
 property_id: '435111'
-id: 8be0b341-8ff2-45cf-a271-d7c0dc6d3cbc
+id: 7b477915-e9ff-44aa-87cc-36c0eb218fc5
 ---
 You will be hard pressed to find a recently renovated three bedroom unit in Toowong for under $400,000. The property is currently tenanted and achieves $450 per week!
 

@@ -1,5 +1,6 @@
 ---
 title: 'Generous Family Home'
+property_type: House
 price: 'Offers Over $399,000'
 rent: null
 bedrooms: 4
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821246/125652794-image-M.jpg'
 property_id: '435167'
-id: 9c0a9944-026a-4291-ae2e-ae0219fb0d68
+id: a0e2d92c-6477-4c6f-a686-64c428a1d4ab
 ---
 This generous family home has been freshened up and is ready to be snapped up by a savvy investor or homeowner alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home. Immediately as the front door is opened off the cute front patio there is a feeling of spaciousness and light. The fresh, neutral colour scheme enhances the beautiful polished timber floors and large north-facing windows, affording plenty of natural light. The open-plan family and dining room flows into the large kitchen. These spaces are also adjoined by a versatile space with lofty ceilings, with the potential to be utilised as a fourth bedroom, rumpus or study.
 

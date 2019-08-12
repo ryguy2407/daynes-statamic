@@ -1,5 +1,6 @@
 ---
 title: 'Renovated Family Home'
+property_type: House
 price: 'Offers Over $450,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821274/126030334-image-M.jpg'
 property_id: '435170'
-id: f0080646-30f2-42d7-8c6a-6b1e46f32036
+id: 9f321ca9-9c34-47a4-8af8-bc021502cbf9
 ---
 Sitting behind the pretty white picket fence sits this thoughtfully renovated home which will surely be the delight of its lucky future owners. This is a home to be proud of with the rendered exterior and tiled roof surrounded by neat lawns, giving the property great street appeal. Stepping inside, the home delights with open plan living and dining flowing effortlessly into the kitchen and beyond to the spacious back patio. The living spaces have been beautifully finished in neutral colours, the stone tiles have been tastefully chosen to provide a low maintenance finish in a designer aesthetic. This perfectly complements the clean finishes of the newly installed kitchen, with white two pac cabinetry and quality stainless steel appliances. The design of this kitchen will be a delight to those who love to entertain, with plenty of bench and cupboard space and easy access to the entertaining areas.
 

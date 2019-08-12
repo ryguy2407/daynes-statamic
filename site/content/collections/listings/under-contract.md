@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT!'
+property_type: House
 price: ''
 rent: null
 bedrooms: 5
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817374/103009391-image-M.jpg'
 property_id: '434697'
-id: 5c0f8be8-ed9b-4c64-b958-96d17930430b
+id: 1cd7ddb8-852a-4f8c-93f6-3f7e0b4f82d4
 ---
 Several options here, preliminary drawings for potential sub-division either to move and keep the existing house then sub dividing the land into 8 residential blocks ranging from 584sqm to 629sqm which would leave the existing dwelling on 943sqm.
 

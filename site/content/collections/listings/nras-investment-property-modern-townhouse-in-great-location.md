@@ -1,5 +1,6 @@
 ---
 title: 'NRAS Investment Property: Modern Townhouse in Great Location'
+property_type: Townhouse
 price: '$449,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823359/120544677-image-M.jpg'
 property_id: '435337'
-id: 160c0b9d-04e7-4efd-a07e-c086d9e3797d
+id: 558f989b-5e4c-4e45-ac29-16b2e768cb09
 ---
 This modern townhouse is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 

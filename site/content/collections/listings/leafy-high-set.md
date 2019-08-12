@@ -1,5 +1,6 @@
 ---
 title: 'Leafy High-Set'
+property_type: House
 price: '$350,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822747/131068654-image-M.jpg'
 property_id: '435286'
-id: 8bbf9936-1e3e-4494-b4bc-7f26784ce26a
+id: 4f85ffbf-0062-42fd-993d-8ad2deae2118
 ---
 This lovely high-set home is ready and waiting for renovation. Neatly presented and highly functional as is, this is a great opportunity for owner occupiers to move straight in and realise their renovation dreams at their own pace. Situated in a quiet, elevated pocket of Acacia Ridge and surrounded by mature trees and neat gardens, this property has great street appeal. This home is a great example of classic mid-century design and quality construction. Original homes in the area are much sought after for their solid timber frames and flooring, and renowned for the ease at which they can be transformed into a retreat to suit the modern lifestyle.
 

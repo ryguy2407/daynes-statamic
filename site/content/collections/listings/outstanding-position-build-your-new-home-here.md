@@ -1,5 +1,6 @@
 ---
 title: 'Outstanding Position - Build Your New Home Here!'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -20,7 +21,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819405/105712628-image-M.jpg'
 property_id: '434966'
-id: 89d2779c-341b-4fc3-908d-eb98c4db7304
+id: 759a689b-cc32-40bb-b5b1-abb9f1a75456
 ---
 Here is a great opportunity to secure a 650sqm level block within 150m of the Brisbane river. With plenty of high calibre homes and in close proximity to riverfront properties, this block has plenty of potential for someone to build a very special home.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Sophisticated Living'
+property_type: House
 price: 'Offers Over $480,000'
 rent: null
 bedrooms: 4
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821740/127457078-image-M.jpg'
 property_id: '435209'
-id: 10f12310-666c-4a2e-9ac7-0a2392f08b24
+id: 0b54568d-a0eb-4730-bee2-ca1bc27bd462
 ---
 With great street appeal, this home is set on a lovely elevated block in a quiet neighbourhood. Generously proportioned both inside and out, this property is a rare offering of space and lifestyle in a low-set design. Stepping through the front door into the entry hall, you are welcomed by sophisticated and cool interiors, with stylish flooring and neutral colours on the walls. The entry flows through to a large living area, perfect for relaxing and entertaining. This living area overlooks the grassy yard with beautiful gardens. Further on, the generous open-plan kitchen and dining opens out through sliding doors to the fabulous undercover outdoor entertaining area with spa. Each of these well-appointed spaces are perfect for those who entertain and enjoy relaxing with family, both inside and out.
 

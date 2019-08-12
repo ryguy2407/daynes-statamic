@@ -1,5 +1,6 @@
 ---
 title: 'First In First Served!'
+property_type: House
 price: '$380,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823220/118648051-image-M.jpg'
 property_id: '435324'
-id: 5807022e-7931-47ae-aa71-abb0d95e8776
+id: 9f03d513-6811-4824-a822-85641f97f948
 ---
 This is another property that will be snapped up very quickly. This property is zoned LMR (Low Medium Residential) which is extremely sought-after in Acacia Ridge. Situated on 673m2 of land, this block will give potential developers plenty of project space. Courtice Street is a quiet and leafy street in a great pocket of Acacia Ridge and the property would complement a small boutique development.
 

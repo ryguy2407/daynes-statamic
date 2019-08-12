@@ -1,5 +1,6 @@
 ---
 title: 'Who Wants Me?'
+property_type: House
 price: 'Offers over $440,000'
 rent: null
 bedrooms: 3
@@ -50,7 +51,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818273/104192012-image-M.jpg'
 property_id: '434846'
-id: b35b65ca-4d95-4da5-bc0e-61e887ce2496
+id: 2b9ab154-8800-45b2-85a6-2dfa388b31b1
 ---
 I am a lovely post war home perched on a massive 809sqm block. My features and attributes include:
 

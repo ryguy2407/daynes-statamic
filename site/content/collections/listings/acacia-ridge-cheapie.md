@@ -1,5 +1,6 @@
 ---
 title: 'Acacia Ridge Cheapie!'
+property_type: House
 price: 'Best Offer Over $265,000'
 rent: null
 bedrooms: 3
@@ -16,7 +17,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820670/113690695-image-M.jpg'
 property_id: '435117'
-id: dc6988fb-8678-457b-9e29-d44fbb3bd57a
+id: 2e0d5c30-fe20-421d-b2d1-22d333d3547a
 ---
 If you are into renovating or prepared to renovate then this one may be for you.
 

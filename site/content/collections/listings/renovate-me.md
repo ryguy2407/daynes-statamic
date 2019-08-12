@@ -1,5 +1,6 @@
 ---
 title: 'Renovate Me!'
+property_type: House
 price: '$379,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822733/130679722-image-M.jpg'
 property_id: '435285'
-id: 7229ad19-3e96-41fe-8a43-1cfc2923c867
+id: ad81a24b-09b9-4ae8-9350-e3dfddbe720f
 ---
 This property is an excellent example of why so many renovators are drawn to this rapidly developing suburb. Of desirable low-set rendered brick construction with hardwood timber floors, this home has been built to last. Owned by the same family since it was built, the property has been much loved throughout its history. Only minor upgrades have been applied to the kitchen and bathroom, leaving the remainder of the house the perfect blank canvas to modernise.
 

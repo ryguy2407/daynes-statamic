@@ -1,5 +1,6 @@
 ---
 title: 'Two Prime LMR Development Sites - RARE!'
+property_type: House
 price: 'By Negotiation'
 rent: null
 bedrooms: 3
@@ -24,7 +25,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823201/118543659-image-M.jpg'
 property_id: '435322'
-id: 476d2928-1bda-4dad-b100-9a7aa84efa8c
+id: bb55d469-4da2-4e95-ab99-ff1562977ce1
 ---
 36 Elizabeth Street & 23 Amherst Street, Acacia Ridge
 

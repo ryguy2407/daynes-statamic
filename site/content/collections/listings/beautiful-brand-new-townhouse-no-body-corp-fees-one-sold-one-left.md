@@ -1,5 +1,6 @@
 ---
 title: 'Beautiful Brand New Townhouse - No Body Corp Fees - One Sold One Left!'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 3
@@ -22,7 +23,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818062/104008362-image-M.jpg'
 property_id: '434796'
-id: 268224f6-a3b0-41da-afd7-c6f2ac8523c7
+id: 8c743e4c-bdbd-46ef-add9-36192efd9d66
 ---
 Situated in a leafy quiet street in Moorooka.  This 3 bedroom 2 bathroom and 1 powder room townhouse  features large landscaped courtyard, spacious open plan living area, vogue kitchen  with stainless steel appliances.
 Upstairs there are three bedrooms with a study nook and a large walk in robe in the main room.

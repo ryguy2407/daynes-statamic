@@ -1,5 +1,6 @@
 ---
 title: 'Lovely Highset on Hemsworth'
+property_type: House
 price: '$349,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823956/114177323-image-M.jpg'
 property_id: '435383'
-id: 6e9e91ed-aa02-47bc-9c61-fc5aade355e7
+id: af7809a9-5925-400f-9962-f73063dc2e6f
 ---
 This highset three bedroom home is located in a really lovely part of Acacia Ridge deserves your immediate inspection.
 

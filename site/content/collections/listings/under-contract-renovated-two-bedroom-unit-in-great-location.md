@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT - Renovated Two Bedroom Unit in Great Location'
+property_type: Unit
 price: 'Offers from $390,000'
 rent: null
 bedrooms: 2
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819706/106228642-image-M.jpg'
 property_id: '435005'
-id: 954dd1c3-14ac-45f4-bdb2-212295d8a55b
+id: a2b2af99-9a58-49df-b870-c4d098aa1922
 ---
 What a great opportunity! Renovated two bedroom unit in very desirable location; situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

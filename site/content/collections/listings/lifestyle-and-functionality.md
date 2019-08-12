@@ -1,5 +1,6 @@
 ---
 title: 'Lifestyle and Functionality'
+property_type: House
 price: 'Offers Over $320,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821674/127289790-image-M.jpg'
 property_id: '435202'
-id: e06ab2e4-a345-4413-8084-59eb7e58bb33
+id: ea8ca011-7c29-4fd2-a9e2-41f7d91c3680
 ---
 This property has it all for lifestyle and functionality, a lovely family home situated in a quiet pocket of Acacia Ridge. Freshly painted internally, the home has been finished in a tasteful, neutral colour palette which is complemented by the the abundance of natural light in every room. The hardwood timber floors have also been recently polished, giving the home a fresh and modern feel. The kitchen and bathroom have been updated. The easy layout of the home gives plenty of space for a growing families with the combined kitchen and dining opening to the living area and to a leafy backyard. The front sunroom also affords plenty of options as a play room, home office or simply a place to enjoy the peaceful neighbourhood.
 

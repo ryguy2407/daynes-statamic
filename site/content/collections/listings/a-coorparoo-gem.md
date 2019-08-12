@@ -1,5 +1,6 @@
 ---
 title: 'A Coorparoo Gem'
+property_type: House
 price: 'Best Offer Over $625,000'
 rent: null
 bedrooms: 3
@@ -40,7 +41,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820580/113011019-image-M.jpg'
 property_id: '435108'
-id: 1ea42d61-9195-4d3e-9100-bb64cc9d41ab
+id: d8a20612-96cc-402d-846b-4a372c96832d
 ---
 This totally renovated home is exceptionally well presented with plenty of character features including ornate cornices, polished timber floors, picture rails and VJ's. This property does not require any more to be spent.
 

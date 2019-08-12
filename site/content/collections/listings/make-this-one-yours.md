@@ -1,5 +1,6 @@
 ---
 title: 'Make this one yours...'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -24,7 +25,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818429/104547416-image-M.jpg'
 property_id: '434865'
-id: 102e37c6-8757-4015-bd8e-2db1c97204a4
+id: 4e89758e-d559-4f78-9091-9ec3f17b81de
 ---
 What more could you ask for? This cute large size villa is within walking distance to the lake and Forest Lake village and also backs onto a walking track! With its cottage style interior, air conditioned living area and alarm system this property won't last long.
 

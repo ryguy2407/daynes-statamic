@@ -1,5 +1,6 @@
 ---
 title: 'Rental Return, Renovate or Remodel!'
+property_type: House
 price: 'Offers Over $325,000'
 rent: null
 bedrooms: 3
@@ -22,7 +23,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823339/120130773-image-M.jpg'
 property_id: '435334'
-id: 16203fa9-a998-4a3b-a488-33e3b5fd69c1
+id: a814b81a-c4de-479e-b13d-62cda58c4751
 ---
 This highset family home is on a large 541sqm completely flat block. Situated in a quiet part of Acacia Ridge, this property represents an ideal investment opportunity. While needing some work, the house has good bones with solid hardwood floors, chamfer board exterior and a newly installed roof.
 

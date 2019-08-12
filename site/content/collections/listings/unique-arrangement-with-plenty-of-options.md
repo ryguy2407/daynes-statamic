@@ -1,5 +1,6 @@
 ---
 title: 'Unique Arrangement With Plenty of Options!'
+property_type: House
 price: '$439,000'
 rent: null
 bedrooms: 4
@@ -40,7 +41,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824076/115463039-image-M.jpg'
 property_id: '435392'
-id: a0473bae-b5e6-4531-afe1-f496c6de089a
+id: bda51b56-5d07-4166-aa17-9836803711b5
 ---
 Firstly we have the fully renovated three bedroom house at front of the property which has been tastefully done. Brand new kitchen with new stainless steel appliances, a new bathroom, polished timber hardwood floors which look an absolute treat. Totally repainted internally. The property is totally fenced with a remote electric gate for additional security.
 

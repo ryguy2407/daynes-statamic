@@ -1,5 +1,6 @@
 ---
 title: 'Bursting With Value'
+property_type: House
 price: 'Offers Over $450,000'
 rent: null
 bedrooms: 5
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822387/130289858-image-M.jpg'
 property_id: '435262'
-id: 117fe9e9-9679-42ef-b2e7-948d45381fc3
+id: f2d4049b-f6dd-4b63-b049-110f7ae9bb04
 ---
 This generous home, situated on a leafy 809sqm block is a rare offering for the Acacia Ridge area. Sitting peacefully amongst lush greenery, this home is private; the perfect retreat for busy families to relax and unwind. Opening out from the side veranda, the expansive open plan living and dining rooms offer plenty of space to design your perfect space. One end of the living is carpeted and features a fireplace - once the cooler weather hits this will be the favourite spot in the house! The polished timber floors feature in the rest of this room, giving a lovely fresh and low maintenance finish. Also utilising the peaceful side veranda is a large bedroom. The polished timber floors are continued through here and through the hallways of the home. The additional two bedrooms downstairs are carpeted and are full of light.
 

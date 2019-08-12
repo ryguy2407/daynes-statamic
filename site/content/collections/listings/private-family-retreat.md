@@ -1,5 +1,6 @@
 ---
 title: 'Private Family Retreat'
+property_type: House
 price: 'FOR SALE'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821394/126030426-image-M.jpg'
 property_id: '435180'
-id: 857ea30c-e009-492b-b4fe-92ff7b298fe3
+id: 4280c15e-bc04-4812-93b7-9413019124ea
 ---
 This beautiful family home promises great lifestyle and is perfect for families and those who love to entertain. A classic post war property with tiled roof and chamferboard exterior, this is a charming and desirable design. The open plan kitchen, dining and living, flows effortlessly out onto the shady back deck overlooking the leafy backyard. These generous spaces boast elevated outlooks and are full of light, offering the very best of open plan living.
 

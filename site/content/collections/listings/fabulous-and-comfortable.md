@@ -1,5 +1,6 @@
 ---
 title: 'Fabulous and Comfortable'
+property_type: House
 price: '$450,000'
 rent: null
 bedrooms: 3
@@ -42,7 +43,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821918/128206250-image-M.jpg'
 property_id: '435223'
-id: 136f7548-4c06-4eed-9511-d7bc9ae251ad
+id: 9e9bc141-7ca4-4914-abbf-ff8b56df3dd2
 ---
 Completely renovated and immaculately presented both inside and out, this home is one to fall in love with. The home is a classic of mid-century design, with open plan interiors offering liveability and lifestyle in excess. Stepping into the home, the tiled sunroom is both a lovely reception and an extension of the living area. The flowing open plan design integrates the living, dining and kitchen into an airy and functional space, perfect for easy entertaining and relaxation. The modern kitchen has been finished with granite benchtops and glossy two pac cabinetry, and equipped with stainless steel appliances. The tiled floor and finishes have been well-chosen to ensure a low-maintenance and convenient design in the kitchen. The original hardwood timber floors, for which these homes are much sought after, have been polished to perfection throughout the living, hallways and bedrooms.
 

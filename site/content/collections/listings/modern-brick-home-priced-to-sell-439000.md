@@ -1,5 +1,6 @@
 ---
 title: 'Modern Brick Home - Priced To Sell - $439,000'
+property_type: House
 price: ''
 rent: null
 bedrooms: 4
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820673/113714103-image-M.jpg'
 property_id: '435118'
-id: efaf17a2-3aef-4385-bdd3-8e55fd043a2f
+id: 49610ff3-2452-4d2f-bb93-75536cc9d755
 ---
 This home has so many attributes that I am sure you will agree that it ticks all the boxes.
 

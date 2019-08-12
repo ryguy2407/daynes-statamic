@@ -1,5 +1,6 @@
 ---
 title: 'Hidden Gem!'
+property_type: House
 price: 'Mid $400,000''s'
 rent: null
 bedrooms: 3
@@ -52,7 +53,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823563/122124382-image-M.jpg'
 property_id: '435357'
-id: 945a69a0-442a-4b7f-a208-06e5fb279775
+id: fba6ac64-f8cf-4657-b9b5-fa27a77795e7
 ---
 Set amongst the trees in this quiet, idyllic pocket of Archerfield is this beautifully presented high-set home. This property is sure to impress with plenty of space for a growing family and those who love to entertain. With a recently renovated kitchen and bathroom, and great indoor and outdoor spaces to enjoy, this property requires only those personal finishes to make this feel like your home. An added bonus of this property is the media room, partially soundproofed and with block-out curtains, this is a real plus for those who enjoy games and films. Perfect for first home buyers, this home is situated on a 599sqm flat block, in a flood-free area and in a quiet cul-de-sac with amazing convenience to a great range of amenities.
 

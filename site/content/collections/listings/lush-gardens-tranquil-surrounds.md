@@ -1,5 +1,6 @@
 ---
 title: 'Lush Gardens & Tranquil Surrounds'
+property_type: Townhouse
 price: 'Offers over $395,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823863/123500246-image-M.jpg'
 property_id: '435377'
-id: b21bce04-5f16-46c1-ab22-1dc661f81b77
+id: 6e3cdf14-1792-4222-a5df-40a268345a24
 ---
 This generous brick, dual level townhouse is set amongst the lush gardens and tranquil grounds of this sleepy complex. Backing onto neighbouring suburban houses, this is one of the most peaceful and protected properties in Salisbury Gardens, a complex of only nineteen dwellings. Situated in the desirable and rapidly developing suburb of Salisbury, this property is perfect for those looking for a low-maintenance lifestyle without sacrificing the warmth of a well-established community. Enjoy the privacy and ease of entertaining in the private north-facing courtyard, stepping effortlessly from the open-plan living and kitchen area. The complex also boasts a shady communal barbecue area overlooking sparkling pool, perfect for enjoying the long summer afternoons.
 

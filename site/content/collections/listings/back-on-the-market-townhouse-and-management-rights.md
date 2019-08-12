@@ -1,5 +1,6 @@
 ---
 title: 'Back On The Market - Townhouse And Management Rights'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818144/104046897-image-M.jpg'
 property_id: '434834'
-id: 0a975dfe-e8a9-40d9-a975-2796338eed67
+id: 0495e74d-d17c-4c11-acc5-aac8782b785a
 ---
 An opportunity exists for the astute investor to buy into a small exclusive complex in the heart of Wishart. The managers unit is a gorgeous two storey stand alone modern townhouse with three bed two bath including ensuite and walk in robe. The downstairs living area has beautiful terracotta tiles throughout and overlooks a lovely rear courtyard. The spacious gourmet kitchen is a pleasure to work in with dishwasher and insinkerator. With single lockup remote garage. Also includes 3 airconditioning units and roller shutter exterior blinds in three bedrooms. There are 18 units in the complex and 10 of them in total are inside the letting pool. With an approximate return of $30,000 per annum.
 

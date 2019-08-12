@@ -1,5 +1,6 @@
 ---
 title: 'Residential House - Industrial Zoning'
+property_type: House
 price: 'Contact Gordon McDonald on 0407 001 960'
 rent: null
 bedrooms: 3
@@ -14,7 +15,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819470/105820046-image-M.jpg'
 property_id: '434976'
-id: 1bd20e7b-6ec0-4344-933e-709583ee318e
+id: 36a68b38-e33a-42f5-a78e-ab0cf6dbee4b
 ---
 *  Good level 610sqm site for future development
 *  Currently has 3 bedroom timber home + garage on site

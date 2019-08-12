@@ -1,5 +1,6 @@
 ---
 title: 'Private Lifestyle'
+property_type: House
 price: 'Offers Over $430,000'
 rent: null
 bedrooms: 3
@@ -40,7 +41,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821530/126474978-image-M.jpg'
 property_id: '435190'
-id: a320afcb-dfe1-479e-8549-ebd83efc3a92
+id: f5ed3d17-7f72-45cd-a639-2d7ba7936b19
 ---
 This beautifully presented home is the perfect starting place for those seeking an ideal first home. With a convenient low-set design and low-maintenance finishes, this property is move in ready with plenty of potential to grow with you. The spacious open plan living and dining flow into the functionally designed kitchen and out to the shady back patio. Great for entertaining and busy families, this layout is the pinnacle of lifestyle and convenience-focused design. The location of this home is second to none, situated on a cul-de-sac with a school and day care across the street. With no through traffic and facing no other homes, this is a quiet and idyllic setting.
 

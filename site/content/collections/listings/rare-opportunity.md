@@ -1,5 +1,6 @@
 ---
 title: 'Rare Opportunity!'
+property_type: House
 price: 'For Sale'
 rent: null
 bedrooms: 2
@@ -22,7 +23,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821482/126357110-image-M.jpg'
 property_id: '435187'
-id: a04d6951-cb57-430c-bb98-0d87511767dc
+id: 08e4e8d5-358c-41f7-a507-26cbdebbce46
 ---
 This is a rare opportunity to secure a generous parcel of land in one of Brisbane’s most rapidly developing areas. This generous offering of land, zoned Low Medium Residential (LMR), comprises two individual allotments totalling 1,369sqm, representing an array of short and long term investment options.
 

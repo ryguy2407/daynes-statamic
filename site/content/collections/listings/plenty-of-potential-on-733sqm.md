@@ -1,5 +1,6 @@
 ---
 title: 'Plenty of Potential on 733sqm'
+property_type: House
 price: '$389,000'
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821591/126768602-image-M.jpg'
 property_id: '435195'
-id: 9b932ef7-4d40-488b-bb27-221d9fe0b370
+id: 4de38458-af59-4270-ae25-42ea635bf24e
 ---
 This is a lovely example of the classic Acacia Ridge home of solid construction and functional layout. With chamfer board exterior and solid timber floors throughout, this home has great bones. A promising investment for home owners and investors alike, this has the potential to be either a comfortable home or generate a tidy return. The property is currently tenanted until February 2018, allowing owner-occupiers possession in the near future and investors the opportunity to continue with a great long-term tenant.
 

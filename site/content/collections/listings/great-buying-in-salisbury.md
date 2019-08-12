@@ -1,5 +1,6 @@
 ---
 title: 'Great Buying in Salisbury'
+property_type: House
 price: 'Price Slashed to $409,000'
 rent: null
 bedrooms: 3
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820529/111546139-image-M.jpg'
 property_id: '435104'
-id: 4b00db93-ad70-442f-b5aa-3e0a47d82e80
+id: 11a75640-0d12-4275-9b37-98430aa3fc70
 ---
 Only 11 kms to the CBD, this home is situated on a 506sqm fully fenced block in a quiet pocket of Salisbury. It has been raised to legal height underneath which has been restumped and battened off to lock up stage ready to be build in or just leave the way it is.
 

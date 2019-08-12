@@ -1,5 +1,6 @@
 ---
 title: 'First Home Buyers & Astute Investors Should Inspect!'
+property_type: House
 price: SOLD
 rent: null
 bedrooms: 2
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823970/114476415-image-M.jpg'
 property_id: '435384'
-id: fa372b22-fbc1-40e9-9531-19f8c70bc81a
+id: d04f2abd-810f-4c6f-a134-02a48c603cb3
 ---
 Here we have a lowset brick and tile 2 bedroom house in the heart of Salisbury and only 11 kms from the CBD. It is situated on a 602sqm corner allotment with 2 street frontages.
 

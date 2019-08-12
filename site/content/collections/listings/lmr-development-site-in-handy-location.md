@@ -1,5 +1,6 @@
 ---
 title: 'LMR Development Site in Handy Location'
+property_type: House
 price: '$419,000'
 rent: null
 bedrooms: 3
@@ -18,7 +19,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823059/117734291-image-M.jpg'
 property_id: '435309'
-id: 30a91a4c-b2e8-4ecb-8902-7f4bb4a03b2f
+id: be09f445-04c3-45f5-9408-ee7910a92933
 ---
 Seize the opportunity that is presented here!
 

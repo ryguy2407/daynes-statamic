@@ -1,5 +1,6 @@
 ---
 title: 'Lovely High-Set Entertainer'
+property_type: House
 price: '$429,000'
 rent: null
 bedrooms: 3
@@ -42,7 +43,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823630/122791194-image-M.jpg'
 property_id: '435361'
-id: 6f4ea171-b65d-4cae-ae82-e9155b27d255
+id: da09a70c-5dca-404d-a3b9-c5f558e4a7d0
 ---
 This generous home has it all for those who love to entertain and spend time with their family. The shady and beautiful timber deck opens off the spacious living area through double sliding doors, creating a great area to relax or entertain. The kitchen is also spacious, with plenty of storage and preparation space, and fresh finishes.
 

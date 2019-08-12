@@ -11,17 +11,27 @@ header {
     background: url("../img/hamburger.svg");
     fill: #ffffff;
   }
+
+  .navbar-scroll {
+    margin-top: -10px;
+    transition-duration: 0.6s;
+  }
 }
 
 div.topBar {
   background: $secondaryBlue;
-
+  transition-duration: 0.6s;
   padding: 15px 0;
 
   p, a {
     color: #fff;
     margin: 0;
   }
+}
+
+div.topBar-scroll {
+  margin-top: -55px;
+  transition-duration: 0.6s;
 }
 
 div.main {

@@ -1,5 +1,6 @@
 ---
 title: 'Outstanding Value, Low Maintenance'
+property_type: House
 price: '$359,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823430/121407430-image-M.jpg'
 property_id: '435347'
-id: c243d7bf-f662-4ae0-8d5c-8479ae7479f0
+id: ad9b03fd-dc6b-486f-8c53-c4f0785c7849
 ---
 This lovely lowset home is a fantastic investment opportunity for first home buyers, families and investors alike. The property boasts great lifestyle and liveability with airy open plan kitchen, dining and living areas stepping out to the large back deck, overlooking the leafy backyard. The gardens are beautifully presented with mature trees and shrubs surrounding the lush grassy yard areas. Lovingly cared for, the home is fresh and modern and ready for its next happy family to move in and enjoy.
 

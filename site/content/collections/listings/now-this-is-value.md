@@ -1,5 +1,6 @@
 ---
 title: 'Now, this is Value!'
+property_type: House
 price: 'Under Contract'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821288/116779435-image-M.jpg'
 property_id: '435171'
-id: 05775b44-5e9e-4d90-b75d-dcfe9d52f257
+id: fc8a218a-26eb-447d-b416-ea5c90977320
 ---
 Positioned at the end of a quiet cul-de-sac, this gated complex offers a unique blend of resort-style living with the Tuscan-inspired architecture, beautifully landscaped grounds, sparkling swimming pool and access to the canal for all your boating activities.
 

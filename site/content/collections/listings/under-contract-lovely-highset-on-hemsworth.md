@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT Lovely Highset on Hemsworth'
+property_type: House
 price: '$389,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823282/119285947-image-M.jpg'
 property_id: '435329'
-id: ca4a7e00-cd02-4f1c-b970-01e38cef222d
+id: 36924ad1-01d8-492d-9e5c-c71e25358ec4
 ---
 This lovely home is full of character, well-presented and located on one of the best streets in the area. The residents of Hemsworth Street famously decorate their houses with festive cheer to celebrate Christmas. Needless to say, this is a warm community perfect for families. High-set and featuring a beautiful rear covered deck, perfect for entertaining and relaxation space for a busy family. Ideal for those wanting to enjoy their outdoor spaces, this home is situated on a fully-fenced, level 610sqm block. This property represents a prime opportunity for first-home buyers or savvy investors looking for a good rental return.
 

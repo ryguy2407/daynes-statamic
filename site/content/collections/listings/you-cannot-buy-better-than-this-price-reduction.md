@@ -1,5 +1,6 @@
 ---
 title: 'YOU CANNOT BUY BETTER THAN THIS - PRICE REDUCTION'
+property_type: House
 price: 'Make An Offer'
 rent: null
 bedrooms: 3
@@ -24,7 +25,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820145/107496955-image-M.jpg'
 property_id: '435065'
-id: 841d7214-a6e8-42be-8637-15398f948cd4
+id: ce78aa22-f11c-4c68-8e50-6fc3f14e8607
 ---
 Located in a very handy location, this three bedroom highset boasts plenty of space and loads of potential.
 

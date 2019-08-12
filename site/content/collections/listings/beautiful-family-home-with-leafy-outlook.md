@@ -1,5 +1,6 @@
 ---
 title: 'Beautiful Family Home with Leafy Outlook'
+property_type: House
 price: '$395,000'
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823517/121766074-image-M.jpg'
 property_id: '435354'
-id: eab83d20-a5eb-4050-a2af-cceb0b11a7ef
+id: ce69623e-3627-4a38-b57d-bf743286af66
 ---
 This lovely high-set chamfer board house is ripe and ready to go for the final touches to make this a great lifestyle home. With a great open-plan layout, complimenting modern family living, this property makes the most of its elevated and leafy outlook. The open-plan kitchen, living and dining step out through French doors to both the front and back deck, guaranteeing bright and airy spaces with great breezes. Situated in one of the quietest and greenest pockets of Acacia Ridge, and within walking distance to schools and parks, this property is just what you have been waiting for!
 

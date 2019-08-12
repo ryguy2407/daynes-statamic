@@ -1,5 +1,6 @@
 ---
 title: 'Exciting Richlands Investment with Development Potential!'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823320/119796239-image-M.jpg'
 property_id: '435332'
-id: 245e43fb-ca36-4f29-ade2-9459cd417820
+id: f6857f6d-da07-4185-a831-0a67013e5590
 ---
 This recently renovated two-bedroom family home boasts a fresh kitchen, bathroom and lovely living and entertaining spaces. To the rear of the property is an un-renovated large, freestanding, fully self-contained granny flat of similar construction to the main house. This is an ideal property for growing families and investors alike, with plenty of exciting opportunities to capitalise on your investment.
 

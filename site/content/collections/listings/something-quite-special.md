@@ -1,5 +1,6 @@
 ---
 title: 'Something Quite Special'
+property_type: House
 price: ''
 rent: null
 bedrooms: 2
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818222/104133624-image-M.jpg'
 property_id: '434840'
-id: 2f07bbb1-128b-487e-ae32-6ca9ce1107c8
+id: 53f6c777-54cc-4c1f-a815-60a23b2f6d51
 ---
 From the moment you step inside this gorgeous Queenslander you will feel right at home as it has the perfect blend of old world charm and an ideal position.  Bright airy colours, hoop pine floorboards and the most quaint touches throughout which will make you fall in love!
 

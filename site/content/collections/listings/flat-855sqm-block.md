@@ -1,5 +1,6 @@
 ---
 title: 'Flat 855sqm Block'
+property_type: House
 price: 'Offers Over $380,000'
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821685/127344030-image-M.jpg'
 property_id: '435203'
-id: 59d4c02f-594a-49c7-b5aa-662d12c48f3a
+id: 968ef5e1-3715-4e24-86af-6a833893cac5
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the classic design. Carpets, tiles and lino hide beautiful hardwood floors for which these homes are much sought-after and the layout is perfect for low maintenance and easy family living. The original interiors are clean and functional, perfect to move straight in and renovate at your own pace.
 

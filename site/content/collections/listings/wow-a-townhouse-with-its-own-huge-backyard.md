@@ -1,5 +1,6 @@
 ---
 title: 'Wow! A townhouse with its own huge backyard...'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818330/104300394-image-M.jpg'
 property_id: '434850'
-id: d09b6131-bbab-4183-8f88-48964978a80f
+id: 1e9b78e8-3789-4f7b-a117-cc8556a68979
 ---
 If you can see yourself living in a modern 3 bedroom, 2.5 bathroom townhouse with a large manicured lawn courtyard including a massive Jacaranda tree then this is the property for you!
 

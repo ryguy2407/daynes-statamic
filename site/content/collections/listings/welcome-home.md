@@ -1,5 +1,6 @@
 ---
 title: 'Welcome Home!'
+property_type: House
 price: '$419,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822460/130899774-image-M.jpg'
 property_id: '435267'
-id: c38779c5-5a21-4bbd-b95f-e855825bfb32
+id: 5927471f-6ca3-4429-a903-34a5a8ef3782
 ---
 It is easy to imagine getting excited to come home to this classic Acacia Ridge property. Immaculately cared for and beautifully presented, this home is a real treat. The house is situated on a north-south facing block in a quiet but convenient pocket. Truly an entertainers delight, the open plan interiors are beautifully complemented by the outdoor spaces, perfect for evenings with family and friends. The living and dining expand out to the lovely tiled north-facing deck with a sunny, elevated outlook. The family-sized kitchen flows effortlessly out to the expansive rear verandah. This beautiful timber deck is perfect for entertaining and relaxing, with a shady southern aspect and overlooking the grassy backyard with shady trees. In addition to the great entertaining areas, this home offers a fully enclosed under-house area, with two car garage and additional bathroom. Highly sought-after, these spaces are ideal for added convenience and value.
 

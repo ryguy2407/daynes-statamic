@@ -1,5 +1,6 @@
 ---
 title: 'Dual-Living Potential'
+property_type: House
 price: '$650,000+'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821978/128249886-image-M.jpg'
 property_id: '435228'
-id: 7d5e8d1e-8449-4d89-a424-cd2ed6abaef4
+id: 691f8447-c4b8-47d5-af59-c1709bc21035
 ---
 This immaculately presented home is your opportunity to secure a property in this desirable neighbourhood. Built in the traditional style for the area, this property is a charming place to call home. With great street appeal, this generous property will surprise and delight those looking for their next family home. Passing by the wishing well and through the front gardens, along the timber decking, you are welcomed by beautiful leadlight doors. Stepping inside, the open plan interiors are light-filled and spacious. Perfect for entertaining, the open plan living and dining flow seamlessly through to the kitchen and beyond to the vast timber deck. This deck overlooks the tree-lined recreational reserve to the rear, and is the perfect place to enjoy the sunrise over your morning coffee.
 

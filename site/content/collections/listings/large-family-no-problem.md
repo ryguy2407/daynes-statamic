@@ -1,5 +1,6 @@
 ---
 title: 'Large Family? No Problem!'
+property_type: House
 price: 'High $600,000''s'
 rent: null
 bedrooms: 4
@@ -44,7 +45,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818799/104921064-image-M.jpg'
 property_id: '434901'
-id: bed3aeeb-99ff-4ede-b44d-178fc34be3f5
+id: 3e47835e-2b2a-4e76-a629-047ec0c98057
 ---
 Here is a terrific opportunity to secure a solid brick & tile home situated on a prime corner block boasting 966sqm of land on 2 lots.
 

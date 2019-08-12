@@ -1,5 +1,6 @@
 ---
 title: 'Rare Opportunity - 582sqm Prime Land'
+property_type: House
 price: 'Offers Over $380,000'
 rent: null
 bedrooms: 4
@@ -44,7 +45,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821085/125316470-image-M.jpg'
 property_id: '435155'
-id: 91ea5612-e231-4d2b-a4ab-266ab7a7eb78
+id: 4384a923-499e-472c-b619-7d3ae4d0bae4
 ---
 This is a rare opportunity to secure a generous parcel of land only 16km from Brisbane CBD. The Oxley area is exciting many investors and home owners for it's excellent services, amenities, connectivity and warm communities. This is a lovely 582sqm property and is situated next to a modern estate, reaping the benefits of overlooking the lush parkland. With approximately a 15.6m frontage and overall a flat block this is the perfect canvas to create your dream home.
 

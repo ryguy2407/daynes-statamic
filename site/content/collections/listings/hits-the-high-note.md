@@ -1,5 +1,6 @@
 ---
 title: 'Hits The High Note!'
+property_type: House
 price: 'Offers Over $425,000'
 rent: null
 bedrooms: 3
@@ -40,7 +41,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820986/124412126-image-M.jpg'
 property_id: '435148'
-id: 9d38a3c9-eb98-46d5-a239-6aee83b646ed
+id: 9291c6d5-859d-4f4d-a2b7-e0cd2fd9b62f
 ---
 Step inside this warm inviting home and it’s not hard to imagine the easy entertaining and relaxation. The beautifully presented polished timber floors are perfectly showcased by the open-plan kitchen, living and dining areas. Also a feature of the comfortable living area is the brick fireplace, perfect for cosy winter evenings at home. The shady timber back deck steps off the kitchen, making for convenient entertaining with family and friends.
 

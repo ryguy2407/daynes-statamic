@@ -1,5 +1,6 @@
 ---
 title: 'Brand New! Great Position! Great Price!'
+property_type: House
 price: 'Make An Offer'
 rent: null
 bedrooms: 4
@@ -42,7 +43,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819310/105537048-image-M.jpg'
 property_id: '434957'
-id: 7c268bf9-368f-4046-b66b-eab8493310ce
+id: 4d3dfea4-c35f-4b90-89ea-f61a7c6a5696
 ---
 Located in a central Moorooka location this brand new home offers plenty of space and superior quality.
 

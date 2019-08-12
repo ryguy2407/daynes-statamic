@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT - Neat & Tidy with Potential'
+property_type: House
 price: 'Offers Over $320,000'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822679/117375799-image-M.jpg'
 property_id: '435281'
-id: 24a1f459-1cb0-4e82-a672-4d2b39542f27
+id: e1236441-1ed0-4d2a-b941-49ff22e6e321
 ---
 Located on a 607sqm block, this highset home is perfect for families with generous living areas and bedrooms. It is situated on one of Acacia Ridge’s best streets, convenient to schools, public transport and shops. The existing house would be highly suitable for a family or viable as an investment property. There is also potential to add value to this property by doubling the living space underneath.
 

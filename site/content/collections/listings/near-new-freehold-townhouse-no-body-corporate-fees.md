@@ -1,5 +1,6 @@
 ---
 title: 'Near New Freehold Townhouse - No Body Corporate Fees!'
+property_type: Townhouse
 price: 'Offers in the high $400,000''s'
 rent: null
 bedrooms: 3
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819080/105242582-image-M.jpg'
 property_id: '434930'
-id: 654b9b14-11ca-4205-9a76-87237b814dcb
+id: 23a62d62-6ced-4d04-8ede-1d0818d10594
 ---
 Situated in a quiet leafy street in Moorooka this three bedroom townhouse offers plenty of living space and great quality.
 

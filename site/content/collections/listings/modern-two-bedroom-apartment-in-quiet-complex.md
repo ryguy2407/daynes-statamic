@@ -1,5 +1,6 @@
 ---
 title: 'Modern Two Bedroom Apartment in Quiet Complex'
+property_type: Apartment
 price: '$359,000'
 rent: null
 bedrooms: 2
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822555/117300447-image-M.jpg'
 property_id: '435274'
-id: 3d6ac4da-ffd1-4585-90cc-cfedc31147d3
+id: 1712564a-4ea9-4378-942d-212ea24bfc9d
 ---
 Act now to secure this terrific investment opportunity or to live with great convenience in Salisbury.
 

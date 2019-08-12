@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT WITHIN 24 HOURS - Ready For Renovation'
+property_type: House
 price: '$289,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823152/118062335-image-M.jpg'
 property_id: '435317'
-id: 773ed6ee-9285-4e96-be8e-3add25d1f6c9
+id: 6e89fbde-bcee-4a68-8fa3-3b905679fdf6
 ---
 This solid post-war home is of wooden construction and has hardwood floors throughout. Low-set and with an open-plan design, this property also features three good-sized bedrooms and one bathroom with separate toilet. This is a great entry level property for those who want to renovate and reap the rewards in this rapidly growing suburb.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Tranquil Home'
+property_type: House
 price: 'Offers Over $450,000'
 rent: null
 bedrooms: 4
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822010/128329310-image-J.jpg'
 property_id: '435230'
-id: 56549484-fc39-4a2f-b017-ac395eae8520
+id: 4f6a7507-a192-4e8d-bec8-2115d3690226
 ---
 Come home to this stylish and generous family home, a rare offering of space and lifestyle in a low-maintenance, low-set design. The open plan interiors are welcoming and warm, in tasteful neutral colours and plenty of room to relax and entertain. They entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. The functionality and flow of these spaces is the pinnacle of design for those wishing to enjoy their property. The outdoor entertaining area overlooks the grassy stretch of yard and the immaculately presented gardens.
 

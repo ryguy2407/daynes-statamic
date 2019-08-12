@@ -1,5 +1,6 @@
 ---
 title: 'Five Bedroom Home - Check out the Price!'
+property_type: House
 price: 'Price Range - $359,000 - $379,000'
 rent: null
 bedrooms: 5
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820300/108710601-image-M.jpg'
 property_id: '435081'
-id: fbddc98c-c237-4087-b2ec-700e89ade2af
+id: a1b8d443-65ad-427b-8713-08b3bf02b7ac
 ---
 Forget all previous price indications - Owner Instructions are clear - This house must be sold!
 

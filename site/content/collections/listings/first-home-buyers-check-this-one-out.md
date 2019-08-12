@@ -1,5 +1,6 @@
 ---
 title: 'First Home Buyers! Check This One Out!'
+property_type: Unit
 price: ''
 rent: null
 bedrooms: 2
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819372/105651424-image-M.jpg'
 property_id: '434963'
-id: de9f6675-b421-4f5a-ad93-91ea74df3606
+id: 9f35472f-6cdf-432b-a89b-5a92dd8ee3f2
 ---
 This two bedroom unit situated on the 1st level at the rear is a first home owners dream. Only 3 years old and still like new
 

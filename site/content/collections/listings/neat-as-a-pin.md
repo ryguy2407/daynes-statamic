@@ -1,5 +1,6 @@
 ---
 title: 'Neat as a Pin'
+property_type: House
 price: '$369,000'
 rent: null
 bedrooms: 3
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821350/116781523-image-M.jpg'
 property_id: '435176'
-id: 24b78724-2968-4f0b-9755-320d8bab50c0
+id: b6ad6406-b038-4c38-92e4-fea86989e26b
 ---
 You decide whether you would like to develop the site as it is zoned LMR on 607m2, live in it or simply rent it.
 

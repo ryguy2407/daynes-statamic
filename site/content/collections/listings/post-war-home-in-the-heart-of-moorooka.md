@@ -1,5 +1,6 @@
 ---
 title: 'Post-War Home In The Heart Of Moorooka!'
+property_type: House
 price: 'Offers from $460,000'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818363/104372000-image-M.jpg'
 property_id: '434855'
-id: fc050ef5-5591-47c6-9f10-4fd2d2e2646b
+id: 7caa71aa-ff5d-47c3-82d8-e33fa831b9a3
 ---
 Be quick to inspect this three bedroom post war home, on a 604sqm sized corner block in Moorooka.
 

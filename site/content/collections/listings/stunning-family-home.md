@@ -1,5 +1,6 @@
 ---
 title: 'Stunning Family Home'
+property_type: House
 price: 'Offers Over $490,000'
 rent: null
 bedrooms: 3
@@ -46,7 +47,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821067/124835430-image-M.jpg'
 property_id: '435154'
-id: 7504adbf-9e9e-41df-9f21-58b214ca2be7
+id: ae7c4c67-1517-4d47-a14c-2fdd06540285
 ---
 This beautifully presented family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. The original home of the Caladenia Estate, this property boasts an exceptional outlook across parkland and is situated on the pick of the lots. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 

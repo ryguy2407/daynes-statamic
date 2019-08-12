@@ -1,5 +1,6 @@
 ---
 title: 'Possibly The Best Home In This Estate!'
+property_type: House
 price: 'Best Offer Over $375,000'
 rent: null
 bedrooms: 4
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821641/116901227-image-M.jpg'
 property_id: '435199'
-id: a06203db-5fc5-412b-868a-a8c5b73934ea
+id: 43c1ddbd-8a44-4ace-9451-385761f89f3d
 ---
 Priced to sell at best offer over $375,000.
 

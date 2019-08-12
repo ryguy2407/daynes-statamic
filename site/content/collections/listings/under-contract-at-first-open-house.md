@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT AT FIRST OPEN HOUSE'
+property_type: House
 price: '$359,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823464/121623750-image-M.jpg'
 property_id: '435350'
-id: f011cab3-d9cd-463b-82cf-95147e7b341f
+id: de36bceb-bacf-4db5-b98f-9f6cdda8e829
 ---
 This tidy lowset home offers low maintenance lifestyle in tranquil surrounds. Overlooking parkland and fields, this house is peaceful and private. With brick exterior and tiled roof, the house is surrounded by lush lawns and well maintained gardens. Inside, the living and bedroom spaces are bright, cool and airy. Perfect for families with great sized bedrooms and low maintenance finishes. The home has been lovingly cared for and is ready to go for it's next chapter.
 

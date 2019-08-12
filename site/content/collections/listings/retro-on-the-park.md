@@ -1,5 +1,6 @@
 ---
 title: 'Retro On The Park'
+property_type: House
 price: '$369,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822894/131294582-image-M.jpg'
 property_id: '435298'
-id: bd308706-5a77-4bed-9d2f-40c60c85b7a5
+id: 5f379b04-f57f-424c-9360-0d8284c2a0bb
 ---
 This immaculately preserved property is your chance to secure a classic piece of mid-century design. Like stepping into a time capsule, this home is a beautiful example of the era and the perfect compliment to modern living and design sensibilities. For those who love the current trend for modern, Scandinavian inspired design, the open plan living and dining with the battened feature divide would provide the perfect backdrop to furniture and finishings with this aesthetic. Retaining the timber panelled walls would complete the mid-century look, but would be equally stylish with a coat of paint in a neutral tone. The living space is also a showcase of the hardwood timber flooring, for which homes of this era are much sought after. These floors are throughout the remainder of the home, protected by lino and would be simply stunning once revealed. Because if its immaculate preservation, this investment gives the lucky future owners plenty of options, many of which could be achieved relatively inexpensively.
 

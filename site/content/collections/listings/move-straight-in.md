@@ -1,5 +1,6 @@
 ---
 title: 'Move Straight In!'
+property_type: House
 price: 'Offers Over $365,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821142/125000402-image-M.jpg'
 property_id: '435159'
-id: cac72517-6e6c-4345-84b6-737a7457c703
+id: 44953242-87e0-4202-9d86-03e75d7b2abc
 ---
 This low-set brick home has been immaculately renovated and is ready to go! Easy, low maintenance living is a guarantee with the convenient layout and clean finishes of this neat family home. Surrounded by lovely grassy grounds, home is full of natural light with large windows and a north-facing aspect. This home features an open plan living, kitchen and dining, beautifully finished with timber-look flooring and a fresh paint palette. The kitchen and laundry open to the paved patio, overlooking the grassy backyard. These generous outdoor areas are perfect for entertaining and enjoying with your family.
 

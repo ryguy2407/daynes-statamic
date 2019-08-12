@@ -1,5 +1,6 @@
 ---
 title: 'Potential Plus'
+property_type: House
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822192/129304534-image-M.jpg'
 property_id: '435247'
-id: 3aead066-ab09-4867-bc58-5bfa5df6a18a
+id: a20fc235-dcd2-4ed2-ad49-27a70ef7af8c
 ---
 This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of light and looks out to the lovely grassy lawns. The open plan eat in kitchen and living are generously proportioned and perfect for accommodating busy families.
 

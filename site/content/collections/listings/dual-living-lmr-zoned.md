@@ -1,5 +1,6 @@
 ---
 title: 'Dual Living, LMR Zoned'
+property_type: House
 price: '$499,000'
 rent: null
 bedrooms: 3
@@ -48,7 +49,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822714/130604066-image-M.jpg'
 property_id: '435284'
-id: f6d1435e-8eac-4774-ac4b-06c60dc9b494
+id: 6b82bc9b-329a-455c-a50c-c9f58c40247d
 ---
 Come home to this unique and stunning home to relax in the spacious bright open-plan interiors and expansive back veranda. This is a home to be proud of, beautifully framed by tropical gardens and finished in a modern colour scheme both externally and internally. Sure to attract those who are looking for dual-living potential, the property has been cleverly converted to include a generous, self-contained studio. An amazing opportunity that must be seen to be believed!
 

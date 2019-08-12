@@ -1,5 +1,6 @@
 ---
 title: 'Looks Can Be Deceiving'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820726/106055600-image-M.jpg'
 property_id: '435124'
-id: 5a9f1e58-3063-40a0-b8dd-4c0380fcc3ce
+id: edcdf9db-c551-494e-bb39-a7cc4d22f9c6
 ---
 Set in a lovely street in Moorooka, this home offers an easy living lifestyle and plenty of room to entertain friends and family. Be sure to inspect this property as you will be impressed by the quality and size of this home.
 

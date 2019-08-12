@@ -1,5 +1,6 @@
 ---
 title: 'Affordable Family Living!'
+property_type: House
 price: '$499,000 Under Contract'
 rent: null
 bedrooms: 4
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824149/116036819-image-M.jpg'
 property_id: '435399'
-id: 41f6c4db-45ad-4c49-8928-960c3ee2fc92
+id: cdea10ca-66dd-4f5e-bf72-76d7b8f037c2
 ---
 This quiet little cul-de-sac street is surely the envy of everyone in Calamvale. Privately positioned, this home will offer a unique blend of peace and tranquillity which maintains easy access to Calamvale District park.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Attention All First Home Buyers! Price Reduction!'
+property_type: House
 price: 'Price Reduced To $439,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819472/105828086-image-M.jpg'
 property_id: '434977'
-id: 676c1f3f-2c05-4ae3-babf-cfd2cad27d77
+id: eb73b10a-a862-4220-9599-74fb73dffe3e
 ---
 Check this little beauty out….
 Situated on 607m2 in the heart of Corinda, this is the perfect property to get you into your first home.  You can sit and relax in the undercover patio area while the kids play safely and securely in the fully fenced rear yard.

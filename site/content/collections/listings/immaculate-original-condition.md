@@ -1,5 +1,6 @@
 ---
 title: 'Immaculate Original Condition!'
+property_type: House
 price: 'FOR SALE'
 rent: null
 bedrooms: 3
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821034/124683362-image-M.jpg'
 property_id: '435151'
-id: 662c74ed-3d9b-4766-adcc-8d03b101e047
+id: 4291709d-834e-45e9-9709-b43ac5fa30e5
 ---
 This charming original home is a golden opportunity for the next lucky owners to realise their renovation dreams! In immaculate original condition, this property is perfect for those looking for a home where they can move in straight away and really take their time to achieve their perfect home. High-set and with an elevated outlook over this character area, this property is a must see for investors and first home buyers alike.
 

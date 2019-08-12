@@ -1,5 +1,6 @@
 ---
 title: 'Great Townhouse in Secure Complex'
+property_type: Townhouse
 price: 'Priced to sell at $395,000'
 rent: null
 bedrooms: 3
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819676/106165543-image-M.jpg'
 property_id: '435002'
-id: 1f3c89e6-a83f-4fba-92b2-fcba3ec99a7f
+id: 2d27d292-ba00-43bb-a2ca-88d06917f966
 ---
 This renovated three bedroom townhouse, in a secured complex is one you really should inspect.
 

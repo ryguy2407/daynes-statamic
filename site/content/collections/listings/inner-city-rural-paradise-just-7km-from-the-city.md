@@ -1,5 +1,6 @@
 ---
 title: 'INNER-CITY RURAL PARADISE JUST 7KM FROM THE CITY'
+property_type: House
 price: 'Offers over $1,200,000'
 rent: null
 bedrooms: 5
@@ -62,7 +63,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819965/106858252-image-M.jpg'
 property_id: '435048'
-id: 7c9525ff-9376-4258-aaa2-b2879e3ba3ec
+id: e5458845-91b4-4c28-bc34-62c0b801c8a0
 ---
 The Ultimate Family Residence and Professional Home Office
 27 Northview Outlook, Clifton Hill.

@@ -1,5 +1,6 @@
 ---
 title: 'Attention Investors - Affordable NRAS Property'
+property_type: House
 price: '$349,000 - Owner Must Sell!'
 rent: null
 bedrooms: 4
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824244/113760071-image-M.jpg'
 property_id: '435408'
-id: 4e8e2473-0094-4372-bf71-d1cbcc7e0df4
+id: d6b6ae64-89b8-46aa-8be6-e7388d8e1afc
 ---
 This property is leased through the National Rental Affordable Scheme (NRAS). The NRAS period for this property expires on 09/05/2022 which means you have approximately a further 9 years of benefits from the scheme.
 

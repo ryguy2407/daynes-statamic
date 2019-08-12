@@ -1,5 +1,6 @@
 ---
 title: 'Entry-Level Sunnybank'
+property_type: House
 price: '$595,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821870/128144882-image-M.jpg'
 property_id: '435219'
-id: 0a50ef56-0932-4ba9-a266-af3bba5fb388
+id: 43ab5904-8c0f-440e-b656-6932e49a012b
 ---
 This partially renovated home is of desirable lowset brick construction, in a quiet and leafy pocket. The property has been internally repainted and the floors revarnished. Full of natural light, the large windows and northerly facing aspect make this home fresh and welcoming. Stepping up to the home, the private entry steps into the living room which has been beautifully finished with polished timber flooring. The eat-in kitchen steps down to the leafy backyard and patio area, perfect for alfresco entertaining. Three good-sized bedrooms are situated away from the main living of the home and the master includes a ceiling fan.
 

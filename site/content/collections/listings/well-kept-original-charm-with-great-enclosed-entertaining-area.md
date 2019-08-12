@@ -1,5 +1,6 @@
 ---
 title: 'Well Kept Original Charm With Great Enclosed Entertaining Area'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820261/108506666-image-M.jpg'
 property_id: '435078'
-id: 781ef603-5b20-419a-89eb-1a0d5901e3c9
+id: 6412efcb-2962-4dd7-b72a-2b6e887afc75
 ---
 This lovely three bedroom lowset home is situated in a quiet pocket of Salisbury.
 

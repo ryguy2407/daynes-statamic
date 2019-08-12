@@ -1,5 +1,6 @@
 ---
 title: 'Great Unit In Ultra Handy Position - Price Reduced by $20,000'
+property_type: Unit
 price: 'Price Reduced to $439,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820615/105886470-image-M.jpg'
 property_id: '435112'
-id: 264e8270-6195-4e3c-a642-b57811b91d88
+id: d55de538-02e5-42de-a4fa-75b49336c1b5
 ---
 You will find it quite easy to entertain with this three bedroom, two bathroom unit with its large open plan living area that extends out to a good sized balcony. Situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Priced To Sell'
+property_type: House
 price: ''
 rent: null
 bedrooms: 2
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820308/108875086-image-M.jpg'
 property_id: '435082'
-id: bd1942cd-c273-46e4-a2f5-f8e122c98b7d
+id: 8d296b4a-79b6-412f-8497-49c57a26da8a
 ---
 *  A superb treed 663sqm block in a quiet area
 *  Two bedrooms + study, however the study can be used as a third bedroom

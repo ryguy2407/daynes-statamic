@@ -1,5 +1,6 @@
 ---
 title: '711sqm LMR'
+property_type: House
 price: '$410,000'
 rent: null
 bedrooms: 3
@@ -12,7 +13,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821702/130469074-image-M.jpg'
 property_id: '435205'
-id: ab69781b-042d-4bb3-a2b0-c7558c3eea33
+id: 9c10b203-809b-4cce-821c-d44f377e707b
 ---
 This generous and well-appointed home offers plenty of space for busy families. To the rear of the home, the beautifully presented kitchen is adjoined by a lovely dining area or additional living space. Stepping out of the kitchen, the cute back deck and outdoor entertaining area overlook the grassy backyard, perfect for entertaining and relaxing. Each of the three bedrooms include ceiling fans, built-in wardrobes and storage. The bathroom is functional and fresh, and includes a shower over bathtub. The large living area is kept cool with a large air conditioner. The single car garage also provides additional storage.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Immaculate Presentation'
+property_type: House
 price: 'Offers Over $400,000'
 rent: null
 bedrooms: 3
@@ -40,7 +41,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820919/124262614-image-M.jpg'
 property_id: '435143'
-id: d91b41d8-1488-46a1-b919-6098936007c4
+id: 192aabf9-d11d-4805-bda4-6745ae14fbb1
 ---
 This beautifully presented home offers a seldom seen opportunity to secure a property ready to compliment those at any stage of their investment journey. Whether first home buyer, up-sizer or investor, this lovely home is the complete package with nothing left to do.
 

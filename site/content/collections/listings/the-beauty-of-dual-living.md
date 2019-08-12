@@ -1,5 +1,6 @@
 ---
 title: 'The Beauty of Dual Living!'
+property_type: House
 price: ''
 rent: null
 bedrooms: 4
@@ -46,7 +47,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820562/112712563-image-M.jpg'
 property_id: '435107'
-id: 25af6df6-5787-420b-8612-5219ef3ead01
+id: 5da9a87d-e943-4592-a487-17535d7a69f8
 ---
 This home is a beauty for those wishing to have double living areas. It is situated on a 607sqm block in a leafy quiet street in Manly West. So close to all schools including pre schools. Very handy to shopping centres and a 7 minute walk to the rail. It is also approximately 2 kms to the Manly marina and the bay.
 

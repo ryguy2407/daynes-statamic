@@ -1,5 +1,6 @@
 ---
 title: 'Neat and Tidy on 599sqm LMR'
+property_type: House
 price: 'SOLD OFF MARKET'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822871/131226030-image-M.jpg'
 property_id: '435296'
-id: 4c2ea93e-4a9a-4829-ac07-e17f11848799
+id: 99239854-a3c0-48d6-a102-3840478b0401
 ---
 This is a lovely, neat family home surrounded by mature trees giving it great street appeal. The property has been brought back to life with fresh paint externally and internally. Low-maintenance polished timber floors along with the neutral palette throughout make this home a great blank canvas. The living area is spacious and full of light, and steps through to the eat-in kitchen. The kitchen has been finished with attractive splashback tiles, detailed cabinetry and is equipped with plenty of storage space. The yard is large, fenced and grassy, perfect to accommodate children and pets.
 

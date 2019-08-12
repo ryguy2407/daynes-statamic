@@ -1,5 +1,6 @@
 ---
 title: 'Act Quickly - Brand New Townhouse - No Body Corp Fees'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 3
@@ -24,7 +25,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818422/104525172-image-M.jpg'
 property_id: '434864'
-id: 603c5406-c747-4c5c-9a83-1b861231767b
+id: d2f3dad9-ed0f-47b6-bea8-5fb251d44f1d
 ---
 Here is your last chance to secure a brand new three bedroom townhouse in this development.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Price Reduction!'
+property_type: House
 price: '$10,000 Price Reduction - Now $379,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819380/105651765-image-M.jpg'
 property_id: '434964'
-id: 9c298a6e-6986-40ea-a87d-372a2232fba0
+id: 033c9b18-5bda-4712-b0c8-867ba8d878a2
 ---
 You will be impressed by this modern three bedroom home on 610sqm in a quiet street in Algester.
 This home is ideal for the first home buyer looking for a modern home with great value.

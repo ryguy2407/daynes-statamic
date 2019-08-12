@@ -1,5 +1,6 @@
 ---
 title: 'Great For First Home Buyers!'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819118/105286361-image-M.jpg'
 property_id: '434933'
-id: 59952854-696c-4c32-8864-1d5fb0cbea86
+id: 4b557a44-9844-4c62-84c5-873969c313ea
 ---
 Situated on a 701sqm block in a great street is a lovely three bedroom house.
 

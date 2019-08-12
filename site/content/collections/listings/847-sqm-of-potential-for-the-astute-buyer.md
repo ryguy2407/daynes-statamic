@@ -1,5 +1,6 @@
 ---
 title: '847 sqm of Potential for the Astute Buyer'
+property_type: House
 price: 'Under Contract'
 rent: null
 bedrooms: 4
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822111/117037179-image-M.jpg'
 property_id: '435241'
-id: 2be1980e-b775-4e23-9583-5cfb785021ce
+id: cff2ed47-096b-48dc-bb77-59c45bc7f62d
 ---
 Astute investors will be quick to realise the potential on offer in this property. In addition to the large land area and the possibility of subdivision (subject to BCC approval) there is a very well maintained 3 bedroom family home plus a self-contained living area at the rear suitable for use as student accommodation. The student accommodation is currently rented at $220 per week.
 

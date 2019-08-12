@@ -1,5 +1,6 @@
 ---
 title: 'Rock Solid'
+property_type: House
 price: 'Offers Over $395,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822330/129551030-image-M.jpg'
 property_id: '435257'
-id: a84500f5-1b8d-4b4b-bfad-e535433bc6c0
+id: a385519e-e3a4-40f1-978d-d210504e6a13
 ---
 This home is situated on a generous corner block, framed by beautiful poinciana tree and well-maintained gardens. Neat and tidy, this is a chamfer board home with a tiled roof in a desirable low-set design. The savvy investor will see the value of this property, not only an attractive rental property but a great first family home. With fresh paint, new carpets and air conditioning throughout, this home ticks all the boxes for move-in ready. The open plan living flows out to the front patio and also through to the generous kitchen and dining. This layout promises easy living for busy families and the opportunity to seamlessly enjoy both inside and out.
 

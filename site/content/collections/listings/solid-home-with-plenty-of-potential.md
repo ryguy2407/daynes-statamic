@@ -1,5 +1,6 @@
 ---
 title: 'Solid Home With Plenty Of Potential'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819289/105476732-image-M.jpg'
 property_id: '434954'
-id: f6a06d25-c8cf-4d8d-ac91-3bf531271ce8
+id: e4889d10-502d-4751-b859-5b3660e8e673
 ---
 Here is your chance to secure a large brick & tile home in a great position. This home has loads of potential and with a bit of tender, love and care it would make a great family home.
 

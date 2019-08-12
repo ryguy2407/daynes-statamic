@@ -1,5 +1,6 @@
 ---
 title: 'Three Bedroom Townhouse In Yeronga'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818505/104633513-image-M.jpg'
 property_id: '434876'
-id: 40f7233b-d34b-46b9-8cb6-2e5de36eae6e
+id: 244df7bd-7135-4e27-a74d-cbec34bd2640
 ---
 Don't miss this great opportunity of securing this free-standing three-bedroom townhouse in Yeronga
 

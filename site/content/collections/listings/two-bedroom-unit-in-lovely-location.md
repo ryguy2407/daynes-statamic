@@ -1,5 +1,6 @@
 ---
 title: 'Two Bedroom Unit in Lovely Location'
+property_type: Unit
 price: '$289,000'
 rent: null
 bedrooms: 2
@@ -20,7 +21,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823381/120760481-image-M.jpg'
 property_id: '435340'
-id: f9f1ce95-11a9-43b5-95dc-7fe4e5e85966
+id: c80dbe8f-0000-4e30-a917-3478da3a5300
 ---
 This lovely two bedroom unit is situated in the heart of Moorooka amongst newly landscaped grounds and a quiet and leafy street. Enjoy the privacy of this unit in the middle of a boutique complex of four, featuring a lovely sheltered balcony off the living area affording an elevated and leafy view. The two bedrooms a good-sized and the open plan kitchen and living areas are well proportioned. Ready for some simple renovations, this is a fantastic opportunity for the savvy investor or first home buyer to make their move into the booming Moorooka property market.
 

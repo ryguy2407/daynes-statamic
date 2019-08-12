@@ -1,5 +1,6 @@
 ---
 title: 'Great Entry Level Opportunity'
+property_type: Unit
 price: 'Best offer over $250,000'
 rent: null
 bedrooms: 2
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819714/106257421-image-M.jpg'
 property_id: '435006'
-id: 291a9d13-7103-4d2a-8e04-6257fb78d7f1
+id: 0b41abcc-aeff-4290-9822-b4d8db329e1e
 ---
 What a great opportunity to get into the market with a comfortable two bedroom unit right near the water at Woody Point.
 

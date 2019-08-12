@@ -1,5 +1,6 @@
 ---
 title: 'CONTRACT CRASHED! - Well Presented Family Home'
+property_type: House
 price: '$299,000'
 rent: null
 bedrooms: 4
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824187/116353371-image-M.jpg'
 property_id: '435403'
-id: 9cb0990a-d710-4baa-bbdf-92acd01e7d18
+id: 4aa9be12-69f8-458b-9f38-53bf2b4f8cdf
 ---
 Here we have a neat and tidy four bedroom brick and tile home situated in a desirable area of Browns Plains.
 

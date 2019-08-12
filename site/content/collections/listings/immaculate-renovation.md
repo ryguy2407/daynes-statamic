@@ -1,5 +1,6 @@
 ---
 title: 'Immaculate Renovation!'
+property_type: House
 price: 'Offers Over $420,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821425/126212862-image-M.jpg'
 property_id: '435183'
-id: 6ed47fe7-becc-4d1e-8280-cdaaaff662a4
+id: 734b5fee-71fc-4766-9744-866100cbca72
 ---
 Step inside this immaculately renovated property and immediately feel at home. Situated on an elevated and generous 607sqm block, surrounded by lovely lawns and on a quiet street. The renovation has been thoughtfully applied, with fresh neutral colours and clean finishes; this home is the perfect opportunity for those looking to move straight in! The home has had a full internal and external repaint in tasteful modern colours. The hardwood timber floors have been polished and are perfectly complimented by the fresh white walls. The modernisation has been completed with new recessed downlights throughout the home.
 

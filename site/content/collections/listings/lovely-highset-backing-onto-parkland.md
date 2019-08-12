@@ -1,5 +1,6 @@
 ---
 title: 'Lovely Highset Backing Onto Parkland!'
+property_type: House
 price: '$369,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823309/119787219-image-M.jpg'
 property_id: '435331'
-id: 176fb4b5-29ab-49da-923b-374074611dd9
+id: 716ecc63-f74e-41cc-ae28-5563fba0042b
 ---
 This lovely high set home is located in a quiet and leafy pocket of Acacia Ridge. Relax on the front north-east facing balcony and enjoy a leafy and elevated outlook or entertain in your spacious barbecue area. Featuring highly liveable indoor and outdoor spaces for families, there is plenty of potential in this investment.
 

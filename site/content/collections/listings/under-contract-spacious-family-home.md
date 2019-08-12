@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT - Spacious Family Home'
+property_type: House
 price: 'Low To Mid $400,000''s'
 rent: null
 bedrooms: 4
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823244/118742755-image-M.jpg'
 property_id: '435326'
-id: a6452420-8c0a-460c-a1d3-94093b733e65
+id: e7d6ef79-a0a0-4013-96e3-4aa06f898ef4
 ---
 Invite your guests into this spacious and lovingly kept home. This property is complete with large entertaining areas, including open-plan kitchen, dining and informal living stepping out to undercover paved outdoor area. This well thought-out home features plenty of space for a growing family with functional and adaptable spaces and good-sized bedrooms.
 

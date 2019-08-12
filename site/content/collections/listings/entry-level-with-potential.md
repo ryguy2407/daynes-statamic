@@ -1,5 +1,6 @@
 ---
 title: 'Entry-Level with Potential!'
+property_type: House
 price: 'Offers Over $300,000'
 rent: null
 bedrooms: 2
@@ -20,7 +21,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823459/121485018-image-M.jpg'
 property_id: '435349'
-id: 10b047b6-1689-4a40-8f05-516ed67e8d5a
+id: d3d33c0c-ee2d-44af-8bff-5a6904e28537
 ---
 This cute cottage is is an amazing opportunity for those who want to secure a piece of this rapidly developing suburb. The property is situated in a convenient location, on a low maintenance 437sqm flat block with Low Medium Residential (LMR) zoning. Of solid construction, the house has hardwood flooring throughout, chamfer board exterior and steel roof. Internally, the rooms are well proportioned and functional with a combined living and dining off the good-sized kitchen. This house is a great chance to bring your own renovation dreams to life, both investors and first home owners alike.
 

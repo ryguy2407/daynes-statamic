@@ -1,5 +1,6 @@
 ---
 title: 'Well Presented Home - Act Quickly!'
+property_type: House
 price: '$379,000'
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823386/120773025-image-M.jpg'
 property_id: '435341'
-id: 95653b4a-9dc8-4a7d-959f-46433ab8721c
+id: 137ddc8e-c04e-49b3-a200-ad5eb9df46fb
 ---
 Situated in arguably one of the best pockets of Acacia Ridge, this recently renovated property is definitely one to inspect. Surrounded by lovely homes, this property is very well presented and we expect it to sell quickly.
 

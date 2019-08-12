@@ -1,5 +1,6 @@
 ---
 title: 'Sold very quickly - If you wish to sell, just give us a call'
+property_type: House
 price: ''
 rent: null
 bedrooms: 4
@@ -18,7 +19,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818018/103861748-image-M.jpg'
 property_id: '434790'
-id: cb7fc1ec-708f-4fad-aa60-cff0cfbae386
+id: efede5c3-2f4f-4d49-8f91-cad13599d6d0
 ---
 Here we have a semi-renovated Queenslander  so close to the city.  Situated on a generous 610 sqm of land with off street parking.
 

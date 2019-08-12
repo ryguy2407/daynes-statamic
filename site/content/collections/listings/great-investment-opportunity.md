@@ -1,5 +1,6 @@
 ---
 title: 'Great Investment Opportunity'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819760/106432377-image-M.jpg'
 property_id: '435011'
-id: b5cac4b6-f5bc-4e1d-acc8-08dba21d8e03
+id: 9e191d10-43a0-465a-a78b-b66e0b00552b
 ---
 Secure this lovely three-bedroom, two bathroom townhouse in a complex of 30.
 

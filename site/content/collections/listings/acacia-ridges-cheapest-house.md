@@ -1,5 +1,6 @@
 ---
 title: 'Acacia Ridge''s Cheapest House!'
+property_type: House
 price: 'Best Offer Over $220,000'
 rent: null
 bedrooms: 3
@@ -22,7 +23,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824127/115830403-image-M.jpg'
 property_id: '435397'
-id: 6aca58bf-b284-496f-a3ec-f871cf5265af
+id: e02942a3-92c2-445d-9ce0-6ed22aaf7f61
 ---
 Best offer over $220,000
 

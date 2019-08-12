@@ -1,5 +1,6 @@
 ---
 title: 'Private Entertainer'
+property_type: House
 price: 'Offers Over $650,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821613/127050058-image-M.jpg'
 property_id: '435197'
-id: b217fab3-779b-4d0e-982e-dd7a413d091a
+id: d937cb15-f1dc-456a-a3c1-20c48139026b
 ---
 Set amongst beautiful subtropical gardens, this generous property will surprise and delight those looking for their next family home. With fantastic entertaining and relaxing spaces, both inside and out, this is a property perfect for those who gather family and friends together. Backing on to parkland and with a sweeping lawn surrounded by the beautiful gardens, kids will adore this property. The sweeping and expansive living areas look out to the gardens and are filled with natural light. The layout of the home affords plenty of space for the lifestyle of busy families, and like all functional homes, the kitchen is at the heart. The kitchen is a sizeable space and flows effortlessly through to both internal and external living spaces. Designed to provide the perfect balance between great street appeal yet not compromising on privacy, this home must be seen to be appreciated.
 

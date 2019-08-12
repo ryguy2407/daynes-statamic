@@ -1,5 +1,6 @@
 ---
 title: 'Position and Potential'
+property_type: House
 price: '$430,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821569/126652282-image-M.jpg'
 property_id: '435193'
-id: d7560830-4061-4645-aa83-5a0540bca20b
+id: 0a7f0db3-dc57-4217-93aa-8dd9d57863bd
 ---
 This inviting family home is ideal for those who need a little extra from their property, while retaining the chance to realise their renovating dream. Beautifully presented with lovely neutral colours throughout, this home is unique for the vaulted ceilings, giving an interesting feel to the home. Attractive and low-maintenance lino flooring hides beautiful hardwood floors for which these homes are much sought-after. The carpets to the bedrooms are in great condition and well chosen for the neutral colour scheme.
 

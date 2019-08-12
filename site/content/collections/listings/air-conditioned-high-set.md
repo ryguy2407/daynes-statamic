@@ -1,8 +1,8 @@
 ---
 title: 'Air-Conditioned High Set'
+property_type: House
 price: '$399,000'
 rent: null
-show_price: text
 bedrooms: 3
 bathrooms: 1
 cars: 1
@@ -39,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822929/131372398-image-M.jpg'
 property_id: '435300'
-id: 20c4bc20-a326-4044-b764-e50459917eb1
+id: 87080937-1dff-43bf-9077-c0116246b0e9
 ---
 This property has it all for lifestyle and functionality, a beautifully presented family home situated in a quiet pocket of Acacia Ridge. Sitting behind the pretty white picket fence sits this high-set chamfer board home which will surely be the delight of the lucky future owners. The easy layout of this home promises plenty of space for a growing family. The north-facing front deck offers an elevated and sunny aspect to enjoy a morning coffee. This front deck expands inside to the open plan living spaces, beautifully showcasing the hardwood timber floors. The kitchen features a stylish island bench which also offers practicality to busy lives. The living and kitchen space steps down to a lovely undercover entertaining area, overlooking the leafy backyard. Completely flat, fully fenced and private, the front and back yards afford a generous piece of land to enjoy.
 

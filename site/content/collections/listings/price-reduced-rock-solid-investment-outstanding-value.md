@@ -1,5 +1,6 @@
 ---
 title: 'Price Reduced - Rock Solid Investment - Outstanding Value!'
+property_type: House
 price: '$379,000'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823372/120744353-image-M.jpg'
 property_id: '435339'
-id: b75c6d77-252b-4aff-865e-b90cff1200ff
+id: b34cd1d7-f853-4094-ae7c-69069cace842
 ---
 This home has been the delight of the current owners, and their love and enjoyment is evident in the attention to detail and liveability of the property. Featuring double brick fully insulated construction and fully insulated ceilings, this will be a solid investment for years to come.
 

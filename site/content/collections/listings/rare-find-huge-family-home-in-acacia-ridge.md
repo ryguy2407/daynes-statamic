@@ -1,5 +1,6 @@
 ---
 title: 'Rare Find... Huge Family Home In Acacia Ridge!'
+property_type: House
 price: ''
 rent: null
 bedrooms: 4
@@ -44,7 +45,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819168/105362320-image-M.jpg'
 property_id: '434941'
-id: 914a247a-8a13-41da-a1dc-928fed04fd3b
+id: 058d75d5-99ab-4f59-bf10-ee73e62f1088
 ---
 You will be impressed by this just renovated four bedroom home on 582sqm in Acacia Ridge
 This home would be ideal for a large family looking for great value with room to move.

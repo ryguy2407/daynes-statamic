@@ -1,8 +1,8 @@
 ---
 title: 'Quiet & Convenient'
+property_type: Flat
 price: '$295 per week'
 rent: '295.0'
-show_price: text
 bedrooms: 2
 bathrooms: 1
 cars: 2
@@ -21,7 +21,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826004/427122122-image-M.jpg'
 property_id: '435599'
-id: 42effce6-ef77-4836-80fa-68598c0acd88
+id: 8d0f80fa-dc48-475e-986f-ed4068d21a24
 ---
 Be quick to see this two bedroom flat - it won't last
 

@@ -1,5 +1,6 @@
 ---
 title: 'Ready to Renovate!'
+property_type: House
 price: 'Offers Over $335,000'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821362/125962830-image-M.jpg'
 property_id: '435177'
-id: bd3d02ad-8069-4a2d-a925-ac81e8ac1c29
+id: 5307d1ae-4566-4fe6-a8d9-12cbb93bd41f
 ---
 The home, while comfortable as is, represents an opportunity for the first home buyer or investor to undertake a renovation, making this home truly your own. A cool and comfortable home, with a spacious combined living and dining area. The solid brick home is highly sought-after with flexible options for opening up the internal design. The three good-sized bedrooms are well-appointed and full of light. The block is gently sloping and generously proportioned, with plenty of room for gardeners and children to enjoy.
 

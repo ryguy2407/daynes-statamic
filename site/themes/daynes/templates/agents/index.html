@@ -1,23 +1,28 @@
-<h1 class="mb-4">Agents</h1>
-
-{{ content }}
-
-{{ collection:agents }}
-<div class="agent row">
-    <div class="col-md-3">
-        {{ assets:photo }}
-        <img src="{{ url }}" alt="{{ alt }}" style="width: 100%;">
-        {{ /assets:photo }}
-    </div>
-    <div class="col-md-9">
-        <h3>{{ title }}</h3>
-        <p>{{ email }}<br>
-        {{ landline }}<br>
-        {{ mobile }}</p>
-        <div>
-        {{ bio | markdown | safe_truncate:250 }}...
-        </div>
-        <a class="btn btn-primary" href="{{ url }}">Go to profile</a>
+<div class="row">
+    <div class="col">
+        <h1 class="mb-4">Agents</h1>
+        {{ content | markdown }}
     </div>
 </div>
+
+{{ collection:agents }}
+    <div class="agent row">
+        <div class="col-md-3">
+            <a href="{{ url }}">
+                {{ assets:photo }}
+                    <img src="{{ url }}" alt="{{ alt }}" style="width: 100%;">
+                {{ /assets:photo }}
+            </a>
+        </div>
+        <div class="col-md-9">
+            <h3>{{ title }}</h3>
+            <p>{{ email }}<br>
+            {{ landline }}<br>
+            {{ mobile }}</p>
+            <div>
+            {{ bio | markdown | safe_truncate:250 }}...
+            </div>
+            <a class="btn btn-primary" href="{{ url }}">Go to profile</a>
+        </div>
+    </div>
 {{ /collection:agents }}

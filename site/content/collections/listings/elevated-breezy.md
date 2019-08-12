@@ -1,5 +1,6 @@
 ---
 title: 'Elevated & Breezy'
+property_type: House
 price: 'Offers Over $360,000'
 rent: null
 bedrooms: 3
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821693/127322922-image-M.jpg'
 property_id: '435204'
-id: d3e6f29b-01d5-4ce7-beda-4fea667beaf8
+id: c7e6e584-2563-4a3d-8266-f2c7a01ebbec
 ---
 This desirable high-set property is a great layout, perfect for families. The open plan living and dining is adjoined by a sunroom, easily utilised for a range of useful spaces including kids playroom, study, or simply a space to relax and unwind. The kitchen steps off the living and dining, making entertaining a breeze. The eat-in kitchen has been well looked after and is highly functional with plenty of bench space and storage. The property is well presented with well-chosen paint and plenty of natural light through the large windows in every room.
 

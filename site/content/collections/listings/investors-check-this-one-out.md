@@ -1,5 +1,6 @@
 ---
 title: 'Investors? Check this one out!!'
+property_type: Villa
 price: ''
 rent: null
 bedrooms: 3
@@ -24,7 +25,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818253/104173750-image-M.jpg'
 property_id: '434843'
-id: e7a14eed-88d3-459e-8286-df24d2319d39
+id: 134c2f1b-fa2e-41a5-bffd-7e7f43ef1bcb
 ---
 Situated in a six-year old complex of 74 dwellings in Eight Mile Plains, this three bedroom, two bathroom, free-standing home is a great opportunity for the astute investor.
 

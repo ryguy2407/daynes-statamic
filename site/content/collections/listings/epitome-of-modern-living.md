@@ -1,5 +1,6 @@
 ---
 title: 'Epitome of Modern Living'
+property_type: House
 price: 'Offers Over $470,000'
 rent: null
 bedrooms: 3
@@ -60,7 +61,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823767/123503166-image-M.jpg'
 property_id: '435371'
-id: 97e9611e-8dc6-4557-90c6-5dfc2dff2507
+id: f67bbdf0-976b-41dc-a929-4bb9362112b4
 ---
 This completely renovated home is the epitome of modern living and the represents the perfect opportunity to secure one of Acacia Ridge's most prestigious properties. Secluded behind the leafy frontage is this private family home, promising years of enjoyment of the spacious interiors and tranquil surrounds. A true stand-out feature of this home is the gorgeous east-facing front deck looking out to the beautifully kept front gardens and to parkland beyond. Made for entertainers, this deck is equipped with built in benches and steps down to a purpose-built pizza oven, perfect for effortless entertaining.
 

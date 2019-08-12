@@ -1,5 +1,6 @@
 ---
 title: 'Very Motivated Vendor - Drastically Reduced'
+property_type: House
 price: ''
 rent: null
 bedrooms: 4
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818442/104547683-image-M.jpg'
 property_id: '434867'
-id: 184946b4-7bef-4bb3-be42-057431489107
+id: d92cc422-0d86-4792-8953-624a011c2795
 ---
 Do not miss out on the opportunity to secure this great family home for such a great price.
 

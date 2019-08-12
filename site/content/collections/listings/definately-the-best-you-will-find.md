@@ -1,5 +1,6 @@
 ---
 title: 'Definately The Best You Will Find'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 2
@@ -20,7 +21,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818048/103965380-image-M.jpg'
 property_id: '434794'
-id: 30fee893-b667-46cf-9b97-6e630d14207c
+id: 3f2e346c-c3de-4205-8af0-5d61763c4215
 ---
 You will love this brand new 2 bedroom tri-level townhouse, it has everything you need.  Live in an exclusive 5 townhouse complex close to transport and shopping centres.
 

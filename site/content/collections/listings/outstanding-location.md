@@ -1,8 +1,8 @@
 ---
 title: 'Outstanding Location'
+property_type: Apartment
 price: 'Price On Request'
 rent: null
-show_price: text
 bedrooms: 1
 bathrooms: 1
 cars: 1
@@ -51,7 +51,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820872/131099506-image-M.jpg'
 property_id: '435140'
-id: 05020402-f4eb-476d-93c3-e4742ce4bfc2
+id: e5c28e37-3190-427b-9a6d-5c0b3957b49f
 ---
 ** Call for a private inspection **
 

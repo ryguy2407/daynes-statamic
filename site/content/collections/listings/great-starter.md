@@ -1,5 +1,6 @@
 ---
 title: 'Great Starter!'
+property_type: House
 price: 'Offers Over $350,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821235/125642094-image-M.jpg'
 property_id: '435166'
-id: a667a593-d407-4429-a0f4-d75325a06358
+id: 539b9750-bd20-4987-a5f7-abf7d6d1f48f
 ---
 This lovely three bedroom home is ripe for renovation and a fantastic investment opportunity in this rapidly growing area. Conveniently situated right in the hub of Acacia Ridge, this property is close to transport and a great range of amenities. Recently repainted and freshened up internally, this is a functional family home with bright and airy interiors. North facing on a low maintenance 446sqm block, the home is privately set back from the road behind leafy hedges and framed by a beautiful Jacaranda. The fully-fenced front yard is the perfect setting for children and pets to play in the shade.
 

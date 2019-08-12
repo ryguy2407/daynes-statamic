@@ -1,5 +1,6 @@
 ---
 title: 'Unique Investment Opportunity'
+property_type: House
 price: 'Offers Over $375,000'
 rent: null
 bedrooms: 5
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823889/123702794-image-M.jpg'
 property_id: '435379'
-id: dddbd23c-6081-41ef-98a3-8ea6d52d0043
+id: 19a60052-b3f0-4d3b-bb01-6a2f23bd36ad
 ---
 This property is the perfect chance for the savvy buyer to secure a unique investment opportunity with amazing potential return. Wonderful low-set brick homes such as these are highly sought-after, as they present a range of options to suit a variety of needs. With beautiful polished timber floors and solid brick exterior, this home has great bones. The current internal configuration of the property features five bedrooms, making it ideal for a boarding house set-up. A relatively simple renovation could transform the house into a generously portioned family home, perfect for first home owners and investors alike.
 

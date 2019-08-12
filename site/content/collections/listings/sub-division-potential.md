@@ -1,5 +1,6 @@
 ---
 title: 'Sub-Division Potential'
+property_type: House
 price: 'Offers Over $430,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821555/126538418-image-M.jpg'
 property_id: '435192'
-id: 7bd7c56f-8a2a-435c-81f4-1bf961376173
+id: 0ecf5ad3-0e65-4d2d-b5cc-8cf3f5a681c9
 ---
 Privately tucked behind the lovely timber fence is this delightful family home. This property has been designed to to incorporate plenty of outdoor spaces, perfect to relax in the idyllic shady settings provided by the lofty trees and grassy lawns. This beautiful chamfer board home is set on an elevated 804sqm block, a generous parcel of land to enjoy. The leafy outlook is best enjoyed from the back patio which steps out from the beautifully finished kitchen making entertaining a breeze. Perfect for entertainers and families alike, this property holds the potential to become your dream home.
 

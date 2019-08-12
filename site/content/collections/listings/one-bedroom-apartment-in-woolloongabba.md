@@ -1,5 +1,6 @@
 ---
 title: 'One Bedroom Apartment In Woolloongabba'
+property_type: Unit
 price: ''
 rent: null
 bedrooms: 1
@@ -22,7 +23,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818499/104632209-image-M.jpg'
 property_id: '434875'
-id: 62181d66-b1c2-4b50-b55a-3cafc013fe14
+id: 76e479d3-b89e-470d-b216-2937cc7f0794
 ---
 Get yourself into the real estate market with this affordable one bedroom unit located in the heart of Woolloongabba. Situated in a complex of 8, the unit has a floor area of 46sqm which comprises of a loft style bedroom with study area underneath and a separate living/kitchen area.
 

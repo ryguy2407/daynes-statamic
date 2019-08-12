@@ -1,5 +1,6 @@
 ---
 title: 'Blackwood Road Renovator! Price Reduction!'
+property_type: House
 price: ''
 rent: null
 bedrooms: 4
@@ -16,7 +17,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820232/107953681-image-M.jpg'
 property_id: '435074'
-id: 18c12407-a1ea-4cc9-aad6-848e65f5a60c
+id: 04e5375e-db72-41b6-8219-0e377ba4850c
 ---
 Fantastic opportunity for a handyman/tradesperson to add value in one of Salisbury's best streets. For someone who is willing to put in the work this place will come up as a treat!
 

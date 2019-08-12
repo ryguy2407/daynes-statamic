@@ -1,8 +1,8 @@
 ---
 title: 'Good Bones'
+property_type: House
 price: '$350,000+'
 rent: null
-show_price: text
 bedrooms: 3
 bathrooms: 1
 cars: 3
@@ -37,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822760/131418794-image-M.jpg'
 property_id: '435287'
-id: 65846bc6-c87f-4ed0-9b64-13cb4144a9e8
+id: f65202e8-d038-496b-83e9-ca82c12e629b
 ---
 This low-set property is the ideal opportunity for those looking for their next project. With amazing potential, there are only cosmetic improvements to be made to create a home that will service a plethora of needs. The house itself is a desirable low-set design with functional layout, but the value of this property is really in the highly useful addition to the rear. This completely separate structure includes a spacious double lockup garage, carport and a terrific office and utility room. Perfect for home hobbyists and those who love to tinker in the shed, this space could also be converted into a granny flat or retreat separate to the main house.
 

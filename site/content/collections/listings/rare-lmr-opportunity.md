@@ -1,5 +1,6 @@
 ---
 title: 'Rare LMR Opportunity'
+property_type: House
 price: '$700,000'
 rent: null
 bedrooms: 4
@@ -48,7 +49,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821182/125688470-image-M.jpg'
 property_id: '435163'
-id: 024e79a5-3620-4d5a-a449-d3595596b5de
+id: da45a0ef-db0d-4536-8916-2788cae1fc15
 ---
 Nestled in the heart of this beautiful riverfront Brisbane suburb is a prime investment opportunity. The charming post-war dwelling is set on a generous 809sqm Low-Medium Residental (LMR) zoned allotment, presenting a myriad of development opportunities.  Yeronga is a desirable inner city suburb, experiencing continued strong capital growth. These sorts of properties with such outstanding potential and position rarely become available.
 

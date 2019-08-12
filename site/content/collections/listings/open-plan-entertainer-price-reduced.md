@@ -1,5 +1,6 @@
 ---
 title: 'Open-Plan Entertainer! - Price Reduced'
+property_type: House
 price: '$383,000'
 rent: null
 bedrooms: 3
@@ -26,7 +27,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822103/117016619-image-M.jpg'
 property_id: '435240'
-id: 7f9ba695-5a8c-4d5c-885e-77d6e8a26a52
+id: 20dda228-8cb3-4598-aa40-cfba9c45c8c7
 ---
 Situated in a quiet and leafy pocket of Acacia Ridge, this home offers plenty of space to entertain friends and family. Built by Devine Homes, this property resides on a 431m2 block backing onto tranquil bush land.
 

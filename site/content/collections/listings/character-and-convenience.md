@@ -1,5 +1,6 @@
 ---
 title: 'Character and Convenience'
+property_type: House
 price: 'Offers Over $428,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822242/129139746-image-M.jpg'
 property_id: '435251'
-id: 3475091a-b6c3-45f0-a58f-0b95a3e8bc7e
+id: a00a9f7a-fd9e-411c-9a77-f1dc07e4db01
 ---
 This property is full of character and creative flair, perfect for those looking for a little extra for their next home. The home is full of history and bespoke features. No detail has been left unattended both inside and out, with the home being the pride and joy of the current owner. Approaching the property, the tranquility of the area is apparent and this combined with the abundance of trees make this place a lovely escape. A home with great street appeal, the gardens have been thoughtfully planted with low maintenance and bird attracting native trees. The home itself has been freshly re-painted and is a private high-set design allowing a lovely elevated outlook.
 

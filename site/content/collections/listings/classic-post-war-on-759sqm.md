@@ -1,5 +1,6 @@
 ---
 title: 'Classic Post-War on 759sqm'
+property_type: House
 price: 'Offers Over $360,000'
 rent: null
 bedrooms: 3
@@ -30,7 +31,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821163/125217298-image-M.jpg'
 property_id: '435161'
-id: dda4d761-c7a9-4c9c-b2e3-23e66532eebd
+id: dc0f5172-3a53-4d08-a241-9b9b7cd67bb4
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the classic design. Carpets, tiles and lino hide beautiful hardwood floors for which these homes are much sought-after and the layout is perfect for low maintenance and easy family living. The original interiors are clean and functional, perfect to move straight in and renovate at your own pace.
 

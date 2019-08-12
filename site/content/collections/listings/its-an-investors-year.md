@@ -1,5 +1,6 @@
 ---
 title: 'It''s An Investors Year!'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 2
@@ -28,7 +29,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818053/103979683-image-M.jpg'
 property_id: '434795'
-id: 49f788b5-64ba-4fb8-9704-b695eedfcb9b
+id: 2ebb7f7f-942e-4239-a7e2-02d9f7ab8110
 ---
 Secure this Immaculate two-bedroom unit in Moorooka
 

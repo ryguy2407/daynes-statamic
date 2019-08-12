@@ -1,5 +1,6 @@
 ---
 title: 'Cute Replica Queenslander With New Kitchen'
+property_type: House
 price: 'By Negotiation'
 rent: null
 bedrooms: 3
@@ -22,7 +23,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820226/107950876-image-M.jpg'
 property_id: '435073'
-id: f4ef82d6-6971-4335-99ed-a4bfd1ea00a9
+id: 5c573e47-a09d-436b-b57b-5ecb61052ff9
 ---
 Situated in a quiet, leafy street, this lovely replica Queenslander is a must to inspect.
 

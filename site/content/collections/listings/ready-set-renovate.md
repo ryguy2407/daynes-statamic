@@ -1,5 +1,6 @@
 ---
 title: 'Ready, Set, Renovate!'
+property_type: House
 price: '$369,000'
 rent: null
 bedrooms: 4
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823231/118686831-image-M.jpg'
 property_id: '435325'
-id: 44da448a-dc7f-436c-a08b-04590cd91fae
+id: fdc7c188-c454-4abc-bad4-8df008c38810
 ---
 Boasting beautiful polished timber floors throughout and well-proportioned living spaces, this property holds great renovation potential. The home is a solid high-set of hardwood construction giving you a great opportunity to turn this into an outstanding family home.
 

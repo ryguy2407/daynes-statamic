@@ -1,5 +1,6 @@
 ---
 title: 'Private High Set'
+property_type: House
 price: 'Offers Over $495,000'
 rent: null
 bedrooms: 4
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821458/126234930-image-M.jpg'
 property_id: '435185'
-id: 9b9eeb08-f633-470a-9845-5699361cf9c7
+id: d8af1443-b958-4bf8-bcf6-792c207360a3
 ---
 This private family home is set on a generous and elevated block in one of the best streets in the area. Stepping inside, the open plan living spaces flow from front to back out to beautiful verandas, making the most of the leafy surrounds. The interiors are full of light and are beautifully proportioned for easy family living. The kitchen has been updated with neat cabinetry, laminate benchtops and a large gas cooker. The kitchen steps into the dining space and out to the back veranda, ideal for entertainers. The back deck overlooks the leafy backyard and sparkling pool, areas perfectly designed for endless fun and enjoyment from your surrounds. The four bedrooms are all well appointed, each with built in wardrobes and large windows with insect screens. The bathroom has also been modernised, with fresh white and neutral tiles, bath tub and shower, and functional layout.
 

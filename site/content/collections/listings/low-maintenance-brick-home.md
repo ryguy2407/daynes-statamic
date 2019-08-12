@@ -1,5 +1,6 @@
 ---
 title: 'Low-Maintenance Brick Home'
+property_type: House
 price: 'Offers Over $360,000'
 rent: null
 bedrooms: 3
@@ -34,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821601/126769578-image-M.jpg'
 property_id: '435196'
-id: ecf460a1-6f64-4015-862f-54b75abf47d7
+id: d46a10a6-17b2-4d81-bc32-6a46d8453e82
 ---
 This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of natural light and looks out to the lovely grassy lawns. The three bedrooms have been finished with new carpets and new blinds have been installed to windows throughout the property. The open plan kitchen, dining and living are perfect for busy families, allowing plenty of space to relax and entertain. This is an excellent entry-level home, perfect for those looking for an opportunity to move in with nothing left to do.
 

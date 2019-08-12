@@ -67,7 +67,7 @@ class CRMListingsTags extends Tags
         }
 
         $limit = 60;
-        $result = $this->crm->getListings('Sold', 'residential_sale', $offset);
+        $result = $this->crm->getListings('Active', 'residential_rental', $offset);
 
         $count = count($result['data']);
 
@@ -101,6 +101,7 @@ class CRMListingsTags extends Tags
                         ->collection('listings')
                         ->with([
                             'title' => $listing['attributes']['headline'],
+                            'property_type' => $listing['attributes']['property_type'],
                             'content' => $listing['attributes']['description'],
                             'price' => $listing['attributes']['alt_to_price'],
                             'rent' => $listing['attributes']['rental_per_week'],

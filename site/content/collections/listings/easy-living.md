@@ -1,5 +1,6 @@
 ---
 title: 'Easy Living'
+property_type: House
 price: 'Offers Over $435,000'
 rent: null
 bedrooms: 3
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821319/125896234-image-M.jpg'
 property_id: '435173'
-id: 4f82258d-0b59-4ff0-adce-a89d5bc8207d
+id: 9756cc13-d7e5-4cbd-9a90-b892ce48620f
 ---
 This generous family home has it all for those who are seeking lifestyle and convenience. A low-maintenance, low-set design, this comfortable home has been lovingly cared for and presents an opportunity to move straight in. Set in immaculately presented gardens in a quiet pocket of Acacia Ridge, this property offers privacy and convenience, all on the one level! Well proportioned for comfortable family living, this home boasts plenty of space for outdoor and indoor entertaining and relaxing. Generous open plan kitchen and dining spaces flow out to the large under cover paved patio. This patio is an entertainers delight, with a built in bar area and plenty of room for a barbeque, all overlooking the beautiful gardens and lawn.
 

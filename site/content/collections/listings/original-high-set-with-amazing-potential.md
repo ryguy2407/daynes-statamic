@@ -1,5 +1,6 @@
 ---
 title: 'Original High Set with Amazing Potential'
+property_type: House
 price: 'Offers Over $360,000'
 rent: null
 bedrooms: 4
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823506/121763450-image-M.jpg'
 property_id: '435353'
-id: 6910b1d5-f24d-458e-8e39-9bdd5f3d0be7
+id: ce2da883-e246-441f-9b2b-6010d9a2045f
 ---
 This lovingly maintained family home is in perfect, original condition and ready for its next chapter. This property has great bones with hardwood flooring hidden under linoleum and a wonderful layout, perfect for modern living. The house is spacious and bright, with generous open plan living areas and good sized bedrooms. There is also the potential to double the space of this house by enclosing downstairs. High-set with clad exterior and set on a fully fenced 554sqm flat block, this property has amazing potential for the savvy investor or those seeking a lovely family home.
 

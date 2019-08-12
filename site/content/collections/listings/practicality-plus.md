@@ -1,5 +1,6 @@
 ---
 title: 'Practicality Plus'
+property_type: House
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822500/130397786-image-M.jpg'
 property_id: '435270'
-id: cc75e62d-3caf-43e7-8efb-4ab08fde2835
+id: fec27cee-43c4-4ba7-bce4-9bf8c8106b45
 ---
 Sitting behind the pretty white fence sits this thoughtfully renovated home which will surely be the delight of its lucky future owners. This low-set home has been completely renovated with low-maintenance finishes and a functional layout for busy families. The front of the home is framed by lovely greenery, shading and protecting the concrete entertaining patio. Stepping inside, the home delights with open plan living and dining flowing effortlessly into the kitchen. The living spaces have been finished in neutral colours, with the vinyl wood-look flooring tastefully chosen to provide a low maintenance finish with a designer aesthetic. This perfectly complements the clean finishes of the recently installed kitchen, with cream two pac cabinetry and quality stainless steel appliances.
 

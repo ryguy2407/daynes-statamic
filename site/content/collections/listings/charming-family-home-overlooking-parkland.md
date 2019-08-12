@@ -1,5 +1,6 @@
 ---
 title: 'Charming Family Home Overlooking Parkland'
+property_type: House
 price: 'Best Offer Over $365,000'
 rent: null
 bedrooms: 3
@@ -42,7 +43,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823646/122787350-image-M.jpg'
 property_id: '435362'
-id: 34945dae-5e9a-46d7-86c7-37b2e4117606
+id: 46e776e9-1e10-4350-a8e7-43e045eec6a5
 ---
 This beautifully presented family home is being offered for the first time in 44 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter.
 

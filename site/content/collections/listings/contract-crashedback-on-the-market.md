@@ -1,5 +1,6 @@
 ---
 title: 'CONTRACT CRASHED...BACK ON THE MARKET!'
+property_type: House
 price: 'Offers in the high $400''s'
 rent: null
 bedrooms: 3
@@ -22,7 +23,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818436/104547461-image-M.jpg'
 property_id: '434866'
-id: cd60413c-7c89-44e3-8aa6-fe6c2f5a914e
+id: 26f2c94d-b8b8-409f-9a56-3d01157d293b
 ---
 Don't judge a book by its cover...
 

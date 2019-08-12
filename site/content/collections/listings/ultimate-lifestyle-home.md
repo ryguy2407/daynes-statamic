@@ -1,5 +1,6 @@
 ---
 title: 'Ultimate Lifestyle Home'
+property_type: House
 price: 'Offers Over $490,000'
 rent: null
 bedrooms: 4
@@ -50,7 +51,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821814/127851182-image-M.jpg'
 property_id: '435215'
-id: 0e09e278-e681-4ba2-94e9-9132077627a2
+id: f710d20a-3539-407a-8219-dcb705eb47a9
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this large, meticulously renovated home awaiting the next chapter. Situated on one of best streets in Acacia Ridge, this is your opportunity to secure the ultimate in lifestyle and practicality. The east-facing front deck is perfect for enjoying your morning coffee in the tranquil surrounds, afforded by the quiet neighbourhood and leafy gardens. Stepping inside, the bright and spacious living area flows beautifully through to the equally well-appointed dining and kitchen spaces. The gourmet kitchen has been designed to provide the utmost in convenience, the best quality appliances, and has been finished with sleek cabinetry and benchtops. These inviting spaces are the heart of this home and provide the perfect place to enjoy relaxing with family and friends.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Versatile Family Home'
+property_type: House
 price: '$475,000'
 rent: null
 bedrooms: 3
@@ -40,7 +41,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822033/128490006-image-M.jpg'
 property_id: '435233'
-id: 10529702-ac84-470c-a557-259ea8c35a8c
+id: 8d52834f-88e5-4554-9784-1a852c056112
 ---
 This property is perfect for those who are seeking a little extra bang for their buck! Brilliantly situated on Mortimer Road for exposure and convenience, and renovated to maximise the useful spaces, this home is a must-see. The unique value of this property is in the cleverly converted downstairs spaces. Beyond the lock up double tandem garage, there are multiple rooms suitable for a variety of uses. Combined with the exposure of the property, these spaces would be ideal for those running their business from home. The home has great street appeal, set amongst lovely manicured gardens and lawns.
 

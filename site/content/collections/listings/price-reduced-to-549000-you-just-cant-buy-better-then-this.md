@@ -1,5 +1,6 @@
 ---
 title: 'Price Reduced To $549,000 - You Just Can''t Buy Better Then This!'
+property_type: House
 price: 'Price reduced to $549,000'
 rent: null
 bedrooms: 4
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818782/104882626-image-M.jpg'
 property_id: '434899'
-id: 149510cb-2901-447d-a7ef-6712bde04c4a
+id: a3fdf4c2-0859-4519-935f-2beed17a0911
 ---
 Situated on a 490sqm block, this beautiful home will not disappoint anyone who is looking for lots of room and a good looking home.
 

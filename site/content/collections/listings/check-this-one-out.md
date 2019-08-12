@@ -1,5 +1,6 @@
 ---
 title: 'Check This One Out!!'
+property_type: Townhouse
 price: ''
 rent: null
 bedrooms: 2
@@ -32,7 +33,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818302/104260717-image-M.jpg'
 property_id: '434848'
-id: 48c95d9b-71db-4f5f-a3d9-f112d8e1b22c
+id: 41033aae-82b7-4286-b587-f741676c033f
 ---
 This two-bedroom townhouse is a beauty.
 

@@ -1,5 +1,6 @@
 ---
 title: '834sqm Double Block'
+property_type: House
 price: 'Offers Over $485,000'
 rent: null
 bedrooms: 3
@@ -18,7 +19,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821063/124794958-image-M.jpg'
 property_id: '435153'
-id: 6e9a8c05-62b6-4f64-a39d-a1e0b890603c
+id: cb30e3cf-1db0-432b-8880-5ba42f9cd415
 ---
 Attention developers! This is a rare opportunity to secure an excellent site for immediate or future development. A generous 834sqm block, already on two lots and with excellent access, this property holds the potential to generate a tidy profit for the savvy investor.
 

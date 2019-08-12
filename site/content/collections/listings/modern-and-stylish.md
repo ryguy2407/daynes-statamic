@@ -1,8 +1,8 @@
 ---
 title: 'Modern and Stylish'
+property_type: House
 price: '$399,000'
 rent: null
-show_price: text
 bedrooms: 3
 bathrooms: 1
 cars: 1
@@ -35,7 +35,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822978/131530534-image-M.jpg'
 property_id: '435303'
-id: 48a3b6fd-68c2-472b-8bb3-53dc1751573e
+id: f896d516-c42b-4455-99a1-89227feb8cfd
 ---
 This beautifully presented home offers a rarely found opportunity to secure a property ready to complement those at any stage of their investment journey. Whether first home buyer, up-sizer or investor, this lovely home is the complete package with nothing left to do. Open plan living areas flow from the front to the back of the home, with lovely flow and connection between the living dining and kitchen. Truly an entertainers delight, the stylish kitchen and living open out to an undercover patio area, making for easy times with family and friends. The patio is protected from the elements with an insulated roof and overlooks the immaculately presented backyard.
 

@@ -1,5 +1,6 @@
 ---
 title: 'The Original Entertainer'
+property_type: House
 price: 'Offers Over $375,000'
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821627/126821766-image-M.jpg'
 property_id: '435198'
-id: 3be72abf-89b5-4928-bddb-72c9ad3bce2b
+id: 2c10bcf1-d1f3-48c5-8a5d-85eb3f6ab5b4
 ---
 This beautifully presented home is being offered to the market for the first time in more than 50 years. The place of many happy family memories, this property will no doubt bring joy into the lives of the next owners. On an elevated block, surrounded by well-kept gardens and framed by beautiful mature trees, this property has lovely street appeal. With a sunny northern aspect, the generous internal spaces of this home are full of light. Of solid brick construction, this type of home is much sought-after in the area for the hardwood timber flooring and renovation potential.
 

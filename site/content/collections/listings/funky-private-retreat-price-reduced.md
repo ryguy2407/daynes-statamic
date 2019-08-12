@@ -1,5 +1,6 @@
 ---
 title: 'Funky Private Retreat - Price Reduced'
+property_type: House
 price: ''
 rent: null
 bedrooms: 3
@@ -38,7 +39,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820432/110373073-image-M.jpg'
 property_id: '435093'
-id: a7610530-5227-4be8-8443-921e42e6f814
+id: 685c8876-10b3-4f51-847e-3688135f860e
 ---
 If you love to entertain family and friends then this one is for you.
 

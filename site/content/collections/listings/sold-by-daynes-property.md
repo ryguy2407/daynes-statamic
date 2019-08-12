@@ -1,5 +1,6 @@
 ---
 title: 'SOLD BY DAYNES PROPERTY'
+property_type: Apartment
 price: 'SOLD BY DAYNES'
 rent: null
 bedrooms: 2
@@ -52,7 +53,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822134/130469042-image-M.jpg'
 property_id: '435243'
-id: 37d8a759-b399-4e32-8bca-d7cefe37212d
+id: 5732459e-08c9-4d6d-9ca5-339162807f7b
 ---
 Oxley Central Apartments / / Boutique Development Offering Unique Location & Lifestyle
 

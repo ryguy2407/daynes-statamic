@@ -1,5 +1,6 @@
 ---
 title: 'UNDER CONTRACT The One You Have Been Waiting For!'
+property_type: House
 price: 'Offers Over $370,000'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823296/119580991-image-M.jpg'
 property_id: '435330'
-id: 8149b931-a35b-4b63-8258-c81fb4d98a84
+id: ea353b0c-1ac8-4268-a78e-7c7ba3385589
 ---
 This property has been proudly owned and lovingly maintained for 25 years, and is ready for the next era. Structurally, the home is high set and boasts hardwood construction, chamferboard exterior, a tiled roof and hardwood plank floors. The home is fresh and airy, with plenty of large windows allowing plenty of light. The property offers many lifestyle features with large entertaining areas, immaculately maintained gardens and a pool. The kitchen and bathroom, while functional, would benefit from an update and offers a way of putting your own mark on the home. Under the house is a particular treat with lock-up for two cars, large laundry, toilet and shower servicing the pool, and plenty of storage. Generously sized living and bedroom spaces, along with extensive outdoor areas mean plenty of room for a growing family and a not to be missed opportunity.
 

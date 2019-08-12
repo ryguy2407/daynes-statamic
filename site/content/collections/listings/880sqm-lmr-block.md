@@ -1,5 +1,6 @@
 ---
 title: '880sqm LMR Block'
+property_type: House
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -36,7 +37,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822361/129758366-image-M.jpg'
 property_id: '435260'
-id: 280ef5d7-2d42-40a4-a39d-4a2d4bbf893d
+id: 3de9cca9-313f-42b4-89a0-6546e46a0f7d
 ---
 Situated on a 880sqm flat block, zoned Low Medium Residential (LMR), this property offers potential plus to the lucky future owners with amazing long-term growth. The perfect property for the savvy investor or homeowner, this investment represents the option to renovate with the aim to move in or tenant, or develop now or in the future. As an LMR site, this property has many options in both the short and long term to maximise your return on investment. Being such a generous parcel of land with a wide frontage, the land could potentially accommodate a unit, townhouse or subdivision development.
 
