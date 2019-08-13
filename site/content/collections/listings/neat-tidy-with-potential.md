@@ -1,6 +1,7 @@
 ---
 title: 'Neat & Tidy with Potential!'
 property_type: House
+listing_type: residential_sale
 price: '$290,000'
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821330/116779323-image-M.jpg'
 property_id: '435174'
-id: 78ad3bc5-ee4c-4f23-ae8b-e6edfb74bb81
+id: 0ed1ac29-c07d-4901-952b-04b76ec9d383
 ---
 Check out this neat and tidy three bedroom home situated on a 674sqm block in a quiet area of Acacia Ridge.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Modern Apartment with Great Convenience including Double Garage'
 property_type: Unit
+listing_type: residential_sale
 price: '$389,000'
 rent: null
 bedrooms: 2
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822880/131315190-image-M.jpg'
 property_id: '435297'
-id: 6b4c7dee-994a-4b09-b0e7-9c5394e46e1d
+id: 344af17d-3b79-4fdc-85c2-48f43632aafb
 ---
 This modern unit is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 

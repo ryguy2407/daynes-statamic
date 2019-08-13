@@ -1,6 +1,7 @@
 ---
 title: 'Prime Position LMR'
 property_type: House
+listing_type: residential_sale
 price: '$415,000'
 rent: null
 bedrooms: 2
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821521/126475878-image-M.jpg'
 property_id: '435189'
-id: ca96ff18-620d-41ca-9ab7-eee670336a0a
+id: f6a9d2e1-f39c-46cf-9bfe-13503abb01fb
 ---
 This cute two bedroom cottage is situated in a rapidly developing and exciting pocket of Acacia Ridge, on a 607sqm Low Medium Residential (LMR) block. Promising great short and long term potential, the property is a desirable rental as is with the zoning giving investors plenty of development options. The house itself is a neat and tidy dwelling with a well-presented interior and grassy lawns. The kitchen and bathroom are dated but functional, the bedrooms and living are spacious and full of light.
 

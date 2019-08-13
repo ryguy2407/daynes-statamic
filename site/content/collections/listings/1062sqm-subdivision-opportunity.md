@@ -1,6 +1,7 @@
 ---
 title: '1062sqm Subdivision Opportunity'
 property_type: House
+listing_type: residential_sale
 price: 'Submit All Offers'
 rent: null
 bedrooms: 3
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823676/123044090-image-M.jpg'
 property_id: '435364'
-id: 5a929a1b-c35d-4172-8f47-4ff6856737d5
+id: e52a0e6c-f29a-4f55-94d1-981f0d7a9c5b
 ---
 This property is a solid family home situated on a large 1,062sqm block, a prime opportunity for those looking for the potential of a subdivision or simply to enjoy a great block of land. With an approximately 21m frontage and a depth of approximately 50.5m, this is a generous space with plenty of options. The block next door provides a great example of the subdivision potential, with the back battle-axe block featuring a newly built dwelling.
 

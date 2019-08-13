@@ -1,6 +1,7 @@
 ---
 title: 'Quiet & Convenient High-Set'
 property_type: House
+listing_type: residential_sale
 price: '$399,000'
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820934/124447590-image-M.jpg'
 property_id: '435144'
-id: 9305276c-a3e1-4665-94d7-4dc0d439b44d
+id: b2564fa0-dd06-4b6e-b6d7-db8cd8dfd791
 ---
 This property is a fantastic entry-level opportunity for those seeking their first or next step in their investment journey. Situated on a fully-fenced generous 607sqm block, this high-set home is perfect for growing families and investors alike. The desirable cul-de-sac location provides both tranquility and convenience, within walking distance to a fantastic range of amenities. With plenty of potential in the solid construction and functional layout, the savvy renovator has the opportunity to explore their creative side to transform this into a welcoming home. The property holds equal potential for investors, with the existing home holding desirability for a good range of potential tenants.
 

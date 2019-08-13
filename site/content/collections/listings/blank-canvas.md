@@ -1,6 +1,7 @@
 ---
 title: 'Blank Canvas!'
 property_type: Villa
+listing_type: residential_sale
 price: 'Offers Over $255,000'
 rent: null
 bedrooms: 2
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821655/127035266-image-M.jpg'
 property_id: '435200'
-id: f1dd1431-edd5-4325-974c-a7b56046ee9b
+id: 718fe930-9e51-4830-bd03-fbc76be47660
 ---
 This spacious unit represents the ultimate blank canvas, perfect for those wishing to realise their creative dreams. The unit has been immaculately cared for, and the light-filled spaces need only cosmetic renovations to become a stylish home. The open plan living has been cleverly designed to offer the very best functionality and flows through to the private courtyard at the rear. This courtyard backs onto the local school oval, meaning no neighbours and quiet enjoyment. Situated in close proximity to ample visitor parking and the complex pool area, this property is great for those who love to entertain.
 

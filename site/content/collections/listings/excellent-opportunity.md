@@ -1,6 +1,7 @@
 ---
 title: 'Excellent Opportunity!'
 property_type: House
+listing_type: residential_sale
 price: '$399,000'
 rent: null
 bedrooms: 4
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822054/130469050-image-M.jpg'
 property_id: '435235'
-id: e35bf604-64df-43f1-a76c-66b1ff145149
+id: 2085865e-f6a8-4e0c-8290-4f5e3d1830d3
 ---
 With beautiful polished timber floors and solid brick exterior, this home has great bones. The kitchen and bathroom have been recently updated and there is a fresh, neutral colour scheme throughout. The living space, kitchen and bedrooms are bright, airy and full of light. The house is situated on a fully fenced, completely flat 597sqm block with two street access and plenty of yard space to utilise.
 

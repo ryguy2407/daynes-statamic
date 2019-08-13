@@ -1,6 +1,7 @@
 ---
 title: 'Be Quick! Lots Of Room And Potential'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818543/104659418-image-M.jpg'
 property_id: '434880'
-id: fcf5eb05-82f1-4772-9832-83849ec2dc38
+id: 58c1bc45-c45b-4a0b-b087-8d9c3f36793f
 ---
 With some elbow grease and a bit of TLC this 3 bedroom highset on 759sqm could make a great home or solid investment.
 

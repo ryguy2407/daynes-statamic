@@ -1,6 +1,7 @@
 ---
 title: 'Value Packed Family Home'
 property_type: House
+listing_type: residential_sale
 price: '$549,000 - Price Slashed by $50,000!'
 rent: null
 bedrooms: 4
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820387/109802441-image-M.jpg'
 property_id: '435089'
-id: 4904d03a-5911-4300-a17a-3a972099fabb
+id: 76c240ae-219c-4261-bb8c-ce23ccd74e9d
 ---
 This four bedroom brick and tile home is situated on 716sqm block in a quiet cul-de-sac in this prestigious part of Aspley Grove.
 

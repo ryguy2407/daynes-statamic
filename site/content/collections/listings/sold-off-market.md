@@ -1,6 +1,7 @@
 ---
 title: 'Sold Off-Market'
 property_type: House
+listing_type: residential_sale
 price: 'Sold Off-Market'
 rent: null
 bedrooms: 4
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821885/130469066-image-M.jpg'
 property_id: '435220'
-id: 8c9a7080-7223-4e32-8aef-ecff9c917f0e
+id: 8081c59c-d985-4929-a0fd-281eb1934b6f
 ---
 This generous family home is perfect for those needing more space for their growing family. Situated with a sunny north-facing aspect, the home is full of light. The property is fronted by a private patio which opens out from the large living area. Stepping off the living are two carpeted rooms, with a door between and the ability to close off from the main house. Ideal as a nursery, home office or study, or a rumpus room. The additional three bedrooms are spacious and the bathroom modern. Situated in a quiet pocket, offers the very best of convenience and a friendly community. A much sought-after low-set design with lovely street appeal, this home is large and a great layout for busy families with plenty of space.
 

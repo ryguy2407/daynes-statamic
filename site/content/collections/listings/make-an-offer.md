@@ -1,6 +1,7 @@
 ---
 title: 'Make An Offer!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $400,000'
 rent: null
 bedrooms: 4
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823419/121106886-image-M.jpg'
 property_id: '435345'
-id: 2aff724d-d168-49ae-8d04-94c8f234be75
+id: c6b00e23-00cf-4d24-af4e-db6cc90564c4
 ---
 Step inside this beautifully liveable family home and enjoy all the great lifestyle features it has to offer. Featuring beautifully finished hardwood timber flooring and recently renovated kitchen and bathroom, there really is nothing left to do but move in. The open plan kitchen, living and dining room are well proportioned and full of light. The bedrooms are all good-sized and functional, with the master afforded privacy and a leafy view to the rear of the property. The backyard is flat, with landscaped garden beds, mature trees and grassy areas.
 

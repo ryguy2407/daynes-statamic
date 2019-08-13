@@ -1,6 +1,7 @@
 ---
 title: 'Gorgeous High-Set on 759sqm'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $495,000'
 rent: null
 bedrooms: 3
@@ -41,7 +42,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821118/124953066-image-M.jpg'
 property_id: '435157'
-id: d27d088c-0e9d-4b4f-adea-41a7f50d4a5f
+id: 5689f14c-793b-4c8f-87c3-6da5d76d68a3
 ---
 This stunning highset home is situated in one of the most sought-after pockets of this rapidly developing suburb. A leafy pocket with no through traffic and within walking distance to Acacia Ridge Primary School, Celtis Street is the perfect place for families to call home. A picturesque property with beautifully landscaped gardens with native trees and attractive stone path framing the home. The exterior has been modernised with a neutral palette, offset by timber slatted privacy screens, giving the home a thoroughly designer feel. Inside, the open-plan living areas are generous and beautifully showcase the solid hardwood timber floors, polished to perfection. The kitchen is modern with quality cabinetry and a functional layout. Flowing off the open-plan internal spaces is the expansive entertainers deck with leafy outlook over the back yard. Perfect for relaxing and enjoying your surrounds, this deck is big enough for the whole family!
 

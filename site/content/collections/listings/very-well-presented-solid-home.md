@@ -1,6 +1,7 @@
 ---
 title: 'Very Well Presented, Solid Home'
 property_type: House
+listing_type: residential_sale
 price: '$390,000'
 rent: null
 bedrooms: 4
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824007/114622167-image-L.jpg'
 property_id: '435386'
-id: 19488801-ecca-4ff8-a1f9-c35d69b4a307
+id: 213daef7-d01d-413a-b56c-1726063a7c92
 ---
 This brick and tile lowset home offers three good sized bedrooms and a home office which could be used as a fourth bedroom. It is only 10 years young and has been kept in tip top condition from the previous two owners. It is situated in a quiet pocket of this relatively new estate on 403m2 of land. It has ducted air conditioning throughout which is very desirable with the hot summer months ahead of us.
 

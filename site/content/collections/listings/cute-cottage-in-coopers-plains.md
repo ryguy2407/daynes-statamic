@@ -1,6 +1,7 @@
 ---
 title: 'Cute Cottage In Coopers Plains'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818526/104638159-image-M.jpg'
 property_id: '434878'
-id: ceaaa021-6ca3-480d-afbd-d80a65e68ca6
+id: 528a16ca-4e20-435f-ad15-a434d9f6511c
 ---
 This light and airy two bedroom cottage set on 607sqm is a must inspect for those trying to get into the market.
 

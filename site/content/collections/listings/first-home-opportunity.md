@@ -1,6 +1,7 @@
 ---
 title: 'First Home Opportunity'
 property_type: House
+listing_type: residential_sale
 price: '$325,000'
 rent: null
 bedrooms: 3
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824041/115089487-image-M.jpg'
 property_id: '435389'
-id: 08437c75-69ea-4aa4-89a7-43e2512ee823
+id: 1b479f4b-7e13-4f94-8d5c-2eb471c44541
 ---
 This well maintained, 3 bedroom home with 3 car lock up garage is well worth your immediate inspection.
 

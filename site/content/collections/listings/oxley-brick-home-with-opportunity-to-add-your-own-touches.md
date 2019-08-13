@@ -1,6 +1,7 @@
 ---
 title: 'Oxley brick home with opportunity to add your own touches'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820737/115811131-image-M.jpg'
 property_id: '435126'
-id: e9d023b6-6bd0-4d87-9d6d-0d276e41e43f
+id: 825184c6-1365-402d-9047-18f3b1767f24
 ---
 This solid brick and tile home in this quiet pocket of Oxley situated on a 607m2 block is in need of an internal renovation.
 With the potential to add your own touches, this could be the home you have been looking for!

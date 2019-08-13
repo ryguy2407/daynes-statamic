@@ -1,6 +1,7 @@
 ---
 title: 'Bang For Your Buck!'
 property_type: House
+listing_type: residential_sale
 price: 'Best Offer Over $450,000'
 rent: null
 bedrooms: 4
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823173/118340231-image-M.jpg'
 property_id: '435319'
-id: 2ae8987d-eb7c-499d-b5a2-a7340151d897
+id: deb64672-3f41-4265-9e31-a3a1f55f80bb
 ---
 Wow! A near new four bedroom, two bathroom home within 11km of the CBD at this price? Yes, but you will have to act quickly. This home has so much to offer and will not break the bank.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Back On The Market! - Three Bedroom Townhouse In Secure Complex'
 property_type: Townhouse
+listing_type: residential_sale
 price: 'Offers From $340,000'
 rent: null
 bedrooms: 3
@@ -23,7 +24,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818537/104649316-image-M.jpg'
 property_id: '434879'
-id: e575f1c6-9fa9-4cf3-8a20-9ae643626674
+id: a84b1380-0891-4c30-b7dd-d57e614a024c
 ---
 Situated in a six-year old complex of 74 villas and townhouses in Eight Mile Plains, this three bedroom, two bathroom, townhouse is a great opportunity for the astute investor.
 

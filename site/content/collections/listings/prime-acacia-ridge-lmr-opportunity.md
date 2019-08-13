@@ -1,6 +1,7 @@
 ---
 title: 'Prime Acacia Ridge LMR Opportunity!'
 property_type: House
+listing_type: residential_sale
 price: 'High $400,000''s'
 rent: null
 bedrooms: 3
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821970/128240506-image-M.jpg'
 property_id: '435227'
-id: b7f96dc3-1d90-4e7c-b44f-8dcd2a3b3a06
+id: 154b06c3-89f2-4cb4-8e35-61729eecfbd6
 ---
 This beautifully renovated three bedroom home has much to offer investors and families alike. Situated on a fully fenced 825sqm block and LMR zoned, this could be an opportunity to develop the land or enjoy the property as is. Beautifully polished floors, an open plan design and ample light make this an airy and bright residence. The extension to the rear of the property offers great lifestyle spaces with a large rumpus or family room stepping out to a lovely shady verandah overlooking the grassy backyard.
 

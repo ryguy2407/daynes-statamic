@@ -1,6 +1,7 @@
 ---
 title: 'Modern Brick and Tile Lowset - Price Reduced'
 property_type: House
+listing_type: residential_sale
 price: '$388,000'
 rent: null
 bedrooms: 3
@@ -23,7 +24,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824098/115517519-image-M.jpg'
 property_id: '435394'
-id: f9b06add-f8ff-401c-b32b-dfaede4ecfab
+id: 6b80cdb0-f15e-4119-bb0b-584547513717
 ---
 Situated on a 405m2 block in this modern estate this home was built about 15 years ago by Devine Homes.
 

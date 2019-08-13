@@ -1,6 +1,7 @@
 ---
 title: 'Attention All First Home Buyers'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819143/105313383-image-M.jpg'
 property_id: '434938'
-id: 8970e3c4-5ba0-4f2a-8f9c-8da39a9a381e
+id: 1bc790fe-7f16-4910-98b8-dc32ff99dda0
 ---
 Check this one out! Great value, entry level home!
 This three bedroom post war home is situated on 577sqm of land in a quiet leafy street.

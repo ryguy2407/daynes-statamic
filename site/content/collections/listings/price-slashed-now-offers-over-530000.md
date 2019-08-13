@@ -1,6 +1,7 @@
 ---
 title: 'PRICE SLASHED - NOW OFFERS OVER $530,000!!!'
 property_type: Acreage/Semi-Rural
+listing_type: residential_sale
 price: 'Offers Over $530,000'
 rent: null
 bedrooms: 4
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818349/104359521-image-M.jpg'
 property_id: '434853'
-id: dd63b4a7-36c5-40ae-ac3f-3f94df913222
+id: 2c4da63d-8c35-4d1f-aa91-55559e13b66e
 ---
 Acreage In Greenbank - Close to all Amenities
 

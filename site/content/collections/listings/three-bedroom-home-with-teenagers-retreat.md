@@ -1,6 +1,7 @@
 ---
 title: 'Three Bedroom Home with Teenagers Retreat'
 property_type: House
+listing_type: residential_sale
 price: '$379,000'
 rent: null
 bedrooms: 3
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823063/117759191-image-M.jpg'
 property_id: '435310'
-id: 63bda16a-907e-43ae-8769-bcfc5ae2f8a4
+id: 0c9f6961-1c0e-43f6-946b-150c588b1f6f
 ---
 This property which is situated in one of Acacia Ridge's best streets is now offered for sale. Situated on a 665sqm elevated block which is completely fenced with established gardens. Constructed of chamfer board with a tiled roof. This home is in very good condition and will be appreciated once you view it.
 

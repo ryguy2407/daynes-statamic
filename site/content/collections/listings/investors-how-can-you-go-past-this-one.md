@@ -1,6 +1,7 @@
 ---
 title: 'Investors - How Can You Go Past This One?'
 property_type: Villa
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819775/106442160-image-M.jpg'
 property_id: '435013'
-id: 9d0dff18-c95c-4029-ac7b-000cd78c884d
+id: 94f6c92f-6f86-40ac-b713-3e0a882659ef
 ---
 Great opportunity to acquire this three bedroom villa in a neat & quiet complex of 35.
 

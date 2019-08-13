@@ -1,6 +1,7 @@
 ---
 title: 'Investors will love this one!'
 property_type: Townhouse
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818458/104576799-image-M.jpg'
 property_id: '434870'
-id: c075bc0c-a03f-478e-afa8-686f41290748
+id: 33314fd2-a3a0-422e-8ee7-f221206b4d17
 ---
 Currently rented at $300 per week, this lovely 2 bedroom townhouse with on-site manager will surely impress even the most astute investor!
 

@@ -1,6 +1,7 @@
 ---
 title: 'Looking For Quality & Value For Money?'
 property_type: Townhouse
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819259/105463279-image-M.jpg'
 property_id: '434951'
-id: 74447739-7fb7-4ce6-9431-8d94bc5bb2e6
+id: 5848f0be-4ea6-462b-8715-c3dc44a1b432
 ---
 This near new, three bedroom, two bathroom townhouse is located in a quiet Greenslopes street within a small complex of two townhouses and a renovated Queenslander.
 

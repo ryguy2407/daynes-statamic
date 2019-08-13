@@ -1,6 +1,7 @@
 ---
 title: 'A Must See For Investors!'
 property_type: Villa
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -17,7 +18,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818359/104371236-image-M.jpg'
 property_id: '434854'
-id: 9cdcffeb-7e1e-46fc-a93a-8e0aec312077
+id: 23d5c538-f5d6-4317-81b8-e683e936c8ad
 ---
 Situated in a seven-year old complex of 30 dwellings in Moorooka, this three bedroom, two bathroom villa would suit an investor greatly.
 

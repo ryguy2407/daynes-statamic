@@ -1,6 +1,7 @@
 ---
 title: 'Stunning Sunsets!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $425,000'
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820958/124507274-image-M.jpg'
 property_id: '435146'
-id: 431eb5e2-18fe-436e-881d-05e46a0826a8
+id: 84152343-b536-40e0-a0f2-4fe7ebfdedfa
 ---
 Sitting proudly in one of Acacia Ridge’s most sought-after pockets is this chamferboard high-set home with a lovely elevated aspect. Stepping off the front balcony is the generous open plan living and dining space, flowing effortlessly into the large kitchen and back verandah beyond. This stunning timber verandah with modern balustrades and sized to capitalise on the elevated views is truly the highlight of this property. With such a convenient layout, it is easy to imagine enjoying relaxing in this lovely family home. Hardwood timber floors to the living, dining and bedrooms showcase the solid construction of this home and really highlight why these homes are so sought-after by first home owners and investors alike.
 

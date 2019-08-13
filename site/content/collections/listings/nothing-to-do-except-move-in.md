@@ -1,6 +1,7 @@
 ---
 title: 'Nothing To Do Except Move In!'
 property_type: House
+listing_type: residential_sale
 price: '$389,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822990/117515995-image-M.jpg'
 property_id: '435304'
-id: 9f6cfc15-765d-4694-a2d3-1b4420fda219
+id: a6035008-9e8e-4650-9e19-ab75347d1fc5
 ---
 This lovely home in Oxley Street is a real gem. It is situated on a fully fenced 708sqm block with landscaped gardens. The house is totally renovated with nothing more to spend.
 

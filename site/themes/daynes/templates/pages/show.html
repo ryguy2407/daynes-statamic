@@ -3,13 +3,13 @@
     <div class="section">
         {{ page_content }}
             {{ if type == "full_text" }}
-                <div class="text text py-4">
+                <div class="text text pb-4">
                     {{ full_text | markdown }}
                 </div>
             {{ /if }}
 
             {{ if type == "column_text" }}
-                <div class="columns text py-4">
+                <div class="columns text pb-4">
                     {{ column_text | markdown }}
                 </div>
             {{ /if }}

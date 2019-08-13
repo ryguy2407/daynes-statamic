@@ -1,6 +1,7 @@
 ---
 title: 'Ripe For Renovation!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 4
@@ -23,7 +24,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820601/113187723-image-M.jpg'
 property_id: '435110'
-id: 859673b0-7dad-4259-821d-be90e902e0ec
+id: 39424bbb-9ce6-4f66-8357-65941e162a08
 ---
 Here we have a large four bedroom post war home on a 658sqm block. Under the carpets you have beautiful hardwood floors that can be polished and turned into a real feature of the home. The interior walls and ceilings do require painting but this is quite an easy way to add value.
 

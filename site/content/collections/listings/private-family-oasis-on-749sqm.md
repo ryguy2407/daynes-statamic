@@ -1,6 +1,7 @@
 ---
 title: 'Private Family Oasis on 749sqm'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $400,000'
 rent: null
 bedrooms: 3
@@ -49,7 +50,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823543/122076566-image-M.jpg'
 property_id: '435356'
-id: 4a5f293f-b9dc-4ece-b7e1-e3c875c8f341
+id: adc17084-3d91-4d60-ab58-0439f9497fcc
 ---
 Come home to this beautifully presented family property and enjoy the amazing lifestyle on offer. Situated on a large and flat 749sqm block, this property holds the potential to accommodate a growing family. It is not hard to imagine catching the morning sun over coffee and breakfast on the spacious side deck, overlooking the leafy yard. The large and functional indoor and outdoor spaces are perfect for families and entertainers alike. This home is airy and full of light, with plenty of windows attracting the fresh breezes. The property boasts a newly updated kitchen, great family bathroom and beautifully painted walls throughout in tasteful colour schemes. Simply move in and enjoy; there really is nothing left to be done!
 

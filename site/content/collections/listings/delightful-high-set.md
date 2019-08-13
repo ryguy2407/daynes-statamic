@@ -1,6 +1,7 @@
 ---
 title: 'Delightful High-Set'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $415,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822018/128373382-image-M.jpg'
 property_id: '435232'
-id: 58f49beb-dc3b-4be8-b830-ca82ae5c014a
+id: 445bd896-9bcb-470b-92c7-7141fecf9cb7
 ---
 This delightful, north-facing charmferboard home is full of light and beautifully presented. Featuring lofty ceilings and spacious interiors, thoughtful renovations have created a fresh and inviting home. It is easy to imagine relaxing on the front deck of this lovely high-set home, enjoying the tranquility of the leafy surrounds and friendly neighbourhood. Inside, the bright and airy spaces are kept private with the mature trees and hedging. The three generous bedrooms are stepped up and separate from the living spaces, giving privacy and a great layout for families.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Exquisite Views, Exceptional Quality'
 property_type: Apartment
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 1
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820755/125465690-image-M.jpg'
 property_id: '435128'
-id: e9b03b74-35aa-4c8f-990f-7dc044fa38e6
+id: 3f8c2ceb-f92a-4be1-998e-847e4e4b5d48
 ---
 The Southpoint Towers are the most highly anticipated and high profile developments due for completion in 2017. This apartment represents a rare opportunity to secure a precious piece of Brisbane's’ vibrant riverfront community. Situated in the cultural hub of Brisbane and a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

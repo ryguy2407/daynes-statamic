@@ -1,6 +1,7 @@
 ---
 title: 'Be Quick With This Beauty! Work From Home!'
 property_type: House
+listing_type: residential_sale
 price: 'Price Range $530,000 - $560,000'
 rent: null
 bedrooms: 3
@@ -45,7 +46,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818556/104666222-image-M.jpg'
 property_id: '434881'
-id: 8f1895e2-07f5-4ad5-82ef-e0aa5d9faef9
+id: a316c955-85c8-4a46-959c-21794d0326c3
 ---
 This lovely three bedroom home is situated in a quiet leafy street in Tarragindi in an elevated position.
 

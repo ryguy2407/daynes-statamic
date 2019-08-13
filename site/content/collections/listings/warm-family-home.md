@@ -1,6 +1,7 @@
 ---
 title: 'Warm Family Home'
 property_type: House
+listing_type: residential_sale
 price: '$369,000'
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823140/118043539-image-M.jpg'
 property_id: '435316'
-id: b66dc468-d329-40db-ab6a-56f1d52ac531
+id: 057e265d-8051-4cb2-92ef-e7daabbd91ae
 ---
 This property is a perfect example of family lifestyle and practicality. The good-sized kitchen, living and dining rooms, and large outdoor area mean easy entertaining and plenty of space for a growing family.
 

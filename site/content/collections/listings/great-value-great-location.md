@@ -1,6 +1,7 @@
 ---
 title: 'Great Value, Great Location!'
 property_type: House
+listing_type: residential_sale
 price: '$395,000'
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823410/121094706-image-M.jpg'
 property_id: '435344'
-id: 64082503-7deb-4664-9248-f5817038a1d3
+id: ac268421-1917-45ca-a24f-85051808c527
 ---
 This great home, situated on a sweeping corner block right in the hub of Acacia Ridge is a fantastic investment opportunity in this rapidly growing area. Perfect for first home owners looking to renovate with three good-sized bedrooms, well-proportioned spaces, solid timber flooring, chamfer board exterior and a tiled roof. The property also boasts great outdoor features including veggie patches, double lock up shed with water and power and an undercover concrete patio.
 

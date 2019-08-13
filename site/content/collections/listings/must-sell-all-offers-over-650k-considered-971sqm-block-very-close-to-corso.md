@@ -1,6 +1,7 @@
 ---
 title: 'Must Sell! - All Offers Over $650k+ Considered - 971sqm Block Very Close to Corso'
 property_type: House
+listing_type: residential_sale
 price: 'Offers over $650,000 considered'
 rent: null
 bedrooms: 4
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819452/105781628-image-M.jpg'
 property_id: '434974'
-id: 394f79cf-9687-4f4e-8df2-3634005c0d07
+id: 9232dc6d-beaa-40ac-9387-de39782db68d
 ---
 This big, beautiful, treed block is in a quiet street, only 85 metres from a kilometre of parkland stretching north along the Brisbane River and situated adjacent to the most prestigious area of the Yeronga Corso where multi-million dollar houses underpin strong future property values.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Huge House, Huge Land, Huge Price Reduction'
 property_type: Acreage/Semi-Rural
+listing_type: residential_sale
 price: 'Offers over $790,000'
 rent: null
 bedrooms: 4
@@ -41,7 +42,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820042/107156624-image-M.jpg'
 property_id: '435056'
-id: e3dd3e1c-22cb-44ba-a01c-43e92a025462
+id: e1e8e012-7d4c-4863-b221-523f684a9c64
 ---
 ***The owner has reduced the price from $839,000 to now best offer over $790,000. Don't miss your chance! ***
 

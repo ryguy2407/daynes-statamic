@@ -1,6 +1,7 @@
 ---
 title: 'Under Contract - Happy to Sell more- we always have buyers'
 property_type: Townhouse
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -31,6 +32,6 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817977/103747918-image-M.jpg'
 property_id: '434778'
-id: 3cdc287c-5fd9-40ba-9424-3ef868b6af88
+id: 8ea3de20-2a65-4445-991b-82086e098bd9
 ---
 This three-bedroom, free-standing townhouse in a complex of four is sure to please. At only seven years old, it offers a spacious and functional kitchen with plenty of cupboard space. It also includes a single lock-up garage, a generously-sized courtyard with patio and a balcony off the main bedroom. Located close to all amenities whilst only 9 km from the CBD.

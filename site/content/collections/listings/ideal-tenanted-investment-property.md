@@ -1,6 +1,7 @@
 ---
 title: 'Ideal Tenanted Investment Property'
 property_type: House
+listing_type: residential_sale
 price: '$309,000'
 rent: null
 bedrooms: 3
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820721/105979692-image-M.jpg'
 property_id: '435123'
-id: 961892d3-e187-4dd2-895f-5f44ac0874df
+id: 9e8e43ae-41dc-411f-98d3-a1620ea68fa1
 ---
 Good, tidy tenant in place on a 12 month lease until 28th May 2010 at $280 per week.
 

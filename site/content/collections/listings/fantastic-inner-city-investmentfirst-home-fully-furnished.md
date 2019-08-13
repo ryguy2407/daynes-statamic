@@ -1,6 +1,7 @@
 ---
 title: 'Fantastic Inner City Investment/First Home - Fully Furnished'
 property_type: Apartment
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 1
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819792/106527817-image-M.jpg'
 property_id: '435015'
-id: a31da2df-18ae-421e-8d0b-92b0eba37412
+id: a23de2cd-884f-4c83-bc1a-4c5dd8337efa
 ---
 Look no further for your dream investment or first home, this is it!
 

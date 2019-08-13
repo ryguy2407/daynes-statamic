@@ -1,6 +1,7 @@
 ---
 title: 'Serene Location, Rare Investment'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $400,000'
 rent: null
 bedrooms: 3
@@ -45,7 +46,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823003/131617842-image-M.jpg'
 property_id: '435305'
-id: df05cc45-2f1b-47ab-8d77-40f750c01178
+id: ba6d0d97-aecb-47cb-9408-2e02e30d988b
 ---
 Set amongst the trees, this split-level family home is unique in its location with only one neighbouring property. Backing on to parkland and overlooking nature reserve beyond, it is hard to believe the home is only 16km from the Brisbane CBD. This property is a much sought-after 809sqm block, meaning a generous parcel of land for a family to enjoy, build a granny flat or extension, or an attractive investment opportunity for those seeking a subdivision project (subject to council approval). Situated in one of the most elevated parts of the suburb, the views are second to none at sunset. The picturesque setting make it all the more attractive for each option presented by this investment.
 

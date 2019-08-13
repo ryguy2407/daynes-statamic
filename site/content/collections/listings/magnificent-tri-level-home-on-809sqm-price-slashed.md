@@ -1,6 +1,7 @@
 ---
 title: 'Magnificent Tri-Level Home on 809sqm - Price slashed!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 5
@@ -53,7 +54,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820271/108611776-image-M.jpg'
 property_id: '435079'
-id: 45965874-ea1e-4428-91d9-ef3bb0e09001
+id: 93645905-225a-4fc7-9144-185e54341966
 ---
 Situated on a fully landscaped 809sqm block in one of Salisbury's best streets, sits a massive contemporary home that should tick all the boxes even for the largest of families.
 

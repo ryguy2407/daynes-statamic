@@ -1,6 +1,7 @@
 ---
 title: 'First home buyer?  This could be for you...'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818479/104608536-image-M.jpg'
 property_id: '434872'
-id: a9668db6-3b80-48da-a754-acad9f09ce4e
+id: 82e8e08e-cdf5-42c5-a8f4-9c518b2ae952
 ---
 The owners of this lovely 3 bedroom home have decided it is time for them to move on and give someone else a chance to enjoy this property.
 

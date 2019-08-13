@@ -1,6 +1,7 @@
 ---
 title: 'OWNER WANTS THIS SOLD - MAKE AN OFFER TODAY'
 property_type: Semi-detached
+listing_type: residential_sale
 price: 'Price slashed $30,000 to $369,000'
 rent: null
 bedrooms: 4
@@ -15,7 +16,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820520/111217371-image-M.jpg'
 property_id: '435102'
-id: 8bc17036-eac4-41d9-9f56-e0cedc0df13e
+id: dc99d5b2-ea06-4c5a-bda1-a837e762757d
 ---
 Price slashed $30,000 to $369,000
 

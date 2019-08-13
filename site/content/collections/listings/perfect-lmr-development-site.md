@@ -1,6 +1,7 @@
 ---
 title: 'Perfect LMR Development Site'
 property_type: House
+listing_type: residential_sale
 price: '$445,000'
 rent: null
 bedrooms: 3
@@ -23,7 +24,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823195/118543347-image-M.jpg'
 property_id: '435321'
-id: 035e7263-9202-4d10-9f47-b475f569255d
+id: 9e37ba20-3d73-4d8a-a068-91706d324edc
 ---
 Here we have a flat 825sqm (Low-Medium Density Residential) block with a tenanted three bedroom house situated very close to Elizabeth Street Shopping Centre.
 

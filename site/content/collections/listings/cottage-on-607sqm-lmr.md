@@ -1,6 +1,7 @@
 ---
 title: 'Cottage on 607sqm LMR'
 property_type: House
+listing_type: residential_sale
 price: 'SOLD OFF-MARKET'
 rent: null
 bedrooms: 3
@@ -15,7 +16,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822190/130469034-image-M.jpg'
 property_id: '435246'
-id: 02bbd7c6-e413-446c-9c52-3b23a3b14bd9
+id: 678b3a0c-94bc-4851-81cd-78c619b8c24d
 ---
 This cute three bedroom cottage is situated in a quiet and leafy pocket of Acacia Ridge, on a 607sqm Low Medium Residential (LMR) block. Promising great short and long term potential, the property is a desirable rental as is with the zoning giving investors plenty of development options.
 

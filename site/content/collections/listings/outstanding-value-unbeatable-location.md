@@ -1,6 +1,7 @@
 ---
 title: 'Outstanding Value, Unbeatable Location!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers over $350,000'
 rent: null
 bedrooms: 3
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823352/120447617-image-M.jpg'
 property_id: '435336'
-id: 5f22951e-d357-42b4-aac2-0809e6275cc0
+id: 836d6021-b1fb-47e9-a765-a4dd2eaae6c6
 ---
 This low-set chamfer-board home is situated in a quiet pocket of Acacia Ridge and is a perfect first home or investment opportunity. With recent major upgrades including a brand new sealed concrete driveway leading to both the carport beside the house and an enormous back shed, there are still plenty of opportunities to add your own individual touches to this home. Upgrades also include a brand new Colorbond roof and new gutters. Featuring an open plan kitchen and living area, opening through French doors to a beautiful newly built North facing veranda, this home offers plenty of lifestyle. The veranda overlooks lovingly maintained gardens with citrus trees and sweeping lawns and is an ideal space for relaxation.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Coopers Plains'
 property_type: House
+listing_type: residential_sale
 price: '$390,000 - $410,000'
 rent: null
 bedrooms: 2
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818206/104125113-image-M.jpg'
 property_id: '434839'
-id: c0040840-eb06-4d25-8d07-46c63e9f8a3e
+id: 17e7f54d-7448-4037-af31-4dba001367e5
 ---
 Peep through the tropical trees and find a lovely renovated 1930's home on 931 sqm of land.  This property is fully fenced and in a private, quiet location.  The lovely features are endless:-
 

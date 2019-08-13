@@ -1,6 +1,7 @@
 ---
 title: 'One Of The Best Homes In This Estate!'
 property_type: House
+listing_type: residential_sale
 price: '$398,000'
 rent: null
 bedrooms: 4
@@ -41,7 +42,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823070/117848575-image-M.jpg'
 property_id: '435311'
-id: 9364929b-8dcf-4131-bfce-1926d9ed5180
+id: 7221eb3d-f722-4b46-9942-a0eabc7fd897
 ---
 This brick & tile three bedroom plus study family home is situated at the end of a very quiet and leafy cul-de-sac. It was built by Devine homes in 1997 and is positioned on a 451sqm block which is prominently bigger than the average in this estate. It also has beautiful landscaped gardens which are an absolute credit to its current owner. The house has been maintained to the highest standards which you will see when you come to view at the open house this Saturday.
 

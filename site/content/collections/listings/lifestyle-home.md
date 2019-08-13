@@ -1,6 +1,7 @@
 ---
 title: 'Lifestyle Home'
 property_type: House
+listing_type: residential_sale
 price: '$445,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822527/130436982-image-M.jpg'
 property_id: '435272'
-id: 11a4cac0-be65-4e11-b98f-762f09dba8a0
+id: 9e449fdf-4a12-4760-b92d-0f29e01c0e05
 ---
 Situated on a sweeping corner block, this immaculately presented home is perfect for those looking for a property to suit their lifestyle. With the perfect balance of low maintenance interiors, combined with generous outdoor entertaining spaces, this is a property to enjoy. The home is framed by leafy greenery and beautifully maintained gardens. All enjoyed from the expansive front deck. Stepping inside the clever conversion of the sunroom means a dedicated dining space, and is ideal for effortless blending of indoor and outdoor entertaining. Opening into the living area and to the kitchen beyond, these open plan spaces have been beautifully finished in neutral colours and showcase the hardwood timber floors. The kitchen has been designed with the utmost care and attention to both design and functionality, sure to compliment busy lifestyles.
 

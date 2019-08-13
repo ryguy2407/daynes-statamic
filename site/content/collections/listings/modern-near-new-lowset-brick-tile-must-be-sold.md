@@ -1,6 +1,7 @@
 ---
 title: 'Modern Near New Lowset Brick & Tile - MUST BE SOLD!'
 property_type: House
+listing_type: residential_sale
 price: 'Submit All Offers'
 rent: null
 bedrooms: 4
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820174/107550206-image-M.jpg'
 property_id: '435069'
-id: 480467e9-5be5-445c-a07d-44acda7f8464
+id: ce998ba1-168a-4332-8219-5351eb5bb558
 ---
 **Get in now and beat the stamp duty increase commencing 1st August 2011**
 

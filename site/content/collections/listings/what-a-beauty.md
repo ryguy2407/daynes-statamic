@@ -1,6 +1,7 @@
 ---
 title: 'What A Beauty!!'
 property_type: House
+listing_type: residential_sale
 price: '$419,000'
 rent: null
 bedrooms: 4
@@ -41,7 +42,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823030/117608907-image-M.jpg'
 property_id: '435307'
-id: a4e2bd9f-753c-4b39-a2f0-8adec1456a7b
+id: 720a3592-7fa4-477b-b59d-6653bc553b7c
 ---
 You will need to be extremely quick on this one as this property is absolutely packed with value. The home has been fully renovated and includes a private fully equipped, self-contained studio.
 

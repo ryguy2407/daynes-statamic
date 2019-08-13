@@ -1,6 +1,7 @@
 ---
 title: 'First Home Buyer? This is for you!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818262/104186731-image-M.jpg'
 property_id: '434845'
-id: e34eeef8-2d3a-489c-84fa-ae85231246bb
+id: 3471c2df-96c4-43e5-9927-88004d859b7f
 ---
 This 3 bedroom, lowest, fully fenced house on 647 m2 is a must inspect for those trying to enter the housing market!  It features a large outdoor entertaining area off the kitchen and a private deck including a childproof gate out the front, making it the perfect home for the family that likes to have friends over for a BBQ.  Other features of this delightful property include:
 

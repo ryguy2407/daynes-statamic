@@ -1,6 +1,7 @@
 ---
 title: 'Stylish Home on 769sqm - All Offers Considered'
 property_type: House
+listing_type: residential_sale
 price: '$409,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822487/130395230-image-M.jpg'
 property_id: '435269'
-id: 25e7e479-6283-4de5-8171-18ca027fb821
+id: b3799560-86d7-42e4-ac14-10350e2e36b2
 ---
 This beautifully presented home represents the ideal of modern living and an opportunity to secure one of the premiere properties in Acacia Ridge. With great street appeal, the home is privately set back from the road and has been beautifully finished with a modern colour palette. This is a home to compliment busy lifestyles, combining the convenience of a low-set design with completely renovated, low-maintenance interiors. The internal spaces are perfectly proportioned with plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Lovely Modern Home & Great For Entertaining!'
 property_type: House
+listing_type: residential_sale
 price: '$399,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823981/114609879-image-M.jpg'
 property_id: '435385'
-id: 7b64bb74-83f0-47c8-b6f1-421b8bfa6083
+id: e938982d-7656-4230-b60e-3ce67d6ce6f2
 ---
 This home was one of the last to be built in this relatively modern estate in 1998. The original owners have resided there all this time and are reluctantly offering it for sale as they are moving south to their farm.
 

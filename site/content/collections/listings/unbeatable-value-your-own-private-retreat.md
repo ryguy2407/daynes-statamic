@@ -1,6 +1,7 @@
 ---
 title: 'Unbeatable Value! Your Own Private Retreat'
 property_type: House
+listing_type: residential_sale
 price: 'Best Offer Over $725,000'
 rent: null
 bedrooms: 4
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824257/113881935-image-M.jpg'
 property_id: '435410'
-id: 6d011271-cb13-466d-986f-5c5b3ed5d2cf
+id: 660a6f25-b51f-407b-9a82-335c438538cc
 ---
 Massive Price Reduction. Now Best Offer Over $725,000 will buy!
 

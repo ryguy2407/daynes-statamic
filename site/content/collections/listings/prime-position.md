@@ -1,6 +1,7 @@
 ---
 title: 'Prime Position!'
 property_type: House
+listing_type: residential_sale
 price: 'FOR SALE'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821261/125821254-image-M.jpg'
 property_id: '435169'
-id: 0dc445e4-3c23-4423-b489-12729d71970e
+id: 1179304e-9052-4c72-b24f-bf17f5a340c2
 ---
 This generous family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. One of the original homes of the area, this property boasts an exceptional elevated outlook. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 

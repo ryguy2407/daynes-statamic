@@ -1,0 +1,44 @@
+---
+title: 'STUDIO APARTMENT - WOULD SUIT SINGLE PERSON ONLY'
+property_type: Flat
+listing_type: residential_rental
+price: '$250 pwk Inc Utilites'
+rent: '250.0'
+bedrooms: 1
+bathrooms: 1
+cars: 0
+status: Let
+address: '2 Dalveen Street, COOPERS PLAINS'
+main_image: 'https://img.eagleagent.com.au/YY-6abg1YMH80XPjIYrHCDLZaSQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826209/415776067-image-M.jpg'
+images:
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826212/415776067-image-C.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826211/415776067-image-B.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826210/415776067-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826209/415776067-image-M.jpg'
+property_id: '435625'
+id: f908cd35-553b-4af9-a01d-50be9b6bfd02
+---
+The Studio Apartment  is walking distance to Griffith Uni, transport & local shops.  The studio would suit a single person - NON SMOKERS
+
+The studio comes fully furnished , just move in with your clothes.
+
+Fully equipped kitchen, and laundry.
+
+Conveniently located 5 mins walk to Coopers Plains train station and 5 minutes walk to bus stop.
+
+Nearby Train stations
+Banoon train station (1.1km)
+Coopers Plains train station (1.1km)
+Sunnybank train station (1.7km)
+
+Universities
+Griffith University, Nathan (1.6km)
+Griffith University, Mt Gravatt (3.2km)
+
+Rent: $250pwk Wireless Internet Connection is included along with electricity and water.
+
+Call Tina Georgiou on 0432 473589 to make a time to inspect the property

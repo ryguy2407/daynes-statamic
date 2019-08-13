@@ -1,6 +1,7 @@
 ---
 title: 'Bright and Airy Townhouse'
 property_type: Townhouse
+listing_type: residential_sale
 price: '$369,000'
 rent: null
 bedrooms: 2
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821862/128033794-image-M.jpg'
 property_id: '435218'
-id: 6d7e6f34-dc3e-4d7c-986b-e6f13c0e3092
+id: c8860ad9-abed-4b31-acb2-648a998d0ff9
 ---
 This bright and airy north-facing townhouse is spacious inner-city living at it’s finest. At the back of a quiet complex of eight, this home is private and tranquil. Featuring great spaces to enjoy both inside and out, this home is the perfect balance of lifestyle and convenience. The ground floor features a modern open-plan kitchen, living and dining area flowing effortlessly out to the leafy courtyard. The two bedrooms are spacious and full of light, with plenty of built in storage. The master bedroom opens out to a lovely north-facing balcony, perfect for enjoying the sunrise with coffee. This property has a lifestyle focused-design, the ideal compliment to inner-city living.
 

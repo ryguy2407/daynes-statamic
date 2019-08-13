@@ -1,6 +1,7 @@
 ---
 title: 'Great Investment Opportunity - 8km From CBD'
 property_type: Villa
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820002/107039007-image-M.jpg'
 property_id: '435051'
-id: 0cbdc2bf-b18b-4241-aefb-e3a2c3a80b69
+id: 0d8ed2b3-5456-4ec3-b885-e94eba005271
 ---
 Act quickly to secure this lovely two bedroom villa in a managed complex of 30. This property is currently on a six month lease at $320 per week.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Hot Renovation Project!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $350,000'
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821991/128287998-image-M.jpg'
 property_id: '435229'
-id: 01701bf0-6a09-42d4-9b4b-45e609b265c3
+id: dd3b507d-9597-4caa-8d8f-48b0b58f13f9
 ---
 Step back in time and see the potential of this private family home. Sitting proudly on a generous elevated block, this home has been the place of many happy memories and is being offered for the first time in more than 40 years. Largely original interiors have had some upgrades including the installation of ceiling fans and updated kitchen cabinetry. Beyond this, the house has amazing bones with solid construction, tiled roof and hardwood floors. Homes such as these are sought after for their renovation potential and easy layouts for busy families.
 

@@ -1,6 +1,7 @@
 ---
 title: 'One Of A Kind!'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 2
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821763/127723758-image-M.jpg'
 property_id: '435211'
-id: 695b4cf5-7406-48d7-bc3d-4f1666b0fcb8
+id: c85ef07f-11dc-409c-a4c6-28f97b067730
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the unique design. A welcoming place to call home, this property has great street appeal with plenty of character. Oxley Street is a lovely wide street with glimpses towards Brisbane CBD, lined by well-kept homes and gardens. With the second storey extension, this property stands out and is an exciting opportunity to create a generous family home. Stepping inside, the large living spaces are open and inviting, the perfect blank slate to create functional spaces for busy families.
 

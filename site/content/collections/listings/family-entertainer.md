@@ -1,6 +1,7 @@
 ---
 title: 'Family Entertainer'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $420,000'
 rent: null
 bedrooms: 4
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823662/123045818-image-M.jpg'
 property_id: '435363'
-id: 58ff5dda-8b30-4faf-977e-23c1fbf1d23e
+id: 1d07b856-6c12-4bc9-8725-6d9e52ab1696
 ---
 This beautifully presented family home, positioned on the leafy and desirable Gregory Street, is a rare and unique opportunity for families and investors alike. Featuring expansive open plan living and entertaining areas, this home is perfect for those who love to relax and spend time with their family and friends.
 

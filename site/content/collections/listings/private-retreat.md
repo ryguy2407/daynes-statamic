@@ -1,6 +1,7 @@
 ---
 title: 'Private Retreat'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -55,7 +56,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821297/125872574-image-M.jpg'
 property_id: '435172'
-id: 7cf159c1-f9f1-48cf-9938-0f26712403f0
+id: c096e17e-926e-4b0b-878e-96fe4f6c08f1
 ---
 Secluded behind a tropical leafy frontage is this private family home, promising years of enjoyment of the spacious interiors and idillic surrounds. Generous, light-filled interiors in a neutral colour palette are hidden away behind beautiful leafy gardens and latticing. Stepping inside, you are welcomed by the lovely formal entry which leads straight into the open plan living area on one side and into the expansive kitchen on the other. The home has been thoughtfully renovated to preserve and showcase the beautiful timber floors, stunning cornices and original features.
 

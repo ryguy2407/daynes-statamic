@@ -1,6 +1,7 @@
 ---
 title: 'Breezy Elevated Position'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821847/127906778-image-M.jpg'
 property_id: '435217'
-id: 3a191950-dbca-4a4e-8e8f-6dfe4584cf3d
+id: c6341045-b19b-42d1-ad84-3ff1956b5e87
 ---
 This completely renovated home is the ultimate of modern living, representing the perfect opportunity to secure one of Acacia Ridge's most prestigious properties. With an elevated position, this private family home promises years of enjoyment in the spacious interiors and tranquil surrounds. Stepping inside the living room, provides a warm and inviting space, a showcase of the fresh walls and glossy timber floors. The sleek and modern kitchen is functional and expansive, allowing the space to service busy families. The kitchen features clean white cabinetry, laminate benchtops and stainless steel appliances. Stepping down to the paved undercover outdoor area, it is easy to imagine relaxing with family and friends in this generous home.
 

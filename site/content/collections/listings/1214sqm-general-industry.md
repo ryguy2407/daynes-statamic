@@ -1,6 +1,7 @@
 ---
 title: '1,214sqm General Industry'
 property_type: House
+listing_type: residential_sale
 price: SOLD
 rent: null
 bedrooms: 3
@@ -19,7 +20,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822052/130469054-image-B.jpg'
 property_id: '435234'
-id: d1e7c492-2382-4194-a0a4-287d30ba826e
+id: e0c2dfe6-d87a-4a71-a947-76381ad44d8b
 ---
 This is an excellent opportunity to secure a sizable amount of land at 1,214sqm with a total frontage of 35.7m, zoned General Industry B. Opportunities such as these are rare, particularly in such a strategic location and with a current viable residential rental income. These are side-by-side, completely flat blocks, giving the future owner the option to develop now, or in the future.
 

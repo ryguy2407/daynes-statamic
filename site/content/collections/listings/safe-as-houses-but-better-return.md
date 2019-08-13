@@ -1,6 +1,7 @@
 ---
 title: 'Safe as Houses, but Better Return'
 property_type: House
+listing_type: residential_sale
 price: 'Sale by negotiation'
 rent: null
 bedrooms: 1
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819701/106187053-image-M.jpg'
 property_id: '435004'
-id: 7634c35e-2849-4678-88de-0f6dcbc297a4
+id: 0a3f211e-6b31-4de3-9fab-35cb6214b020
 ---
 *  Secure long-term tenant paying $32,400 p.a.
 *  302 sqm net area over 2 levels

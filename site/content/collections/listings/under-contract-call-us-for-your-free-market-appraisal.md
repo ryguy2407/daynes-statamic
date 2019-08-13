@@ -1,6 +1,7 @@
 ---
 title: 'Under Contract - Call us for your free market appraisal'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 1
@@ -17,7 +18,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818154/104062900-image-M.jpg'
 property_id: '434835'
-id: 692eba32-1d88-4178-adf6-47384de46d55
+id: bbf8d4ff-306a-4ca6-ade3-5d202dc75c54
 ---
 Secure a 600sqm block of land in a new subdivision within Leichhardt.
 The block is surrounded by quality three and four bedroom homes with double garages.

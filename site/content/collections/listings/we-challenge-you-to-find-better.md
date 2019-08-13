@@ -1,6 +1,7 @@
 ---
 title: 'We Challenge You To Find Better!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819066/105220057-image-M.jpg'
 property_id: '434929'
-id: c53ddcbc-1406-4401-9898-d52ace3d5bfa
+id: a3688260-7751-42ce-8836-2b206aca9e0f
 ---
 This lovely home situated on a 602sqm block, located in a quiet street would have to be the best value home in Acacia Ridge.
 

@@ -1,0 +1,56 @@
+---
+title: 'Generous High-Set Home'
+property_type: House
+listing_type: residential_rental
+price: '$355 per week'
+rent: '355.0'
+bedrooms: 3
+bathrooms: 1
+cars: 2
+status: Let
+address: '13 Celtis Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/zY-VG7M2bXRUexw5Zn0aU-VQgK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825326/424109998-image-M.jpg'
+images:
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825335/424109998-image-I.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825334/424109998-image-H.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825333/424109998-image-G.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825332/424109998-image-F.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825331/424109998-image-E.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825330/424109998-image-D.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825329/424109998-image-C.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825328/424109998-image-B.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825327/424109998-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825326/424109998-image-M.jpg'
+property_id: '435533'
+id: 3601b6ff-f906-4322-bc3f-2a677e7ab7a3
+---
+This lovely high-set home is situated in a quiet leafy pocket, a stone's throw from local parks and Acacia Ridge State School. This little corner of Acacia Ridge is popular with families as it is removed from the traffic and close to all the important amenities. The house itself is a private retreat, featuring a large, open-plan living and dining, flowing into the modern kitchen. This kitchen features lovely white cabinetry and stainless steel appliances. Polished timber floors throughout the living, dining, hallway and bedrooms gives this home an easy to maintain appeal. Additional value and attraction for this property is the additional fully enclosed space downstairs. Perfect for additional living space, a rumpus room or simply storage, this space is a great addition to an already generous home.
+
+
+Features:
+
+*  Low-maintenance polished timber floors throughout living, dining, kitchen and bedrooms
+*  Open-plan living and dining flowing into modern kitchen
+*  Kitchen with beautiful cabinetry and stainless steel appliances
+*  Three good-sized bedrooms, all with ceiling fans
+*  Family bathroom with separate shower and bathtub
+*  Additional enclosed room downstairs
+*  Lovely leafy backyard with grassy lawns, fully fenced
+*  Double lockup garage under house
+
+Location:
+
+*  Walking distance to Acacia Ridge State School
+*  Walking distance to local park
+*  5 minute drive to local Elizabeth Street Shops with IGA, coffee shops and cafes
+*  5 minute drive to Acacia Market Place with Woolworths, Aldi and other speciality stores

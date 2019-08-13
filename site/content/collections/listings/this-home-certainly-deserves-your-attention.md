@@ -1,6 +1,7 @@
 ---
 title: 'This Home Certainly Deserves Your Attention!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 5
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820626/113404203-image-M.jpg'
 property_id: '435113'
-id: aaaf950f-44cc-4818-a636-ef8d42cc3835
+id: f2512076-b559-4631-85d6-e39016b9e3da
 ---
 This totally renovated, federation style home is situated on a very large 1,062sqm resort style landscaped block. This property is packed with features and boasts a ton of character that you won't see everyday.
 

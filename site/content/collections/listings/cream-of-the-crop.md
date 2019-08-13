@@ -1,6 +1,7 @@
 ---
 title: 'Cream of the Crop!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $450,000'
 rent: null
 bedrooms: 3
@@ -51,7 +52,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823842/123478510-image-M.jpg'
 property_id: '435376'
-id: 27e18315-5aac-4215-a493-0f8a2b882d53
+id: a289f1fd-f5d9-4098-a2fd-727e7d8fc440
 ---
 It is our pleasure to bring this beautifully presented low-set brick home to the market, a seldom matched treat in the Acacia Ridge area. Encompassing all that could be desired from a premium property investment, this home has it all for those seeking maximum value for money. Situated on a 587sqm Low Medium Residential (LMR) block, this property also represents an investment with both short and long term opportunity. The savvy investor and home owner alike will see the value in this perfectly presented property with such amazing growth and development potential in this rapidly changing suburb.
 

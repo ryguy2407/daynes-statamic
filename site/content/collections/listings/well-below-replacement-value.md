@@ -1,6 +1,7 @@
 ---
 title: 'WELL BELOW REPLACEMENT VALUE!'
 property_type: House
+listing_type: residential_sale
 price: 'MUST BE SOLD!'
 rent: null
 bedrooms: 4
@@ -51,7 +52,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822786/117405155-image-M.jpg'
 property_id: '435289'
-id: 8aa9d28f-2dfd-47a2-8383-0fbb0db7357c
+id: 8265ba0a-c380-4289-9294-f5020f08134f
 ---
 MUST BE SOLD - MAKE AN OFFER - WELL BELOW REPLACEMENT VALUE!
 

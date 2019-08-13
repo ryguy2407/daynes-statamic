@@ -1,6 +1,7 @@
 ---
 title: 'Fresh Home, Potential Plus'
 property_type: House
+listing_type: residential_sale
 price: 'Offers over $440,000'
 rent: null
 bedrooms: 3
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823739/123296366-image-M.jpg'
 property_id: '435369'
-id: 55ace525-82ff-4eec-9aa4-f1bc6d9263ff
+id: bdc5f3e5-e77e-4e88-a6f8-26218813ffb8
 ---
 Come home to this stunning high-set home and relax in the spacious bright interiors and expansive veranda. Stepping up to the cute east-facing balcony, the open-plan living, dining and kitchen are offset by the stunning timber veranda, overlooking the neat backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright. With plenty of room for a growing family, this home is perfect for those who are after a little more from their investment.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Generous High-Set'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $390,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823725/123220666-image-M.jpg'
 property_id: '435368'
-id: 2d7883f9-17be-4977-a4c4-f6c27f3a66b3
+id: 3ae4defa-c3b8-4ec1-8ce7-203d61b4df41
 ---
 This property has it all for lifestyle and functionality, a beautifully presented family home situated in a quiet pocket of Acacia Ridge. Sitting behind the pretty white picket fence sits this high-set chamfer board home which will surely be the delight of the lucky future owners. The easy layout of this home promises plenty of space for a growing family. The open-plan combined living and kitchen space steps down to a lovely undercover entertaining area, overlooking the leafy backyard. Completely flat, fully fenced and private, the front and back yards afford a generous piece of land to enjoy.
 

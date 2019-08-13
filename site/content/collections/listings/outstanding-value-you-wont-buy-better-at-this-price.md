@@ -1,6 +1,7 @@
 ---
 title: 'Outstanding Value - You won''t buy better at this price!'
 property_type: House
+listing_type: residential_sale
 price: '$315,000'
 rent: null
 bedrooms: 3
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818840/104991152-image-M.jpg'
 property_id: '434905'
-id: 442f2ce6-0ecc-4320-8e25-46e10d41cd1d
+id: 3671e99c-0f26-4e06-955c-be3c6a640d05
 ---
 This three bedroom home on a 607sqm block will impress buyers looking for good presentation and practicality.
 

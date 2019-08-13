@@ -1,6 +1,7 @@
 ---
 title: 'Stylish Design'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822433/130105822-image-M.jpg'
 property_id: '435265'
-id: c7887cb5-96eb-4bf9-9dc8-884b3b10966d
+id: c63d92a5-6cc9-4400-b6d1-0bbab16a461f
 ---
 This stylish mid-century home has been renovated to perfection, showcasing the original features for which these homes are much sought-after. The unique A-frame roofline and chamferboard exterior have been given a thoroughly modern refresh. Inside, the hardwood timber floors have been polished to perfection and are beautifully contrasted by the fresh, neutral walls. The home is bright and airy, with the original privacy glass preserved meaning this abundance of natural light can be enjoyed. With generous storage and bench space, all with beautiful new finishes, the kitchen is perfect for enjoying time spent preparing and entertaining. Representing open plan living at its finest, the beautifully flowing living, kitchen and dining make for a comfortable and inviting home.
 

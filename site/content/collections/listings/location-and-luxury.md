@@ -1,6 +1,7 @@
 ---
 title: 'Location and Luxury'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $430,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821777/127590330-image-M.jpg'
 property_id: '435212'
-id: d534d9b5-485b-4cf7-97f7-5e105dfb9db0
+id: dc864b39-b0ef-4d1e-8b0a-52f5e88dac89
 ---
 This immaculately presented family home represents the ideal of modern living, perfect for families and those who love to entertain. Stepping up to the shady front patio, the cool interiors are generously proportioned and a great layout. Open plan living and dining opens effortlessly into the tidy kitchen meaning both functionality and convenience. The shady timber back deck steps off the kitchen and overlooks the grassy yard, making for convenient entertaining. The back shed is large enough to accommodate a workshop and car, and can be accessed from the driveway and carport. This car accessibility to the rear of the property is a much sought after feature, and provides value for owner-occupiers and prospective tenants alike.
 

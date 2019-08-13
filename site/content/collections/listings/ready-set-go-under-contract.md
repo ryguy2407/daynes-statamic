@@ -1,6 +1,7 @@
 ---
 title: 'Ready... Set... Go! **UNDER CONTRACT**'
 property_type: House
+listing_type: residential_sale
 price: '$369,000'
 rent: null
 bedrooms: 3
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823163/118294267-image-M.jpg'
 property_id: '435318'
-id: 8abdb3bb-8286-46fe-b789-4261252c73b9
+id: 30723fde-9d2b-4d79-ac1e-20163462ff2a
 ---
 Situated in a quiet and leafy pocket of Acacia Ridge, this brick and tile home would make a perfect first home. Built by Devine Homes in 2000, this property resides on a neat and tidy 390m2 block.
 

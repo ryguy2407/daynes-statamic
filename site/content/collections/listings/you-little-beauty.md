@@ -1,6 +1,7 @@
 ---
 title: 'You Little Beauty!'
 property_type: House
+listing_type: residential_sale
 price: '$335,000'
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824051/115305023-image-M.jpg'
 property_id: '435390'
-id: 80f59547-cee9-46d1-8e0e-bc9209d0d414
+id: d3e51b92-824f-4564-8945-7d7d0bf57575
 ---
 Here we have a cute three bedroom workers cottage situated on 670m2 of land in quiet Agnes Street in very good condition.
 

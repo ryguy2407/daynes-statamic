@@ -1,6 +1,7 @@
 ---
 title: 'Huge Solid House But Needs Work'
 property_type: House
+listing_type: residential_sale
 price: '$359,000'
 rent: null
 bedrooms: 4
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824063/115408599-image-M.jpg'
 property_id: '435391'
-id: 878d029e-7762-4600-aadb-6c08a52fa0b0
+id: 5452b324-3d91-4647-a4fe-10db2201a749
 ---
 This huge brick and tile home in this quiet pocket of Acacia Ridge situated on a 546m2 block is in need of an internal renovation. Originally built in the mid 1980's it features 4 bedrooms upstairs with separate lounge and dining room.
 

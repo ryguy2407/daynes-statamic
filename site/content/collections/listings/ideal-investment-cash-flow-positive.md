@@ -1,6 +1,7 @@
 ---
 title: 'Ideal Investment - Cash Flow Positive!'
 property_type: House
+listing_type: residential_sale
 price: '$369,000'
 rent: null
 bedrooms: 4
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824091/115510415-image-M.jpg'
 property_id: '435393'
-id: 85a260af-dc31-49d1-9fd8-76dc0e0f14a7
+id: 3893d220-897c-4882-9b37-f3e5e33dc058
 ---
 Currently rented at $870 per week
 Thatâ€™s right! $870 per week on a room to room basis.

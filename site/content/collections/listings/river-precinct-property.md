@@ -1,6 +1,7 @@
 ---
 title: 'River Precinct Property'
 property_type: House
+listing_type: residential_sale
 price: 'Offers over $670,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819457/105805124-image-M.jpg'
 property_id: '434975'
-id: 34db2f7a-0203-4e6e-8e9f-833dfcd50c9b
+id: db8c489c-6b96-473f-9297-160feb1ee12e
 ---
 This lovely three bedroom post war home is situated in a highly sort after area of Yeronga. Sitting proud on 541sqm of land this property is sure to impress.
 

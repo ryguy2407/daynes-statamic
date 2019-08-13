@@ -1,6 +1,7 @@
 ---
 title: 'Close To Everything! Price Slashed by $30,000'
 property_type: Apartment
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820409/109970336-image-M.jpg'
 property_id: '435091'
-id: 5bc1ec1d-4e5e-401a-93eb-4a13e0eec36a
+id: c272f1fa-8789-49b4-bb2f-c564ffb80827
 ---
 Features;
 *  Three bedrooms with built in robes

@@ -1,6 +1,7 @@
 ---
 title: 'Brand New Townhouse - No Body Corp Fees'
 property_type: Townhouse
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818383/104414521-image-M.jpg'
 property_id: '434857'
-id: 16b984b7-738f-4804-878a-d120375d16d6
+id: 5f5a522d-e21f-487d-b336-14a5373fb627
 ---
 Secure a brand new three bedroom townhouse
 

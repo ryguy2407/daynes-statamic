@@ -1,6 +1,7 @@
 ---
 title: 'UNDER CONTRACT - Private Family Home in Great Location'
 property_type: House
+listing_type: residential_sale
 price: '$369,000'
 rent: null
 bedrooms: 4
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823475/121671810-image-M.jpg'
 property_id: '435351'
-id: 70bbf2fd-4e24-448f-9ecc-559231ca5eb6
+id: cbfb8f3e-49a2-4afe-b253-e03cf2e869f9
 ---
 This beautiful home is set on a leafy, private block in a quiet pocket of Acacia Ridge. Immaculately presented both inside and out, this home is one to fall in love with. Perfect for families and those who love to entertain, this house offers both liveability and lifestyle in excess. Stepping inside the home, the amount of light in the open plan kitchen and living areas is striking. The living spaces are airy and functional, and a perfect example of easy, open plan living. To the rear of the home, the shady back deck is expansive and overlooks the picturesque grassy yard and shady trees. This property is limitless in potential for savvy investors and those seeking an enjoyable family home alike.
 

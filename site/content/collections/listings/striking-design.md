@@ -1,6 +1,7 @@
 ---
 title: 'Striking Design'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822202/128885778-image-M.jpg'
 property_id: '435248'
-id: f45ed49b-cf5b-4a73-b2cf-a708a031226e
+id: e102e501-8149-49b2-a805-d18e360cc05e
 ---
 This beautifully presented striking mid-century design is sure to attract those who are after a unique house to call home. Situated in quiet residential pocket, this is an idyllic location for families. A private family home, this property promises years of enjoyment in the spacious and fresh interiors, and tranquil surrounds. The cute north-facing front porch looks out to leafy trees, perfect for enjoying a morning coffee. Stepping into the living area, the homes revitalisation is showcased with glossy timber flooring and a clean, neutral colour palette. It is easy to imagine enjoying the warm northern sunshine or cosy fireplace in this inviting space. The open plan design encompasses the sleek designer kitchen, finished with white two pac cabinetry and an island bench accented with modern pendant lights.
 

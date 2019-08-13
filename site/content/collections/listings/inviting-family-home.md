@@ -1,6 +1,7 @@
 ---
 title: 'Inviting Family Home'
 property_type: House
+listing_type: residential_sale
 price: 'High $300,000''s'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821834/127852270-image-M.jpg'
 property_id: '435216'
-id: 88de4329-7487-45b1-8e8d-14b056d50dd7
+id: f24f6dfc-b2a1-4a45-af04-f20600dde1d5
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. Comfortable and functional as is, this home holds the potential to be the labour of love for its next owner who could move in and benefit from the generous spaces. The home features beautiful hardwood floors for which these homes are much sought-after and the layout is modern; perfect for low maintenance and easy family living. The family-sized kitchen with adjoining dining flows to the vast rear verandah. This beautiful timber deck is perfect for entertaining and relaxing, with a sunny northern aspect and overlooking the grassy backyard with shady trees.
 

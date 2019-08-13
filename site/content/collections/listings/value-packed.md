@@ -1,6 +1,7 @@
 ---
 title: 'Value Packed!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $450,000'
 rent: null
 bedrooms: 3
@@ -51,7 +52,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821001/124508638-image-M.jpg'
 property_id: '435149'
-id: d838ccfa-8e52-4936-aa8d-15d753693077
+id: 7fc02ab4-8ab4-4aca-82d9-976e6ac54f8b
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. Comfortable and functional as is, this home holds the potential to be the labour of love for its next owner who could move in and benefit from the generous spaces and lifestyle features. Carpets, tiles and lino hide beautiful hardwood floors for which these homes are much sought-after and the layout is modern; perfect for low maintenance and easy family living. The family-sized kitchen with adjoining dining flows through sliding doors to the vast rear verandah. This beautiful timber deck is perfect for entertaining and relaxing, facing south and overlooking the grassy backyard with shady trees.
 

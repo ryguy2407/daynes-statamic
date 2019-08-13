@@ -1,6 +1,7 @@
 ---
 title: 'Flexible Living in Mind? UNDER OFFER'
 property_type: House
+listing_type: residential_sale
 price: 'Under Contract'
 rent: null
 bedrooms: 4
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822083/116968255-image-M.jpg'
 property_id: '435238'
-id: b015172f-49ce-4f45-b411-bd46fe3849e7
+id: 1eda2f12-08f6-4395-850e-b1b4ad560156
 ---
 This lovely two story brick and tile home is conveniently positioned in the heart of Algester.
 The house itself backs onto Timberland Park - a rarity in Algester. Well maintained, it has been designed with flexible living in mind and would suit any family or professional couples.

@@ -1,6 +1,7 @@
 ---
 title: 'NRAS Investment Property in Stylish, Quiet Complex'
 property_type: Townhouse
+listing_type: residential_sale
 price: 'Offers Over $389,000'
 rent: null
 bedrooms: 3
@@ -41,7 +42,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823085/117896799-image-M.jpg'
 property_id: '435312'
-id: 48e5dce4-15c2-4aaa-a870-08e5e475ea42
+id: a84eba21-04e1-4131-9275-7b9bd83cbcf3
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

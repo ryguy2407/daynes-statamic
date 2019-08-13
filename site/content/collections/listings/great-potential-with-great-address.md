@@ -1,6 +1,7 @@
 ---
 title: 'Great Potential With Great Address!'
 property_type: House
+listing_type: residential_sale
 price: '$499,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818826/104974534-image-M.jpg'
 property_id: '434904'
-id: 57354218-df67-4ed2-87b7-2c6ddbf3976a
+id: c2834356-a3ec-4fc1-9451-140ae2ec70af
 ---
 Here is your chance to secure a solid brick home in a great position for under $500,000. This three bedroom home is situated on a 675sqm block on quiet and leafy Bracken Street, one of the higher positions in Moorooka.
 

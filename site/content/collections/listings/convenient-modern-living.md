@@ -1,6 +1,7 @@
 ---
 title: 'Convenient Modern Living'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $425,000'
 rent: null
 bedrooms: 3
@@ -45,7 +46,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821218/125498106-image-M.jpg'
 property_id: '435165'
-id: c0b5df83-7795-47d0-a024-69f396203d20
+id: 7a03dbe8-d41a-4f84-8748-cdd828b75e18
 ---
 This beautifully presented home represents the ideal of modern living and an opportunity to secure one of Acacia Ridge’s most desirable properties. This private family home, promises years of enjoyment in the spacious and fresh interiors, and tranquil surrounds. The cute east-facing front porch looks out to the beautifully kept front lawns and to parkland beyond, perfect for enjoying a morning coffee. The beautiful gardens either side of the property are privately enclosed by the recently completed timber fence. Dual street access has been afforded with double car gates opening to the large shed to the rear.
 

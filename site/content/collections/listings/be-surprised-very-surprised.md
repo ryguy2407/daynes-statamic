@@ -1,6 +1,7 @@
 ---
 title: 'BE SURPRISED! VERY SURPRISED!'
 property_type: 'Block Of Units'
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 8
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820794/113961251-image-M.jpg'
 property_id: '435131'
-id: 60d3a81b-9366-4c1a-b697-d13c5bd60dfc
+id: 13671a28-d4b8-4f3c-b0b1-8b7a35b4c074
 ---
 Richlands Investment Opportunity
 

@@ -1,6 +1,7 @@
 ---
 title: 'Summer Ready!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $395,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821021/125214386-image-M.jpg'
 property_id: '435150'
-id: 7bcfe0ab-b27e-44fe-bf52-905c3216e438
+id: ced2c8b6-0138-4576-9765-75f07bacadc1
 ---
 This private low-set brick family home is peacefully nestled in a quiet residential pocket. This property is value-packed and perfect for families and those who are after a lifestyle-focused home, just in time for summer! Sweeping open-plan interiors are accentuated by the lofty vaulted ceiling. The exposed timber beams of this space are beautifully complimented by the timber panelled kitchen. The lovely timber paneling and cupboards of the kitchen give warmth and providing a lovely space to create memories. The cool tiled living and dining flow effortlessly out to the paved undercover entertaining area which overlooks the sparkling pool and landscaped gardens. Easy entertaining and relaxation is guaranteed with these great spaces.
 

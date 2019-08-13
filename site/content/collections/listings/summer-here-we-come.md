@@ -1,6 +1,7 @@
 ---
 title: 'Summer Here We Come!'
 property_type: House
+listing_type: residential_sale
 price: '$409,000'
 rent: null
 bedrooms: 3
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823443/121440206-image-M.jpg'
 property_id: '435348'
-id: 08825323-fb5c-4f59-82fc-cf76f0e5978c
+id: 56f5a543-b217-4d9b-9337-089c2c1a67e4
 ---
 This spacious property has it all for a great lifestyle for families who love to entertain and enjoy their time together. With two large outdoor entertaining areas overlooking the lush gardens and sparkling pool, this property will not disappoint. The outdoor spaces do not end there with the yard looking out to the local park, and a back gate allowing access to even more playing space. Inside the home, the open plan kitchen, living and dining room are fresh  and modern. High set chamfer board and situated on a 582sqm block, this property will not disappoint!
 

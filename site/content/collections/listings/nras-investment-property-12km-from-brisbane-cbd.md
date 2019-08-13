@@ -1,6 +1,7 @@
 ---
 title: 'NRAS Investment Property - 12km From Brisbane CBD'
 property_type: Apartment
+listing_type: residential_sale
 price: '$379,000'
 rent: null
 bedrooms: 2
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824161/116047027-image-M.jpg'
 property_id: '435400'
-id: b4a6713b-0e54-4ad6-b381-a36ccf8db792
+id: 96a254c9-85ad-499e-9d2f-30b57a4219be
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

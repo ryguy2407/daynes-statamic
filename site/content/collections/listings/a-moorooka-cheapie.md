@@ -1,6 +1,7 @@
 ---
 title: 'A Moorooka Cheapie!'
 property_type: Apartment
+listing_type: residential_sale
 price: SOLD
 rent: null
 bedrooms: 2
@@ -19,7 +20,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824253/113788715-image-M.jpg'
 property_id: '435409'
-id: 4d7d517f-7646-4dad-9b77-27d609da7732
+id: 6ba36290-4ab1-4421-91fa-928cb91ddac3
 ---
 First Home Owners or Investors dont delay.
 

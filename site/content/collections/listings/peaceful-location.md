@@ -1,6 +1,7 @@
 ---
 title: 'Peaceful Location'
 property_type: House
+listing_type: residential_sale
 price: '$399,000'
 rent: null
 bedrooms: 4
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822229/129682038-image-M.jpg'
 property_id: '435250'
-id: 63900f5e-39b3-4155-86f4-1692f6441233
+id: 0b6bdf1c-30e3-4921-ba10-32ac846e206d
 ---
 This generous family home has it all for those who are seeking space and convenience. A low-maintenance, low-set design, this comfortable home represents an opportunity to under take cosmetic updates to make it truly your own. Set in a quiet pocket of Acacia Ridge with no through traffic, this property offers privacy and convenience, all on the one level! Well proportioned for comfortable family living, this home boasts plenty of space for entertaining and relaxing. The living is air conditioned and the kitchen is spacious, with enough bench space and storage to accommodate busy families. These generous open plan kitchen and dining spaces are complemented by the four well-proportioned bedrooms. Each of the bedrooms is equipped with built-in storage and the master is adjoined by an ensuite.
 

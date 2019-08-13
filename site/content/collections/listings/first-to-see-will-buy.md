@@ -1,6 +1,7 @@
 ---
 title: 'First To See Will Buy!!'
 property_type: Townhouse
+listing_type: residential_sale
 price: 'Offers over $330,000'
 rent: null
 bedrooms: 2
@@ -45,7 +46,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818313/104267586-image-M.jpg'
 property_id: '434849'
-id: 628de2cf-77a8-456c-b336-bd5eb8053ab5
+id: eadc3c1a-0c44-4f33-9e14-81cdcfa176e9
 ---
 This tri-level 2 bedroom townhouse is in a complex of only 4 and is only 10 years old! Put that together with very low body corporate fees of just $860 p.a. and you have one VERY sought after property.
 

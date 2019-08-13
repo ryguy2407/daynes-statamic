@@ -1,6 +1,7 @@
 ---
 title: 'Prime Location'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $650,000'
 rent: null
 bedrooms: 2
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821664/127322982-image-M.jpg'
 property_id: '435201'
-id: 6dd40617-1fb6-48cc-9741-18af01a3affb
+id: c43e51d1-649a-4650-aab5-ffd0570f682a
 ---
 This home is of desirable lowset brick construction, with the perfect layout for families. The property is north facing, and combined with the neutral colours on the walls and large windows, the property is full of natural light. Stepping up to the home, the private entry steps into the living room which has been beautifully finished with polished timber flooring. The eat-in kitchen flows through from the living, a lovely convenience for busy families. The family bathroom has been recently updated with thoughtfully chosen neutral tiles and has been beautifully presented. Each of the bedrooms has neutral carpet and built in storage.
 

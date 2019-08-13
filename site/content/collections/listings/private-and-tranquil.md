@@ -1,6 +1,7 @@
 ---
 title: 'Private and Tranquil'
 property_type: House
+listing_type: residential_sale
 price: '$430,000+'
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822837/131108638-image-M.jpg'
 property_id: '435293'
-id: afc1fc8f-b7de-4d46-99d2-4223ab74d5ff
+id: 0dee03ab-6848-4837-a221-01b4203dafc2
 ---
 Set privately amongst the tranquility of beautiful acreage, this home is the perfect escape for those seeking more from the place they call home. More peaceful enjoyment of your own generous piece of land, more quality time with family and friends, and simply more time to relax. Really adding to the feeling of a semi-rural setting is the abundance of fruit trees and the space to cultivate vegetable gardens, bees and chooks. The outside entertaining patio overlooks the leafy surrounds and grassy lawns really allowing the appreciation of the tranquil surrounds of this sprawling 820sqm block.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Rare High-End Opportunity'
 property_type: House
+listing_type: residential_sale
 price: '$479,000'
 rent: null
 bedrooms: 5
@@ -51,7 +52,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823792/123413282-image-M.jpg'
 property_id: '435372'
-id: 4b6a257b-ca27-419e-8dc5-4cd41bb23c65
+id: c5a8d9b5-e6fd-4698-a688-a9310d3500da
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this beautiful high-set home awaiting the next chapter. Thoughtfully renovated and transformed into a spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front deck, enjoying the tranquility afforded by the quiet neighbourhood and the leafy block backing onto lush nature reserve. Inside, the bright open-plan living and dining area steps through to the shady back deck, overlooking the equally as lovely backyard. This property allows plenty of space for relaxation and entertaining alike, just move in and enjoy!
 

@@ -1,6 +1,7 @@
 ---
 title: 'Lovely Cottage'
 property_type: House
+listing_type: residential_sale
 price: '$369,000+'
 rent: null
 bedrooms: 2
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822859/131308106-image-M.jpg'
 property_id: '435295'
-id: 8ae16995-6c0d-4536-ad7c-3425877aeb2f
+id: 9466bddf-186b-468e-9037-9d3a9da04681
 ---
 This quaint cottage is full of charm and potential. Currently tenanted at $340 per week, this is a solid investment opportunity for the savvy buyer. Privately set behind the timber fence, the traditional gabled roofline gives a sneak-peak of this character-filled home. Set amongst leafy trees and surrounded by well-maintained lawns, this property is ideal for families. Inside, the open plan design is perfectly suited to complement busy lifestyles. Offering plenty of space to perfect the layout, the living wraps around the stylish kitchen. A carpeted area provides a cosy setting for couches and a TV, or a great play area for kids. The remainder of the living features glossy timber flooring and will easily accommodate a flowing dining and additional spaces to relax and unwind. The kitchen, situated at the heart of these beautifully flowing spaces, is a treat of generous, attractive cabinetry and plenty of bench space; the perfect balance of form and function.
 

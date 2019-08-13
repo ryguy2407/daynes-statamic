@@ -1,6 +1,7 @@
 ---
 title: 'Homely and Welcoming'
 property_type: House
+listing_type: residential_sale
 price: '$379,000'
 rent: null
 bedrooms: 2
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822701/130906718-image-M.jpg'
 property_id: '435283'
-id: acd66f90-8ac8-4f23-9c94-1cf25b08a76e
+id: 4e1aef13-9aca-4e0a-a055-a0a1ecafef35
 ---
 This charming cottage, situated in a leafy and peaceful pocket of Acacia Ridge is bursting with character and promises years of enjoyment in the comfortable interiors. Painted a fresh white and privately situated behind a timber fence and leafy trees, the home has great street appeal. Low-set, surrounded by grassy lawns and on a generous 733sqm flat block, this is great buying for those seeking their next home or investment.
 

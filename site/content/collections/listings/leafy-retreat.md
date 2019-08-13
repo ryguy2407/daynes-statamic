@@ -1,6 +1,7 @@
 ---
 title: 'Leafy Retreat'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822447/130199278-image-M.jpg'
 property_id: '435266'
-id: 58eac693-dfa7-47ba-a976-2191e86bfd34
+id: d380e633-675d-42a5-9764-05a9b2fdbd0a
 ---
 This lovely family home set amongst leafy surrounds promises great lifestyle and is perfect for families. A charming low-set property with chamferboard exterior, this is a much sought-after design. Framed by neat and well-maintained gardens with an abundance of mature trees, the home is very private. Inside, the spacious open-plan living and dining flow nicely into the kitchen, and through the laundry to the back deck beyond. Perfect for entertainers those who love to relax with family and friends, this deck steps down to a paved area and grassy yard.
 

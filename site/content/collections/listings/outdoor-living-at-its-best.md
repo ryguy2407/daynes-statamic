@@ -1,6 +1,7 @@
 ---
 title: 'Outdoor Living At Its Best!'
 property_type: House
+listing_type: residential_sale
 price: '$399,000'
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822816/117432463-image-M.jpg'
 property_id: '435291'
-id: afb66076-b77b-4fc3-980f-e18073832485
+id: 12dc1f9b-3dae-499d-ab22-bdfedeaeeddf
 ---
 Located on a quiet, leafy street, this lovingly renovated home is ready for its next chapter of family living. Light and airy inside, this property has been designed to make the most of outdoor entertaining. The front yard is extensive, with well-maintained gardens and steps leading up to the generous front deck. The fully-equipped kitchen, combined living and dining rooms open straight out onto the deck through French doors; perfect for families and entertainers alike.
 

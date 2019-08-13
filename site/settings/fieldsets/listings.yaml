@@ -4,7 +4,10 @@ sections:
     fields:
       property_type:
         type: text
-        display: Property Type
+        display: 'Property Type'
+      listing_type:
+        type: text
+        display: 'Listing Type'
       address:
         type: text
         display: Address
@@ -22,7 +25,7 @@ sections:
         display: Cars
       main_image:
         type: text
-        display: Main Image
+        display: 'Main Image'
       status:
         options:
           current: Current

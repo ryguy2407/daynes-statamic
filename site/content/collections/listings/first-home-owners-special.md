@@ -1,6 +1,7 @@
 ---
 title: 'First Home Owners Special!'
 property_type: House
+listing_type: residential_sale
 price: '$329,000'
 rent: null
 bedrooms: 3
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824207/116582299-image-M.jpg'
 property_id: '435405'
-id: 962818b3-7a45-482c-a9da-96872a162073
+id: dc0333ad-555d-4864-afc3-805225ac1163
 ---
 This three bedroom home on a 615sqm corner block will impress buyers looking for good presentation and practicality.
 

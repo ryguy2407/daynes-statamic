@@ -1,6 +1,7 @@
 ---
 title: 'Neat & Tidy'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822289/130469022-image-M.jpg'
 property_id: '435254'
-id: 4bb5fca2-2167-4378-98bd-5f0b72e8555a
+id: 507feead-d560-4824-9b6e-59f57e59268f
 ---
 This convenient family home is beautifully presented with great street appeal, and perfect for those looking for classic design. Lovely garden beds and Macadamia tree frame the home which has been finished in a tasteful, traditional colour scheme with coordinated tiled roof. Inside, the hardwood timber floors throughout the air conditioned living showcase the open plan and convenient design. The timber floors continue into the bedrooms, while the kitchen and bathroom are finished with tiles. These spaces are dated but in great condition and functional. The kitchen features plenty of storage, gas cooking, with the bathroom including storage and shower over bath. Each of the bedrooms is equipped with ceiling fans and blockout blinds for privacy. Security and insect screens throughout give peace of mind and enjoyment of cool breezes. Overlooking the grassy backyard is an undercover and paved entertaining pavillion, ideal for enjoying the company of family and friends.
 

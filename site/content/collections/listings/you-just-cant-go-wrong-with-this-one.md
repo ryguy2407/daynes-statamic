@@ -1,6 +1,7 @@
 ---
 title: 'You Just Can''t Go Wrong With This One'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 4
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820651/105896410-image-M.jpg'
 property_id: '435115'
-id: 11b9434b-f9aa-4e87-897d-076a386d84de
+id: bc4c21c0-e530-4f24-b22f-55a4b2674e51
 ---
 Beautifully presented four bedroom home on a very tidy 812sqm block. This is truly a great family home.
 

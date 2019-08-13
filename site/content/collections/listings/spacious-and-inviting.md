@@ -1,6 +1,7 @@
 ---
 title: 'Spacious and Inviting'
 property_type: House
+listing_type: residential_sale
 price: '$425,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821727/127660638-image-M.jpg'
 property_id: '435208'
-id: 4bbad5b8-a63d-4fab-9f9b-397fbc446575
+id: ce34382a-d9d3-46b6-b2bb-c5a548b06a14
 ---
 Beyond the modern timber fence and gorgeous manicured gardens of this immaculately presented property is this low-set rendered brick home awaiting its next chapter. A spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front patio, enjoying the tranquility afforded by the quiet neighbourhood. Inside, the clever layout affords families a bright open-plan living and large eat-in kitchen down a generous wide hallway. The kitchen steps out to a cute patio, perfect for a veggie patch or for children to play.
 

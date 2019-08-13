@@ -1,6 +1,7 @@
 ---
 title: 'Your Next Project!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $350,000'
 rent: null
 bedrooms: 3
@@ -35,7 +36,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821470/126314134-image-M.jpg'
 property_id: '435186'
-id: 0b242591-fd27-4f3b-83d2-7123d8a62314
+id: 55ddc44f-7348-48df-8cff-a0e81310890f
 ---
 This original home with fantastic layout, represents an opportunity for the first home buyer or investor to renovate, making this home truly your own. A cool and comfortable home, with a spacious combined living and dining area. Opening from the shady patio to the front of the home, the living spaces are perfectly functional for modern living. The large kitchen is situated to the rear of the home, and steps out to the backyard giving plenty of opportunity for easy outdoor living. The three good-sized bedrooms are carpeted, well-appointed and full of light.
 

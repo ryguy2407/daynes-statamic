@@ -1,6 +1,7 @@
 ---
 title: 'Not To Be Missed!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820500/111111951-image-M.jpg'
 property_id: '435100'
-id: 8a697024-fbd5-4c44-8f2c-d57cddd5a244
+id: 64abd52f-2c21-4392-b936-b0c0528d396d
 ---
 PRICED TO SELL at $459,000
 

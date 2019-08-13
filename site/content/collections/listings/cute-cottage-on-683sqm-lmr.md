@@ -1,6 +1,7 @@
 ---
 title: 'Cute Cottage on 683sqm LMR'
 property_type: House
+listing_type: residential_sale
 price: '$360,000'
 rent: null
 bedrooms: 2
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822828/131074234-image-M.jpg'
 property_id: '435292'
-id: bdaa168a-f63a-44f9-991e-d64a576ea855
+id: f4d10e9b-9df7-46c9-8fa7-40b8e0e1b29b
 ---
 This cottage is situated on a fully-fenced block, surrounded by well maintained gardens and lawns. Perfect for families, the functional layout boasts a large eat-in kitchen, a spacious living area and all finished with low-maintenance polished timber floors. The two bedrooms are generously proportioned with ceiling fans, both include large wardrobe units. Currently tenanted, this is an ideal investment opportunity.
 

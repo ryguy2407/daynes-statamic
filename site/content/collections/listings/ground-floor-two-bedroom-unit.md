@@ -1,6 +1,7 @@
 ---
 title: 'Ground Floor Two Bedroom Unit'
 property_type: Apartment
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -23,7 +24,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820472/110756691-image-M.jpg'
 property_id: '435097'
-id: 9867976d-6b76-4256-9760-c6c971339bf4
+id: 416bf9ce-5166-4b3e-948e-32d3761bf68d
 ---
 Act now to secure this terrific investment opportunity or to live with great convenience in Salisbury.
 

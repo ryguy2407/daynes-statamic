@@ -1,6 +1,7 @@
 ---
 title: 'Low-Set with High Potential'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $399,000'
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823812/123434710-image-M.jpg'
 property_id: '435373'
-id: 4c9416c2-db98-4e35-bd7e-c361e6210c0c
+id: ca2ba265-b756-475c-bb63-e55718244bac
 ---
 Sitting pretty behind the high timber fence is this cute low-set home, full of potential for home owners and investors alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home.
 

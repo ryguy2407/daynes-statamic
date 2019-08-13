@@ -1,27 +1,30 @@
 ---
 title: 'Quiet & Convenient'
-property_type: Flat
+property_type: Apartment
+listing_type: residential_rental
 price: '$295 per week'
 rent: '295.0'
 bedrooms: 2
 bathrooms: 1
 cars: 2
-status: Active
+status: Let
 address: '6 Bexhill Street, ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/kEScByvNBlwe0SqH9t8zocwbB5o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826004/427122122-image-M.jpg'
+main_image: 'https://img.eagleagent.com.au/gASc4knqHBpe_xF2fICvequUm60=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824951/422418186-image-M.jpg'
 images:
   -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826008/427122122-image-D.jpg'
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824956/422418186-image-E.jpg'
   -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826007/427122122-image-C.jpg'
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824955/422418186-image-D.jpg'
   -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826006/427122122-image-B.jpg'
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824954/422418186-image-C.jpg'
   -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826005/427122122-image-A.jpg'
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824953/422418186-image-B.jpg'
   -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826004/427122122-image-M.jpg'
-property_id: '435599'
-id: 8d0f80fa-dc48-475e-986f-ed4068d21a24
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824952/422418186-image-A.jpg'
+  -
+    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824951/422418186-image-M.jpg'
+property_id: '435499'
+id: 8a577c29-ae45-4843-8257-570d121b0234
 ---
 Be quick to see this two bedroom flat - it won't last
 

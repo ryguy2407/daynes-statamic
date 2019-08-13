@@ -1,6 +1,7 @@
 ---
 title: 'Investment Opportunity In Moorooka!'
 property_type: Townhouse
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818340/104321094-image-M.jpg'
 property_id: '434851'
-id: 7d410004-2174-4a1f-bee7-652e6a153619
+id: 42ba69e1-3302-4e2d-a3d2-3bf0320b2505
 ---
 Secure this lovely three-bedroom ensuited townhouse for your future!
 Currently on a long lease at $295pw in a complex of 30.

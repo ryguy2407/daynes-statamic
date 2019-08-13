@@ -1,6 +1,7 @@
 ---
 title: 'Attractive Investment'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 4
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822299/129689206-image-M.jpg'
 property_id: '435255'
-id: eeb0d4ce-a0e7-49eb-8b62-c2d9679dc3f4
+id: 0b189acc-a8f1-409d-a6ec-bdda08e31f5c
 ---
 With great street appeal, this home is set on a lovely low-maintenance block in a quiet neighbourhood. Generously proportioned both inside and out, this property is a rare offering of space and lifestyle in a low-set design. Stepping through the front door, you are welcomed by sophisticated and cool interiors, with stylish flooring and neutral colours on the walls. The entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. The generous open-plan kitchen and dining opens out through sliding doors and also overlook the grassy yard with beautiful gardens. Each of these well-appointed spaces are perfect for those who entertain and enjoy relaxing with family, both inside and out.
 

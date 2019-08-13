@@ -1,6 +1,7 @@
 ---
 title: 'Elevated and Peaceful'
 property_type: House
+listing_type: residential_sale
 price: '$379,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822773/130858662-image-M.jpg'
 property_id: '435288'
-id: 9e08cf71-e077-4bb7-ab55-f3628631107c
+id: 67b079fc-ec48-4fe0-b04b-46a90468da68
 ---
 This inviting family home is ideal for those who are in need of a little extra from their property, while retaining the chance to realise their renovating dream. Comfortable and functional as is, this home holds the potential to be a labour of love for its next owner who could move in and benefit from the generous spaces. This generously proportioned 607sqm parcel of land is situated in a in a peaceful pocket of Acacia Ridge, giving plenty of room for gardeners and children to enjoy. Chamferboard exterior and tiled roof make for a charming home with great street appeal. A bright front balcony affords an elevated and picturesque outlook down the tree-lined street. The balcony expands off the open-plan living area, making this a spacious and light-filled space to enjoy. The living flows beautifully into the dining and kitchen where the hardwood timber floors have been exposed for low maintenance functionality. The kitchen is neat and tidy, updated with modern two pac cabinetry and hard-wearing finishes.
 

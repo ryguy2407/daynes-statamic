@@ -1,6 +1,7 @@
 ---
 title: 'BRAND NEW TOWNHOUSE - NO BODY CORP FEES - ONE SOLD ONE LEFT'
 property_type: Townhouse
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818068/104008505-image-M.jpg'
 property_id: '434797'
-id: 36a04964-23d1-4848-bfb1-1c75586db96f
+id: 7f635f86-78f1-4a71-b33f-b91181d851b7
 ---
 Situated in a quiet leafy street in Moorooka. The property features a lovely landscaped courtyard, spacious open plan living area, vogue kitchen with stainless steel appliances.
 Upstairs there are three bedrooms with built in robes, the main has a walk in robe and ensuite.

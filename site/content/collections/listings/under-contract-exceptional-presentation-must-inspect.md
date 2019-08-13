@@ -1,6 +1,7 @@
 ---
 title: 'UNDER CONTRACT Exceptional Presentation – Must Inspect!'
 property_type: House
+listing_type: residential_sale
 price: '$395,000'
 rent: null
 bedrooms: 3
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823266/119276183-image-M.jpg'
 property_id: '435328'
-id: 8c5db746-5f83-4e9e-8cfe-b6ad5ed8c026
+id: 0a6b78bf-49b8-4cf3-b9ef-b906d49687fe
 ---
 This lovingly renovated home is without doubt one of the best in the area. The property boasts beautifully presented gardens, with low maintenance mature native plants and sweeping lawns. The inviting spaces continue inside with polished hardwood floors throughout and generously proportioned living areas. This home is high-set, meaning perfectly captured breezes and a beautiful outlook from the front deck. It is the small luxuries that make this home truly unique. The bathroom is a full wet-room featuring fresh neutral tiles, spa bath and a lovely custom built vanity with marble bench-top. Under the house has been renovated to include a large tiled room which is currently utilised as a games room, modern laundry, workspace with plenty of storage and a single car garage. Fully fenced, flat block of land perfect for children and pets.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Affordable Starter Home with Huge Back Deck'
 property_type: House
+listing_type: residential_sale
 price: '$299,000'
 rent: null
 bedrooms: 2
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823100/117924043-image-M.jpg'
 property_id: '435313'
-id: 472c85e5-5f9a-4d35-a5c3-c692593ffa9d
+id: dade442d-37ba-485f-85ec-932e0a667564
 ---
 Entertain your friends and family with the generously sized back deck and fully fenced backyard. The fully-equipped kitchen, combined living and dining room open straight out onto the deck; perfect for families and entertainers alike.
 

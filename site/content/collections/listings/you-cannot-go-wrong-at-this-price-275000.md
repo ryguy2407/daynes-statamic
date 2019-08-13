@@ -1,6 +1,7 @@
 ---
 title: 'You Cannot Go Wrong At This Price - $275,000'
 property_type: Apartment
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -25,7 +26,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819949/106791531-image-M.jpg'
 property_id: '435046'
-id: a5de3c63-361f-4927-8d53-79c88c1a07c2
+id: a60ab9f2-faf7-4960-b66c-b3e2a18c2e41
 ---
 UNBEATABLE PRICE
 

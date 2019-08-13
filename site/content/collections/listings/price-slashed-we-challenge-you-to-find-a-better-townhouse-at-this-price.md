@@ -1,6 +1,7 @@
 ---
 title: 'Price Slashed - We Challenge You To Find A Better Townhouse At This Price'
 property_type: Townhouse
+listing_type: residential_sale
 price: 'Price Slashed from $625,000 - NOW $599,000'
 rent: null
 bedrooms: 3
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820697/105954775-image-M.jpg'
 property_id: '435121'
-id: c0958cf8-5e34-4920-ad3c-44857c4fa2e4
+id: 11b2d862-9c95-4ad7-95ca-813f36012ff7
 ---
 Situated in an enviable location on Armadale Street is this superbly renovated tri-level townhouse. Whether you are an investor or owner occupier, this property at its now reduced price offers a great opportunity in prestigious St Lucia.
 

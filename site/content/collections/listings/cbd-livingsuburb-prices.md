@@ -1,6 +1,7 @@
 ---
 title: 'CBD Living....Suburb Prices!'
 property_type: Unit
+listing_type: residential_sale
 price: 'Offers over $380,000'
 rent: null
 bedrooms: 2
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818293/104215015-image-M.jpg'
 property_id: '434847'
-id: c94b0f8f-68b9-4a85-b8fa-9af75786abda
+id: 4012705f-69f0-4740-9121-d91947aac824
 ---
 This is your chance to secure a quality apartment in the highly sort after inner-city suburb of New Farm.  This 101sqm, 2 bedroom, 2 bathroom apartment is located within a complex of 28 and is approximately 7 years old.
 

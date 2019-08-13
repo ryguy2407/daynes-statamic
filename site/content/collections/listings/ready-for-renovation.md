@@ -1,6 +1,7 @@
 ---
 title: 'Ready For Renovation!'
 property_type: House
+listing_type: residential_sale
 price: 'SOLD OFF MARKET'
 rent: null
 bedrooms: 3
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821791/130469070-image-M.jpg'
 property_id: '435213'
-id: a87aef68-396d-48b3-a56c-69a087e78c04
+id: 20d35049-db20-4a59-bbcd-dcb8fa81f67b
 ---
 This classic Acacia Ridge cottage is of solid construction with tiled roof, chamferboard exterior and hardwood floors. Original interiors will require complete renovation. Situated on a 607sqm block, across from Archerfield Airport.
 

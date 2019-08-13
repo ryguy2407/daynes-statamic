@@ -1,6 +1,7 @@
 ---
 title: 'Undoubtedly The Best Location in Acacia Ridge!!'
 property_type: House
+listing_type: residential_sale
 price: 'Best Offer Over $380,000'
 rent: null
 bedrooms: 3
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824133/115911067-image-M.jpg'
 property_id: '435398'
-id: 7d5b570f-98d1-451f-8226-a4caf1b441ce
+id: 51cc9a45-14aa-44fd-9b45-8b49ae77c6af
 ---
 Please donâ€™t take my word for it because I want you to come and see for yourself as this is truly a superb location. In my opinion the best in Acacia Ridge but I want you to be the judge.
 

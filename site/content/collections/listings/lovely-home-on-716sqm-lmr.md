@@ -1,6 +1,7 @@
 ---
 title: 'Lovely Home on 716sqm LMR'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $420,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823717/123152126-image-F.jpg'
 property_id: '435367'
-id: 91d234de-cd06-49f9-b79a-477548c7fe19
+id: f8e141dd-c53b-47c0-aa96-4d00d5b28ac4
 ---
 This gorgeous low-set brick bungalow has been the place of many happy family memories, and is offered for the first time in 40 years. Lovingly and attentively maintained, this home is full of character and would be a fantastic investment opportunity for any savvy buyer. Situated on a generous 716sqm block with 20m frontage, zoned Low Medium Residential (LMR), this solid home represents an array of short and long term investment options.
 

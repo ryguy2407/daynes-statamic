@@ -1,6 +1,7 @@
 ---
 title: 'Amazing Opportunity in Prestigious Development!'
 property_type: Apartment
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820803/128730786-image-M.jpg'
 property_id: '435132'
-id: b5ff421f-f15f-4ae3-a4a6-6386678996e3
+id: cf41d95d-f197-44ad-803e-a9b5a44366b4
 ---
 The Emporium Apartments are the most highly anticipated and high profile developments situated on Southbank, the bustling cultural hub for which Brisbane is world-renowned. This apartment represents a rare opportunity to secure a precious piece of this vibrant riverfront community. Situated a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

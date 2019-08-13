@@ -1,6 +1,7 @@
 ---
 title: 'Ultra Convenient Yet Private Location - UNDER CONTRACT'
 property_type: House
+listing_type: residential_sale
 price: 'Best offer over $525,000'
 rent: null
 bedrooms: 3
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819752/106409987-image-M.jpg'
 property_id: '435010'
-id: 7b634f24-5346-4535-a9b6-c656e8ba91c2
+id: 67eedc58-c900-4467-b820-d3a9b51ed9e6
 ---
 Located on a quiet street in Tarragindi and backing onto forest, this lowest 3 bedroom home has all the privacy you could ask for!
 

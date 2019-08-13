@@ -2,7 +2,7 @@
 
     <div class="overlay p-5">
         <h2 style="color: #fff;">{{ title }}</h2>
-        <h4 style="color: #fff">House - Sale</h4>
+        <h4 style="color: #fff">{{ property_type }} - {{ listing_type | deslugify | title }}</h4>
         <h4 style="color: #fff;">{{ price }}</h4>
     </div>
 

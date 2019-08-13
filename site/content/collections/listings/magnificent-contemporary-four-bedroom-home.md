@@ -1,6 +1,7 @@
 ---
 title: 'Magnificent Contemporary Four Bedroom Home'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 4
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820332/109006561-image-M.jpg'
 property_id: '435084'
-id: b9e97970-5dab-40b6-868b-e94d362d9b74
+id: 16ca756d-65f3-47c3-9047-a4f3ff30dc06
 ---
 Situated on a flat, low maintenance 405sqm block is a modern two level residence which is sure to impress you. Absolutely ideal for a family looking for a modern home in a great location with plenty of space.
 

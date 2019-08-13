@@ -1,6 +1,7 @@
 ---
 title: 'MUST BE SOLD - MAKE AN OFFER!'
 property_type: House
+listing_type: residential_sale
 price: '$749,000'
 rent: null
 bedrooms: 3
@@ -47,7 +48,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824109/115798127-image-M.jpg'
 property_id: '435396'
-id: 739b9dc6-d66f-4219-a029-13c7243d59e3
+id: 61c3dc79-3a56-414a-9c03-bd0ffc0c4c63
 ---
 Priced to sell at $749,000
 

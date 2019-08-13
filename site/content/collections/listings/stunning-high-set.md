@@ -1,6 +1,7 @@
 ---
 title: 'Stunning High-Set'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $400,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821703/127352222-image-M.jpg'
 property_id: '435206'
-id: 197406f8-578f-4475-a054-f9a4487c6c35
+id: 8b448117-84a9-4310-8f71-86649b4ea9b9
 ---
 Come home to this stunning high-set home and relax in the spacious bright open-plan interiors and expansive veranda. Stepping up to the cute east-facing balcony, the open-plan living, dining and kitchen are offset by the stunning timber veranda, overlooking the neat backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright. With plenty of room for a growing family, this home is perfect for those who are after a little more from their investment.
 

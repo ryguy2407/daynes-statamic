@@ -1,6 +1,7 @@
 ---
 title: 'Renovators Dream!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $340,000'
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821582/126729526-image-M.jpg'
 property_id: '435194'
-id: fcc320b1-974c-4e57-b399-2751a137ee52
+id: 99997e78-c969-4a78-8d0a-a29ff8a00ac4
 ---
 This neat low-set property is your chance to secure what has been the setting of many happy family memories. Situated on a generous 673sqm block, behind the tidy timber fence and surrounded by lovingly cared for gardens and lawns, this home has lovely street appeal. Inside, the front sunroom has been converted and combined into the living area, giving plenty of space for relaxing and entertaining. The dining is also incorporated into this area and flows through to the kitchen at the rear of the property. The kitchen, while dated, is functional and services the undercover entertaining area at the back of the home. The three bedrooms are well appointed, with the master and one additional room including air conditioners.
 

@@ -1,6 +1,7 @@
 ---
 title: '653sqm LMR in Leafy Location'
 property_type: House
+listing_type: residential_sale
 price: '$425,000'
 rent: null
 bedrooms: 2
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821256/126085038-image-M.jpg'
 property_id: '435168'
-id: 2594c6a8-aba8-49ca-8a27-b6a62bba32c7
+id: d37d7faf-c5aa-4963-97a2-3af1394f5a92
 ---
 This cute two bedroom cottage is situated in a quiet and leafy pocket of Acacia Ridge, on a 653sqm Low Medium Residential (LMR) block. Promising great short and long term potential, the property is a desirable rental as is with the zoning giving investors plenty of development options. The house itself is a neat and tidy dwelling with polished timber floors and a well-presented interior. The kitchen and bathroom are dated but functional, the bedrooms and living are spacious and full of light. A real bonus of the property is the large, powered back shed, perfect for hobbies and storage and highly desirable to tenants. The yard is private and shaded by lovely trees.
 

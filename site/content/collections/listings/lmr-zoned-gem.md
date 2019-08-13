@@ -1,6 +1,7 @@
 ---
 title: 'LMR-Zoned Gem!'
 property_type: House
+listing_type: residential_sale
 price: '$379,000'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822688/130489030-image-M.jpg'
 property_id: '435282'
-id: e86afe46-2343-4780-87f4-cb83b8900b84
+id: bee7f202-4b8d-40d5-a441-b59f752aa0ec
 ---
 This cute three bedroom cottage is conveniently situated in Acacia Ridge, on a 728sqm Low Medium Residential (LMR) zoned block. This is a great opportunity to secure a generous single allotment of land in one of Brisbane’s most rapidly developing areas. With a 21.8m frontage, this property represents an array of short and long term investment options subject to council approval. For those interested, a property developers report can be made available at request. Should you choose to hold the land and develop later, the house itself holds the potential to become a tidy rental with good return. With hardwood timber floors throughout and a good layout for families, the home itself only needs cosmetic upgrades to become a highly liveable property. Large outdoor spaces, fully fenced, and a single lock up garage to the rear also service the existing home.
 

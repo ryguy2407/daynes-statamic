@@ -1,6 +1,7 @@
 ---
 title: 'Price Slashed to $329,000'
 property_type: House
+listing_type: residential_sale
 price: '$329,000'
 rent: null
 bedrooms: 3
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824198/116354075-image-M.jpg'
 property_id: '435404'
-id: 112b1d00-ce6c-48eb-9e3c-f25652b5d639
+id: 34fe6c1e-e53c-4878-a8e0-d4f9d3fc24de
 ---
 Check out this well presented three bedroom home situated on a 607sqm block in a quiet area of Acacia Ridge.
 

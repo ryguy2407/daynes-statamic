@@ -1,6 +1,7 @@
 ---
 title: 'Nothing to do but move in and enjoy!'
 property_type: House
+listing_type: residential_sale
 price: 'Offers over $539,000'
 rent: null
 bedrooms: 4
@@ -45,7 +46,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823107/117981799-image-M.jpg'
 property_id: '435314'
-id: 7d90a69d-0482-4f78-95fd-2a895042fcc1
+id: c554a1a5-f72d-4d47-bab0-9c8104210079
 ---
 This home brings together the best for suburban family lifestyle.
 

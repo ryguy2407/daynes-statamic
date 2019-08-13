@@ -1,6 +1,7 @@
 ---
 title: 'Fully Renovated From Head To Toe!'
 property_type: House
+listing_type: residential_sale
 price: 'Best Offer Over $375,000'
 rent: null
 bedrooms: 3
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823020/117592511-image-M.jpg'
 property_id: '435306'
-id: 52e28b2f-5f35-469b-9d04-fc046de413c2
+id: db0dd44c-194f-4d61-97c1-04b1c0a1c3d7
 ---
 Here we have a fully renovated solid brick highset home on a 607m2 block in a very quiet cul-de-sac. It features three bedrooms with a further room which could be used as a single bedroom or office/study. It has lovely French doors leading out from the lounge room to a brand new north-east facing deck.
 

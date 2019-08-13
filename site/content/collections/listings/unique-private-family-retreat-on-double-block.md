@@ -1,6 +1,7 @@
 ---
 title: 'Unique Private Family Retreat on Double Block'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $500,000'
 rent: null
 bedrooms: 4
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823124/118035227-image-M.jpg'
 property_id: '435315'
-id: bb277079-ba77-4419-8df1-812f6c498f61
+id: 9e005287-3442-497b-b15b-b16e57bf077a
 ---
 Wander around the beautiful gardens of this surprisingly serene property. This is the city farmers delight with extensive developed gardens including plenty of flowering plants, fruit trees and chook pen. The two verandahs overlook the gardens and have been positioned thoughtfully to be enjoyed at all times if the day. This property has been lovingly cared for and home of many happy family gatherings.
 

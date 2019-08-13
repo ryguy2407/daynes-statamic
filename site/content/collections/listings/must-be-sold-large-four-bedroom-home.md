@@ -1,6 +1,7 @@
 ---
 title: 'Must Be Sold. Large Four Bedroom Home'
 property_type: House
+listing_type: residential_sale
 price: 'Under Offer Mid to High $500k''s'
 rent: null
 bedrooms: 4
@@ -29,7 +30,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820688/105933621-image-M.jpg'
 property_id: '435120'
-id: 07c9f014-c847-4d0c-bcd9-9d6cd7c76ae1
+id: cdc78430-6340-4628-9023-7cd005544aec
 ---
 Motivated Vendors!!
 Submit All Offers!!

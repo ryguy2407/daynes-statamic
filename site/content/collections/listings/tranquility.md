@@ -1,6 +1,7 @@
 ---
 title: Tranquility
 property_type: Acreage/Semi-Rural
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 5
@@ -55,7 +56,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821436/126346730-image-M.jpg'
 property_id: '435184'
-id: 44e753a0-d132-4e57-8d60-900861ceed6e
+id: 781f1d81-830f-47be-ab8e-3238d136343d
 ---
 Set amongst the tranquility of beautifully forested acreage, this home is the perfect escape for those seeking more from the place they call home. More peaceful enjoyment of your own generous piece of land, more quality time with family and friends, and simply more time to relax. With high-quality, low-maintenance finishes, this home will help you rediscover that balance and help you to truly unwind. Designed with families in mind, the flowing interiors, beautifully crafted with glossy tiles, quality carpets, neutral colours and modern lighting are spacious and inviting. Stepping outside to the entertaining area, the soaring roofline of this patio maximises enjoyment and appreciation of the bushland surrounds.
 

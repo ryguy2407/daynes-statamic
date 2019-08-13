@@ -1,6 +1,7 @@
 ---
 title: 'The Jewel In The Crown'
 property_type: House
+listing_type: residential_sale
 price: '$409,000'
 rent: null
 bedrooms: 3
@@ -41,7 +42,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824026/115016867-image-M.jpg'
 property_id: '435388'
-id: 7f50870a-f135-4e63-ba77-a7e7befbe445
+id: 603b2d39-d6a2-4ec9-9be9-1b2f75723246
 ---
 From the front to the rear boundary this property has had a major makeover. But please, dont take my word for it, come and see for yourself!!
 

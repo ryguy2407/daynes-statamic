@@ -1,6 +1,7 @@
 ---
 title: 'Magnificent River and City Views'
 property_type: Apartment
+listing_type: residential_sale
 price: '$560,000'
 rent: null
 bedrooms: 1
@@ -45,7 +46,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820902/129034606-image-M.jpg'
 property_id: '435142'
-id: 1d7f0e03-0655-4aae-9f77-bb42231321b1
+id: e5298057-38e1-46cc-a7b9-0f62f8724619
 ---
 The Emporium Apartments are the most highly anticipated and high profile developments situated on Southbank, the bustling cultural hub for which Brisbane is world-renowned. This apartment represents a rare opportunity to secure a precious piece of this vibrant riverfront community. Situated a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

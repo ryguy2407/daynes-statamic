@@ -1,6 +1,7 @@
 ---
 title: 'NRAS Investment Property - Stylish Three Bedroom Townhouse'
 property_type: Townhouse
+listing_type: residential_sale
 price: '$349,000'
 rent: null
 bedrooms: 3
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824171/116238623-image-M.jpg'
 property_id: '435401'
-id: 0f5744a0-2abf-4486-904e-a0cfcc229828
+id: fe8fd432-bb96-4733-bbfb-c4dc1e42af7a
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

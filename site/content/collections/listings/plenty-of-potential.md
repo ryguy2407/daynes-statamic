@@ -1,6 +1,7 @@
 ---
 title: 'Plenty of Potential!'
 property_type: House
+listing_type: residential_sale
 price: '$399,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822541/130838834-image-M.jpg'
 property_id: '435273'
-id: 7e96e7d4-7dcc-4cb4-a092-774361173d6f
+id: 816e102f-7b65-40ac-be58-a8249e4bbb75
 ---
 This neat low-set property is your chance to secure a spacious family home in a quiet neighbourhood.  Situated on a generous 675sqm block, surrounded by lovingly cared for gardens and lawns, this home has lovely street appeal. An entertainers delight, this home boasts two outdoor spaces perfect for enjoying the company of family and friends. The timber deck to the front of the home steps off the open-plan living and dining, expanding and adding light to an already well-proportioned space. The back undercover patio overlooks the grassy backyard and is a cool, private retreat to be enjoyed. Internally, two separate living spaces allow for plenty of space for growing families, or even the option to convert to a self contained home office. The kitchen, while dated, is functional and provides ample space to service the home. The three bedrooms are privately set to the rear of the home, all overlooking the grassy surrounds.
 

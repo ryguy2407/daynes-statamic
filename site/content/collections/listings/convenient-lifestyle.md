@@ -1,6 +1,7 @@
 ---
 title: 'Convenient Lifestyle'
 property_type: Townhouse
+listing_type: residential_sale
 price: '$275,000'
 rent: null
 bedrooms: 3
@@ -31,7 +32,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821545/126515258-image-M.jpg'
 property_id: '435191'
-id: ef99e659-a18f-4740-a0a2-1e926c85e7f9
+id: 670c5ccf-f2a8-4250-ae5b-c5020965529f
 ---
 This modern dual-level townhouse offers the best of convenience and low maintenance living. With the perfect layout for entertaining and relaxing, the open plan living, kitchen and dining flows effortlessly through the ground floor of the property. Stepping out to the private and leafy courtyard, these are great spaces to relax and unwind. Upstairs, the three well-appointed bedrooms are spacious and full of light. With built-in storage and ceiling fans, each of the bedrooms has been finished in a neutral colour scheme. Upstairs is serviced by the family bathroom with shower, bathtub and separate toilet. This is a serviceable family home in great condition, needing only minor cosmetic updates. Situated in a well maintained and leafy complex in a quiet pocket of Acacia Ridge, this is a desirable place to call home. Onsite management means beautifully presented gardens and a sparkling pool to enjoy.
 

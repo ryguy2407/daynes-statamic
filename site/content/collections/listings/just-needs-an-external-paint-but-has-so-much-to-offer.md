@@ -1,6 +1,7 @@
 ---
 title: 'Just Needs An External Paint But Has So Much To Offer!'
 property_type: House
+listing_type: residential_sale
 price: '$389,000'
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823045/117642331-image-M.jpg'
 property_id: '435308'
-id: a4bccaeb-0b6a-45ed-95ad-bfbdb11e2100
+id: 66a0d136-677d-47cd-a159-c0784eff8052
 ---
 ***Price Reduction - Slashed by $10,000***
 

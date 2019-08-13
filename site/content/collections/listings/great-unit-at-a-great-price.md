@@ -1,6 +1,7 @@
 ---
 title: 'Great Unit at a Great Price'
 property_type: Unit
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819128/105287409-image-M.jpg'
 property_id: '434934'
-id: 38efd9d8-594d-435c-bd00-571b33032a03
+id: 395b5d50-2fea-429e-b61a-09e9493c058e
 ---
 Located on a quiet street in Yeerongpilly this brand new two bedroom unit is in a complex of eight.
 

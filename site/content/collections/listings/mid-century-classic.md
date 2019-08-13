@@ -1,6 +1,7 @@
 ---
 title: 'Mid-Century Classic'
 property_type: House
+listing_type: residential_sale
 price: 'For Sale'
 rent: null
 bedrooms: 3
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822121/128634218-image-M.jpg'
 property_id: '435242'
-id: d8fe19b0-099a-4c45-8227-25ac801ab4c5
+id: 4391a83e-1c47-4708-ac7b-1adc16580cfe
 ---
 This neat low-set property is your chance to secure a classic piece of mid-century design. Situated on a generous 622sqm block, this home has lovely street appeal with the striking sloped roof and tidy brick fence. The cute front patio opens off the living area and provides privacy from the street. Inside, the generous open plan living and dining flows through to the original kitchen. The kitchen, while dated, is functional and showcases the classic cabinetry. The backdoor off the kitchen leads through to the laundry and into the yard beyond. With its built in barbeque and sweeping lawns, the yard will be the delight of families with children and pets alike.
 

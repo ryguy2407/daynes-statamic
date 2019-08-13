@@ -1,6 +1,7 @@
 ---
 title: 'Mamma Mia!!! This Is The One!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 5
@@ -43,7 +44,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818032/103941692-image-M.jpg'
 property_id: '434793'
-id: 30f56c8a-31d4-49af-aa21-eb5ff4474a92
+id: 419c143e-9cde-4585-be4d-13e76a380d54
 ---
 Here we have a huge brick and tile family home right in the heart of Woolloongabba, situated on 809sqm of land.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Outstanding Location'
 property_type: Apartment
+listing_type: residential_sale
 price: 'Price On Request'
 rent: null
 bedrooms: 1
@@ -51,7 +52,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820872/131099506-image-M.jpg'
 property_id: '435140'
-id: e5c28e37-3190-427b-9a6d-5c0b3957b49f
+id: 29494ec5-8d75-4e3d-a2b7-8c94162987c3
 ---
 ** Call for a private inspection **
 

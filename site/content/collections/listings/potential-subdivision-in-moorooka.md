@@ -1,6 +1,7 @@
 ---
 title: 'Potential Subdivision In Moorooka'
 property_type: House
+listing_type: residential_sale
 price: SOLD
 rent: null
 bedrooms: 3
@@ -39,7 +40,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818848/104998705-image-M.jpg'
 property_id: '434906'
-id: 22d24edc-3d99-48d1-aecf-d4ab39fee085
+id: bb918003-0ecf-4dcb-93d9-ddc110fda4cd
 ---
 It's not everyday you get the opportunity to secure a huge 1037sqm block in Moorooka.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Rare Find In Moorooka!'
 property_type: Townhouse
+listing_type: residential_sale
 price: '$365,000'
 rent: null
 bedrooms: 3
@@ -23,7 +24,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818820/104937780-image-M.jpg'
 property_id: '434903'
-id: d1dc0e82-8e5b-4dbf-a286-c97f5a95636d
+id: 2fad42db-edf1-4348-8bca-7c944283b891
 ---
 Secure this lovely three-bedroom, two bathroom townhouse in a complex of 30.
 Moorooka is only 8km to the city and this townhouse is close to all amenities.

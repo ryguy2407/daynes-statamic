@@ -1,6 +1,7 @@
 ---
 title: 'So Close To The City!'
 property_type: Unit
+listing_type: residential_sale
 price: '$390,000'
 rent: null
 bedrooms: 2
@@ -21,7 +22,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824104/115532775-image-M.jpg'
 property_id: '435395'
-id: 918080f1-5a07-442a-bd77-35a47bfc9b96
+id: 0b295cea-8f57-4e5c-98df-cbff4db31be6
 ---
 This brand new, well presented 2 bedroom unit is in a small complex of 5 units. It is only a stones throw to the Fairfield railway station with only a few stops to Central Station and Fairfield shopping Centre just a short stroll away.
 

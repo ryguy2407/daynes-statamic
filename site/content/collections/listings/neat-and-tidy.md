@@ -1,6 +1,7 @@
 ---
 title: 'Neat and Tidy'
 property_type: House
+listing_type: residential_sale
 price: '$329,000'
 rent: null
 bedrooms: 2
@@ -37,7 +38,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822216/128970366-image-M.jpg'
 property_id: '435249'
-id: 0c211611-84d5-4bf4-a3d2-39360600b650
+id: 1d8e854c-ff10-4423-a207-ed8a96568815
 ---
 This lovely cottage is situated on a low-maintenance 462sqm block, in a handy location. Private behind leafy trees and an attractive timber fence, this property has great street appeal. Internally, the home is full of light and finished with a neutral colour scheme. Featuring lovely original features such as VJ walls, timber floors and decorative ceilings, this is a great example of an original home in the area, beautifully preserved. The open plan living and dining is expanded by the lovely sunroom, and flows well into the kitchen. The tiled kitchen and bathroom, while dated, are in great condition. The large master bedroom features a generous walk-in wardrobe and ceiling fan, while the additional bedroom is set privately to the rear of the home.
 

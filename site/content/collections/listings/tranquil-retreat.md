@@ -1,6 +1,7 @@
 ---
 title: 'Tranquil Retreat'
 property_type: House
+listing_type: residential_sale
 price: 'Offers Over $450,000'
 rent: null
 bedrooms: 4
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821716/127343954-image-M.jpg'
 property_id: '435207'
-id: 095e82ca-7800-43a3-ac57-ca6afcdc4eae
+id: db692892-705d-450d-80f5-7c679100d221
 ---
 If privacy and space is what you are looking for, this home ticks all the boxes. Backing on to lush bushland, this is a tranquil setting for families. This home is a much sought-after lowset design, of solid brick construction with low-maintenance finishes. Internally, the generous spaces are cool and flooded with natural light. Offering large, open-plan living spaces, this home is perfect for families needing a little extra from their home. The kitchen is situated at the heart of a vast tiled combined living and dining, opening out to a patio through sliding doors. The gardens are neatly presented, with the backyard separately fenced, providing a shady and secure space for children to play. Functionality and ease of living are presented with this lifestyle focused design.
 

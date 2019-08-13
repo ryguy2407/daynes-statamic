@@ -1,6 +1,7 @@
 ---
 title: 'High on Hemsworth'
 property_type: House
+listing_type: residential_sale
 price: 'Contact Agent'
 rent: null
 bedrooms: 3
@@ -33,7 +34,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823756/123691418-image-M.jpg'
 property_id: '435370'
-id: 0bdbcda9-83ce-44c8-a3f8-db0b3505e4a3
+id: 0824fd99-779a-4146-be7d-bde6641e862c
 ---
 Sitting proudly at the top of one of Acacia Ridge's most sought-after streets is this high-set clad home, sure to be the delight of those seeking a little more from their next investment. A generous family home upstairs with bright, open-plan living and kitchen areas, beautifully off-set by the polished timber floors. The bedrooms are all good-sized and the bathroom is modern, perfect for a growing family. Under the house has been enclosed and converted into three rooms, perfect to utilise as rentable accommodation and complimented by kitchenette and modern bathroom.
 

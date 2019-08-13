@@ -1,6 +1,7 @@
 ---
 title: 'Flame Tree Apartments - Stage Two'
 property_type: Unit
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 2
@@ -13,7 +14,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818104/104017173-image-M.jpg'
 property_id: '434826'
-id: 827fd3b0-b44c-47cb-8e3c-bdc5e4c2cc8d
+id: d1a2bf17-7d93-4f0d-a806-72eeed76cb06
 ---
 This one-bedroom unit is sure to please. With the kitchen comprising of electric European appliances, and garbage disposal and the apartments also include clothes dryer, washing machine and gas hot water.
 

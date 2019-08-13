@@ -1,6 +1,7 @@
 ---
 title: 'Be Quick With This One!'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 3
@@ -27,7 +28,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820662/113628019-image-M.jpg'
 property_id: '435116'
-id: 0ddb6189-0cb4-4cf4-9150-70fb351d25e3
+id: 7d392c70-99e3-47b1-8d07-e7d09413a273
 ---
 This property's established gardens will be sure to win your hearts over. Situated on a 701sqm corner block and very secluded from the road due to the beautiful vegetation in the front yard.
 

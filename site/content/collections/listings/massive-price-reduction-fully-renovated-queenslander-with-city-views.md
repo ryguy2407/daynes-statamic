@@ -1,6 +1,7 @@
 ---
 title: 'Massive Price Reduction! Fully Renovated Queenslander with City Views'
 property_type: House
+listing_type: residential_sale
 price: ''
 rent: null
 bedrooms: 4
@@ -41,7 +42,7 @@ images:
   -
     url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819658/106093230-image-M.jpg'
 property_id: '435000'
-id: 48acbe6d-ee56-48fd-92c9-d523e89fa1ff
+id: b11b85b5-afce-4b03-9dde-682b85ed0fc5
 ---
 Spectacular City Views! Fully Renovated Queenslander Sitting High on the Hill
 
