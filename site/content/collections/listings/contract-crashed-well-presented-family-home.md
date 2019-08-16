@@ -10,31 +10,11 @@ cars: 0
 status: Sold
 address: '23 Begonia Street, BROWNS PLAINS'
 main_image: 'https://img.eagleagent.com.au/Ldyo6qyqdSQz9jeSy-PVXptuaQ8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824187/116353371-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824197/116353371-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824196/116353371-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824195/116353371-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824194/116353371-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824193/116353371-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824192/116353371-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824191/116353371-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824190/116353371-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824189/116353371-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824188/116353371-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824187/116353371-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435403/images'
 property_id: '435403'
-id: 67837ff5-b920-4720-91d5-12217d0e2848
+price_search: '299000.0'
+id: f76c2d06-fea3-4863-9b8d-082d810904eb
+suburb: 'BROWNS PLAINS'
 ---
 Here we have a neat and tidy four bedroom brick and tile home situated in a desirable area of Browns Plains.
 

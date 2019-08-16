@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '13 / 11 Shottery Street, YERONGA'
 main_image: 'https://img.eagleagent.com.au/YYpfztNsS5d-fx0tzjbKDrEmFM4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819706/106228642-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819713/106228642-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819712/106228642-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819711/106228642-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819710/106228642-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819709/106228642-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819708/106228642-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819707/106228642-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819706/106228642-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435005/images'
 property_id: '435005'
-id: 852df583-0769-43c1-87e7-d7a4986d2614
+price_search: '390000.0'
+id: a36624d4-7a68-491f-9c2b-9e7dfc345dbd
+suburb: YERONGA
 ---
 What a great opportunity! Renovated two bedroom unit in very desirable location; situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

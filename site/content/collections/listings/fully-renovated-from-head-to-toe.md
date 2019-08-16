@@ -10,29 +10,11 @@ cars: 2
 status: Sold
 address: '61 Larbert Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/oIHoLVXdowqJ1mpNiUa_0lvtIUU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823020/117592511-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823029/117592511-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823028/117592511-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823027/117592511-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823026/117592511-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823025/117592511-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823024/117592511-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823023/117592511-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823022/117592511-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823021/117592511-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823020/117592511-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435306/images'
 property_id: '435306'
-id: db0dd44c-194f-4d61-97c1-04b1c0a1c3d7
+price_search: '375000.0'
+id: d30b8f64-5c4a-4d2b-8846-a26af23688ac
+suburb: 'ACACIA RIDGE'
 ---
 Here we have a fully renovated solid brick highset home on a 607m2 block in a very quiet cul-de-sac. It features three bedrooms with a further room which could be used as a single bedroom or office/study. It has lovely French doors leading out from the lounge room to a brand new north-east facing deck.
 

@@ -10,43 +10,11 @@ cars: 3
 status: Sold
 address: '80 Arnold Street, HOLLAND PARK'
 main_image: 'https://img.eagleagent.com.au/vQv3_CH1WkQ42WZuj6-Wu1zaDSc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818799/104921064-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818815/104921064-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818814/104921064-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818813/104921064-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818812/104921064-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818811/104921064-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818810/104921064-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818809/104921064-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818808/104921064-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818807/104921064-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818806/104921064-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818805/104921064-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818804/104921064-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818803/104921064-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818802/104921064-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818801/104921064-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818800/104921064-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818799/104921064-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434901/images'
 property_id: '434901'
-id: 2d0ad42b-ba82-4126-be1e-61ae68c0a531
+price_search: '665000.0'
+id: dbadde66-1a3a-4a8e-9829-86268ebad7b4
+suburb: 'HOLLAND PARK'
 ---
 Here is a terrific opportunity to secure a solid brick & tile home situated on a prime corner block boasting 966sqm of land on 2 lots.
 

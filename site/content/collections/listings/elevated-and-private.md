@@ -10,35 +10,11 @@ cars: 2
 status: Let
 address: '17 Oswin Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/dg0oRq_XkscGYXJe0QLDXjoVUGM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825193/423587866-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825205/423587866-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825204/423587866-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825203/423587866-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825202/423587866-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825201/423587866-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825200/423587866-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825199/423587866-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825198/423587866-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825197/423587866-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825196/423587866-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825195/423587866-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825194/423587866-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825193/423587866-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435521/images'
 property_id: '435521'
-id: a038468e-505d-4896-b0c3-29ae9a96e5c0
+price_search: null
+id: 52739988-5a8d-4037-923a-004a8e1bbaf1
+suburb: 'ACACIA RIDGE'
 ---
 This unique home is set on an elevated 604sqm block in a quiet residential pocket of Acacia Ridge and privately set back from the road and overlooking the leafy gardens. With generous living spaces, both inside and out, this home is perfect for busy families and entertainers alike. This property is full of natural light, with the north eastern aspect best enjoyed from the sunny front verandah. Stepping into the open plan living and dining, there is a feeling of space and light. The newly renovated kitchen is also incorporated into this space and flows out to the shady back patio, ideal for relaxed entertaining. This is a thoroughly modern open-concept design and will complement low-maintenance family living.
 

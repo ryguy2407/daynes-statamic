@@ -10,49 +10,11 @@ cars: 1
 status: Active
 address: '601 269 Grey Street, SOUTH BANK'
 main_image: 'https://img.eagleagent.com.au/NYh7SMb7YvHW-ilS0zlDE4R1Y1M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820872/131099506-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820891/131099506-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820890/131099506-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820889/131099506-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820888/131099506-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820887/131099506-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820886/131099506-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820885/131099506-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820884/131099506-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820883/131099506-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820882/131099506-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820881/131099506-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820880/131099506-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820879/131099506-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820878/131099506-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820877/131099506-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820876/131099506-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820875/131099506-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820874/131099506-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820873/131099506-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820872/131099506-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435140/images'
 property_id: '435140'
-id: 29494ec5-8d75-4e3d-a2b7-8c94162987c3
+price_search: '550000.0'
+id: 2ffb357b-3c19-4ca1-a289-c03b67566753
+suburb: 'SOUTH BANK'
 ---
 ** Call for a private inspection **
 

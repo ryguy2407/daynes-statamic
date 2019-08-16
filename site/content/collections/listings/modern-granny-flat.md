@@ -10,27 +10,11 @@ cars: 1
 status: Let
 address: '397B Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/aXQ9QfJaok6ZlM-yPD8Pv6kKZBk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825995/427067230-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826003/427067230-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826002/427067230-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826001/427067230-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826000/427067230-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825999/427067230-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825998/427067230-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825997/427067230-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825996/427067230-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825995/427067230-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435598/images'
 property_id: '435598'
-id: f074c136-a8b1-407e-9d67-b0f21de82988
+price_search: null
+id: c8998d4f-bbd5-4a64-b601-5095ab4fdad8
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented flat is the perfect private retreat. Fresh and modern, this home guarantees low maintenance living. Cleverly designed to maximise enjoyment of space, the front deck steps into the airy open-plan living, dining and kitchen areas. Air conditioned and filled with natural light, these are welcoming spaces.  The kitchen is modern with tasteful tiles and two pac cabinetry. The master bedroom is serviced by beautiful ensuite and large walk-in wardrobe, while the second bedroom also includes a large wardrobe. The main bathroom incorporates the laundry. Insulated roof panels make this a pleasant, cool home in the summer months and warm in winter. Tucked away from the outside world, this lovely property is a pleasure to come home to.
 

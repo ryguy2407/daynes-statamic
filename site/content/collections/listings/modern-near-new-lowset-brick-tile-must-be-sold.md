@@ -10,33 +10,11 @@ cars: 1
 status: Sold
 address: '209 Ness Road, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/rGwPfz2X_Ck8WaU0xkJwH7UEZl0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820174/107550206-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820185/107550206-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820184/107550206-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820183/107550206-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820182/107550206-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820181/107550206-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820180/107550206-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820179/107550206-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820178/107550206-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820177/107550206-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820176/107550206-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820175/107550206-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820174/107550206-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435069/images'
 property_id: '435069'
-id: ce998ba1-168a-4332-8219-5351eb5bb558
+price_search: '480000.0'
+id: 9ea4a84d-3278-43c3-8996-97943fea2684
+suburb: SALISBURY
 ---
 **Get in now and beat the stamp duty increase commencing 1st August 2011**
 

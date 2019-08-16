@@ -10,29 +10,11 @@ cars: 1
 status: Sold
 address: '248 Turton Street, SUNNYBANK'
 main_image: 'https://img.eagleagent.com.au/Yt6EhUDLdgnHLfbrrjKVTzrIufo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821664/127322982-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821673/127322982-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821672/127322982-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821671/127322982-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821670/127322982-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821669/127322982-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821668/127322982-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821667/127322982-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821666/127322982-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821665/127322982-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821664/127322982-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435201/images'
 property_id: '435201'
-id: c43e51d1-649a-4650-aab5-ffd0570f682a
+price_search: '650000.0'
+id: 6e190e3c-f9e5-49b8-a141-ee552e05c01c
+suburb: SUNNYBANK
 ---
 This home is of desirable lowset brick construction, with the perfect layout for families. The property is north facing, and combined with the neutral colours on the walls and large windows, the property is full of natural light. Stepping up to the home, the private entry steps into the living room which has been beautifully finished with polished timber flooring. The eat-in kitchen flows through from the living, a lovely convenience for busy families. The family bathroom has been recently updated with thoughtfully chosen neutral tiles and has been beautifully presented. Each of the bedrooms has neutral carpet and built in storage.
 

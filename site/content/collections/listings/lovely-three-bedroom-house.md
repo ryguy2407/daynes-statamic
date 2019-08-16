@@ -10,25 +10,11 @@ cars: 2
 status: Let
 address: '49 Elizabeth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/hd69wqTRKWAYtbZzXr3XX2ZI-hA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826462/417882054-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826469/417882054-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826468/417882054-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826467/417882054-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826466/417882054-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826465/417882054-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826464/417882054-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826463/417882054-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826462/417882054-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435655/images'
 property_id: '435655'
-id: d7502485-dc8d-4097-8bd0-d9e4fa6d77e4
+price_search: null
+id: 4e6b1a38-13ed-44ff-b7ed-fea1ce6ff868
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully renovated three bedroom has beautifully polished floors, an open plan design and ample light make this an airy and bright residence. The extension to the rear of the property offers great lifestyle spaces with a large rumpus or family room stepping out to a lovely shady verandah overlooking the grassy backyard.
 

@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '8 Otaki Road, YERONGA'
 main_image: 'https://img.eagleagent.com.au/j1uTpM5Qt_Y7sxp_yLgGFpIZWe8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819457/105805124-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819469/105805124-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819468/105805124-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819467/105805124-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819466/105805124-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819465/105805124-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819464/105805124-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819463/105805124-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819462/105805124-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819461/105805124-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819460/105805124-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819459/105805124-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819458/105805124-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819457/105805124-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434975/images'
 property_id: '434975'
-id: db8c489c-6b96-473f-9297-160feb1ee12e
+price_search: '670000.0'
+id: 85e53693-c141-4ed6-99a2-304dff83afb0
+suburb: YERONGA
 ---
 This lovely three bedroom post war home is situated in a highly sort after area of Yeronga. Sitting proud on 541sqm of land this property is sure to impress.
 

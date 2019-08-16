@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '31 Dunkeld Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/GZWbqST4EnoZSyosVZKhLxivIDc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823419/121106886-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823426/121106886-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823425/121106886-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823424/121106886-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823423/121106886-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823422/121106886-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823421/121106886-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823420/121106886-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823419/121106886-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435345/images'
 property_id: '435345'
-id: c6b00e23-00cf-4d24-af4e-db6cc90564c4
+price_search: '400000.0'
+id: c7026ca4-aa5c-4f72-a309-16a53e482945
+suburb: 'ACACIA RIDGE'
 ---
 Step inside this beautifully liveable family home and enjoy all the great lifestyle features it has to offer. Featuring beautifully finished hardwood timber flooring and recently renovated kitchen and bathroom, there really is nothing left to do but move in. The open plan kitchen, living and dining room are well proportioned and full of light. The bedrooms are all good-sized and functional, with the master afforded privacy and a leafy view to the rear of the property. The backyard is flat, with landscaped garden beds, mature trees and grassy areas.
 

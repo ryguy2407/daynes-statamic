@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '23 Alveston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ffBXsrYlom-_Eo66AvRDRd7t3eY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823045/117642331-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823058/117642331-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823057/117642331-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823056/117642331-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823055/117642331-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823054/117642331-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823053/117642331-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823052/117642331-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823051/117642331-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823050/117642331-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823049/117642331-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823048/117642331-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823047/117642331-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823046/117642331-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823045/117642331-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435308/images'
 property_id: '435308'
-id: 66a0d136-677d-47cd-a159-c0784eff8052
+price_search: '389000.0'
+id: 1e617ed6-7a3c-402d-bb27-a021d62e6023
+suburb: 'ACACIA RIDGE'
 ---
 ***Price Reduction - Slashed by $10,000***
 

@@ -10,31 +10,11 @@ cars: 1
 status: Sold
 address: '58 Bellamy Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_vputpqQmP8Dl_OBiUl0WHnXQBI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820651/105896410-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820661/105896410-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820660/105896410-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820659/105896410-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820658/105896410-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820657/105896410-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820656/105896410-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820655/105896410-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820654/105896410-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820653/105896410-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820652/105896410-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820651/105896410-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435115/images'
 property_id: '435115'
-id: bc4c21c0-e530-4f24-b22f-55a4b2674e51
+price_search: '359000.0'
+id: c347c6bc-30fc-4df7-9bdb-b25aa1b4bf23
+suburb: 'ACACIA RIDGE'
 ---
 Beautifully presented four bedroom home on a very tidy 812sqm block. This is truly a great family home.
 

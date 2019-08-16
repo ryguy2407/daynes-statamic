@@ -10,35 +10,11 @@ cars: 6
 status: Sold
 address: '424 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Ktx0PxUpyasbvAxity2h1Vt_pbc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823231/118686831-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823243/118686831-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823242/118686831-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823241/118686831-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823240/118686831-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823239/118686831-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823238/118686831-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823237/118686831-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823236/118686831-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823235/118686831-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823234/118686831-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823233/118686831-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823232/118686831-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823231/118686831-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435325/images'
 property_id: '435325'
-id: 0ffe7129-2ee2-4629-a196-f6e6621ee5f9
+price_search: '369000.0'
+id: 87557a75-d6c7-4abd-8b4e-df8132065d0e
+suburb: 'ACACIA RIDGE'
 ---
 Boasting beautiful polished timber floors throughout and well-proportioned living spaces, this property holds great renovation potential. The home is a solid high-set of hardwood construction giving you a great opportunity to turn this into an outstanding family home.
 

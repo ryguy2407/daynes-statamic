@@ -10,27 +10,11 @@ cars: 2
 status: Let
 address: '22 Ringwood Street, DURACK'
 main_image: 'https://img.eagleagent.com.au/Bfx5N-VMiXnSbz_fpi78xfOyuus=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825336/424284386-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825344/424284386-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825343/424284386-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825342/424284386-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825341/424284386-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825340/424284386-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825339/424284386-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825338/424284386-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825337/424284386-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825336/424284386-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435534/images'
 property_id: '435534'
-id: 4f2d7f65-c56a-4078-9054-c814e10557ed
+price_search: null
+id: 0df52a55-aba2-46b7-a72d-2661577d8120
+suburb: DURACK
 ---
 This high-set home is spacious, full of light and beautifully presented. The polished timber floors and light coloured walls are the perfect blank canvas for you to create your own welcoming home. The open plan kitchen, living and dining step out to the large back deck, ideal for relaxing and entertaining. The kitchen has been newly renovated and finished with beautiful grey cabinetry, pale laminate benchtops and stainless steel appliances. Each of the bedrooms upstairs is equipped with ceiling fans, blockout blinds and built in storage.
 

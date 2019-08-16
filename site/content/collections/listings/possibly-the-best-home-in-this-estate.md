@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '20 Crescendo Place, CRESTMEAD'
 main_image: 'https://img.eagleagent.com.au/hyEnlKr6eE2qpLCl5mAihShUuA8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821641/116901227-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821654/116901227-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821653/116901227-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821652/116901227-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821651/116901227-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821650/116901227-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821649/116901227-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821648/116901227-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821647/116901227-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821646/116901227-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821645/116901227-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821644/116901227-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821643/116901227-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821642/116901227-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821641/116901227-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435199/images'
 property_id: '435199'
-id: 8f0af4aa-40ae-4bd3-b748-12fb4b9d3c3d
+price_search: '375000.0'
+id: 7e5d5884-c157-40fe-81ee-b599ecaf67ae
+suburb: CRESTMEAD
 ---
 Priced to sell at best offer over $375,000.
 

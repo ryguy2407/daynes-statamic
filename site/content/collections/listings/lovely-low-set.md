@@ -10,29 +10,11 @@ cars: 1
 status: Let
 address: '40 Hemsworth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/W6zYxWMr9sNgHN8v6h2cTXyxGUw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825763/426064286-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825772/426064286-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825771/426064286-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825770/426064286-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825769/426064286-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825768/426064286-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825767/426064286-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825766/426064286-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825765/426064286-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825764/426064286-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825763/426064286-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435575/images'
 property_id: '435575'
-id: 8b0425ab-11ad-41fe-90aa-43b631c0eb0d
+price_search: null
+id: 1580908f-b175-415c-a5c0-00e899e28d40
+suburb: 'ACACIA RIDGE'
 ---
 This desirable low-set brick home is set in one of the best neighbourhoods of Acacia Ridge. Walking distance to Acacia Ridge State School and local parks, this is a warm community perfect for families. Stepping inside you are greeted by a generous lounge area, carpeted with a lovely bay window which lets in plenty of light. Also at the front of the home is the master bedroom, filled with plenty of natural light and equipped with built-in wardrobe. The additional two bedrooms are situated to the rear of the property, each with built-in wardrobes. The large, tiled eat-in kitchen is well appointed and flows out to the undercover entertaining area, perfect for entertainers. Also adjoining this space is an additional air-conditioned living or rumpus space.
 

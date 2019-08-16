@@ -10,25 +10,11 @@ cars: 2
 status: Let
 address: '12 Harpullia Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/1rotYdTAL-ZTVPuwzMnKYwevwcQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824637/420371958-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824644/420371958-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824643/420371958-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824642/420371958-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824641/420371958-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824640/420371958-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824639/420371958-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824638/420371958-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824637/420371958-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435465/images'
 property_id: '435465'
-id: aa32b3e8-86d9-4c10-a5c3-607062f4266f
+price_search: null
+id: 2d467131-27f5-4584-9f34-c8a3bd5fd320
+suburb: 'ACACIA RIDGE'
 ---
 This convenient high set home is situated in a quiet, friendly community in Acacia Ridge. The property has been cleverly modified to suit those with mobility challenges but would suit a wide range of tenants. The house can be accessed via stairs up to the front and back door, and also via the lift to the front of the property. The large open plan kitchen, living and dining is full of light and convenient for families. The kitchen features fresh laminate benchtops and plenty of storage, much of it at an accessible height. The living, master bedroom and ensuite are floored with an attractive vinyl finish, perfect for those after a low maintenance home. The backyard is fully fenced and securable, featuring leafy trees, chicken coop, shed and plenty of grass. Under the house is also fully enclosed and handy for those who require lockable storage spaces.
 

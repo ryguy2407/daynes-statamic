@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '19 Sussex Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Pd7xt4Gf-wTxytDTlKMitHGOziM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823430/121407430-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823442/121407430-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823441/121407430-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823440/121407430-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823439/121407430-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823438/121407430-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823437/121407430-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823436/121407430-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823435/121407430-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823434/121407430-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823433/121407430-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823432/121407430-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823431/121407430-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823430/121407430-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435347/images'
 property_id: '435347'
-id: 20bb4873-039c-4686-a25f-b14be18c8a5a
+price_search: '359000.0'
+id: f37e257f-7c99-4077-9ee1-6ee14c5fa003
+suburb: 'ACACIA RIDGE'
 ---
 This lovely lowset home is a fantastic investment opportunity for first home buyers, families and investors alike. The property boasts great lifestyle and liveability with airy open plan kitchen, dining and living areas stepping out to the large back deck, overlooking the leafy backyard. The gardens are beautifully presented with mature trees and shrubs surrounding the lush grassy yard areas. Lovingly cared for, the home is fresh and modern and ready for its next happy family to move in and enjoy.
 

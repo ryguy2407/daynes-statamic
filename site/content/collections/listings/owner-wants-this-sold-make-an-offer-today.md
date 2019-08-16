@@ -10,13 +10,11 @@ cars: 0
 status: Sold
 address: '21 Brentford Road, RICHLANDS'
 main_image: 'https://img.eagleagent.com.au/mE-x6UCbO3zyWKgHJ1Tl5bozSVw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820520/111217371-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820521/111217371-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820520/111217371-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435102/images'
 property_id: '435102'
-id: dc99d5b2-ea06-4c5a-bda1-a837e762757d
+price_search: '369000.0'
+id: 0504ae8f-d998-4a2d-a010-2c5bff081cb4
+suburb: RICHLANDS
 ---
 Price slashed $30,000 to $369,000
 

@@ -10,29 +10,11 @@ cars: 1
 status: Let
 address: '108 / 803 Ipswich Road, WOOLLOONGABBA'
 main_image: 'https://img.eagleagent.com.au/zawUd7T5VV2oeHo2YZ3mK8p5QqU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826326/416531673-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826335/416531673-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826334/416531673-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826333/416531673-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826332/416531673-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826331/416531673-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826330/416531673-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826329/416531673-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826328/416531673-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826327/416531673-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826326/416531673-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435639/images'
 property_id: '435639'
-id: 836e4dae-fed5-4c81-9b66-1670fbc2b0b4
+price_search: null
+id: 9ee7e90e-7f29-41ca-8100-8f3f99bdd97c
+suburb: WOOLLOONGABBA
 ---
 Now is the time to hurry to Gabba Central and secure yourself that resort style living you’ve been searching for!
 

@@ -10,41 +10,11 @@ cars: 1
 status: Sold
 address: 'N1207 / 35 Tribune Street, SOUTH BANK'
 main_image: 'https://img.eagleagent.com.au/LMmn9gvzTb4aAM8621tOoD2_xzo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820803/128730786-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820818/128730786-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820817/128730786-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820816/128730786-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820815/128730786-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820814/128730786-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820813/128730786-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820812/128730786-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820811/128730786-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820810/128730786-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820809/128730786-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820808/128730786-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820807/128730786-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820806/128730786-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820805/128730786-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820804/128730786-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820803/128730786-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435132/images'
 property_id: '435132'
-id: cf41d95d-f197-44ad-803e-a9b5a44366b4
+price_search: '717000.0'
+id: fd6be0c6-1a93-411e-99f4-8500c7f71417
+suburb: 'SOUTH BANK'
 ---
 The Emporium Apartments are the most highly anticipated and high profile developments situated on Southbank, the bustling cultural hub for which Brisbane is world-renowned. This apartment represents a rare opportunity to secure a precious piece of this vibrant riverfront community. Situated a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

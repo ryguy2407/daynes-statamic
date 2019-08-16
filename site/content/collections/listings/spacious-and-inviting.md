@@ -10,35 +10,11 @@ cars: 4
 status: Sold
 address: '8 Saxon Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/oicBfmK9T89qLQ8cEZ9ej1rq7QI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821727/127660638-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821739/127660638-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821738/127660638-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821737/127660638-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821736/127660638-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821735/127660638-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821734/127660638-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821733/127660638-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821732/127660638-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821731/127660638-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821730/127660638-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821729/127660638-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821728/127660638-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821727/127660638-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435208/images'
 property_id: '435208'
-id: ce34382a-d9d3-46b6-b2bb-c5a548b06a14
+price_search: '425000.0'
+suburb: 'ACACIA RIDGE'
+id: f68d2f1b-6898-4ef1-9b20-ade237bcc18d
 ---
 Beyond the modern timber fence and gorgeous manicured gardens of this immaculately presented property is this low-set rendered brick home awaiting its next chapter. A spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front patio, enjoying the tranquility afforded by the quiet neighbourhood. Inside, the clever layout affords families a bright open-plan living and large eat-in kitchen down a generous wide hallway. The kitchen steps out to a cute patio, perfect for a veggie patch or for children to play.
 

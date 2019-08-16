@@ -10,25 +10,11 @@ cars: 1
 status: Sold
 address: '8 / 10 Christensen Street, YERONGA'
 main_image: 'https://img.eagleagent.com.au/SjecbDiJ4K-ocsljdG9RSNvVSEU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818505/104633513-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818512/104633513-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818511/104633513-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818510/104633513-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818509/104633513-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818508/104633513-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818507/104633513-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818506/104633513-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818505/104633513-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434876/images'
 property_id: '434876'
-id: 1d9c8782-5129-4821-98a0-d7c83ec71f1c
+price_search: '450000.0'
+id: 3f31be1c-3085-499a-9b54-3afb07635c08
+suburb: YERONGA
 ---
 Don't miss this great opportunity of securing this free-standing three-bedroom townhouse in Yeronga
 

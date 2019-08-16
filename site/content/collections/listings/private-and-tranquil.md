@@ -10,33 +10,11 @@ cars: 4
 status: Sold
 address: '7 Merle Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rDOXdjcL-Mit1jF4RYK2shHTU4Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822837/131108638-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822848/131108638-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822847/131108638-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822846/131108638-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822845/131108638-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822844/131108638-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822843/131108638-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822842/131108638-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822841/131108638-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822840/131108638-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822839/131108638-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822838/131108638-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822837/131108638-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435293/images'
 property_id: '435293'
-id: 0dee03ab-6848-4837-a221-01b4203dafc2
+price_search: '430000.0'
+id: e391ed26-ddf8-41ff-8146-e10efaacca60
+suburb: 'ACACIA RIDGE'
 ---
 Set privately amongst the tranquility of beautiful acreage, this home is the perfect escape for those seeking more from the place they call home. More peaceful enjoyment of your own generous piece of land, more quality time with family and friends, and simply more time to relax. Really adding to the feeling of a semi-rural setting is the abundance of fruit trees and the space to cultivate vegetable gardens, bees and chooks. The outside entertaining patio overlooks the leafy surrounds and grassy lawns really allowing the appreciation of the tranquil surrounds of this sprawling 820sqm block.
 

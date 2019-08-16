@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '7 Oswin Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/KINL9OCk-K99no5YXNzRdt96jKQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822433/130105822-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822446/130105822-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822445/130105822-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822444/130105822-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822443/130105822-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822442/130105822-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822441/130105822-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822440/130105822-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822439/130105822-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822438/130105822-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822437/130105822-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822436/130105822-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822435/130105822-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822434/130105822-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822433/130105822-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435265/images'
 property_id: '435265'
-id: c63d92a5-6cc9-4400-b6d1-0bbab16a461f
+price_search: '419000.0'
+suburb: 'ACACIA RIDGE'
+id: 94b87176-2eb0-45da-9f91-3d5f0c08d17e
 ---
 This stylish mid-century home has been renovated to perfection, showcasing the original features for which these homes are much sought-after. The unique A-frame roofline and chamferboard exterior have been given a thoroughly modern refresh. Inside, the hardwood timber floors have been polished to perfection and are beautifully contrasted by the fresh, neutral walls. The home is bright and airy, with the original privacy glass preserved meaning this abundance of natural light can be enjoyed. With generous storage and bench space, all with beautiful new finishes, the kitchen is perfect for enjoying time spent preparing and entertaining. Representing open plan living at its finest, the beautifully flowing living, kitchen and dining make for a comfortable and inviting home.
 

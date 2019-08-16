@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '11 Pevny Street, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/LdJdTDskHO_xhZVAkpBj_P41m70=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820500/111111951-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820512/111111951-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820511/111111951-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820510/111111951-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820509/111111951-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820508/111111951-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820507/111111951-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820506/111111951-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820505/111111951-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820504/111111951-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820503/111111951-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820502/111111951-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820501/111111951-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820500/111111951-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435100/images'
 property_id: '435100'
-id: 64abd52f-2c21-4392-b936-b0c0528d396d
+price_search: '459000.0'
+id: 6bc9d119-56b7-4e93-a6c6-bcfab0970863
+suburb: SALISBURY
 ---
 PRICED TO SELL at $459,000
 

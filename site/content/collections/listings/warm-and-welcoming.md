@@ -10,31 +10,11 @@ cars: 1
 status: Let
 address: '18 Sandeman Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/SWDwMWAaiexFICeL51SFJLRY5y4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825891/426658762-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825901/426658762-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825900/426658762-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825899/426658762-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825898/426658762-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825897/426658762-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825896/426658762-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825895/426658762-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825894/426658762-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825893/426658762-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825892/426658762-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825891/426658762-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435587/images'
 property_id: '435587'
-id: f6419c9b-2ad6-4759-b782-eadf1c429e8c
+price_search: null
+id: da21e33f-7228-4a2e-ab13-90f849668ceb
+suburb: 'ACACIA RIDGE'
 ---
 Set back from the lovely, quiet street, this three bedroom property has a warm and homely appeal. The lovely timber deck at the front of the house is welcoming, framing the home and providing a space to enjoy the morning sun. From the deck, you overlook the large, leafy and private front yard, where there is plenty of room for the kids to play. Inside, the light, bright and airy lounge room expands out to the front deck through lovely patio doors. The generous eat-in kitchen boasts plenty of storage and bench space, a standalone electric oven/stove combination and low-maintenance lino flooring. The house has been finished with white walls which offset the lovely timber flooring throughout. The perfect home to complement the lifestyle needs of a busy family, friends or couples alike. Adding uniqueness to the backyard, there is a quaint workshop building, with built in bench, perfect for the handyman. With tall palm trees and a lion-head water feature on the surrounding wall, this paved area gives the ambience of a being in a Spanish courtyard.
 

@@ -10,25 +10,11 @@ cars: 1
 status: Sold
 address: '5 / 18 Gainsborough Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/T-dxUsmtLInV69VHmorcs4CXGB4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819372/105651424-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819379/105651424-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819378/105651424-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819377/105651424-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819376/105651424-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819375/105651424-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819374/105651424-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819373/105651424-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819372/105651424-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434963/images'
 property_id: '434963'
-id: 3fa6a0ee-4434-4a04-a64a-ae8e9c39c7db
+price_search: '359000.0'
+id: b3617594-e481-459e-b96a-161ff02cf675
+suburb: MOOROOKA
 ---
 This two bedroom unit situated on the 1st level at the rear is a first home owners dream. Only 3 years old and still like new
 

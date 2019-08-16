@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '17 Bartels Street, MOUNT GRAVATT'
 main_image: 'https://img.eagleagent.com.au/SLfVxkG-slG7p0roAqcWlPYG0Z8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819143/105313383-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819151/105313383-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819150/105313383-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819149/105313383-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819148/105313383-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819147/105313383-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819146/105313383-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819145/105313383-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819144/105313383-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819143/105313383-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434938/images'
 property_id: '434938'
-id: 1bc790fe-7f16-4910-98b8-dc32ff99dda0
+price_search: '419000.0'
+id: dc4c6611-d3f7-4e9b-9e0b-c8177a3f5c22
+suburb: 'MOUNT GRAVATT'
 ---
 Check this one out! Great value, entry level home!
 This three bedroom post war home is situated on 577sqm of land in a quiet leafy street.

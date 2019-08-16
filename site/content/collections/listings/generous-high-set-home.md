@@ -10,29 +10,11 @@ cars: 2
 status: Let
 address: '13 Celtis Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/zY-VG7M2bXRUexw5Zn0aU-VQgK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825326/424109998-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825335/424109998-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825334/424109998-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825333/424109998-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825332/424109998-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825331/424109998-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825330/424109998-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825329/424109998-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825328/424109998-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825327/424109998-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825326/424109998-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435533/images'
 property_id: '435533'
-id: 3601b6ff-f906-4322-bc3f-2a677e7ab7a3
+price_search: null
+id: f527e3c5-a4ff-423f-a606-c9163773e1f0
+suburb: 'ACACIA RIDGE'
 ---
 This lovely high-set home is situated in a quiet leafy pocket, a stone's throw from local parks and Acacia Ridge State School. This little corner of Acacia Ridge is popular with families as it is removed from the traffic and close to all the important amenities. The house itself is a private retreat, featuring a large, open-plan living and dining, flowing into the modern kitchen. This kitchen features lovely white cabinetry and stainless steel appliances. Polished timber floors throughout the living, dining, hallway and bedrooms gives this home an easy to maintain appeal. Additional value and attraction for this property is the additional fully enclosed space downstairs. Perfect for additional living space, a rumpus room or simply storage, this space is a great addition to an already generous home.
 

@@ -10,43 +10,11 @@ cars: 2
 status: Sold
 address: '28 Ingham Street, OXLEY'
 main_image: 'https://img.eagleagent.com.au/c8qQLXDrRTBIg_yL0swQxTmi5Go=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821085/125316470-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821101/125316470-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821100/125316470-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821099/125316470-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821098/125316470-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821097/125316470-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821096/125316470-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821095/125316470-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821094/125316470-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821093/125316470-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821092/125316470-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821091/125316470-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821090/125316470-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821089/125316470-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821088/125316470-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821087/125316470-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821086/125316470-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821085/125316470-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435155/images'
 property_id: '435155'
-id: a718a0ba-5931-49dc-bdbd-ab243f8a6e7d
+price_search: '380000.0'
+id: 60cf0bf8-6f98-4ea1-8616-6d6833a2bfe1
+suburb: OXLEY
 ---
 This is a rare opportunity to secure a generous parcel of land only 16km from Brisbane CBD. The Oxley area is exciting many investors and home owners for it's excellent services, amenities, connectivity and warm communities. This is a lovely 582sqm property and is situated next to a modern estate, reaping the benefits of overlooking the lush parkland. With approximately a 15.6m frontage and overall a flat block this is the perfect canvas to create your dream home.
 

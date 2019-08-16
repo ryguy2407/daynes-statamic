@@ -10,19 +10,11 @@ cars: 2
 status: Sold
 address: '3 / 11 Denman Street, GREENSLOPES'
 main_image: 'https://img.eagleagent.com.au/WVHQ7qZb6eJ6UgqAjBIPsmC362w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819259/105463279-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819263/105463279-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819262/105463279-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819261/105463279-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819260/105463279-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819259/105463279-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434951/images'
 property_id: '434951'
-id: 5848f0be-4ea6-462b-8715-c3dc44a1b432
+price_search: '509000.0'
+id: 5754837b-8db4-4212-bc00-82a4fcfd7d48
+suburb: GREENSLOPES
 ---
 This near new, three bedroom, two bathroom townhouse is located in a quiet Greenslopes street within a small complex of two townhouses and a renovated Queenslander.
 

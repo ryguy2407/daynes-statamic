@@ -10,21 +10,11 @@ cars: 2
 status: Let
 address: '2 / 11 Denman Street, GREENSLOPES'
 main_image: 'https://img.eagleagent.com.au/Fs-y84awrndfWXQvJERrZb37wLU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824354/403710893-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824359/403710893-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824358/403710893-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824357/403710893-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824356/403710893-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824355/403710893-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824354/403710893-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435426/images'
 property_id: '435426'
-id: 5641e72c-dab4-4bb2-9b59-5bbc62847b75
+price_search: null
+id: a02ca4e1-4b57-4d50-b9de-31d9548d82d1
+suburb: GREENSLOPES
 ---
 This near new, three bedroom, two bathroom townhouse is located within a small complex of two townhouses and a renovated Queenslander.
 

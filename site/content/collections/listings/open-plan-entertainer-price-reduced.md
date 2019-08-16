@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '106 Mitchell Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/YykqbA22-FcQX_BFrhamT_MiqUA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822103/117016619-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822110/117016619-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822109/117016619-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822108/117016619-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822107/117016619-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822106/117016619-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822105/117016619-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822104/117016619-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822103/117016619-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435240/images'
 property_id: '435240'
-id: 20385887-2dc2-4607-80f0-03aca26c0146
+price_search: '383000.0'
+id: 4d44a535-ce9f-43df-8902-802fd162aca8
+suburb: 'ACACIA RIDGE'
 ---
 Situated in a quiet and leafy pocket of Acacia Ridge, this home offers plenty of space to entertain friends and family. Built by Devine Homes, this property resides on a 431m2 block backing onto tranquil bush land.
 

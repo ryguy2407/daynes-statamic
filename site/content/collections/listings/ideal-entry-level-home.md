@@ -10,29 +10,11 @@ cars: 2
 status: Sold
 address: '15 Celtis Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/TGs9O3EqqNad84aaWr028_pZsLs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823185/118418007-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823194/118418007-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823193/118418007-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823192/118418007-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823191/118418007-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823190/118418007-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823189/118418007-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823188/118418007-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823187/118418007-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823186/118418007-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823185/118418007-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435320/images'
 property_id: '435320'
-id: 02069724-f319-49f5-9b97-a837966d2703
+price_search: '325000.0'
+id: de2801d3-db70-4498-a9cf-3e7546fbe12e
+suburb: 'ACACIA RIDGE'
 ---
 This three bedroom high-set home is situated on a generous 675sqm block in a quiet and leafy pocket of Acacia Ridge. This home presents a great opportunity for entry-level buyers who are willing to put in some work to value-add and give it their own personal touch. A comfortable home as is so renovate at your own pace.
 

@@ -10,39 +10,11 @@ cars: 2
 status: Let
 address: '119 Nursery Road, HOLLAND PARK WEST'
 main_image: 'https://img.eagleagent.com.au/-yXgt87EYY7fqPXG7ehoXoNoLQ0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824762/421338626-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824776/421338626-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824775/421338626-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824774/421338626-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824773/421338626-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824772/421338626-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824771/421338626-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824770/421338626-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824769/421338626-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824768/421338626-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824767/421338626-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824766/421338626-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824765/421338626-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824764/421338626-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824763/421338626-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824762/421338626-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435478/images'
 property_id: '435478'
-id: 77e9f3ec-b15e-4b89-add2-f17f93286ae9
+price_search: null
+id: 538580bf-3efb-4589-b64e-474c9ce8e6da
+suburb: 'HOLLAND PARK WEST'
 ---
 This spacious and functional family home is bright and full of light. Boasting attractive high ceilings, and fresh kitchen and bathroom, this is the perfect home to welcome guests and relax with your family. This home is being offered fully furnished, making it ideal for those relocating or starting the next chapter of their lives.
 

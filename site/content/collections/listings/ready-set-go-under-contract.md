@@ -10,29 +10,11 @@ cars: 1
 status: Sold
 address: '91 Mitchell Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/r1pM7odotymGTtA0chBGtzbqhEk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823163/118294267-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823172/118294267-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823171/118294267-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823170/118294267-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823169/118294267-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823168/118294267-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823167/118294267-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823166/118294267-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823165/118294267-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823164/118294267-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823163/118294267-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435318/images'
 property_id: '435318'
-id: 30723fde-9d2b-4d79-ac1e-20163462ff2a
+price_search: '369000.0'
+id: 9b4af050-9722-4689-9e87-3b0fdb6500c9
+suburb: 'ACACIA RIDGE'
 ---
 Situated in a quiet and leafy pocket of Acacia Ridge, this brick and tile home would make a perfect first home. Built by Devine Homes in 2000, this property resides on a neat and tidy 390m2 block.
 

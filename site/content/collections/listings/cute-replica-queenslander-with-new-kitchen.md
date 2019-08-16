@@ -10,21 +10,11 @@ cars: 1
 status: Sold
 address: '68 Myra Road, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/UTq5wJHFmdwceE8geoLmY5sWiB0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820226/107950876-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820231/107950876-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820230/107950876-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820229/107950876-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820228/107950876-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820227/107950876-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820226/107950876-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435073/images'
 property_id: '435073'
-id: 43a686cc-e1c0-429f-8b25-09aa240bfed1
+price_search: '449000.0'
+id: db764bf5-d0a2-4633-9de1-0e5261ad8660
+suburb: SALISBURY
 ---
 Situated in a quiet, leafy street, this lovely replica Queenslander is a must to inspect.
 

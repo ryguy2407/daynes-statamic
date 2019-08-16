@@ -10,39 +10,11 @@ cars: 3
 status: Sold
 address: '20 Nelson Street, COORPAROO'
 main_image: 'https://img.eagleagent.com.au/zsOpUtMmyVobucRCiOSDjvJonU0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820580/113011019-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820594/113011019-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820593/113011019-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820592/113011019-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820591/113011019-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820590/113011019-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820589/113011019-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820588/113011019-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820587/113011019-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820586/113011019-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820585/113011019-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820584/113011019-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820583/113011019-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820582/113011019-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820581/113011019-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820580/113011019-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435108/images'
 property_id: '435108'
-id: 81860a3f-f9bf-4957-8d07-0739ebf056d9
+price_search: '625000.0'
+id: 6ef77665-a54a-4b69-98f6-08061ed74a98
+suburb: COORPAROO
 ---
 This totally renovated home is exceptionally well presented with plenty of character features including ornate cornices, polished timber floors, picture rails and VJ's. This property does not require any more to be spent.
 

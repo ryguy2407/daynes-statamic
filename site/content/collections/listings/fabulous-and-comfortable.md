@@ -10,41 +10,11 @@ cars: 1
 status: Sold
 address: '10 Emily Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ikzBIxtY5NRAR1W1aJzqCA-LyIU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821918/128206250-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821933/128206250-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821932/128206250-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821931/128206250-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821930/128206250-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821929/128206250-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821928/128206250-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821927/128206250-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821926/128206250-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821925/128206250-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821924/128206250-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821923/128206250-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821922/128206250-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821921/128206250-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821920/128206250-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821919/128206250-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821918/128206250-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435223/images'
 property_id: '435223'
-id: 99f394be-4122-4abd-acfb-36d280fb1b7a
+price_search: '450000.0'
+id: 750b2a7f-3e31-4242-952c-ab6b9e910e90
+suburb: 'ACACIA RIDGE'
 ---
 Completely renovated and immaculately presented both inside and out, this home is one to fall in love with. The home is a classic of mid-century design, with open plan interiors offering liveability and lifestyle in excess. Stepping into the home, the tiled sunroom is both a lovely reception and an extension of the living area. The flowing open plan design integrates the living, dining and kitchen into an airy and functional space, perfect for easy entertaining and relaxation. The modern kitchen has been finished with granite benchtops and glossy two pac cabinetry, and equipped with stainless steel appliances. The tiled floor and finishes have been well-chosen to ensure a low-maintenance and convenient design in the kitchen. The original hardwood timber floors, for which these homes are much sought after, have been polished to perfection throughout the living, hallways and bedrooms.
 

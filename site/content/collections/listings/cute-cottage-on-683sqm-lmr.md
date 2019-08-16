@@ -10,27 +10,11 @@ cars: 3
 status: Active
 address: '340 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/-_Krr2QcBtW0vvd_rsWcF38twA8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822828/131074234-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822836/131074234-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822835/131074234-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822834/131074234-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822833/131074234-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822832/131074234-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822831/131074234-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822830/131074234-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822829/131074234-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822828/131074234-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435292/images'
 property_id: '435292'
-id: f4d10e9b-9df7-46c9-8fa7-40b8e0e1b29b
+price_search: '360000.0'
+id: ba633659-b825-45c3-80de-96b0f6d9ddf8
+suburb: 'ACACIA RIDGE'
 ---
 This cottage is situated on a fully-fenced block, surrounded by well maintained gardens and lawns. Perfect for families, the functional layout boasts a large eat-in kitchen, a spacious living area and all finished with low-maintenance polished timber floors. The two bedrooms are generously proportioned with ceiling fans, both include large wardrobe units. Currently tenanted, this is an ideal investment opportunity.
 

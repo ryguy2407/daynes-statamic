@@ -10,29 +10,11 @@ cars: 1
 status: Let
 address: '12 Dodds Street, MARGATE'
 main_image: 'https://img.eagleagent.com.au/DF0y21w9t7_WGfvdlCoLmRbP5Ok=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826020/414428531-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826029/414428531-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826028/414428531-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826027/414428531-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826026/414428531-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826025/414428531-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826024/414428531-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826023/414428531-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826022/414428531-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826021/414428531-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826020/414428531-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435601/images'
 property_id: '435601'
-id: 77a3cfe9-04c4-4dda-8202-7b0ca7d02da2
+price_search: null
+id: c7f6667c-9205-41b4-8a5f-a9a2b4e3804d
+suburb: MARGATE
 ---
 This 3 bedroom house is now available for rent.
 

@@ -1,0 +1,3 @@
+fields:
+  collection_to_index:
+    type: collections

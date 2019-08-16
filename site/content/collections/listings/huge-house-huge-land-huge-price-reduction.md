@@ -10,39 +10,11 @@ cars: 6
 status: Sold
 address: '7 Mason Court, SAMSONVALE'
 main_image: 'https://img.eagleagent.com.au/yu8at2hutpaBltXNw1kwVHExtBI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820042/107156624-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820056/107156624-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820055/107156624-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820054/107156624-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820053/107156624-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820052/107156624-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820051/107156624-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820050/107156624-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820049/107156624-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820048/107156624-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820047/107156624-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820046/107156624-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820045/107156624-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820044/107156624-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820043/107156624-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820042/107156624-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435056/images'
 property_id: '435056'
-id: e1e8e012-7d4c-4863-b221-523f684a9c64
+price_search: '790000.0'
+id: ce16cf7c-3983-4d17-9c05-d81d531255ce
+suburb: SAMSONVALE
 ---
 ***The owner has reduced the price from $839,000 to now best offer over $790,000. Don't miss your chance! ***
 

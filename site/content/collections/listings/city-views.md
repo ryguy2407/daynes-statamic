@@ -10,41 +10,11 @@ cars: 3
 status: Sold
 address: '209 Mortimer Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/AMoXGCPCo9hHW_qx5aCecD8jMfk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821102/125157758-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821117/125157758-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821116/125157758-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821115/125157758-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821114/125157758-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821113/125157758-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821112/125157758-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821111/125157758-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821110/125157758-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821109/125157758-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821108/125157758-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821107/125157758-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821106/125157758-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821105/125157758-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821104/125157758-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821103/125157758-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821102/125157758-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435156/images'
 property_id: '435156'
-id: 4aed30ce-94ef-40d5-9095-adfc35ee832a
+price_search: '420000.0'
+id: 1d7a1ab9-4c39-4fe0-b3e6-7f40c0523290
+suburb: 'ACACIA RIDGE'
 ---
 This stunning family home has been thoughtfully renovated to create functional and warm surrounds. Making the most of the elevated outlook over parkland with CBC views, the front deck is perfect for those who entertain. This deck flows effortlessly from the large, open plan kitchen and living spaces. The kitchen has been beautifully finished with attractive white two pac cabinetry and a layout ideally suited to busy families. From the kitchen is the large living space; these generously proportioned rooms perfectly showcasing the polished timber floors. Continuing through to the back of the house is another beautiful timber deck overlooking the leafy backyard. This home has multiple spaces for entertaining, relaxing and playing, and is sure to tick all the boxes for those looking for a value-packed home.
 

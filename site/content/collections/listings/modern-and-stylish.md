@@ -10,33 +10,11 @@ cars: 1
 status: Active
 address: '34 Dellow Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/syrmLUrdQOvndmFP9A54cNW8lrw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822978/131530534-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822989/131530534-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822988/131530534-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822987/131530534-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822986/131530534-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822985/131530534-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822984/131530534-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822983/131530534-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822982/131530534-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822981/131530534-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822980/131530534-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822979/131530534-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822978/131530534-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435303/images'
 property_id: '435303'
-id: 35b08b7c-aca8-4248-b2ba-05bec1b39160
+price_search: '399000.0'
+id: 3bc1c377-fb88-4cd4-a141-ad81df0c9fb7
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented home offers a rarely found opportunity to secure a property ready to complement those at any stage of their investment journey. Whether first home buyer, up-sizer or investor, this lovely home is the complete package with nothing left to do. Open plan living areas flow from the front to the back of the home, with lovely flow and connection between the living dining and kitchen. Truly an entertainers delight, the stylish kitchen and living open out to an undercover patio area, making for easy times with family and friends. The patio is protected from the elements with an insulated roof and overlooks the immaculately presented backyard.
 

@@ -10,25 +10,11 @@ cars: 3
 status: Sold
 address: '104 Dalmeny Street, ALGESTER'
 main_image: 'https://img.eagleagent.com.au/JYZeyeh2UB4CN00pKpsdDSFzgzU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820300/108710601-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820307/108710601-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820306/108710601-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820305/108710601-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820304/108710601-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820303/108710601-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820302/108710601-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820301/108710601-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820300/108710601-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435081/images'
 property_id: '435081'
-id: adbd85e1-3f38-41b6-8f26-f5772a4c6ede
+price_search: '359000.0'
+id: 64d2df00-f4c6-4c08-8550-26e720cb63f8
+suburb: ALGESTER
 ---
 Forget all previous price indications - Owner Instructions are clear - This house must be sold!
 

@@ -10,43 +10,11 @@ cars: 2
 status: Sold
 address: '44 Melia Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/8giFa4SJD5Rnp6ODaDqYHZ7msCA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819168/105362320-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819184/105362320-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819183/105362320-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819182/105362320-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819181/105362320-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819180/105362320-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819179/105362320-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819178/105362320-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819177/105362320-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819176/105362320-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819175/105362320-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819174/105362320-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819173/105362320-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819172/105362320-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819171/105362320-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819170/105362320-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819169/105362320-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819168/105362320-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434941/images'
 property_id: '434941'
-id: 7e6904e8-4371-4f58-aef0-a3fc275574c1
+price_search: '369000.0'
+id: 4965e6d0-c717-434b-9048-8ffe696bbc28
+suburb: 'ACACIA RIDGE'
 ---
 You will be impressed by this just renovated four bedroom home on 582sqm in Acacia Ridge
 This home would be ideal for a large family looking for great value with room to move.

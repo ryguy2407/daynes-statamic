@@ -10,31 +10,11 @@ cars: 2
 status: Sold
 address: '24 Melia Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/tKYmtXmB0u3usX7N4r8HOez69Q0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823309/119787219-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823319/119787219-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823318/119787219-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823317/119787219-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823316/119787219-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823315/119787219-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823314/119787219-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823313/119787219-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823312/119787219-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823311/119787219-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823310/119787219-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823309/119787219-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435331/images'
 property_id: '435331'
-id: 0f49e8e5-eb90-4bcb-b3d3-72e468d89ded
+price_search: '369000.0'
+id: dbf4fe28-dace-41a4-8fef-482620c97a84
+suburb: 'ACACIA RIDGE'
 ---
 This lovely high set home is located in a quiet and leafy pocket of Acacia Ridge. Relax on the front north-east facing balcony and enjoy a leafy and elevated outlook or entertain in your spacious barbecue area. Featuring highly liveable indoor and outdoor spaces for families, there is plenty of potential in this investment.
 

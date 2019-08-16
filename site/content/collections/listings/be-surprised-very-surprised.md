@@ -10,27 +10,11 @@ cars: 0
 status: Sold
 address: '292 Archerfield Road, RICHLANDS'
 main_image: 'https://img.eagleagent.com.au/kK9NsdZPY_d2DBG4sXuhbKrH728=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820794/113961251-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820802/113961251-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820801/113961251-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820800/113961251-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820799/113961251-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820798/113961251-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820797/113961251-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820796/113961251-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820795/113961251-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820794/113961251-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435131/images'
 property_id: '435131'
-id: 13671a28-d4b8-4f3c-b0b1-8b7a35b4c074
+price_search: '799000.0'
+id: cf6d8b69-fe3a-42d7-94ed-b8e77d838745
+suburb: RICHLANDS
 ---
 Richlands Investment Opportunity
 

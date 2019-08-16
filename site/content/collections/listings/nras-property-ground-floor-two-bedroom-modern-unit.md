@@ -10,29 +10,11 @@ cars: 2
 status: Let
 address: '329 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/htWDtoJLnxRVKFYKmUlmjZ7t9go=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826712/419476254-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826721/419476254-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826720/419476254-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826719/419476254-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826718/419476254-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826717/419476254-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826716/419476254-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826715/419476254-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826714/419476254-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826713/419476254-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826712/419476254-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435682/images'
 property_id: '435682'
-id: f10a9fba-82bb-4165-b478-9c18ffb745a2
+price_search: null
+id: 967662a6-d785-445c-b4ed-7839305a8870
+suburb: SALISBURY
 ---
 ** This is a NRAS property - Please check eligibility requirements before making an enquiry **
 

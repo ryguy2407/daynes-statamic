@@ -10,28 +10,10 @@ cars: 1
 status: Sold
 address: '3 / 94 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/yaNF7fgmlU6sKb6JJW_R_ZlwyQc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817977/103747918-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817986/103747918-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817985/103747918-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817984/103747918-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817983/103747918-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817982/103747918-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817981/103747918-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817980/103747918-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817979/103747918-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817978/103747918-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6817977/103747918-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434778/images'
 property_id: '434778'
-id: 8ea3de20-2a65-4445-991b-82086e098bd9
+price_search: '299000.0'
+id: a6b852c3-8965-49f7-802d-aa738ce21dfe
+suburb: SALISBURY
 ---
 This three-bedroom, free-standing townhouse in a complex of four is sure to please. At only seven years old, it offers a spacious and functional kitchen with plenty of cupboard space. It also includes a single lock-up garage, a generously-sized courtyard with patio and a balcony off the main bedroom. Located close to all amenities whilst only 9 km from the CBD.

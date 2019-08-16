@@ -10,29 +10,11 @@ cars: 2
 status: Sold
 address: '27 Coolbart Court, GREENBANK'
 main_image: 'https://img.eagleagent.com.au/DKhmBiA31_PmqDsX6WU0pB3PBTw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818349/104359521-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818358/104359521-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818357/104359521-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818356/104359521-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818355/104359521-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818354/104359521-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818353/104359521-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818352/104359521-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818351/104359521-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818350/104359521-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818349/104359521-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434853/images'
 property_id: '434853'
-id: 2c4da63d-8c35-4d1f-aa91-55559e13b66e
+price_search: '570000.0'
+id: 2e61ab3e-80cb-495e-ab65-66aa81c51093
+suburb: GREENBANK
 ---
 Acreage In Greenbank - Close to all Amenities
 

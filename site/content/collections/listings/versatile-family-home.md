@@ -10,39 +10,11 @@ cars: 3
 status: Sold
 address: '191 Mortimer Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/m5Og3GLPQA1rVixXs6NRLUBMTkA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822033/128490006-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822047/128490006-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822046/128490006-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822045/128490006-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822044/128490006-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822043/128490006-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822042/128490006-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822041/128490006-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822040/128490006-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822039/128490006-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822038/128490006-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822037/128490006-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822036/128490006-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822035/128490006-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822034/128490006-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822033/128490006-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435233/images'
 property_id: '435233'
-id: f343f572-a674-4951-a275-e1b9b2c53fb2
+price_search: '475000.0'
+id: e93337d4-002b-4086-b483-62fb820bf10f
+suburb: 'ACACIA RIDGE'
 ---
 This property is perfect for those who are seeking a little extra bang for their buck! Brilliantly situated on Mortimer Road for exposure and convenience, and renovated to maximise the useful spaces, this home is a must-see. The unique value of this property is in the cleverly converted downstairs spaces. Beyond the lock up double tandem garage, there are multiple rooms suitable for a variety of uses. Combined with the exposure of the property, these spaces would be ideal for those running their business from home. The home has great street appeal, set amongst lovely manicured gardens and lawns.
 

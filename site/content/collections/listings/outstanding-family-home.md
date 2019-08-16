@@ -10,37 +10,11 @@ cars: 1
 status: Let
 address: '56 Sussex Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ZsURefRiIkrHBs3NWzgs5P-UQQ4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825543/425292514-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825556/425292514-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825555/425292514-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825554/425292514-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825553/425292514-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825552/425292514-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825551/425292514-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825550/425292514-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825549/425292514-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825548/425292514-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825547/425292514-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825546/425292514-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825545/425292514-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825544/425292514-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825543/425292514-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435554/images'
 property_id: '435554'
-id: bcff61e8-f3b0-45fe-83b6-bd9838f16b7f
+price_search: null
+id: 980d391b-8bc8-491e-bdb8-439f62f5e9b6
+suburb: 'ACACIA RIDGE'
 ---
 Set back from the street and privately tucked away behind attractive lattice work to the front of the home, this is a lovely setting for a growing family. The home boasts an abundance of space for entertaining and relaxing amongst the gorgeous manicured gardens. No detail has been left unattended in this lovingly cared for property. The spacious open plan living and dining room is bright and airy, with the beautiful custom-made folding doors opening up to the shady front patio. The generous spaces do not end there, with the living area also stepping out to a wonderful outdoor entertaining area complete with a fully insulated ceiling and privacy screens surrounding. The kitchen and bathroom are fresh and modern, perfectly complimenting this beautifully finished property. You will not want to miss this opportunity!
 

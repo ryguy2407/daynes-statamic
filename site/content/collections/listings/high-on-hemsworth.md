@@ -10,31 +10,11 @@ cars: 2
 status: Sold
 address: '47 Hemsworth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ezIiAkrxxyOAe01RenvPqOlcP_A=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823756/123691418-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823766/123691418-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823765/123691418-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823764/123691418-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823763/123691418-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823762/123691418-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823761/123691418-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823760/123691418-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823759/123691418-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823758/123691418-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823757/123691418-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823756/123691418-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435370/images'
 property_id: '435370'
-id: 0824fd99-779a-4146-be7d-bde6641e862c
+price_search: '420000.0'
+id: 42a73ead-67c0-4966-bd29-be6d272d45ae
+suburb: 'ACACIA RIDGE'
 ---
 Sitting proudly at the top of one of Acacia Ridge's most sought-after streets is this high-set clad home, sure to be the delight of those seeking a little more from their next investment. A generous family home upstairs with bright, open-plan living and kitchen areas, beautifully off-set by the polished timber floors. The bedrooms are all good-sized and the bathroom is modern, perfect for a growing family. Under the house has been enclosed and converted into three rooms, perfect to utilise as rentable accommodation and complimented by kitchenette and modern bathroom.
 

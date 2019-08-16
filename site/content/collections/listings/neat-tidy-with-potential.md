@@ -10,27 +10,11 @@ cars: 1
 status: Sold
 address: '17 Olivine Place, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DPPBkvoPBKHlyPv1MHKOLt2zHzo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821330/116779323-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821338/116779323-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821337/116779323-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821336/116779323-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821335/116779323-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821334/116779323-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821333/116779323-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821332/116779323-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821331/116779323-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821330/116779323-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435174/images'
 property_id: '435174'
-id: 0ed1ac29-c07d-4901-952b-04b76ec9d383
+price_search: '290000.0'
+id: 2770cfbd-4d96-4490-8609-98355a827dbc
+suburb: 'ACACIA RIDGE'
 ---
 Check out this neat and tidy three bedroom home situated on a 674sqm block in a quiet area of Acacia Ridge.
 

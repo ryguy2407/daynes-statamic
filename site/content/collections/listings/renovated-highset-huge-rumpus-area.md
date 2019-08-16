@@ -10,35 +10,11 @@ cars: 2
 status: Let
 address: '47 Hemsworth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/GfAW6SWOFYsIk_CVsZmkbO-JPq0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824997/422745910-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825009/422745910-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825008/422745910-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825007/422745910-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825006/422745910-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825005/422745910-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825004/422745910-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825003/422745910-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825002/422745910-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825001/422745910-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825000/422745910-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824999/422745910-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824998/422745910-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824997/422745910-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435503/images'
 property_id: '435503'
-id: 69d36bb1-90f5-4385-8110-52bdef6fc524
+price_search: null
+id: 0c6a411a-5b4e-4989-8e75-afe416385108
+suburb: 'ACACIA RIDGE'
 ---
 This high-set clad home sits proudly at the top of one of Acacia Ridge's most sought-after streets. A generous family home upstairs with bright, open-plan living and kitchen areas, beautifully off-set by polished timber floors. The bedrooms are all good-sized and the bathroom is modern and beautifully presented. Under the house has been enclosed and tiled, featuring two large rooms, bathroom and kitchenette.
 

@@ -4,31 +4,17 @@ property_type: Apartment
 listing_type: residential_sale
 price: ''
 rent: null
-bedrooms: 1
-bathrooms: 1
+bedrooms: 2
+bathrooms: 2
 cars: 1
 status: Sold
-address: '610 / 289 Grey Street, SOUTH BANK'
-main_image: 'https://img.eagleagent.com.au/RTEcmhVkm8428zGMl85EUOZli7c=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820755/125465690-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820762/125465690-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820761/125465690-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820760/125465690-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820759/125465690-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820758/125465690-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820757/125465690-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820756/125465690-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820755/125465690-image-M.jpg'
-property_id: '435128'
-id: 3f8c2ceb-f92a-4be1-998e-847e4e4b5d48
+address: '808 / 289 Grey Street, SOUTH BANK'
+main_image: 'https://img.eagleagent.com.au/lM0XDKqb6l-akLDTK_SZRXCp_dc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820763/125170178-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435129/images'
+property_id: '435129'
+price_search: '799000.0'
+id: 69c31be9-4189-4b84-9544-4001c3cbe762
+suburb: 'SOUTH BANK'
 ---
 The Southpoint Towers are the most highly anticipated and high profile developments due for completion in 2017. This apartment represents a rare opportunity to secure a precious piece of Brisbane's’ vibrant riverfront community. Situated in the cultural hub of Brisbane and a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

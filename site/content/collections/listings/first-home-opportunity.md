@@ -10,29 +10,11 @@ cars: 3
 status: Sold
 address: '20 Dunkeld Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/28rVOxjtY1SCm1MQ--G-dnIeFj4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824041/115089487-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824050/115089487-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824049/115089487-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824048/115089487-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824047/115089487-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824046/115089487-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824045/115089487-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824044/115089487-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824043/115089487-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824042/115089487-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824041/115089487-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435389/images'
 property_id: '435389'
-id: 1b479f4b-7e13-4f94-8d5c-2eb471c44541
+price_search: '325000.0'
+id: 9b0755db-4edb-4c32-8238-34ddc9f56c89
+suburb: 'ACACIA RIDGE'
 ---
 This well maintained, 3 bedroom home with 3 car lock up garage is well worth your immediate inspection.
 

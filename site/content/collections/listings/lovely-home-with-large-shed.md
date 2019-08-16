@@ -10,21 +10,11 @@ cars: 3
 status: Let
 address: '59 Whittingham Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/CLfczJh9IWlxaRQ2cpLzEWrAvLQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824914/422088166-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824919/422088166-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824918/422088166-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824917/422088166-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824916/422088166-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824915/422088166-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824914/422088166-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435494/images'
 property_id: '435494'
-id: a4ecaaf9-b7b8-47be-bf70-7ccd390a7ef4
+price_search: null
+id: efa89b02-0926-44fc-8147-1c72f0c7e1d1
+suburb: 'ACACIA RIDGE'
 ---
 This cute two bedroom cottage is situated in a quiet and leafy pocket of Acacia Ridge.
 

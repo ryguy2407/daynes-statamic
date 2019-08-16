@@ -10,31 +10,11 @@ cars: 1
 status: Let
 address: '42 Mitchell Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/f5zS8D7QHwFdBOHaR1WP6csiD1g=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825240/423774422-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825250/423774422-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825249/423774422-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825248/423774422-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825247/423774422-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825246/423774422-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825245/423774422-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825244/423774422-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825243/423774422-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825242/423774422-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825241/423774422-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825240/423774422-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435526/images'
 property_id: '435526'
-id: 31634ea5-4dbc-4156-9580-63311abe152e
+price_search: null
+id: 7a4469ca-686c-4e04-bca5-5176ec82e237
+suburb: 'ACACIA RIDGE'
 ---
 This large, beautifully presented home is situated on a generous block allowing plenty of space for families. With a large living area, good-sized kitchen and three bedrooms, this property offers more space than most in the area. Completely repainted and newly tiled throughout, this is a fresh and convenient home. The bathroom and kitchen have also been updated. Within walking distance to a great range of local amenities and public transport, this is a great location.
 

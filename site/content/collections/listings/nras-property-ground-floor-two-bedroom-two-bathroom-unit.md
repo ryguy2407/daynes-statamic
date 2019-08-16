@@ -2,33 +2,19 @@
 title: 'NRAS Property - Ground Floor Two Bedroom, Two Bathroom Unit'
 property_type: Apartment
 listing_type: residential_rental
-price: $315pw
-rent: '315.0'
+price: $306
+rent: '306.0'
 bedrooms: 2
 bathrooms: 2
-cars: 2
+cars: 1
 status: Let
 address: '329 Lillian Avenue, SALISBURY'
-main_image: 'https://img.eagleagent.com.au/oefJEpteo-TSNYF8u9gTxmAptF4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826223/416026633-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826230/416026633-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826229/416026633-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826228/416026633-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826227/416026633-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826226/416026633-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826225/416026633-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826224/416026633-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826223/416026633-image-M.jpg'
-property_id: '435627'
-id: 8520fef2-8510-467e-9df6-687f00d0fba7
+main_image: 'https://img.eagleagent.com.au/O8tmAzdeCABOoEp5dYGZyf2fsTw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826284/416336929-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435634/images'
+property_id: '435634'
+price_search: null
+id: 6f353102-c4b5-4069-90c5-d7c39abd5013
+suburb: SALISBURY
 ---
 Ground Floor Two Bedroom Unit, Close To Griffith Uni
 
@@ -42,7 +28,7 @@ w ww.nras.communities.qld.gov.au
 * Stainless steel appliances
 * Patio with huge courtyard
 * Air-conditioning in living area
-* Secure remote car parking + storage garage
+* Secure remote car parking
 * Swimming pool and tennis court within complex
 * On-site management
 * Situated close to Griffith University, ALDI Shopping Centre, public transport and Garden City

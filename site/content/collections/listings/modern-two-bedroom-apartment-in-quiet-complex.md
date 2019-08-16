@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '14 / 329 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/bsp_NzxcSCYvDBqa3Ow7hLX-69I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822555/117300447-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822563/117300447-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822562/117300447-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822561/117300447-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822560/117300447-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822559/117300447-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822558/117300447-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822557/117300447-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822556/117300447-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822555/117300447-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435274/images'
 property_id: '435274'
-id: 39ffc379-26ac-4de9-939b-0edcfaedc887
+price_search: '359000.0'
+id: de035e05-3db4-470e-9bad-643141094680
+suburb: SALISBURY
 ---
 Act now to secure this terrific investment opportunity or to live with great convenience in Salisbury.
 

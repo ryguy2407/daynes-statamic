@@ -10,33 +10,11 @@ cars: 2
 status: Sold
 address: '275 Mortimer Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/N6xogFx_20wIzHO_-ekucoXkOBo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823244/118742755-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823255/118742755-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823254/118742755-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823253/118742755-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823252/118742755-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823251/118742755-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823250/118742755-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823249/118742755-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823248/118742755-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823247/118742755-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823246/118742755-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823245/118742755-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823244/118742755-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435326/images'
 property_id: '435326'
-id: 7d358aec-f07f-4a77-8a55-3c3834d59672
+price_search: '425000.0'
+id: 96b7fe17-0969-4452-b4eb-550ea7d7228d
+suburb: 'ACACIA RIDGE'
 ---
 Invite your guests into this spacious and lovingly kept home. This property is complete with large entertaining areas, including open-plan kitchen, dining and informal living stepping out to undercover paved outdoor area. This well thought-out home features plenty of space for a growing family with functional and adaptable spaces and good-sized bedrooms.
 

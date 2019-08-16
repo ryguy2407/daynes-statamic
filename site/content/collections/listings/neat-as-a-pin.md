@@ -10,33 +10,11 @@ cars: 1
 status: Sold
 address: '16 Annear Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/S3Ua0_OHOG6A94etxU5GCJ470Es=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821350/116781523-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821361/116781523-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821360/116781523-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821359/116781523-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821358/116781523-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821357/116781523-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821356/116781523-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821355/116781523-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821354/116781523-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821353/116781523-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821352/116781523-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821351/116781523-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821350/116781523-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435176/images'
 property_id: '435176'
-id: a729371a-05b9-4922-8c4c-cba6a0ce5548
+price_search: '369000.0'
+suburb: 'ACACIA RIDGE'
+id: af85e37d-d90f-4087-a571-3f105763b4ac
 ---
 You decide whether you would like to develop the site as it is zoned LMR on 607m2, live in it or simply rent it.
 

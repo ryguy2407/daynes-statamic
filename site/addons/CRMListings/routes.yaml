@@ -1,2 +1,12 @@
 routes:
-  /: index
+  index:
+    uses: index
+    as: index
+
+  sync:
+    uses: syncListings
+    as: sync
+
+  create:
+    uses: create
+    as: create

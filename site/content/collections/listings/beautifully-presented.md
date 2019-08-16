@@ -10,29 +10,11 @@ cars: 2
 status: Let
 address: '6 Dunkeld Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/cHipPykN4FqI-_H6_aB3PG6x3i8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824824/421661750-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824833/421661750-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824832/421661750-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824831/421661750-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824830/421661750-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824829/421661750-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824828/421661750-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824827/421661750-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824826/421661750-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824825/421661750-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824824/421661750-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435484/images'
 property_id: '435484'
-id: 30a6e2ef-1e98-475a-86e3-b396e03c09f5
+price_search: null
+id: c7aaadf1-d0a4-4a74-ac77-cdb7e68ba655
+suburb: 'ACACIA RIDGE'
 ---
 Nestled amongst the trees in a quiet pocket of Acacia Ridge is this private family home. Full of light and beautifully presented, there is plenty of room to relax in the open plan interiors and generous veranda. The open-plan living and dining flow out to the timber veranda, overlooking the leafy backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light and neutral colours on the walls making each space feel fresh and bright. With plenty of room for a growing family and clean finishes, this property is perfect for those who are after a home to be proud of.
 

@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '5 Corkwood Street, ALGESTER'
 main_image: 'https://img.eagleagent.com.au/Fdni0LLXxqiigI7r-wPgmrE2-34=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822083/116968255-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822095/116968255-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822094/116968255-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822093/116968255-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822092/116968255-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822091/116968255-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822090/116968255-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822089/116968255-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822088/116968255-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822087/116968255-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822086/116968255-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822085/116968255-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822084/116968255-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822083/116968255-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435238/images'
 property_id: '435238'
-id: 1eda2f12-08f6-4395-850e-b1b4ad560156
+price_search: '440000.0'
+id: e6899803-53de-4bf8-bf36-146959af0f62
+suburb: ALGESTER
 ---
 This lovely two story brick and tile home is conveniently positioned in the heart of Algester.
 The house itself backs onto Timberland Park - a rarity in Algester. Well maintained, it has been designed with flexible living in mind and would suit any family or professional couples.

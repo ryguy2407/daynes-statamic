@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '24 Hanify Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/8e6beizfXpB9gliB_c0BwNXRmec=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822541/130838834-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822554/130838834-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822553/130838834-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822552/130838834-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822551/130838834-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822550/130838834-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822549/130838834-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822548/130838834-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822547/130838834-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822546/130838834-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822545/130838834-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822544/130838834-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822543/130838834-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822542/130838834-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822541/130838834-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435273/images'
 property_id: '435273'
-id: 816e102f-7b65-40ac-be58-a8249e4bbb75
+price_search: '399000.0'
+id: 82496e38-159f-45fc-aebc-368eb18019cb
+suburb: 'ACACIA RIDGE'
 ---
 This neat low-set property is your chance to secure a spacious family home in a quiet neighbourhood.  Situated on a generous 675sqm block, surrounded by lovingly cared for gardens and lawns, this home has lovely street appeal. An entertainers delight, this home boasts two outdoor spaces perfect for enjoying the company of family and friends. The timber deck to the front of the home steps off the open-plan living and dining, expanding and adding light to an already well-proportioned space. The back undercover patio overlooks the grassy backyard and is a cool, private retreat to be enjoyed. Internally, two separate living spaces allow for plenty of space for growing families, or even the option to convert to a self contained home office. The kitchen, while dated, is functional and provides ample space to service the home. The three bedrooms are privately set to the rear of the home, all overlooking the grassy surrounds.
 

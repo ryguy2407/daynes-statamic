@@ -10,27 +10,11 @@ cars: 1
 status: Let
 address: '3 Galah Street, ROCKLEA'
 main_image: 'https://img.eagleagent.com.au/v3f60L8Jd1ZbP4joZXsOtjuK-_Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824671/420524438-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824679/420524438-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824678/420524438-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824677/420524438-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824676/420524438-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824675/420524438-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824674/420524438-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824673/420524438-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824672/420524438-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824671/420524438-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435468/images'
 property_id: '435468'
-id: 333dcd28-882a-4b19-90ce-594cddbad777
+price_search: null
+id: 6f0c0f73-4972-4997-a408-919028a14f5a
+suburb: ROCKLEA
 ---
 This beautifully presented, low maintenance property is perfect for those who are after a spacious home without sacrificing convenience. Situated close to transport, Brisbane Markets, leafy parks and a great range of amenities, this property really can offer it all.
 

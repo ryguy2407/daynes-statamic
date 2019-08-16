@@ -2,35 +2,19 @@
 title: 'Fresh Easy Living'
 property_type: House
 listing_type: residential_rental
-price: '$385 per week'
-rent: '385.0'
+price: '$370 per week'
+rent: '370.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
 status: Let
 address: '25 Rothesay Street, ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/JoJDaqGd_MieJSAvRN6JFGDpeiA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826580/418638270-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826588/418638270-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826587/418638270-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826586/418638270-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826585/418638270-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826584/418638270-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826583/418638270-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826582/418638270-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826581/418638270-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826580/418638270-image-M.jpg'
-property_id: '435667'
-id: cbcc13da-f440-4d1d-9dce-bb12c57ce1f7
+main_image: 'https://img.eagleagent.com.au/Va3YOGe-JQ5C3XTBgMT9NjW7BOk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826677/419243538-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435678/images'
+property_id: '435678'
+price_search: null
+id: 603b2545-0b49-4613-a0a0-0fe26eb6095c
+suburb: 'ACACIA RIDGE'
 ---
 This newly renovated low-set family home has been meticulously and beautifully presented. The perfect property for families, the house boasts plenty of storage and low-maintenance living. This home has been completely renovated though out with fresh paint internally and externally, newly polished timber floors to living and kitchen, new carpets to bedrooms and a new kitchen and bathroom.
 

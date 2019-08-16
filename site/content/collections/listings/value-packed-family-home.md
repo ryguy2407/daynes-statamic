@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '4 Croome Close, ASPLEY'
 main_image: 'https://img.eagleagent.com.au/CQTzn5UWmLq8SrOmAMoaa7vXPSk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820387/109802441-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820394/109802441-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820393/109802441-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820392/109802441-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820391/109802441-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820390/109802441-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820389/109802441-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820388/109802441-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820387/109802441-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435089/images'
 property_id: '435089'
-id: 76c240ae-219c-4261-bb8c-ce23ccd74e9d
+price_search: '549000.0'
+id: 9ffe452e-d77a-404b-b57e-65a1bab954c7
+suburb: ASPLEY
 ---
 This four bedroom brick and tile home is situated on 716sqm block in a quiet cul-de-sac in this prestigious part of Aspley Grove.
 

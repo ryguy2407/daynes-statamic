@@ -10,23 +10,11 @@ cars: 1
 status: Let
 address: '69 Cripps Street, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/mCiqiCIxQ8-_k2RXe9jVdRJH8M0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825960/413627851-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825966/413627851-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825965/413627851-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825964/413627851-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825963/413627851-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825962/413627851-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825961/413627851-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825960/413627851-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435594/images'
 property_id: '435594'
-id: 28c92c45-0172-409d-838c-b6b3e8f0657b
+price_search: null
+id: 9fecd439-9e41-499c-9a63-32528d062460
+suburb: SALISBURY
 ---
 Features;
 * Two bedrooms with ceiling fans

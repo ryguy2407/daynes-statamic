@@ -10,41 +10,11 @@ cars: 1
 status: Sold
 address: '27 Antrim Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Sty-XypjhLUmzanREED1Sd7et0I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820970/124506342-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820985/124506342-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820984/124506342-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820983/124506342-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820982/124506342-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820981/124506342-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820980/124506342-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820979/124506342-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820978/124506342-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820977/124506342-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820976/124506342-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820975/124506342-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820974/124506342-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820973/124506342-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820972/124506342-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820971/124506342-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820970/124506342-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435147/images'
 property_id: '435147'
-id: e66ec08f-1c1d-4fe5-9c4f-bac24dc8bc81
+price_search: '385000.0'
+id: 25e91f76-e605-4de8-820b-2b6bb110da05
+suburb: 'ACACIA RIDGE'
 ---
 This low-set and low maintenance brick bungalow ticks all the boxes for families and investors alike. Set in immaculately presented gardens in a quiet pocket of Acacia Ridge, this property offers privacy and convenience, all on the one level! This home is well proportioned for comfortable family living, with plenty of space for outdoor and indoor entertaining and relaxing. The open plan kitchen and dining spaces are generous and flow out to the large under cover paved patio. This patio is an entertainers delight, featuring a built in barbecue and seating, all overlooking the beautiful gardens and lawn.
 

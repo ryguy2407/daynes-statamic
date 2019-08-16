@@ -10,37 +10,11 @@ cars: 2
 status: Active
 address: '1 / 329 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/rSnzocTEqmobS5UvWyB1vu-a03k=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822880/131315190-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822893/131315190-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822892/131315190-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822891/131315190-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822890/131315190-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822889/131315190-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822888/131315190-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822887/131315190-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822886/131315190-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822885/131315190-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822884/131315190-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822883/131315190-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822882/131315190-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822881/131315190-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822880/131315190-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435297/images'
 property_id: '435297'
-id: 344af17d-3b79-4fdc-85c2-48f43632aafb
+price_search: '389000.0'
+id: f2cbcfa2-b20d-468f-b4c3-b43840bb6b21
+suburb: SALISBURY
 ---
 This modern unit is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 

@@ -10,27 +10,11 @@ cars: 1
 status: Sold
 address: '21 Courtice Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/pvNWQ21pTeveqGsTTpqOXYjSSuQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821582/126729526-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821590/126729526-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821589/126729526-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821588/126729526-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821587/126729526-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821586/126729526-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821585/126729526-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821584/126729526-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821583/126729526-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821582/126729526-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435194/images'
 property_id: '435194'
-id: 99997e78-c969-4a78-8d0a-a29ff8a00ac4
+price_search: '340000.0'
+id: d552b3cb-9b0a-42cf-918f-f913c333dca9
+suburb: 'ACACIA RIDGE'
 ---
 This neat low-set property is your chance to secure what has been the setting of many happy family memories. Situated on a generous 673sqm block, behind the tidy timber fence and surrounded by lovingly cared for gardens and lawns, this home has lovely street appeal. Inside, the front sunroom has been converted and combined into the living area, giving plenty of space for relaxing and entertaining. The dining is also incorporated into this area and flows through to the kitchen at the rear of the property. The kitchen, while dated, is functional and services the undercover entertaining area at the back of the home. The three bedrooms are well appointed, with the master and one additional room including air conditioners.
 

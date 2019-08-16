@@ -10,47 +10,11 @@ cars: 4
 status: Sold
 address: '64 Chardean Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/umW7MDjKFnEzCjc4rpDDdqlas5w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823543/122076566-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823561/122076566-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823560/122076566-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823559/122076566-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823558/122076566-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823557/122076566-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823556/122076566-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823555/122076566-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823554/122076566-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823553/122076566-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823552/122076566-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823551/122076566-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823550/122076566-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823549/122076566-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823548/122076566-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823547/122076566-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823546/122076566-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823545/122076566-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823544/122076566-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823543/122076566-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435356/images'
 property_id: '435356'
-id: adc17084-3d91-4d60-ab58-0439f9497fcc
+price_search: '400000.0'
+id: a5adb13a-8084-4d74-9b55-3b25b2a2f6d1
+suburb: 'ACACIA RIDGE'
 ---
 Come home to this beautifully presented family property and enjoy the amazing lifestyle on offer. Situated on a large and flat 749sqm block, this property holds the potential to accommodate a growing family. It is not hard to imagine catching the morning sun over coffee and breakfast on the spacious side deck, overlooking the leafy yard. The large and functional indoor and outdoor spaces are perfect for families and entertainers alike. This home is airy and full of light, with plenty of windows attracting the fresh breezes. The property boasts a newly updated kitchen, great family bathroom and beautifully painted walls throughout in tasteful colour schemes. Simply move in and enjoy; there really is nothing left to be done!
 

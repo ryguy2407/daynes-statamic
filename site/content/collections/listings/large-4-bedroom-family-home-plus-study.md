@@ -10,37 +10,11 @@ cars: 2
 status: Let
 address: '7 Forgan Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Rzd2qjVUj7c898-r3Kw4UneqKW0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825265/424042338-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825278/424042338-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825277/424042338-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825276/424042338-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825275/424042338-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825274/424042338-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825273/424042338-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825272/424042338-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825271/424042338-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825270/424042338-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825269/424042338-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825268/424042338-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825267/424042338-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825266/424042338-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825265/424042338-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435528/images'
 property_id: '435528'
-id: 363398fa-c453-44d7-9872-2356c5de6de6
+price_search: null
+id: c091cde7-534e-4baa-9228-fe62bde26aa3
+suburb: 'ACACIA RIDGE'
 ---
 This generous family home is perfect for those needing more space for their growing family. Situated with a sunny north-facing aspect, the home is full of light. The property is fronted by a private patio which opens out from the large living area. Stepping off the living are two carpeted rooms, with a door between and the ability to close off from the main house. Ideal as a nursery, home office or study, or a rumpus room. The additional three bedrooms are spacious and the bathroom modern. Situated in a quiet pocket, offers the very best of convenience and a friendly community. A much sought-after low-set design with lovely street appeal, this home is large and a great layout for busy families with plenty of space.
 

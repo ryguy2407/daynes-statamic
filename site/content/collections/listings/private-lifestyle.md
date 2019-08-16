@@ -10,39 +10,11 @@ cars: 2
 status: Sold
 address: '68 Nyngam Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Cqtwib4GGMuJwyWPLQ0Gdvam4KY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821530/126474978-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821544/126474978-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821543/126474978-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821542/126474978-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821541/126474978-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821540/126474978-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821539/126474978-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821538/126474978-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821537/126474978-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821536/126474978-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821535/126474978-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821534/126474978-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821533/126474978-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821532/126474978-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821531/126474978-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821530/126474978-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435190/images'
 property_id: '435190'
-id: 6778286e-1963-4f80-aaf5-234ba002d93b
+price_search: '430000.0'
+id: 7b845437-3351-4ff2-887f-b928339bba9e
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented home is the perfect starting place for those seeking an ideal first home. With a convenient low-set design and low-maintenance finishes, this property is move in ready with plenty of potential to grow with you. The spacious open plan living and dining flow into the functionally designed kitchen and out to the shady back patio. Great for entertaining and busy families, this layout is the pinnacle of lifestyle and convenience-focused design. The location of this home is second to none, situated on a cul-de-sac with a school and day care across the street. With no through traffic and facing no other homes, this is a quiet and idyllic setting.
 

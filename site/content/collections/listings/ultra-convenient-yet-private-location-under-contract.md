@@ -10,25 +10,11 @@ cars: 1
 status: Sold
 address: '16 Ferrand Street, TARRAGINDI'
 main_image: 'https://img.eagleagent.com.au/jP80querO7lKCfY54UX4QqXj5Io=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819752/106409987-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819759/106409987-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819758/106409987-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819757/106409987-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819756/106409987-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819755/106409987-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819754/106409987-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819753/106409987-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819752/106409987-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435010/images'
 property_id: '435010'
-id: 67eedc58-c900-4467-b820-d3a9b51ed9e6
+price_search: '525000.0'
+id: da729606-68b9-45ad-a1c7-71ae1ef8df40
+suburb: TARRAGINDI
 ---
 Located on a quiet street in Tarragindi and backing onto forest, this lowest 3 bedroom home has all the privacy you could ask for!
 

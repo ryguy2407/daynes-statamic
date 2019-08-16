@@ -10,35 +10,11 @@ cars: 0
 status: Sold
 address: '29 Hodel Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/momE8ZyJ8vWWLYXyWuTGL-jIv8s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822701/130906718-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822713/130906718-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822712/130906718-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822711/130906718-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822710/130906718-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822709/130906718-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822708/130906718-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822707/130906718-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822706/130906718-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822705/130906718-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822704/130906718-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822703/130906718-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822702/130906718-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822701/130906718-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435283/images'
 property_id: '435283'
-id: 4e1aef13-9aca-4e0a-a055-a0a1ecafef35
+price_search: '379000.0'
+id: 8d595457-68ba-4108-a592-7ec2c69b99e7
+suburb: 'ACACIA RIDGE'
 ---
 This charming cottage, situated in a leafy and peaceful pocket of Acacia Ridge is bursting with character and promises years of enjoyment in the comfortable interiors. Painted a fresh white and privately situated behind a timber fence and leafy trees, the home has great street appeal. Low-set, surrounded by grassy lawns and on a generous 733sqm flat block, this is great buying for those seeking their next home or investment.
 

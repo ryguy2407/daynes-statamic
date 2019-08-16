@@ -10,47 +10,11 @@ cars: 3
 status: Sold
 address: '21 Marnham Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_WWn0Tw7JIav1MTCV-5TceFiSJA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822714/130604066-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822732/130604066-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822731/130604066-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822730/130604066-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822729/130604066-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822728/130604066-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822727/130604066-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822726/130604066-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822725/130604066-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822724/130604066-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822723/130604066-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822722/130604066-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822721/130604066-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822720/130604066-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822719/130604066-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822718/130604066-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822717/130604066-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822716/130604066-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822715/130604066-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822714/130604066-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435284/images'
 property_id: '435284'
-id: 086c6e99-9899-4010-9b9b-4676c588b2cb
+price_search: '499000.0'
+id: 4be08e5a-14f8-40f0-9a8f-07806848c3ca
+suburb: 'ACACIA RIDGE'
 ---
 Come home to this unique and stunning home to relax in the spacious bright open-plan interiors and expansive back veranda. This is a home to be proud of, beautifully framed by tropical gardens and finished in a modern colour scheme both externally and internally. Sure to attract those who are looking for dual-living potential, the property has been cleverly converted to include a generous, self-contained studio. An amazing opportunity that must be seen to be believed!
 

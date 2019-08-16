@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '12 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/2YweGfPOcjTpnPEoYRwzOytrtSo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823662/123045818-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823675/123045818-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823674/123045818-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823673/123045818-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823672/123045818-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823671/123045818-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823670/123045818-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823669/123045818-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823668/123045818-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823667/123045818-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823666/123045818-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823665/123045818-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823664/123045818-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823663/123045818-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823662/123045818-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435363/images'
 property_id: '435363'
-id: 1d07b856-6c12-4bc9-8725-6d9e52ab1696
+price_search: '420000.0'
+id: cd60eb59-d673-4783-a62d-dfbccd580528
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented family home, positioned on the leafy and desirable Gregory Street, is a rare and unique opportunity for families and investors alike. Featuring expansive open plan living and entertaining areas, this home is perfect for those who love to relax and spend time with their family and friends.
 

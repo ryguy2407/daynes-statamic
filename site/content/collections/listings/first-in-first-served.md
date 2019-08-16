@@ -10,31 +10,11 @@ cars: 1
 status: Sold
 address: '11 Courtice Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/StM7CfgqbQMrx8Wt6z_bgeohKnA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823220/118648051-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823230/118648051-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823229/118648051-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823228/118648051-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823227/118648051-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823226/118648051-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823225/118648051-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823224/118648051-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823223/118648051-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823222/118648051-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823221/118648051-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823220/118648051-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435324/images'
 property_id: '435324'
-id: 2539a85e-3c50-4d0d-bad3-5ef26bd00f8b
+price_search: '380000.0'
+id: 03a379c2-e6aa-4bcc-b033-2d83206718f3
+suburb: 'ACACIA RIDGE'
 ---
 This is another property that will be snapped up very quickly. This property is zoned LMR (Low Medium Residential) which is extremely sought-after in Acacia Ridge. Situated on 673m2 of land, this block will give potential developers plenty of project space. Courtice Street is a quiet and leafy street in a great pocket of Acacia Ridge and the property would complement a small boutique development.
 

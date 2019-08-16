@@ -10,49 +10,11 @@ cars: 4
 status: Sold
 address: '16 Sandeman Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/q1bqTI8BqDjsrk1qyIzl6LLVyO8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821814/127851182-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821833/127851182-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821832/127851182-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821831/127851182-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821830/127851182-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821829/127851182-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821828/127851182-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821827/127851182-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821826/127851182-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821825/127851182-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821824/127851182-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821823/127851182-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821822/127851182-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821821/127851182-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821820/127851182-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821819/127851182-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821818/127851182-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821817/127851182-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821816/127851182-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821815/127851182-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821814/127851182-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435215/images'
 property_id: '435215'
-id: 353caa46-432c-410e-accd-55a6e8458626
+price_search: '490000.0'
+id: 7a0e6f26-06ff-456e-be3c-b2537e15dc1d
+suburb: 'ACACIA RIDGE'
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this large, meticulously renovated home awaiting the next chapter. Situated on one of best streets in Acacia Ridge, this is your opportunity to secure the ultimate in lifestyle and practicality. The east-facing front deck is perfect for enjoying your morning coffee in the tranquil surrounds, afforded by the quiet neighbourhood and leafy gardens. Stepping inside, the bright and spacious living area flows beautifully through to the equally well-appointed dining and kitchen spaces. The gourmet kitchen has been designed to provide the utmost in convenience, the best quality appliances, and has been finished with sleek cabinetry and benchtops. These inviting spaces are the heart of this home and provide the perfect place to enjoy relaxing with family and friends.
 

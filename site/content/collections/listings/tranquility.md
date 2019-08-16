@@ -10,53 +10,11 @@ cars: 4
 status: Sold
 address: '41 Abbott Street, FORESTDALE'
 main_image: 'https://img.eagleagent.com.au/8FI2OdFWdKUbpv6EaMXPFfrJohs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821436/126346730-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821457/126346730-image-V.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821456/126346730-image-U.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821455/126346730-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821454/126346730-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821453/126346730-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821452/126346730-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821451/126346730-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821450/126346730-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821449/126346730-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821448/126346730-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821447/126346730-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821446/126346730-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821445/126346730-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821444/126346730-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821443/126346730-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821442/126346730-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821441/126346730-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821440/126346730-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821439/126346730-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821438/126346730-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821437/126346730-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821436/126346730-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435184/images'
 property_id: '435184'
-id: 781f1d81-830f-47be-ab8e-3238d136343d
+price_search: '800000.0'
+id: e0f56c08-de98-4666-b943-ce2dc8ba692a
+suburb: FORESTDALE
 ---
 Set amongst the tranquility of beautifully forested acreage, this home is the perfect escape for those seeking more from the place they call home. More peaceful enjoyment of your own generous piece of land, more quality time with family and friends, and simply more time to relax. With high-quality, low-maintenance finishes, this home will help you rediscover that balance and help you to truly unwind. Designed with families in mind, the flowing interiors, beautifully crafted with glossy tiles, quality carpets, neutral colours and modern lighting are spacious and inviting. Stepping outside to the entertaining area, the soaring roofline of this patio maximises enjoyment and appreciation of the bushland surrounds.
 

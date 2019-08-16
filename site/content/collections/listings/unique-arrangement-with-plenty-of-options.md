@@ -10,39 +10,11 @@ cars: 1
 status: Sold
 address: '31 Gloucester Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/7-C-wa566LiShOc7hscfEQvP5Qg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824076/115463039-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824090/115463039-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824089/115463039-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824088/115463039-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824087/115463039-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824086/115463039-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824085/115463039-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824084/115463039-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824083/115463039-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824082/115463039-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824081/115463039-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824080/115463039-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824079/115463039-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824078/115463039-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824077/115463039-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824076/115463039-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435392/images'
 property_id: '435392'
-id: a5355e95-ffe1-44ed-983e-39c00ceba1ca
+price_search: '439000.0'
+id: 4cf6eed6-9f11-4518-9943-95945145267b
+suburb: 'ACACIA RIDGE'
 ---
 Firstly we have the fully renovated three bedroom house at front of the property which has been tastefully done. Brand new kitchen with new stainless steel appliances, a new bathroom, polished timber hardwood floors which look an absolute treat. Totally repainted internally. The property is totally fenced with a remote electric gate for additional security.
 

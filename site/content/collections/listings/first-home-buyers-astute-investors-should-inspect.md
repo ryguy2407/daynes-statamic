@@ -10,31 +10,11 @@ cars: 1
 status: Sold
 address: '69 Cripps Street, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/rbzf0ZKqo5UKvqoecESaJdkQrgU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823970/114476415-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823980/114476415-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823979/114476415-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823978/114476415-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823977/114476415-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823976/114476415-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823975/114476415-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823974/114476415-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823973/114476415-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823972/114476415-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823971/114476415-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823970/114476415-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435384/images'
 property_id: '435384'
-id: 1415653a-c6c6-4e75-be2e-411702010c09
+price_search: '280000.0'
+id: 7cc8a4af-2a5f-447d-81b3-1d6ea236a1e7
+suburb: SALISBURY
 ---
 Here we have a lowset brick and tile 2 bedroom house in the heart of Salisbury and only 11 kms from the CBD. It is situated on a 602sqm corner allotment with 2 street frontages.
 

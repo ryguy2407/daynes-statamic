@@ -10,43 +10,11 @@ cars: 3
 status: Sold
 address: '6 Wapping Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/cEFUgUEaRPIYpktQzI3kuiMyYTM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824212/116643223-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824228/116643223-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824227/116643223-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824226/116643223-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824225/116643223-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824224/116643223-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824223/116643223-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824222/116643223-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824221/116643223-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824220/116643223-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824219/116643223-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824218/116643223-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824217/116643223-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824216/116643223-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824215/116643223-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824214/116643223-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824213/116643223-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824212/116643223-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435406/images'
 property_id: '435406'
-id: 8fc1e11f-7c44-4807-aaf1-114f230e9235
+price_search: '365000.0'
+id: 8af1fe87-0fd5-49fb-a706-8e82eae5987e
+suburb: 'ACACIA RIDGE'
 ---
 Be quick on this one!
 

@@ -10,29 +10,11 @@ cars: 1
 status: Sold
 address: '12 Desgrand Street, ARCHERFIELD'
 main_image: 'https://img.eagleagent.com.au/LRIjeAZUHKtBDjvV5Ir92Y-Rcb4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821246/125652794-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821255/125652794-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821254/125652794-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821253/125652794-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821252/125652794-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821251/125652794-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821250/125652794-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821249/125652794-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821248/125652794-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821247/125652794-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821246/125652794-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435167/images'
 property_id: '435167'
-id: dd4c4be8-8b33-42ac-aa72-e89078ff66f9
+price_search: '399000.0'
+suburb: ARCHERFIELD
+id: b4f73c00-8c1a-4114-8e43-3bbca1f8bcf1
 ---
 This generous family home has been freshened up and is ready to be snapped up by a savvy investor or homeowner alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home. Immediately as the front door is opened off the cute front patio there is a feeling of spaciousness and light. The fresh, neutral colour scheme enhances the beautiful polished timber floors and large north-facing windows, affording plenty of natural light. The open-plan family and dining room flows into the large kitchen. These spaces are also adjoined by a versatile space with lofty ceilings, with the potential to be utilised as a fourth bedroom, rumpus or study.
 

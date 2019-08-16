@@ -10,33 +10,11 @@ cars: 1
 status: Sold
 address: '20 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/izfvVEJ756gsGaw9c1E4jZb6EMI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823140/118043539-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823151/118043539-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823150/118043539-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823149/118043539-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823148/118043539-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823147/118043539-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823146/118043539-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823145/118043539-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823144/118043539-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823143/118043539-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823142/118043539-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823141/118043539-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823140/118043539-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435316/images'
 property_id: '435316'
-id: 057e265d-8051-4cb2-92ef-e7daabbd91ae
+price_search: '369000.0'
+suburb: 'ACACIA RIDGE'
+id: 0a7a6409-958a-463b-9396-7c96fb66c659
 ---
 This property is a perfect example of family lifestyle and practicality. The good-sized kitchen, living and dining rooms, and large outdoor area mean easy entertaining and plenty of space for a growing family.
 

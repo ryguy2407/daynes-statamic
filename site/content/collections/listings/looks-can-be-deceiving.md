@@ -10,29 +10,11 @@ cars: 1
 status: Sold
 address: '29 Medina Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/VATvXILPq7uHFGbhjPrpPOsw-TI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820726/106055600-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820735/106055600-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820734/106055600-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820733/106055600-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820732/106055600-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820731/106055600-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820730/106055600-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820729/106055600-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820728/106055600-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820727/106055600-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820726/106055600-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435124/images'
 property_id: '435124'
-id: fa38a1d3-4837-421b-8fd2-975b3574d216
+price_search: '579000.0'
+id: f5bc7d49-768b-4f86-8921-67c0d9874f6a
+suburb: MOOROOKA
 ---
 Set in a lovely street in Moorooka, this home offers an easy living lifestyle and plenty of room to entertain friends and family. Be sure to inspect this property as you will be impressed by the quality and size of this home.
 

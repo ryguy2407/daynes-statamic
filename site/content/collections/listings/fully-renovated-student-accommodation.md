@@ -10,27 +10,11 @@ cars: 0
 status: Let
 address: '281 Annerley Road, ANNERLEY'
 main_image: 'https://img.eagleagent.com.au/DC1O-g-VVleRz7gPPbjeN9kWlFY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826200/415665831-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826208/415665831-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826207/415665831-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826206/415665831-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826205/415665831-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826204/415665831-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826203/415665831-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826202/415665831-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826201/415665831-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826200/415665831-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435624/images'
 property_id: '435624'
-id: ef86691d-808a-459c-bdca-34ebbf45df67
+price_search: null
+id: e85c6385-ca20-43aa-b401-0d33a9317b71
+suburb: ANNERLEY
 ---
 This fully renovated 5 bedroom student house is available for rent now.
 

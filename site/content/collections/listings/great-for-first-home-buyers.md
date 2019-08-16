@@ -10,29 +10,11 @@ cars: 3
 status: Sold
 address: '86 Oxley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Jlr36CL7IB0JlWAXNfTQdvftTqk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819118/105286361-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819127/105286361-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819126/105286361-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819125/105286361-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819124/105286361-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819123/105286361-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819122/105286361-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819121/105286361-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819120/105286361-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819119/105286361-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819118/105286361-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434933/images'
 property_id: '434933'
-id: 4bd8eb53-a73e-4a1e-ad65-281167b0a592
+price_search: '349000.0'
+id: 4b290c5f-888c-4797-b3de-7f8566a6f763
+suburb: 'ACACIA RIDGE'
 ---
 Situated on a 701sqm block in a great street is a lovely three bedroom house.
 

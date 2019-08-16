@@ -10,21 +10,11 @@ cars: 0
 status: Let
 address: '84 Merchiston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/IAiUV0sASDIc8gkeg5rELQWAgUg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824908/422084286-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824913/422084286-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824912/422084286-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824911/422084286-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824910/422084286-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824909/422084286-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824908/422084286-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435493/images'
 property_id: '435493'
-id: 77ad5b98-d23f-4a0c-80a3-9a58ffaf2cf7
+price_search: null
+id: 66cd7782-86ee-49a6-98b6-206c06c26b72
+suburb: 'ACACIA RIDGE'
 ---
 This low-set three bedroom family home sits on an elevated block in a quiet and leafy pocket of Acacia Ridge. The property has plenty of space for busy families in the open-plan living and dining, and features a fresh new kitchen with gas cooktop and oven. Living areas and bedrooms are airy and full of light, with the north facing elevated outlook giving lovely breezes and views across the trees. The tiled bathroom with a shower is spacious and the toilet is separate. Timber floors throughout guarantee a low-maintenance home and the brick exterior provides cool interiors. The large front and backyards are grassy, providing plenty of space to enjoy this lovely property.
 

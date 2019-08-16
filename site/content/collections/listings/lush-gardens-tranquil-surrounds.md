@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '18 / 66 Tuckett Road, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/dP09CkMU9X4DG3uFv8A61nmmZu0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823863/123500246-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823875/123500246-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823874/123500246-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823873/123500246-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823872/123500246-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823871/123500246-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823870/123500246-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823869/123500246-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823868/123500246-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823867/123500246-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823866/123500246-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823865/123500246-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823864/123500246-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823863/123500246-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435377/images'
 property_id: '435377'
-id: 76889190-5002-492b-bcdd-18d99c7a172f
+price_search: '395000.0'
+id: da07c012-c538-455c-9dab-a706ead5ba9b
+suburb: SALISBURY
 ---
 This generous brick, dual level townhouse is set amongst the lush gardens and tranquil grounds of this sleepy complex. Backing onto neighbouring suburban houses, this is one of the most peaceful and protected properties in Salisbury Gardens, a complex of only nineteen dwellings. Situated in the desirable and rapidly developing suburb of Salisbury, this property is perfect for those looking for a low-maintenance lifestyle without sacrificing the warmth of a well-established community. Enjoy the privacy and ease of entertaining in the private north-facing courtyard, stepping effortlessly from the open-plan living and kitchen area. The complex also boasts a shady communal barbecue area overlooking sparkling pool, perfect for enjoying the long summer afternoons.
 

@@ -9,22 +9,12 @@ bathrooms: 1
 cars: 0
 status: Let
 address: '236 Postle Street, ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/1uErs7VAySTzGGUr_h4pAoVE7tU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826080/414694003-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826085/414694003-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826084/414694003-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826083/414694003-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826082/414694003-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826081/414694003-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826080/414694003-image-M.jpg'
-property_id: '435608'
-id: 7f09e034-3ad4-4b9e-afe2-3b865edcdb12
+main_image: 'https://img.eagleagent.com.au/lKNj_C4qVv7CybTs0LZRJZAG51I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826242/416173037-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435630/images'
+property_id: '435630'
+price_search: null
+id: 9c2b6e27-811f-4a3d-9b41-b8fbac444e1c
+suburb: 'ACACIA RIDGE'
 ---
 This 2 bedroom home located in Acacia Ridge is available for rent.
 

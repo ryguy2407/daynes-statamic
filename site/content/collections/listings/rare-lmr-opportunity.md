@@ -10,47 +10,11 @@ cars: 1
 status: Sold
 address: '40 Stevens Street, YERONGA'
 main_image: 'https://img.eagleagent.com.au/ImR0mHGcJYrQH1VI4895XJ6ihpY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821182/125688470-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821200/125688470-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821199/125688470-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821198/125688470-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821197/125688470-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821196/125688470-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821195/125688470-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821194/125688470-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821193/125688470-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821192/125688470-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821191/125688470-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821190/125688470-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821189/125688470-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821188/125688470-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821187/125688470-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821186/125688470-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821185/125688470-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821184/125688470-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821183/125688470-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821182/125688470-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435163/images'
 property_id: '435163'
-id: d602d9ab-8471-488a-9de3-751f102ac9de
+price_search: '700000.0'
+id: 02251157-aa9b-4b1f-9140-687e3dfe1651
+suburb: YERONGA
 ---
 Nestled in the heart of this beautiful riverfront Brisbane suburb is a prime investment opportunity. The charming post-war dwelling is set on a generous 809sqm Low-Medium Residental (LMR) zoned allotment, presenting a myriad of development opportunities.  Yeronga is a desirable inner city suburb, experiencing continued strong capital growth. These sorts of properties with such outstanding potential and position rarely become available.
 

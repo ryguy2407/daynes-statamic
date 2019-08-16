@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '15 Scouse Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ofn27iPEohwzsO6eQxyp1MJ-xHE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822460/130899774-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822473/130899774-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822472/130899774-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822471/130899774-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822470/130899774-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822469/130899774-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822468/130899774-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822467/130899774-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822466/130899774-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822465/130899774-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822464/130899774-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822463/130899774-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822462/130899774-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822461/130899774-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822460/130899774-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435267/images'
 property_id: '435267'
-id: 4a7a8b0a-d093-4c9c-bb18-6160a14982c3
+price_search: '419000.0'
+id: 64c5fe99-4b28-4dcd-91c2-9cb51759b6cc
+suburb: 'ACACIA RIDGE'
 ---
 It is easy to imagine getting excited to come home to this classic Acacia Ridge property. Immaculately cared for and beautifully presented, this home is a real treat. The house is situated on a north-south facing block in a quiet but convenient pocket. Truly an entertainers delight, the open plan interiors are beautifully complemented by the outdoor spaces, perfect for evenings with family and friends. The living and dining expand out to the lovely tiled north-facing deck with a sunny, elevated outlook. The family-sized kitchen flows effortlessly out to the expansive rear verandah. This beautiful timber deck is perfect for entertaining and relaxing, with a shady southern aspect and overlooking the grassy backyard with shady trees. In addition to the great entertaining areas, this home offers a fully enclosed under-house area, with two car garage and additional bathroom. Highly sought-after, these spaces are ideal for added convenience and value.
 

@@ -10,43 +10,11 @@ cars: 2
 status: Sold
 address: '46 Hemsworth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/TzM920qlgIORqEfoGWr0wqQN3M4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821201/125441210-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821217/125441210-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821216/125441210-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821215/125441210-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821214/125441210-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821213/125441210-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821212/125441210-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821211/125441210-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821210/125441210-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821209/125441210-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821208/125441210-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821207/125441210-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821206/125441210-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821205/125441210-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821204/125441210-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821203/125441210-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821202/125441210-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821201/125441210-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435164/images'
 property_id: '435164'
-id: d07d25f0-a3a9-4fd6-a5dd-fd0d5d0c8d7d
+price_search: '525000.0'
+id: e24c9a3a-f644-484c-b34e-7e99b123e011
+suburb: 'ACACIA RIDGE'
 ---
 A generous family home, this property is a value-packed move in ready opportunity in one of the best neighbourhoods of Acacia Ridge. This house has been the labour of love for the current owners who have renovated it to an exceptional level of quality and thoughtful design. The upstairs portion of the home is characterised by light-filled, open plan living spaces expanding seamlessly out to the front and back decks. Perfect for easy entertaining, the back deck is spacious enough to get the family together and private to enjoy a breakfast coffee with the sunrise.
 

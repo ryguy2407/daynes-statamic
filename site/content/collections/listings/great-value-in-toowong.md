@@ -10,25 +10,11 @@ cars: 1
 status: Let
 address: '15 Wells Lane, TOOWONG'
 main_image: 'https://img.eagleagent.com.au/ApUFvT6fi-V3KUFzxfaycO-Pc0Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826154/415049431-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826161/415049431-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826160/415049431-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826159/415049431-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826158/415049431-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826157/415049431-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826156/415049431-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826155/415049431-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826154/415049431-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435618/images'
 property_id: '435618'
-id: 13711799-6801-4d37-b58b-afc7b997dcdf
+price_search: null
+id: 92b2e0ed-7d97-450c-8e4f-1028c2aa8a63
+suburb: TOOWONG
 ---
 Great Value don't miss out on this one.
 

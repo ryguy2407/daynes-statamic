@@ -30,20 +30,22 @@
     {{ /home_content }}
 </div><!-- end pageContent -->
 
-<form class="mb-5 searchForm" method="post" action="/!/CRMListings/listings">
+<form class="mb-5 searchForm" method="GET" action="/search-results">
     {{ csrf_field }}
     <div class="row">
         <div class="col">
             <select name="suburb" class="form-control" id="exampleFormControlSelect1">
                 <option value="">Select a suburb</option>
-                <option value="acacia ridge">Acacia Ridge</option>
-                <option value="south bank">South Bank</option>
+                {{ suburb }}
+                <option value="{{ suburb_name }}">{{ suburb_name }}</option>
+                {{ /suburb }}
             </select>
         </div>
         <div class="col">
-            <select name="status" class="form-control" id="exampleFormControlSelect1">
+            <select name="listing_type" class="form-control" id="exampleFormControlSelect1">
                 <option value="">Select a status</option>
-                <option value="sold">Sold</option>
+                <option value="residential_sale">For Sale</option>
+                <option value="residential_rental">For Rent</option>
             </select>
         </div>
         <div class="col justify-content-end">
@@ -56,11 +58,7 @@
     {{ collection:listings status:contains="Active" limit="20"}}
         <div class="listing col-lg-4">
             <a href="{{ url }}">
-            {{ images }}
-                {{ if first }}
-                    <img src="{{ url }}" style="width: 100%;">
-                {{ endif }}
-            {{ /images }}
+                <img src="{{ main_image }}" style="width: 100%;">
             </a>
 
             <h5 class="title m-0">{{ title }}</h5>
@@ -77,8 +75,11 @@
                     {{ endif }}
                 </ul>
                 <hr class="m-0">
-                <h4 class="m-0">{{ price }}</h4>
+                {{ if price }}
+                    <h4 class="m-0">{{ price }}</h4>
+                {{ /if }}
             </div>
         </div>
     {{ /collection:listings }}
 </div>
+

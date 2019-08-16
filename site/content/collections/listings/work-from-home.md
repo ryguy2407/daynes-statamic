@@ -10,29 +10,11 @@ cars: 1
 status: Let
 address: '47 Mannington Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/QNhyq1vphotViEgP5-iQB8qGvww=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826213/415934709-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826222/415934709-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826221/415934709-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826220/415934709-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826219/415934709-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826218/415934709-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826217/415934709-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826216/415934709-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826215/415934709-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826214/415934709-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826213/415934709-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435626/images'
 property_id: '435626'
-id: 0aa38145-b626-478f-809a-8f56c157ad86
+price_search: null
+id: 8aec543f-9fc4-4158-a585-91bfad1a7315
+suburb: 'ACACIA RIDGE'
 ---
 Situated close  to schools, public transport, pools and entertainment this 3 bedroom house is available for rent now.
 

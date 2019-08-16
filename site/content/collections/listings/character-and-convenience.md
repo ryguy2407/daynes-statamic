@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '25 Janzoon Street, ARCHERFIELD'
 main_image: 'https://img.eagleagent.com.au/JQxXnVp_o6dzNaKfN8THlVWecAg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822242/129139746-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822254/129139746-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822253/129139746-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822252/129139746-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822251/129139746-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822250/129139746-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822249/129139746-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822248/129139746-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822247/129139746-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822246/129139746-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822245/129139746-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822244/129139746-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822243/129139746-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822242/129139746-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435251/images'
 property_id: '435251'
-id: f39b2dfd-ca07-4da4-aaa3-55d19d14e717
+price_search: '428000.0'
+id: fb0b71ca-bf09-4c1e-ab57-b6885cd53b08
+suburb: ARCHERFIELD
 ---
 This property is full of character and creative flair, perfect for those looking for a little extra for their next home. The home is full of history and bespoke features. No detail has been left unattended both inside and out, with the home being the pride and joy of the current owner. Approaching the property, the tranquility of the area is apparent and this combined with the abundance of trees make this place a lovely escape. A home with great street appeal, the gardens have been thoughtfully planted with low maintenance and bird attracting native trees. The home itself has been freshly re-painted and is a private high-set design allowing a lovely elevated outlook.
 

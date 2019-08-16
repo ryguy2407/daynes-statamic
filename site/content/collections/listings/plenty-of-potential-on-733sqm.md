@@ -10,29 +10,11 @@ cars: 2
 status: Sold
 address: '72 Oxley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/VY4HXlJkL9nL2mo3QLjc_QvujyE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821591/126768602-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821600/126768602-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821599/126768602-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821598/126768602-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821597/126768602-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821596/126768602-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821595/126768602-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821594/126768602-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821593/126768602-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821592/126768602-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821591/126768602-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435195/images'
 property_id: '435195'
-id: e329389d-2d37-4934-bb9d-bf389f26fbb6
+price_search: '389000.0'
+id: 7acd476d-ca5c-4ead-96a6-f9c191cdfc2d
+suburb: 'ACACIA RIDGE'
 ---
 This is a lovely example of the classic Acacia Ridge home of solid construction and functional layout. With chamfer board exterior and solid timber floors throughout, this home has great bones. A promising investment for home owners and investors alike, this has the potential to be either a comfortable home or generate a tidy return. The property is currently tenanted until February 2018, allowing owner-occupiers possession in the near future and investors the opportunity to continue with a great long-term tenant.
 

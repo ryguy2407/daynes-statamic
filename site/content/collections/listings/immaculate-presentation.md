@@ -10,39 +10,11 @@ cars: 1
 status: Sold
 address: '34 Dellow Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ELIueICM-FtJXodLM7qpKMFpIJ4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820919/124262614-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820933/124262614-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820932/124262614-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820931/124262614-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820930/124262614-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820929/124262614-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820928/124262614-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820927/124262614-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820926/124262614-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820925/124262614-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820924/124262614-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820923/124262614-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820922/124262614-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820921/124262614-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820920/124262614-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820919/124262614-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435143/images'
 property_id: '435143'
-id: 23577b0c-5d44-4c19-9fb1-137549b32e26
+price_search: '400000.0'
+id: 56d0e2a3-756a-40da-a5c5-54a133db1afb
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented home offers a seldom seen opportunity to secure a property ready to compliment those at any stage of their investment journey. Whether first home buyer, up-sizer or investor, this lovely home is the complete package with nothing left to do.
 

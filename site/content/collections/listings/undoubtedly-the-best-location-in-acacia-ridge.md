@@ -10,41 +10,11 @@ cars: 1
 status: Sold
 address: '106 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DvqQofRqbAj_G_SIhgG1MxBaZbc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824133/115911067-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824148/115911067-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824147/115911067-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824146/115911067-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824145/115911067-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824144/115911067-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824143/115911067-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824142/115911067-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824141/115911067-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824140/115911067-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824139/115911067-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824138/115911067-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824137/115911067-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824136/115911067-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824135/115911067-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824134/115911067-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824133/115911067-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435398/images'
 property_id: '435398'
-id: 51cc9a45-14aa-44fd-9b45-8b49ae77c6af
+price_search: '380000.0'
+id: 6216b603-be4b-483e-a7ff-0b9fabe12c5c
+suburb: 'ACACIA RIDGE'
 ---
 Please donâ€™t take my word for it because I want you to come and see for yourself as this is truly a superb location. In my opinion the best in Acacia Ridge but I want you to be the judge.
 

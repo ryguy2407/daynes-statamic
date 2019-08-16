@@ -10,21 +10,11 @@ cars: 2
 status: Sold
 address: '304 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/LaWHFh7CQ89fQqq1D3T_OvyuPMU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824127/115830403-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824132/115830403-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824131/115830403-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824130/115830403-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824129/115830403-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824128/115830403-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824127/115830403-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435397/images'
 property_id: '435397'
-id: ef35f22f-6ffa-4958-aff6-f7ada3404d61
+price_search: '220000.0'
+id: d73e78c6-c272-4aff-b9d8-2724d410e26e
+suburb: 'ACACIA RIDGE'
 ---
 Best offer over $220,000
 

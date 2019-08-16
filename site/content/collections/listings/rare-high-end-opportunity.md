@@ -10,49 +10,11 @@ cars: 3
 status: Sold
 address: '30 Saxon Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/x4seWLakoQoX4nolCnica4M62nA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823792/123413282-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823811/123413282-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823810/123413282-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823809/123413282-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823808/123413282-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823807/123413282-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823806/123413282-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823805/123413282-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823804/123413282-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823803/123413282-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823802/123413282-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823801/123413282-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823800/123413282-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823799/123413282-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823798/123413282-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823797/123413282-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823796/123413282-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823795/123413282-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823794/123413282-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823793/123413282-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823792/123413282-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435372/images'
 property_id: '435372'
-id: c5a8d9b5-e6fd-4698-a688-a9310d3500da
+price_search: '479000.0'
+id: 5b6d3326-826e-442e-8993-acbbd1daa28e
+suburb: 'ACACIA RIDGE'
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this beautiful high-set home awaiting the next chapter. Thoughtfully renovated and transformed into a spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front deck, enjoying the tranquility afforded by the quiet neighbourhood and the leafy block backing onto lush nature reserve. Inside, the bright open-plan living and dining area steps through to the shady back deck, overlooking the equally as lovely backyard. This property allows plenty of space for relaxation and entertaining alike, just move in and enjoy!
 

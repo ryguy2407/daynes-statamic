@@ -10,33 +10,11 @@ cars: 1
 status: Sold
 address: '29 Agnes Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/J9ESiKsbG-GqZhoJ4uDzH8XktvE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824051/115305023-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824062/115305023-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824061/115305023-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824060/115305023-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824059/115305023-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824058/115305023-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824057/115305023-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824056/115305023-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824055/115305023-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824054/115305023-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824053/115305023-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824052/115305023-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824051/115305023-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435390/images'
 property_id: '435390'
-id: d3e51b92-824f-4564-8945-7d7d0bf57575
+price_search: '335000.0'
+id: d07604a0-20f9-4b15-b313-17e8780208b4
+suburb: 'ACACIA RIDGE'
 ---
 Here we have a cute three bedroom workers cottage situated on 670m2 of land in quiet Agnes Street in very good condition.
 

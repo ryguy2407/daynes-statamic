@@ -10,43 +10,11 @@ cars: 2
 status: Sold
 address: '48 Gibraltar Circuit, PARKINSON'
 main_image: 'https://img.eagleagent.com.au/CvWx-U6WhYv-G0UK3G2swZ0ULNw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823107/117981799-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823123/117981799-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823122/117981799-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823121/117981799-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823120/117981799-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823119/117981799-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823118/117981799-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823117/117981799-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823116/117981799-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823115/117981799-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823114/117981799-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823113/117981799-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823112/117981799-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823111/117981799-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823110/117981799-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823109/117981799-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823108/117981799-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823107/117981799-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435314/images'
 property_id: '435314'
-id: c554a1a5-f72d-4d47-bab0-9c8104210079
+price_search: '539000.0'
+id: 70f1f29d-f8c6-4817-8f1c-65959c282f58
+suburb: PARKINSON
 ---
 This home brings together the best for suburban family lifestyle.
 

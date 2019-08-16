@@ -6,20 +6,21 @@
         <h4 style="color: #fff;">{{ price }}</h4>
     </div>
 
+
     <!-- Indicators -->
     <ul class="carousel-indicators">
-        {{ images }}
+        {{ c_r_m_listings:images images="{{ images }}" }}
             <li data-target="#demo" data-slide-to="{{ zero_index }}" class="{{ if first }}active{{ /if }}"></li>
-        {{ /images }}
+        {{ /c_r_m_listings:images }}
     </ul>
 
     <!-- The slideshow -->
     <div class="carousel-inner">
-        {{ images }}
+        {{ c_r_m_listings:images images="{{ images }}" }}
         <div class="carousel-item {{ if first }}active{{ /if }}" data-interval="5000">
-            <img src="{{ url }}" style="width: 100%;margin-top: -100px">
+            <img src="{{ imageUrl }}" style="width: 100%;margin-top: -100px">
         </div>
-        {{ /images }}
+        {{ /c_r_m_listings:images }}
     </div>
 
     <!-- Left and right controls -->

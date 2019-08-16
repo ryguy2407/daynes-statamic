@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '41 / 34 Albicore Street, MERMAID WATERS'
 main_image: 'https://img.eagleagent.com.au/r-QlktShjoW8q_XoKgWVSIPa_c8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821288/116779435-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821296/116779435-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821295/116779435-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821294/116779435-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821293/116779435-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821292/116779435-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821291/116779435-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821290/116779435-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821289/116779435-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821288/116779435-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435171/images'
 property_id: '435171'
-id: 60e157f0-2db7-4d11-a43d-9fe719c565f7
+price_search: '445000.0'
+id: 2e0fd82a-fb03-4f1e-b4b2-9ad3452f2bc4
+suburb: 'MERMAID WATERS'
 ---
 Positioned at the end of a quiet cul-de-sac, this gated complex offers a unique blend of resort-style living with the Tuscan-inspired architecture, beautifully landscaped grounds, sparkling swimming pool and access to the canal for all your boating activities.
 

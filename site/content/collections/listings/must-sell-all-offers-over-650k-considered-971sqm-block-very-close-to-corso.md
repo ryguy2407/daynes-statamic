@@ -10,19 +10,11 @@ cars: 2
 status: Sold
 address: '29 Otaki Road, YERONGA'
 main_image: 'https://img.eagleagent.com.au/iT5LIAQrYIrMnBp33CTK5YThiyo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819452/105781628-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819456/105781628-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819455/105781628-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819454/105781628-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819453/105781628-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819452/105781628-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434974/images'
 property_id: '434974'
-id: 9232dc6d-beaa-40ac-9387-de39782db68d
+price_search: '650000.0'
+id: 6dece630-c8c6-41ca-8b04-f649fadf92a4
+suburb: YERONGA
 ---
 This big, beautiful, treed block is in a quiet street, only 85 metres from a kilometre of parkland stretching north along the Brisbane River and situated adjacent to the most prestigious area of the Yeronga Corso where multi-million dollar houses underpin strong future property values.
 

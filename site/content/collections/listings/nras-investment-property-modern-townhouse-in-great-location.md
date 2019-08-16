@@ -10,31 +10,11 @@ cars: 2
 status: Sold
 address: '20 / 20 Kianawah Road South, MANLY WEST'
 main_image: 'https://img.eagleagent.com.au/ZNa5WVIhJ_kbOZ5dmTbR_8dV__8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823359/120544677-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823369/120544677-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823368/120544677-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823367/120544677-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823366/120544677-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823365/120544677-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823364/120544677-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823363/120544677-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823362/120544677-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823361/120544677-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823360/120544677-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823359/120544677-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435337/images'
 property_id: '435337'
-id: 2e84ce3d-15cd-425d-98cb-d41d376e2923
+price_search: '449000.0'
+id: c5f5e834-c448-4f5b-8602-2eef9365dbf9
+suburb: 'MANLY WEST'
 ---
 This modern townhouse is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 

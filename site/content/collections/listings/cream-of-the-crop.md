@@ -10,49 +10,11 @@ cars: 1
 status: Sold
 address: '56 Sussex Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/29_7Jo7Vot9B0pPhP4yqpZCER7I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823842/123478510-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823861/123478510-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823860/123478510-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823859/123478510-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823858/123478510-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823857/123478510-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823856/123478510-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823855/123478510-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823854/123478510-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823853/123478510-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823852/123478510-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823851/123478510-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823850/123478510-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823849/123478510-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823848/123478510-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823847/123478510-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823846/123478510-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823845/123478510-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823844/123478510-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823843/123478510-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823842/123478510-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435376/images'
 property_id: '435376'
-id: a289f1fd-f5d9-4098-a2fd-727e7d8fc440
+price_search: '450000.0'
+id: 7dee7c7d-9d38-4386-86a0-d77e1b274ceb
+suburb: 'ACACIA RIDGE'
 ---
 It is our pleasure to bring this beautifully presented low-set brick home to the market, a seldom matched treat in the Acacia Ridge area. Encompassing all that could be desired from a premium property investment, this home has it all for those seeking maximum value for money. Situated on a 587sqm Low Medium Residential (LMR) block, this property also represents an investment with both short and long term opportunity. The savvy investor and home owner alike will see the value in this perfectly presented property with such amazing growth and development potential in this rapidly changing suburb.
 

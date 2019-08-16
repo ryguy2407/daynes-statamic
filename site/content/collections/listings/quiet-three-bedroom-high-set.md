@@ -10,29 +10,11 @@ cars: 2
 status: Let
 address: '21 Eirroc Street, ARCHERFIELD'
 main_image: 'https://img.eagleagent.com.au/wmSmxvwLIJPdodlBZt653MFIc5o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824777/421426818-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824786/421426818-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824785/421426818-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824784/421426818-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824783/421426818-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824782/421426818-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824781/421426818-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824780/421426818-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824779/421426818-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824778/421426818-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824777/421426818-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435479/images'
 property_id: '435479'
-id: db7a49f3-4681-4e05-83f4-1874b71ae051
+price_search: null
+id: ac06e586-748b-443c-8dd2-fe1baf18a90a
+suburb: ARCHERFIELD
 ---
 This cute, high-set home with a leafy outlook is situated in a quiet cul-de-sac. The home is private, set back from the road and surrounded by trees and lawns. With bright open plan living areas and great outdoor entertaining spaces, this home will be great for families and entertainers.
 

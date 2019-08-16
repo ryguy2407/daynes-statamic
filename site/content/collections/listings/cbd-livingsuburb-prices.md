@@ -10,27 +10,11 @@ cars: 1
 status: Sold
 address: '12 / 769 Brunswick Street, NEW FARM'
 main_image: 'https://img.eagleagent.com.au/gtbz8FpUP54bpL-9zZw3n6W_sxI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818293/104215015-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818301/104215015-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818300/104215015-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818299/104215015-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818298/104215015-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818297/104215015-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818296/104215015-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818295/104215015-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818294/104215015-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818293/104215015-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434847/images'
 property_id: '434847'
-id: 4012705f-69f0-4740-9121-d91947aac824
+price_search: '380000.0'
+id: 618de115-d94d-4815-9eff-80e5a0194786
+suburb: 'NEW FARM'
 ---
 This is your chance to secure a quality apartment in the highly sort after inner-city suburb of New Farm.  This 101sqm, 2 bedroom, 2 bathroom apartment is located within a complex of 28 and is approximately 7 years old.
 

@@ -10,25 +10,11 @@ cars: 1
 status: Sold
 address: '415 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_XCkBPtT8ZFDrzKs3h2EgLfl-U0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821685/127344030-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821692/127344030-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821691/127344030-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821690/127344030-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821689/127344030-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821688/127344030-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821687/127344030-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821686/127344030-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821685/127344030-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435203/images'
 property_id: '435203'
-id: 0d2d7b16-e459-480e-beaa-065bed3a1faf
+price_search: '380000.0'
+id: 010c2320-5bf0-4e17-bf95-8c75a6b7133d
+suburb: 'ACACIA RIDGE'
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the classic design. Carpets, tiles and lino hide beautiful hardwood floors for which these homes are much sought-after and the layout is perfect for low maintenance and easy family living. The original interiors are clean and functional, perfect to move straight in and renovate at your own pace.
 

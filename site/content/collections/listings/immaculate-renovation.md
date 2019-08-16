@@ -10,31 +10,11 @@ cars: 1
 status: Sold
 address: '8 Kirkley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/lN--zkUjgzu7_NMCOCug2Gg-rGM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821425/126212862-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821435/126212862-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821434/126212862-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821433/126212862-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821432/126212862-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821431/126212862-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821430/126212862-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821429/126212862-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821428/126212862-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821427/126212862-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821426/126212862-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821425/126212862-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435183/images'
 property_id: '435183'
-id: 35bdaace-bf53-48a5-a71f-c99cba3910d9
+price_search: '420000.0'
+suburb: 'ACACIA RIDGE'
+id: c8eb96bb-0ae5-41d6-8ead-e1b7b47674b5
 ---
 Step inside this immaculately renovated property and immediately feel at home. Situated on an elevated and generous 607sqm block, surrounded by lovely lawns and on a quiet street. The renovation has been thoughtfully applied, with fresh neutral colours and clean finishes; this home is the perfect opportunity for those looking to move straight in! The home has had a full internal and external repaint in tasteful modern colours. The hardwood timber floors have been polished and are perfectly complimented by the fresh white walls. The modernisation has been completed with new recessed downlights throughout the home.
 

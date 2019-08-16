@@ -10,29 +10,11 @@ cars: 2
 status: Let
 address: '32 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/FGhT-9xNg_vo2gBP9oKR1-8T9P4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825589/425349710-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825598/425349710-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825597/425349710-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825596/425349710-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825595/425349710-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825594/425349710-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825593/425349710-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825592/425349710-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825591/425349710-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825590/425349710-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825589/425349710-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435558/images'
 property_id: '435558'
-id: 083021c2-71b3-4082-8e61-ba74ccc6dba6
+price_search: null
+id: bee9b0ed-f351-4040-b638-a99aa9d4fddc
+suburb: 'ACACIA RIDGE'
 ---
 Privately set back on the block and situated on a wide block framed by mature trees, this property has great street appeal. The home is functional and clean, with an updated kitchen and a basic but serviceable bathroom. Stepping up from the leafy front yard, the front sunroom has been converted into an extension of the living and acts as a lovely reception room. The living has a sunny outlook to the front yard and has been equipped with a ceiling fan and air conditioner. Stepping through the home, the open plan kitchen and dining are spacious and bright, also giving access through the side door to the backyard. The three bedrooms are well proportioned and have a leafy outlook to the surrounding gardens.
 

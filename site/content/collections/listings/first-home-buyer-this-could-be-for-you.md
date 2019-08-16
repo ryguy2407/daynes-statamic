@@ -10,27 +10,11 @@ cars: 1
 status: Sold
 address: '49 Ness Road, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/WvjRYbMC50BuH7tnCmSiJf-8vSE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818479/104608536-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818487/104608536-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818486/104608536-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818485/104608536-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818484/104608536-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818483/104608536-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818482/104608536-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818481/104608536-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818480/104608536-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818479/104608536-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434872/images'
 property_id: '434872'
-id: 82e8e08e-cdf5-42c5-a8f4-9c518b2ae952
+price_search: '419000.0'
+id: bb49e33d-66d0-41d5-8394-ea38e92481d1
+suburb: SALISBURY
 ---
 The owners of this lovely 3 bedroom home have decided it is time for them to move on and give someone else a chance to enjoy this property.
 

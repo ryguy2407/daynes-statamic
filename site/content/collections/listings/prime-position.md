@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '15 Leawarra Crescent, FERNY HILLS'
 main_image: 'https://img.eagleagent.com.au/CIdQSep7s2iDL-w_8zO8FgtMtHk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821261/125821254-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821273/125821254-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821272/125821254-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821271/125821254-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821270/125821254-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821269/125821254-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821268/125821254-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821267/125821254-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821266/125821254-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821265/125821254-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821264/125821254-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821263/125821254-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821262/125821254-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821261/125821254-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435169/images'
 property_id: '435169'
-id: 1179304e-9052-4c72-b24f-bf17f5a340c2
+price_search: '500000.0'
+id: e7b1e0e9-289d-4d30-b5fa-ae7a19d74828
+suburb: 'FERNY HILLS'
 ---
 This generous family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. One of the original homes of the area, this property boasts an exceptional elevated outlook. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 

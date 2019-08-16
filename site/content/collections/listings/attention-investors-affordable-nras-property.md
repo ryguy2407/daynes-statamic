@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '50 Lilley Terrace, CHUWAR'
 main_image: 'https://img.eagleagent.com.au/wZCrVKGXrYujPBSqfszYD_v04ZA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824244/113760071-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824252/113760071-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824251/113760071-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824250/113760071-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824249/113760071-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824248/113760071-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824247/113760071-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824246/113760071-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824245/113760071-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824244/113760071-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435408/images'
 property_id: '435408'
-id: ddcc7db2-f7ce-4ef7-9251-f38bdd09eb3b
+price_search: '349000.0'
+id: 8c4dba5f-d434-4378-9658-13eb330064af
+suburb: CHUWAR
 ---
 This property is leased through the National Rental Affordable Scheme (NRAS). The NRAS period for this property expires on 09/05/2022 which means you have approximately a further 9 years of benefits from the scheme.
 

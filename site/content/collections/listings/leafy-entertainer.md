@@ -10,31 +10,11 @@ cars: 2
 status: Let
 address: '19 Queensthorpe Street, TARRAGINDI'
 main_image: 'https://img.eagleagent.com.au/Wvf__95z42XjFBTFweNQ_I2xZBU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826589/418768722-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826599/418768722-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826598/418768722-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826597/418768722-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826596/418768722-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826595/418768722-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826594/418768722-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826593/418768722-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826592/418768722-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826591/418768722-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826590/418768722-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826589/418768722-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435668/images'
 property_id: '435668'
-id: 76ef6878-375f-492b-851e-9d8dab9629fe
+price_search: null
+id: ea1e6cad-9bcf-4718-a448-1e3a3e9b4681
+suburb: TARRAGINDI
 ---
 This beautiful family home promises great lifestyle with open plan kitchen, dining and living, stepping out onto the shady back deck with a leafy outlook. The home is perfect for families and those who love to entertain, with generous spaces to enjoy. The kitchen and bathroom are fresh and modern, and the home features polished hardwood floors throughout, perfect for low maintenance living. The three bedrooms are well proportioned and full of light, all with ceiling fans and all with air conditioning.
 

@@ -10,23 +10,11 @@ cars: 0
 status: Let
 address: '2 / 21 Brentford Road, RICHLANDS'
 main_image: 'https://img.eagleagent.com.au/fIvuJKxZwx8iTsSHy50vpzUnmlA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825062/423165998-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825068/423165998-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825067/423165998-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825066/423165998-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825065/423165998-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825064/423165998-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825063/423165998-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825062/423165998-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435509/images'
 property_id: '435509'
-id: aeab1cb9-4c72-4668-8f11-cf118d10e132
+price_search: null
+id: 85a721c7-6bc9-4a2b-98b6-119113266895
+suburb: RICHLANDS
 ---
 * Two bedrooms
 * Built-in wardrobes to bedrooms

@@ -10,39 +10,11 @@ cars: 2
 status: Sold
 address: '4 Celtis Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/PUoj5BB-nyGWKxzaUK0EaTkNrYk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821118/124953066-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821132/124953066-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821131/124953066-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821130/124953066-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821129/124953066-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821128/124953066-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821127/124953066-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821126/124953066-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821125/124953066-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821124/124953066-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821123/124953066-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821122/124953066-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821121/124953066-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821120/124953066-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821119/124953066-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821118/124953066-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435157/images'
 property_id: '435157'
-id: 5689f14c-793b-4c8f-87c3-6da5d76d68a3
+price_search: '495000.0'
+id: e7a31cfe-11c2-4eb3-91c9-69f8e2dbffdf
+suburb: 'ACACIA RIDGE'
 ---
 This stunning highset home is situated in one of the most sought-after pockets of this rapidly developing suburb. A leafy pocket with no through traffic and within walking distance to Acacia Ridge Primary School, Celtis Street is the perfect place for families to call home. A picturesque property with beautifully landscaped gardens with native trees and attractive stone path framing the home. The exterior has been modernised with a neutral palette, offset by timber slatted privacy screens, giving the home a thoroughly designer feel. Inside, the open-plan living areas are generous and beautifully showcase the solid hardwood timber floors, polished to perfection. The kitchen is modern with quality cabinetry and a functional layout. Flowing off the open-plan internal spaces is the expansive entertainers deck with leafy outlook over the back yard. Perfect for relaxing and enjoying your surrounds, this deck is big enough for the whole family!
 

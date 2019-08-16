@@ -10,41 +10,11 @@ cars: 2
 status: Sold
 address: '11 Woodlea Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/aVboJ_93MNw-ho7uCBja0K0n6ns=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819310/105537048-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819325/105537048-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819324/105537048-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819323/105537048-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819322/105537048-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819321/105537048-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819320/105537048-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819319/105537048-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819318/105537048-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819317/105537048-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819316/105537048-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819315/105537048-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819314/105537048-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819313/105537048-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819312/105537048-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819311/105537048-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819310/105537048-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434957/images'
 property_id: '434957'
-id: 8bbcea30-4cbe-47cf-addc-2e442694f327
+price_search: '600000.0'
+id: 6d420bad-77c3-4341-b6af-13b135937939
+suburb: MOOROOKA
 ---
 Located in a central Moorooka location this brand new home offers plenty of space and superior quality.
 

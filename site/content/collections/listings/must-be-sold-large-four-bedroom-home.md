@@ -10,27 +10,11 @@ cars: 1
 status: Sold
 address: '16 Bracken Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/7YOT8JdwxaUm_Tp4liVC5HMOGrY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820688/105933621-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820696/105933621-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820695/105933621-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820694/105933621-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820693/105933621-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820692/105933621-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820691/105933621-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820690/105933621-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820689/105933621-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820688/105933621-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435120/images'
 property_id: '435120'
-id: cdc78430-6340-4628-9023-7cd005544aec
+price_search: '590000.0'
+id: 4f0e0058-c3ef-4d10-9850-cbdbaee64bf2
+suburb: MOOROOKA
 ---
 Motivated Vendors!!
 Submit All Offers!!

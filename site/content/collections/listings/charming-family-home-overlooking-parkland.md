@@ -10,41 +10,11 @@ cars: 2
 status: Sold
 address: '23 Lismore Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/4VAxcnYDprxFmhfOa9kd57g4sqA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823646/122787350-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823661/122787350-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823660/122787350-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823659/122787350-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823658/122787350-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823657/122787350-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823656/122787350-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823655/122787350-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823654/122787350-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823653/122787350-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823652/122787350-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823651/122787350-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823650/122787350-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823649/122787350-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823648/122787350-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823647/122787350-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823646/122787350-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435362/images'
 property_id: '435362'
-id: e705c7db-5701-4101-b205-3632e7551b4b
+price_search: '365000.0'
+id: 98f88897-3474-4394-a7aa-bcc7c968061d
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented family home is being offered for the first time in 44 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter.
 

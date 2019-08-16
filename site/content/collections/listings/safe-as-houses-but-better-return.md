@@ -10,19 +10,11 @@ cars: 0
 status: Sold
 address: '7 / 104 Compton Road, WOODRIDGE'
 main_image: 'https://img.eagleagent.com.au/TKgHHXMQuudaw5vc_4aVfCaMEg8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819701/106187053-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819705/106187053-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819704/106187053-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819703/106187053-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819702/106187053-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819701/106187053-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435004/images'
 property_id: '435004'
-id: 0a3f211e-6b31-4de3-9fab-35cb6214b020
+price_search: '350000.0'
+id: f213d5ca-380d-436c-8e4e-527a664980d2
+suburb: WOODRIDGE
 ---
 *  Secure long-term tenant paying $32,400 p.a.
 *  302 sqm net area over 2 levels

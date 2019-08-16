@@ -10,35 +10,11 @@ cars: 0
 status: Sold
 address: '44 Oxley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Pu03yC59YeFhUCi_qOiGu6a8rV0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822990/117515995-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823002/117515995-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823001/117515995-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823000/117515995-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822999/117515995-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822998/117515995-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822997/117515995-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822996/117515995-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822995/117515995-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822994/117515995-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822993/117515995-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822992/117515995-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822991/117515995-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822990/117515995-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435304/images'
 property_id: '435304'
-id: a6035008-9e8e-4650-9e19-ab75347d1fc5
+price_search: '389000.0'
+id: ff1e6a11-e730-464a-a342-9261f1fa1c1d
+suburb: 'ACACIA RIDGE'
 ---
 This lovely home in Oxley Street is a real gem. It is situated on a fully fenced 708sqm block with landscaped gardens. The house is totally renovated with nothing more to spend.
 

@@ -10,27 +10,11 @@ cars: 1
 status: Let
 address: '55 Greer Road, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/GuwEUqApjd5ZAJrazBgA3AsFOMQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824604/420010318-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824612/420010318-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824611/420010318-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824610/420010318-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824609/420010318-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824608/420010318-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824607/420010318-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824606/420010318-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824605/420010318-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824604/420010318-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435462/images'
 property_id: '435462'
-id: 06e7ff5d-4d57-4574-8b1f-cab4aeae4e2e
+price_search: null
+id: 60d4ab69-7e88-4ac6-833a-38af61333196
+suburb: SALISBURY
 ---
 This freshly renovated three bedroom cottage is immaculately presented and ready to go! The home is bright and airy, with fresh paint, polished floorboards and beautiful tiles throughout. The living spaces and bedrooms are generously proportioned, designed to maximise enjoyment and lifestyle.
 

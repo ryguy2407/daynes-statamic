@@ -10,27 +10,11 @@ cars: 0
 status: Let
 address: '293 Lister Street, SUNNYBANK'
 main_image: 'https://img.eagleagent.com.au/AFAkq_jevYIS9L5AWj4yJAwl7uc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825848/426510694-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825856/426510694-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825855/426510694-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825854/426510694-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825853/426510694-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825852/426510694-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825851/426510694-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825850/426510694-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825849/426510694-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825848/426510694-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435583/images'
 property_id: '435583'
-id: d01bc06f-611d-4cf7-9556-1395ae723bda
+price_search: null
+id: 36ed6279-53bd-46dc-b851-e06163989dc9
+suburb: SUNNYBANK
 ---
 This charming family home has beautiful character, and is a home to be truly proud of. Stepping inside from the inviting front deck, you are welcomed into the light and airy home. The living area beckons you in with the lovely Hampton's colour scheme of grey walls, white trim and lovely timber floors. A delightful wood heater conjures up images of sitting in the warmth on a winter's evening with a cup of cocoa. Lovely double french doors open from the living area onto the back deck.
 

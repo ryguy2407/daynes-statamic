@@ -10,53 +10,11 @@ cars: 1
 status: Sold
 address: '1284 Beaudesert Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6OzbxS63-AuPC3ovdh4n6e_TB-s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821297/125872574-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821318/125872574-image-V.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821317/125872574-image-U.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821316/125872574-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821315/125872574-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821314/125872574-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821313/125872574-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821312/125872574-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821311/125872574-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821310/125872574-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821309/125872574-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821308/125872574-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821307/125872574-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821306/125872574-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821305/125872574-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821304/125872574-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821303/125872574-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821302/125872574-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821301/125872574-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821300/125872574-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821299/125872574-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821298/125872574-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821297/125872574-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435172/images'
 property_id: '435172'
-id: c096e17e-926e-4b0b-878e-96fe4f6c08f1
+price_search: '430000.0'
+suburb: 'ACACIA RIDGE'
+id: 3076cdd2-222a-40e3-accd-043619a3dd31
 ---
 Secluded behind a tropical leafy frontage is this private family home, promising years of enjoyment of the spacious interiors and idillic surrounds. Generous, light-filled interiors in a neutral colour palette are hidden away behind beautiful leafy gardens and latticing. Stepping inside, you are welcomed by the lovely formal entry which leads straight into the open plan living area on one side and into the expansive kitchen on the other. The home has been thoughtfully renovated to preserve and showcase the beautiful timber floors, stunning cornices and original features.
 

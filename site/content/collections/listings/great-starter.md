@@ -10,31 +10,11 @@ cars: 0
 status: Sold
 address: '94A Elizabeth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6RZyFeIj6tbCZzM8jkgauhgvIjE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821235/125642094-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821245/125642094-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821244/125642094-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821243/125642094-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821242/125642094-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821241/125642094-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821240/125642094-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821239/125642094-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821238/125642094-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821237/125642094-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821236/125642094-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821235/125642094-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435166/images'
 property_id: '435166'
-id: dd4e0b55-123c-456e-9ffd-0a358f60b5a1
+price_search: '350000.0'
+id: 613495ed-d967-476f-9cd6-9099546c6951
+suburb: 'ACACIA RIDGE'
 ---
 This lovely three bedroom home is ripe for renovation and a fantastic investment opportunity in this rapidly growing area. Conveniently situated right in the hub of Acacia Ridge, this property is close to transport and a great range of amenities. Recently repainted and freshened up internally, this is a functional family home with bright and airy interiors. North facing on a low maintenance 446sqm block, the home is privately set back from the road behind leafy hedges and framed by a beautiful Jacaranda. The fully-fenced front yard is the perfect setting for children and pets to play in the shade.
 

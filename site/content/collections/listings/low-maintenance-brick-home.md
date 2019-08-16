@@ -10,33 +10,11 @@ cars: 1
 status: Sold
 address: '1 Moonstone Place, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/8IS7mVRWzHmvTcIYe-NTv7jV9sU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821601/126769578-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821612/126769578-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821611/126769578-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821610/126769578-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821609/126769578-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821608/126769578-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821607/126769578-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821606/126769578-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821605/126769578-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821604/126769578-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821603/126769578-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821602/126769578-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821601/126769578-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435196/images'
 property_id: '435196'
-id: 7cc5d592-14a5-45cc-b20a-387435073ef4
+price_search: '360000.0'
+id: a7cbf1e5-70aa-453f-aa38-c40515ba58ba
+suburb: 'ACACIA RIDGE'
 ---
 This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of natural light and looks out to the lovely grassy lawns. The three bedrooms have been finished with new carpets and new blinds have been installed to windows throughout the property. The open plan kitchen, dining and living are perfect for busy families, allowing plenty of space to relax and entertain. This is an excellent entry-level home, perfect for those looking for an opportunity to move in with nothing left to do.
 

@@ -10,43 +10,11 @@ cars: 1
 status: Sold
 address: 'S2002 269 Grey Street, SOUTH BANK'
 main_image: 'https://img.eagleagent.com.au/4Uakjq3fMDtx5HTN9xenvEuELyM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820902/129034606-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820918/129034606-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820917/129034606-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820916/129034606-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820915/129034606-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820914/129034606-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820913/129034606-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820912/129034606-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820911/129034606-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820910/129034606-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820909/129034606-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820908/129034606-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820907/129034606-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820906/129034606-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820905/129034606-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820904/129034606-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820903/129034606-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820902/129034606-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435142/images'
 property_id: '435142'
-id: e5298057-38e1-46cc-a7b9-0f62f8724619
+price_search: '560000.0'
+id: 8c6218eb-8e3e-44fb-bb2f-eca7b19b1c65
+suburb: 'SOUTH BANK'
 ---
 The Emporium Apartments are the most highly anticipated and high profile developments situated on Southbank, the bustling cultural hub for which Brisbane is world-renowned. This apartment represents a rare opportunity to secure a precious piece of this vibrant riverfront community. Situated a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

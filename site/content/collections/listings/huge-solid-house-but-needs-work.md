@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '17 Phaius Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ULxHEDWtQJy5aYfMWQgKcq-9AHI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824063/115408599-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824075/115408599-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824074/115408599-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824073/115408599-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824072/115408599-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824071/115408599-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824070/115408599-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824069/115408599-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824068/115408599-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824067/115408599-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824066/115408599-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824065/115408599-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824064/115408599-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824063/115408599-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435391/images'
 property_id: '435391'
-id: 5452b324-3d91-4647-a4fe-10db2201a749
+price_search: '359000.0'
+id: a992e06d-32f2-4a52-863e-8180f54e7e2a
+suburb: 'ACACIA RIDGE'
 ---
 This huge brick and tile home in this quiet pocket of Acacia Ridge situated on a 546m2 block is in need of an internal renovation. Originally built in the mid 1980's it features 4 bedrooms upstairs with separate lounge and dining room.
 

@@ -10,33 +10,11 @@ cars: 0
 status: Sold
 address: '14 Benton Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/0bjYyeyN88t047Hfs_P5xWAlG4E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822816/117432463-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822827/117432463-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822826/117432463-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822825/117432463-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822824/117432463-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822823/117432463-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822822/117432463-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822821/117432463-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822820/117432463-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822819/117432463-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822818/117432463-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822817/117432463-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822816/117432463-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435291/images'
 property_id: '435291'
-id: 12dc1f9b-3dae-499d-ab22-bdfedeaeeddf
+price_search: '399000.0'
+id: fae32b47-4b14-42ae-98d4-cd9a89d8c9c4
+suburb: 'ACACIA RIDGE'
 ---
 Located on a quiet, leafy street, this lovingly renovated home is ready for its next chapter of family living. Light and airy inside, this property has been designed to make the most of outdoor entertaining. The front yard is extensive, with well-maintained gardens and steps leading up to the generous front deck. The fully-equipped kitchen, combined living and dining rooms open straight out onto the deck through French doors; perfect for families and entertainers alike.
 

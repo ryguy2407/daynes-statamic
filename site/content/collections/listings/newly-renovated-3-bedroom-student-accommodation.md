@@ -10,25 +10,11 @@ cars: 0
 status: Let
 address: '954 Stanley Street East, EAST BRISBANE'
 main_image: 'https://img.eagleagent.com.au/pxUUYB-kocSFbGZKGB3ILSz_yv8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826146/415021567-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826153/415021567-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826152/415021567-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826151/415021567-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826150/415021567-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826149/415021567-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826148/415021567-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826147/415021567-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826146/415021567-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435617/images'
 property_id: '435617'
-id: 6af74604-9715-4b80-9dbb-376e93fd0d86
+price_search: null
+id: f253f07f-23bb-4bc5-8312-568d65506626
+suburb: 'EAST BRISBANE'
 ---
 This Three Bedroom Student House has been tastefully renovated. Open plan combined modern kitchen and living area. Great location with easy access to shops, Gabba cricket ground, there is also a bus stop outside the property which gives you easy access to QUT, Southbank and the CBD.
 

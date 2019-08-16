@@ -10,27 +10,11 @@ cars: 1
 status: Sold
 address: '435 / 20 Montague Road, SOUTH BRISBANE'
 main_image: 'https://img.eagleagent.com.au/yROAks9iV6gv_clqxALt9k-4aFM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819792/106527817-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819800/106527817-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819799/106527817-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819798/106527817-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819797/106527817-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819796/106527817-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819795/106527817-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819794/106527817-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819793/106527817-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819792/106527817-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435015/images'
 property_id: '435015'
-id: a23de2cd-884f-4c83-bc1a-4c5dd8337efa
+price_search: '274995.0'
+id: 767f781d-f769-47c9-9e5a-9b717c4ab0cd
+suburb: 'SOUTH BRISBANE'
 ---
 Look no further for your dream investment or first home, this is it!
 

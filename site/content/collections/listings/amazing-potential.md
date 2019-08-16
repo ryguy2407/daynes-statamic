@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '17 Forgan Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/imgya2mqLRD37Glxf2Brv53nmS8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821900/128154398-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821907/128154398-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821906/128154398-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821905/128154398-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821904/128154398-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821903/128154398-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821902/128154398-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821901/128154398-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821900/128154398-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435221/images'
 property_id: '435221'
-id: aa156d7f-8463-4946-99fe-fc8aeb1b457a
+price_search: '400000.0'
+id: dae11e60-02da-4f23-9666-ad754cddb9da
+suburb: 'ACACIA RIDGE'
 ---
 Situated on a generous 741sqm flat parcel of land in one of the most convenient pockets of Acacia Ridge, this property represents a myriad of options to savvy investors and home buyers alike. Of much sought-after low-set design and functional internal layout, this home is the perfect blank slate and ripe for renovation. The internal spaces are generous and flow well, with open plan living and dining adjoining the galley-style kitchen. The three good-sized bedrooms are situated away from the main living and have large windows allowing plenty of natural light.
 

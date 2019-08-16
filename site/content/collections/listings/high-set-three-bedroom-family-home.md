@@ -10,21 +10,11 @@ cars: 3
 status: Let
 address: '418 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/WBGudRk3aRUAA16sL4vbkDdlClY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826436/417546406-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826441/417546406-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826440/417546406-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826439/417546406-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826438/417546406-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826437/417546406-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826436/417546406-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435652/images'
 property_id: '435652'
-id: 07556d41-105f-4d2b-8770-e5f394ebaef3
+price_search: null
+id: a98cd41f-6c85-4294-8610-0a9ca37923ed
+suburb: 'ACACIA RIDGE'
 ---
 This highset family home is on a large 541sqm completely flat block. Situated in a quiet part of Acacia Ridge, this property would be ideal for families. The house has good bones with solid hardwood floors and chamfer board exterior.
 

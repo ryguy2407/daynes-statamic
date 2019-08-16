@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '88 Littleton Road, RICHLANDS'
 main_image: 'https://img.eagleagent.com.au/Emeo1IgQumAESmoTy1gICRZ0mfE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824171/116238623-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824178/116238623-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824177/116238623-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824176/116238623-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824175/116238623-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824174/116238623-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824173/116238623-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824172/116238623-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824171/116238623-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435401/images'
 property_id: '435401'
-id: fe8fd432-bb96-4733-bbfb-c4dc1e42af7a
+price_search: '349000.0'
+id: 575c4e0d-fdb9-48c4-80b0-cedc85013e0c
+suburb: RICHLANDS
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

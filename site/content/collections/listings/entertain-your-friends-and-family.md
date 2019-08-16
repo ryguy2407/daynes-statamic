@@ -10,23 +10,11 @@ cars: 1
 status: Let
 address: '1334 Beaudesert Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rJSxFQJW_xkJICy9ZoL9XJeF_yE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826030/414238219-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826036/414238219-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826035/414238219-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826034/414238219-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826033/414238219-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826032/414238219-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826031/414238219-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826030/414238219-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435602/images'
 property_id: '435602'
-id: c012e640-86fd-406a-8661-66e170440e89
+price_search: null
+id: 8210fd96-ea6e-4e90-99e3-dedbaeaaf3e0
+suburb: 'ACACIA RIDGE'
 ---
 Entertain your friends and family with the generously sized back deck and fully fenced backyard.
 

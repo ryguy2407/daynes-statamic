@@ -10,23 +10,11 @@ cars: 2
 status: Sold
 address: '6 Bushmills Court, HILLCREST'
 main_image: 'https://img.eagleagent.com.au/s83_xHO-wHmhysSW1ZnWyLwtqJY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820145/107496955-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820151/107496955-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820150/107496955-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820149/107496955-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820148/107496955-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820147/107496955-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820146/107496955-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820145/107496955-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435065/images'
 property_id: '435065'
-id: bec0fde5-a7af-46eb-9350-9a9df21767e3
+price_search: '260000.0'
+id: a90a983c-aa4c-4fca-b3f4-650ffcc44796
+suburb: HILLCREST
 ---
 Located in a very handy location, this three bedroom highset boasts plenty of space and loads of potential.
 

@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '198 Postle Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/0OUz6Btp7OA14gHVe8k8F-p5N-8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822447/130199278-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822459/130199278-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822458/130199278-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822457/130199278-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822456/130199278-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822455/130199278-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822454/130199278-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822453/130199278-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822452/130199278-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822451/130199278-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822450/130199278-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822449/130199278-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822448/130199278-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822447/130199278-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435266/images'
 property_id: '435266'
-id: d380e633-675d-42a5-9764-05a9b2fdbd0a
+price_search: '380000.0'
+id: 7caf6b14-2046-4915-9c31-05c18e387e57
+suburb: 'ACACIA RIDGE'
 ---
 This lovely family home set amongst leafy surrounds promises great lifestyle and is perfect for families. A charming low-set property with chamferboard exterior, this is a much sought-after design. Framed by neat and well-maintained gardens with an abundance of mature trees, the home is very private. Inside, the spacious open-plan living and dining flow nicely into the kitchen, and through the laundry to the back deck beyond. Perfect for entertainers those who love to relax with family and friends, this deck steps down to a paved area and grassy yard.
 

@@ -10,29 +10,11 @@ cars: 1
 status: Sold
 address: '3 Scouse Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/85OEXdwyKLjWgomX0PyV5XYEsN4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821163/125217298-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821172/125217298-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821171/125217298-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821170/125217298-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821169/125217298-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821168/125217298-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821167/125217298-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821166/125217298-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821165/125217298-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821164/125217298-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821163/125217298-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435161/images'
 property_id: '435161'
-id: 2e814afb-c461-4b56-b0a4-daeff1ee06d8
+price_search: '360000.0'
+id: a8d87c08-6394-465c-a3f4-c1ee34d7a172
+suburb: 'ACACIA RIDGE'
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the classic design. Carpets, tiles and lino hide beautiful hardwood floors for which these homes are much sought-after and the layout is perfect for low maintenance and easy family living. The original interiors are clean and functional, perfect to move straight in and renovate at your own pace.
 

@@ -10,43 +10,11 @@ cars: 1
 status: Sold
 address: '2 / 26 Mayfield Road, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/q7qnwWXKGnjx_I2N9aB-IVy_hms=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818313/104267586-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818329/104267586-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818328/104267586-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818327/104267586-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818326/104267586-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818325/104267586-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818324/104267586-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818323/104267586-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818322/104267586-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818321/104267586-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818320/104267586-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818319/104267586-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818318/104267586-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818317/104267586-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818316/104267586-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818315/104267586-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818314/104267586-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818313/104267586-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434849/images'
 property_id: '434849'
-id: eadc3c1a-0c44-4f33-9e14-81cdcfa176e9
+price_search: '330000.0'
+id: 7f6e16c2-f425-410b-bc45-114d5f48beb1
+suburb: MOOROOKA
 ---
 This tri-level 2 bedroom townhouse is in a complex of only 4 and is only 10 years old! Put that together with very low body corporate fees of just $860 p.a. and you have one VERY sought after property.
 

@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '10 Longford Crescent, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/j3CGLPCd3Ye5OpXPJmtwJkiij4Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822229/129682038-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822241/129682038-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822240/129682038-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822239/129682038-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822238/129682038-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822237/129682038-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822236/129682038-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822235/129682038-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822234/129682038-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822233/129682038-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822232/129682038-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822231/129682038-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822230/129682038-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822229/129682038-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435250/images'
 property_id: '435250'
-id: 0b6bdf1c-30e3-4921-ba10-32ac846e206d
+price_search: '399000.0'
+id: 9a03bc57-7102-4fb2-8b57-8051211ea6fe
+suburb: 'ACACIA RIDGE'
 ---
 This generous family home has it all for those who are seeking space and convenience. A low-maintenance, low-set design, this comfortable home represents an opportunity to under take cosmetic updates to make it truly your own. Set in a quiet pocket of Acacia Ridge with no through traffic, this property offers privacy and convenience, all on the one level! Well proportioned for comfortable family living, this home boasts plenty of space for entertaining and relaxing. The living is air conditioned and the kitchen is spacious, with enough bench space and storage to accommodate busy families. These generous open plan kitchen and dining spaces are complemented by the four well-proportioned bedrooms. Each of the bedrooms is equipped with built-in storage and the master is adjoined by an ensuite.
 

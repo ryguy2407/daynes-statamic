@@ -10,31 +10,11 @@ cars: 2
 status: Sold
 address: '5 Delong Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/wqYo7h5Y12K_JCHEUDUJtQu2abg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821319/125896234-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821329/125896234-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821328/125896234-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821327/125896234-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821326/125896234-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821325/125896234-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821324/125896234-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821323/125896234-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821322/125896234-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821321/125896234-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821320/125896234-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821319/125896234-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435173/images'
 property_id: '435173'
-id: 4d0b697e-0df3-4267-9e56-6877b734ee94
+price_search: '435000.0'
+suburb: 'ACACIA RIDGE'
+id: 6fea90de-699c-4ec1-9fa0-717a022361e0
 ---
 This generous family home has it all for those who are seeking lifestyle and convenience. A low-maintenance, low-set design, this comfortable home has been lovingly cared for and presents an opportunity to move straight in. Set in immaculately presented gardens in a quiet pocket of Acacia Ridge, this property offers privacy and convenience, all on the one level! Well proportioned for comfortable family living, this home boasts plenty of space for outdoor and indoor entertaining and relaxing. Generous open plan kitchen and dining spaces flow out to the large under cover paved patio. This patio is an entertainers delight, with a built in bar area and plenty of room for a barbeque, all overlooking the beautiful gardens and lawn.
 

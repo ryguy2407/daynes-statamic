@@ -10,41 +10,11 @@ cars: 2
 status: Sold
 address: '17 Wardgrave Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Yvk0imQLQKyVmIRgmJtuK0Cd64w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823739/123296366-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823754/123296366-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823753/123296366-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823752/123296366-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823751/123296366-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823750/123296366-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823749/123296366-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823748/123296366-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823747/123296366-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823746/123296366-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823745/123296366-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823744/123296366-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823743/123296366-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823742/123296366-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823741/123296366-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823740/123296366-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823739/123296366-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435369/images'
 property_id: '435369'
-id: bdc5f3e5-e77e-4e88-a6f8-26218813ffb8
+price_search: '440000.0'
+id: 51a4843c-6f4b-4a36-8c28-2d637f6a01b3
+suburb: 'ACACIA RIDGE'
 ---
 Come home to this stunning high-set home and relax in the spacious bright interiors and expansive veranda. Stepping up to the cute east-facing balcony, the open-plan living, dining and kitchen are offset by the stunning timber veranda, overlooking the neat backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright. With plenty of room for a growing family, this home is perfect for those who are after a little more from their investment.
 

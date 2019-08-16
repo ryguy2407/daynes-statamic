@@ -10,41 +10,11 @@ cars: 2
 status: Sold
 address: '509 Beatty Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/CdMaW41s6UClmnPr67TO3_uOD1w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823676/123044090-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823691/123044090-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823690/123044090-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823689/123044090-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823688/123044090-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823687/123044090-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823686/123044090-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823685/123044090-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823684/123044090-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823683/123044090-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823682/123044090-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823681/123044090-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823680/123044090-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823679/123044090-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823678/123044090-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823677/123044090-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823676/123044090-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435364/images'
 property_id: '435364'
-id: e52a0e6c-f29a-4f55-94d1-981f0d7a9c5b
+price_search: '375000.0'
+id: df66e91b-fac3-41ee-875c-428c7fef9bc9
+suburb: 'ACACIA RIDGE'
 ---
 This property is a solid family home situated on a large 1,062sqm block, a prime opportunity for those looking for the potential of a subdivision or simply to enjoy a great block of land. With an approximately 21m frontage and a depth of approximately 50.5m, this is a generous space with plenty of options. The block next door provides a great example of the subdivision potential, with the back battle-axe block featuring a newly built dwelling.
 

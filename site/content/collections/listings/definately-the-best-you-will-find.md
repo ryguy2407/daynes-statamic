@@ -10,19 +10,11 @@ cars: 1
 status: Sold
 address: '4 / 11 Birdwood Road, CARINA HEIGHTS'
 main_image: 'https://img.eagleagent.com.au/bh_VkJN8F6SzSfpZC3guI48_5CE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818048/103965380-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818052/103965380-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818051/103965380-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818050/103965380-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818049/103965380-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818048/103965380-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434794/images'
 property_id: '434794'
-id: 5bb19836-26ae-4730-95c6-aa2db1b426b5
+price_search: '385000.0'
+id: 8d39fd94-539d-4f3b-a9de-9c41cd169558
+suburb: 'CARINA HEIGHTS'
 ---
 You will love this brand new 2 bedroom tri-level townhouse, it has everything you need.  Live in an exclusive 5 townhouse complex close to transport and shopping centres.
 

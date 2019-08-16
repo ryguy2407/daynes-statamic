@@ -10,41 +10,11 @@ cars: 3
 status: Sold
 address: '142 Orange Grove Road, COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/GBvyCruH9vgidZ9bZBcSBUW4MAw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823124/118035227-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823139/118035227-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823138/118035227-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823137/118035227-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823136/118035227-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823135/118035227-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823134/118035227-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823133/118035227-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823132/118035227-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823131/118035227-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823130/118035227-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823129/118035227-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823128/118035227-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823127/118035227-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823126/118035227-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823125/118035227-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823124/118035227-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435315/images'
 property_id: '435315'
-id: 9e005287-3442-497b-b15b-b16e57bf077a
+price_search: '500000.0'
+id: 9e0ce4f8-35a7-497a-877c-1f4b339e6c64
+suburb: 'COOPERS PLAINS'
 ---
 Wander around the beautiful gardens of this surprisingly serene property. This is the city farmers delight with extensive developed gardens including plenty of flowering plants, fruit trees and chook pen. The two verandahs overlook the gardens and have been positioned thoughtfully to be enjoyed at all times if the day. This property has been lovingly cared for and home of many happy family gatherings.
 

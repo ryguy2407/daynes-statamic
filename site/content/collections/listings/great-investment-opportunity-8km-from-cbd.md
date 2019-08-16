@@ -10,23 +10,11 @@ cars: 2
 status: Sold
 address: '15 / 118 Hamilton Road, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/VKyEBeH_L9VyOxXqOFKRZ_LQ8aM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820002/107039007-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820008/107039007-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820007/107039007-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820006/107039007-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820005/107039007-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820004/107039007-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820003/107039007-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820002/107039007-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435051/images'
 property_id: '435051'
-id: 0d8ed2b3-5456-4ec3-b885-e94eba005271
+price_search: '349000.0'
+id: 7c961448-124d-4c71-9662-6b801829b912
+suburb: MOOROOKA
 ---
 Act quickly to secure this lovely two bedroom villa in a managed complex of 30. This property is currently on a six month lease at $320 per week.
 

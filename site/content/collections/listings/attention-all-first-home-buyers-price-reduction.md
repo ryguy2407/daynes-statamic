@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '52 Keble Street, CORINDA'
 main_image: 'https://img.eagleagent.com.au/v_1zMuxdlZy1Z0RGnWLLUCb_wuo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819472/105828086-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819485/105828086-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819484/105828086-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819483/105828086-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819482/105828086-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819481/105828086-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819480/105828086-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819479/105828086-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819478/105828086-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819477/105828086-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819476/105828086-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819475/105828086-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819474/105828086-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819473/105828086-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819472/105828086-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434977/images'
 property_id: '434977'
-id: 3253629e-bf26-4f96-83f4-a566964a0bbb
+price_search: '439000.0'
+id: 11a20360-4c46-4e86-bda8-9645387e83d2
+suburb: CORINDA
 ---
 Check this little beauty out….
 Situated on 607m2 in the heart of Corinda, this is the perfect property to get you into your first home.  You can sit and relax in the undercover patio area while the kids play safely and securely in the fully fenced rear yard.

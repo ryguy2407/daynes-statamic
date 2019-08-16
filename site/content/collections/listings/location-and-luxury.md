@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '265 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/d7WJpAYULwnycf16l3kyl6mbO2k=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821777/127590330-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821790/127590330-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821789/127590330-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821788/127590330-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821787/127590330-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821786/127590330-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821785/127590330-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821784/127590330-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821783/127590330-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821782/127590330-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821781/127590330-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821780/127590330-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821779/127590330-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821778/127590330-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821777/127590330-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435212/images'
 property_id: '435212'
-id: dc864b39-b0ef-4d1e-8b0a-52f5e88dac89
+price_search: '430000.0'
+suburb: 'ACACIA RIDGE'
+id: 09adf98a-4912-4edd-a8b2-c4c044e8a6d7
 ---
 This immaculately presented family home represents the ideal of modern living, perfect for families and those who love to entertain. Stepping up to the shady front patio, the cool interiors are generously proportioned and a great layout. Open plan living and dining opens effortlessly into the tidy kitchen meaning both functionality and convenience. The shady timber back deck steps off the kitchen and overlooks the grassy yard, making for convenient entertaining. The back shed is large enough to accommodate a workshop and car, and can be accessed from the driveway and carport. This car accessibility to the rear of the property is a much sought after feature, and provides value for owner-occupiers and prospective tenants alike.
 

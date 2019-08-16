@@ -3,37 +3,33 @@ title: 'Townhouse In Moorooka'
 property_type: Townhouse
 listing_type: residential_rental
 price: ''
-rent: '340.0'
+rent: '360.0'
 bedrooms: 3
 bathrooms: 2
 cars: 1
 status: Let
-address: '118 Hamilton Road, MOOROOKA'
-main_image: 'https://img.eagleagent.com.au/0OIQlxhl7EJW8G0-iuVHE0LsMdE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824285/403010669-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824289/403010669-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824288/403010669-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824287/403010669-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824286/403010669-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824285/403010669-image-M.jpg'
-property_id: '435415'
-id: 8e9abdaf-bc30-4b64-be97-2eab3195a4da
+address: '17 / 118 Hamilton Road, MOOROOKA'
+main_image: 'https://img.eagleagent.com.au/CWUll6FjJdGDSYAJWOZ8xd-NrHg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824305/403435006-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435419/images'
+property_id: '435419'
+price_search: null
+id: 927f781d-7a1f-4a09-a829-41afeb1cec35
+suburb: MOOROOKA
 ---
- -  3 bedroom townhouse with ensuite
- -  Separate Bath & Toilet
- -  Security Screens
+3 bedroom modern brick townhouse
+
+Features Include
+ -  Ensuite To Master Bedroom
  -  Lock up garage
  -  Private Courtyard
+ -  Security Screens
  -  Quiet location
- -  Located close to all amenities, only 8km to city
+ -  Located close to buses and train station and all other amenities
+ -  Only 8km to city
  -  Onsite manager
 
-Available 12 March, 2008
+Available 15th August, 2008
+$360 per week
 
-For any further information please call 3892 4844.
+For any further information please call 3845 0600.
 Please note: Photos are of similar townhouse within complex

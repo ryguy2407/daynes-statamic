@@ -10,31 +10,11 @@ cars: 3
 status: Let
 address: '19 Luprena Street, MANSFIELD'
 main_image: 'https://img.eagleagent.com.au/_xHwygIgHe1LCaMccBx0CD2KIf4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824834/421650434-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824844/421650434-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824843/421650434-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824842/421650434-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824841/421650434-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824840/421650434-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824839/421650434-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824838/421650434-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824837/421650434-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824836/421650434-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824835/421650434-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824834/421650434-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435485/images'
 property_id: '435485'
-id: fa57e88f-7d22-4488-9113-452bf7b4fc7f
+price_search: null
+id: b88175d0-90d5-4438-9a07-a86b7fb6f321
+suburb: MANSFIELD
 ---
 This generous and beautifully presented home is ideal for those who enjoy entertaining and relaxing in fabulous outdoor spaces. With two great outdoor entertaining areas stepping off the kitchen and living, this home offers plenty of space. The gardens are beautifully presented, fully fenced and private, perfect for children and pets. The kitchen is modern and full of light, with plenty of storage and work surfaces. Spacious, tastefully decorated and light-filled interiors make this a comfortable home, suitable for couples and growing families alike.
 

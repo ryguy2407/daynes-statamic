@@ -10,17 +10,11 @@ cars: 1
 status: Sold
 address: '129 Park Road, WOOLLOONGABBA'
 main_image: 'https://img.eagleagent.com.au/bsbK7s7idKJZUTcQ0hCbq7cm844=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818018/103861748-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818021/103861748-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818020/103861748-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818019/103861748-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818018/103861748-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434790/images'
 property_id: '434790'
-id: 92c5adef-bb21-4e09-aaae-0cb543749482
+price_search: '560000.0'
+id: b7b7bdae-ecda-4a9d-9f14-89ddff5d5d8e
+suburb: WOOLLOONGABBA
 ---
 Here we have a semi-renovated Queenslander  so close to the city.  Situated on a generous 610 sqm of land with off street parking.
 

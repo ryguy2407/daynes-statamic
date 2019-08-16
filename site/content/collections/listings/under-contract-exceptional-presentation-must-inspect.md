@@ -10,41 +10,11 @@ cars: 2
 status: Sold
 address: '18 Chardean Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/H7h-DmlFNnHGhOsmJG0pgsQvqbs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823266/119276183-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823281/119276183-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823280/119276183-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823279/119276183-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823278/119276183-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823277/119276183-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823276/119276183-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823275/119276183-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823274/119276183-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823273/119276183-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823272/119276183-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823271/119276183-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823270/119276183-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823269/119276183-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823268/119276183-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823267/119276183-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823266/119276183-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435328/images'
 property_id: '435328'
-id: 0a6b78bf-49b8-4cf3-b9ef-b906d49687fe
+price_search: '395000.0'
+id: f610aaf8-5e23-45d8-8783-ffc2004cc8c7
+suburb: 'ACACIA RIDGE'
 ---
 This lovingly renovated home is without doubt one of the best in the area. The property boasts beautifully presented gardens, with low maintenance mature native plants and sweeping lawns. The inviting spaces continue inside with polished hardwood floors throughout and generously proportioned living areas. This home is high-set, meaning perfectly captured breezes and a beautiful outlook from the front deck. It is the small luxuries that make this home truly unique. The bathroom is a full wet-room featuring fresh neutral tiles, spa bath and a lovely custom built vanity with marble bench-top. Under the house has been renovated to include a large tiled room which is currently utilised as a games room, modern laundry, workspace with plenty of storage and a single car garage. Fully fenced, flat block of land perfect for children and pets.
 

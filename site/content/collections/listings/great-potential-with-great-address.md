@@ -10,37 +10,11 @@ cars: 1
 status: Sold
 address: '96 Bracken Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/eP0wYW4mzTu3pMxrZ7QD-ixcirk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818826/104974534-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818839/104974534-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818838/104974534-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818837/104974534-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818836/104974534-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818835/104974534-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818834/104974534-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818833/104974534-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818832/104974534-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818831/104974534-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818830/104974534-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818829/104974534-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818828/104974534-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818827/104974534-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818826/104974534-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434904/images'
 property_id: '434904'
-id: c2834356-a3ec-4fc1-9451-140ae2ec70af
+price_search: '490000.0'
+id: b1d35555-befc-4a21-a4f4-fbd1d4bed74a
+suburb: MOOROOKA
 ---
 Here is your chance to secure a solid brick home in a great position for under $500,000. This three bedroom home is situated on a 675sqm block on quiet and leafy Bracken Street, one of the higher positions in Moorooka.
 

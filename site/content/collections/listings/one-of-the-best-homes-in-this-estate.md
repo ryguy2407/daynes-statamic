@@ -10,39 +10,11 @@ cars: 2
 status: Sold
 address: '20 Tyrone Place, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/wW67mTJP72pYZRZMxaDR5Pdyyl0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823070/117848575-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823084/117848575-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823083/117848575-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823082/117848575-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823081/117848575-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823080/117848575-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823079/117848575-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823078/117848575-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823077/117848575-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823076/117848575-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823075/117848575-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823074/117848575-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823073/117848575-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823072/117848575-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823071/117848575-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823070/117848575-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435311/images'
 property_id: '435311'
-id: 7221eb3d-f722-4b46-9942-a0eabc7fd897
+price_search: '398000.0'
+id: d267d331-1cf7-4e0f-8871-fd5fed8ad659
+suburb: 'ACACIA RIDGE'
 ---
 This brick & tile three bedroom plus study family home is situated at the end of a very quiet and leafy cul-de-sac. It was built by Devine homes in 1997 and is positioned on a 451sqm block which is prominently bigger than the average in this estate. It also has beautiful landscaped gardens which are an absolute credit to its current owner. The house has been maintained to the highest standards which you will see when you come to view at the open house this Saturday.
 

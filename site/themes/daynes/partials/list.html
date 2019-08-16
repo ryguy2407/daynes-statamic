@@ -1,0 +1,78 @@
+<div class="listings d-flex flex-wrap justify-content-start">
+    {{ listing }}
+    <div class="listing col-lg-4">
+        <a href="{{ url }}">
+            <img src="{{ main_image }}" style="width: 100%;">
+        </a>
+
+        <h5 class="title m-0">{{ title }}</h5>
+        <div class="details">
+            <ul class="d-flex justify-content-between m-0 flex-wrap">
+                {{ if landarea }}
+                <li class="mb-4"><i class="fas fa-ruler-combined mr-2"></i>{{ landarea }} m2</li>
+                {{ endif }}
+                {{ if bedrooms }}
+                <li><i class="fas fa-bed mr-2"></i>{{ bedrooms }} Bedrooms</li>
+                {{ endif }}
+                {{ if bathrooms }}
+                <li><i class="fas fa-bath mr-2"></i>{{ bathrooms }} Bathrooms</li>
+                {{ endif }}
+            </ul>
+            <hr class="m-0">
+            <h4 class="m-0">{{ price }}</h4>
+        </div>
+    </div>
+    {{ /listing }}
+</div>
+
+{{ paginate }}
+<ul class="pagination justify-content-center">
+    {{ if prev_page }}
+    <li class="page-item"><a class="page-link" href="{{ prev_page }}">&laquo;</a></li>
+    {{ else }}
+    <li class="page-item"><span class="page-link">&laquo;</span></li>
+    {{ /if }}
+
+    {{ links:segments }}
+
+    {{ first }}
+    {{ if page == current_page }}
+    <li class="active page-item"><span><a class="page-link">{{ page }}</a></span></li>
+    {{ else }}
+    <li class="page-item"><a class="page-link" href="{{ url }}">{{ page }}</a></li>
+    {{ /if }}
+    {{ /first }}
+
+    {{ if slider }}
+    <li class="disabled page-item"><span class="page-link">...</span></li>
+    {{ /if }}
+
+    {{ slider }}
+    {{ if page == current_page }}
+    <li class="active page-item"><span class="page-link">{{ page }}</span></li>
+    {{ else }}
+    <li class="page-item"><a class="page-link" href="{{ url }}">{{ page }}</a></li>
+    {{ /if }}
+    {{ /slider }}
+
+    {{ if slider || (!slider && last) }}
+    <li class="disabled page-item"><span class="page-link">...</span></li>
+    {{ /if }}
+
+    {{ last }}
+    {{ if page == current_page }}
+    <li class="active page-item"><span class="page-link">{{ page }}</span></li>
+    {{ else }}
+    <li class="page-item"><a class="page-link" href="{{ url }}">{{ page }}</a></li>
+    {{ /if }}
+    {{ /last }}
+
+    {{ /links:segments }}
+
+    {{ if next_page }}
+    <li class="page-item"><a class="page-link" href="{{ next_page }}">&raquo;</a></li>
+    {{ else }}
+    <li class="disabled page-item"><span class="page-link">&raquo;</span></li>
+    {{ /if }}
+</ul>
+{{ /paginate }}

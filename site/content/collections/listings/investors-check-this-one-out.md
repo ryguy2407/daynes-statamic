@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '2 / 8 Buckingham Place, EIGHT MILE PLAINS'
 main_image: 'https://img.eagleagent.com.au/m-JTc_ncywDfstOt-_rK6g-iA7w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818253/104173750-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818259/104173750-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818258/104173750-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818257/104173750-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818256/104173750-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818255/104173750-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818254/104173750-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818253/104173750-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434843/images'
 property_id: '434843'
-id: ce50fc5d-a491-4421-9f72-99740d26ea51
+price_search: '310000.0'
+id: f4c88ad0-ea85-4b47-a186-6d2d1e4a7ec3
+suburb: 'EIGHT MILE PLAINS'
 ---
 Situated in a six-year old complex of 74 dwellings in Eight Mile Plains, this three bedroom, two bathroom, free-standing home is a great opportunity for the astute investor.
 

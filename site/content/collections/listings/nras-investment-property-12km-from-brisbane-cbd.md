@@ -10,29 +10,11 @@ cars: 1
 status: Sold
 address: '329 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/2miuGoEYeS0blIgktV_j4t8sp3Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824161/116047027-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824170/116047027-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824169/116047027-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824168/116047027-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824167/116047027-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824166/116047027-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824165/116047027-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824164/116047027-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824163/116047027-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824162/116047027-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824161/116047027-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435400/images'
 property_id: '435400'
-id: 96a254c9-85ad-499e-9d2f-30b57a4219be
+price_search: '379000.0'
+id: ab4713b2-1e3f-4077-a9ec-4311b8ba6295
+suburb: SALISBURY
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

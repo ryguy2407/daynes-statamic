@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '67 Merchiston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DXGdgXg9ExX8aCc9NtMDGfigyK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822894/131294582-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822906/131294582-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822905/131294582-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822904/131294582-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822903/131294582-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822902/131294582-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822901/131294582-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822900/131294582-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822899/131294582-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822898/131294582-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822897/131294582-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822896/131294582-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822895/131294582-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822894/131294582-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435298/images'
 property_id: '435298'
-id: 2820ee81-df0b-4621-84e8-117dc3c50f23
+price_search: '369000.0'
+id: e5277568-9052-43c6-b63d-2a0c25ab381e
+suburb: 'ACACIA RIDGE'
 ---
 This immaculately preserved property is your chance to secure a classic piece of mid-century design. Like stepping into a time capsule, this home is a beautiful example of the era and the perfect compliment to modern living and design sensibilities. For those who love the current trend for modern, Scandinavian inspired design, the open plan living and dining with the battened feature divide would provide the perfect backdrop to furniture and finishings with this aesthetic. Retaining the timber panelled walls would complete the mid-century look, but would be equally stylish with a coat of paint in a neutral tone. The living space is also a showcase of the hardwood timber flooring, for which homes of this era are much sought after. These floors are throughout the remainder of the home, protected by lino and would be simply stunning once revealed. Because if its immaculate preservation, this investment gives the lucky future owners plenty of options, many of which could be achieved relatively inexpensively.
 

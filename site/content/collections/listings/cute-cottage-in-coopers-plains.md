@@ -10,31 +10,11 @@ cars: 1
 status: Sold
 address: '171 Orange Grove Road, COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/9MHadH_Hwn-yYpdrrQa9Bdaa3sY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818526/104638159-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818536/104638159-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818535/104638159-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818534/104638159-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818533/104638159-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818532/104638159-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818531/104638159-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818530/104638159-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818529/104638159-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818528/104638159-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818527/104638159-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818526/104638159-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434878/images'
 property_id: '434878'
-id: 528a16ca-4e20-435f-ad15-a434d9f6511c
+price_search: '349000.0'
+id: a7d5a72b-1358-459b-bf7e-f740d2fbfac5
+suburb: 'COOPERS PLAINS'
 ---
 This light and airy two bedroom cottage set on 607sqm is a must inspect for those trying to get into the market.
 

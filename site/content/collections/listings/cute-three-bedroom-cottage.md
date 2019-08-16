@@ -10,27 +10,11 @@ cars: 2
 status: Let
 address: '28 Muriel Avenue, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/ue6MXqtCrqtcll0JvnIphFl5JX8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826395/417377738-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826403/417377738-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826402/417377738-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826401/417377738-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826400/417377738-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826399/417377738-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826398/417377738-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826397/417377738-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826396/417377738-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826395/417377738-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435648/images'
 property_id: '435648'
-id: c4f55bfe-0417-432f-a38e-e7166b935906
+price_search: null
+id: 7937d811-e47c-4153-b4ee-018915238492
+suburb: MOOROOKA
 ---
 This neat three bedroom house is ideal for those who are after a private family home in a convenient location. The property is beautifully light and airy inside, and boasts a private and leafy backyard to the rear. Featuring an air conditioned open plan kitchen and dining, which opens to a good-sized living area, this property has plenty of space to enjoy time together. The porch to the front of the property is secured by gates and can be used as an extension of the living area by opening the French doors.
 

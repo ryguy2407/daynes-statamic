@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '302 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/aIuhHhpQspBojgz9l4WANj_nVFU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820432/110373073-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820445/110373073-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820444/110373073-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820443/110373073-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820442/110373073-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820441/110373073-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820440/110373073-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820439/110373073-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820438/110373073-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820437/110373073-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820436/110373073-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820435/110373073-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820434/110373073-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820433/110373073-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820432/110373073-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435093/images'
 property_id: '435093'
-id: 958ab33d-428f-485f-9714-e0336ce1c0ed
+price_search: '439000.0'
+id: 45f4d957-13b4-41b6-924b-2420b39c9210
+suburb: SALISBURY
 ---
 If you love to entertain family and friends then this one is for you.
 

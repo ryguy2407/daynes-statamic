@@ -10,35 +10,11 @@ cars: 4
 status: Sold
 address: '17 Scouse Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/WzPba_R6cOfC2p43IHCW6TQtR3E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821569/126652282-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821581/126652282-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821580/126652282-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821579/126652282-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821578/126652282-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821577/126652282-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821576/126652282-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821575/126652282-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821574/126652282-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821573/126652282-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821572/126652282-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821571/126652282-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821570/126652282-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821569/126652282-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435193/images'
 property_id: '435193'
-id: 1e850878-766e-47a7-8519-6ebea09d90de
+price_search: '430000.0'
+id: 87ae047b-774a-4478-a306-c6128f896099
+suburb: 'ACACIA RIDGE'
 ---
 This inviting family home is ideal for those who need a little extra from their property, while retaining the chance to realise their renovating dream. Beautifully presented with lovely neutral colours throughout, this home is unique for the vaulted ceilings, giving an interesting feel to the home. Attractive and low-maintenance lino flooring hides beautiful hardwood floors for which these homes are much sought-after. The carpets to the bedrooms are in great condition and well chosen for the neutral colour scheme.
 

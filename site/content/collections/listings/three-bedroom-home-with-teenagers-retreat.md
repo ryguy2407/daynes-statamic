@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '20 Sandeman Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/7ART_P8v6SDS7GDFGKKG30V9PMs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823063/117759191-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823069/117759191-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823068/117759191-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823067/117759191-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823066/117759191-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823065/117759191-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823064/117759191-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823063/117759191-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435310/images'
 property_id: '435310'
-id: 0c9f6961-1c0e-43f6-946b-150c588b1f6f
+price_search: '379000.0'
+id: 59c743c4-1a89-4004-99e0-2d3a85ec8165
+suburb: 'ACACIA RIDGE'
 ---
 This property which is situated in one of Acacia Ridge's best streets is now offered for sale. Situated on a 665sqm elevated block which is completely fenced with established gardens. Constructed of chamfer board with a tiled roof. This home is in very good condition and will be appreciated once you view it.
 

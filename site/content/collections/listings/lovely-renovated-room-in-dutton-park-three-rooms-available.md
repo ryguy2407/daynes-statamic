@@ -10,19 +10,11 @@ cars: 0
 status: Let
 address: '267 Gladstone Road, DUTTON PARK'
 main_image: 'https://img.eagleagent.com.au/4sKeZqorZE6XJjSPkTRezYTq29E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825672/413403703-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825676/413403703-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825675/413403703-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825674/413403703-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825673/413403703-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825672/413403703-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435565/images'
 property_id: '435565'
-id: 47e1dd04-8dc9-4679-8372-bc9c011c4765
+price_search: null
+id: 435dcf5c-2b4f-43b0-b102-197f6b467d24
+suburb: 'DUTTON PARK'
 ---
 DESCRIPTION: Nicely renovated 3 bedroom flat in Dutton Park/Highgate Hill. This apartment has a combined lounge dining area. All windows are double glazed so no traffic noise will be heard.
 

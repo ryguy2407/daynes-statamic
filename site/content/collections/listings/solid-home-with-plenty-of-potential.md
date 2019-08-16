@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '431 Tarragindi Road, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/gjBGBA9pQxrAA-mibxjVE2gKdSk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819289/105476732-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819301/105476732-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819300/105476732-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819299/105476732-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819298/105476732-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819297/105476732-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819296/105476732-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819295/105476732-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819294/105476732-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819293/105476732-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819292/105476732-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819291/105476732-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819290/105476732-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819289/105476732-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434954/images'
 property_id: '434954'
-id: 715f4960-89ec-4117-b7b0-4e474eb48dc8
+price_search: '479000.0'
+id: 569c75df-ccfc-4254-9e70-5a6047215fae
+suburb: MOOROOKA
 ---
 Here is your chance to secure a large brick & tile home in a great position. This home has loads of potential and with a bit of tender, love and care it would make a great family home.
 

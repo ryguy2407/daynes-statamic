@@ -10,27 +10,11 @@ cars: 0
 status: Sold
 address: '5 / 118 Hamilton Road, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/ncriIww4-x1aNQO5awqYiDIQlaw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818053/103979683-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818061/103979683-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818060/103979683-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818059/103979683-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818058/103979683-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818057/103979683-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818056/103979683-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818055/103979683-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818054/103979683-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818053/103979683-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434795/images'
 property_id: '434795'
-id: dee62dca-0ead-4af6-9523-7d214e4e5c38
+price_search: '285000.0'
+id: 82701b48-ad11-495a-af0b-c351a32ce0df
+suburb: MOOROOKA
 ---
 Secure this Immaculate two-bedroom unit in Moorooka
 

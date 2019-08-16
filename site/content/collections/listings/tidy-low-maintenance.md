@@ -10,27 +10,11 @@ cars: 1
 status: Let
 address: '282 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/uxIwDbjhnMPN4c6Na0MnMgbeONU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825365/424435506-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825373/424435506-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825372/424435506-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825371/424435506-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825370/424435506-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825369/424435506-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825368/424435506-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825367/424435506-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825366/424435506-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825365/424435506-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435537/images'
 property_id: '435537'
-id: 3e8c8b3b-8e7f-4e01-94df-ac676638108d
+price_search: null
+id: e09ddf22-c967-4d35-ab6a-3e35fd51b04b
+suburb: 'ACACIA RIDGE'
 ---
 This low-maintenance home has been beautifully updated and finished in a neutral colour scheme. The tiled from patio overlooks the neat front yard with fruit trees and grassy lawns, which surrounds around the property. Stepping inside, the glossy floor tiles and neutral walls give the home a modern feel. The open plan living and dining is spacious, perfect for families. Flowing through to the galley-style kitchen, the main areas of the home are both stylish and functional. The kitchen features plenty of storage and stainless steel appliances. Conveniently, the laundry is situated just beyond the kitchen and provides access to the yard. The bedrooms are situated privately to the rear of the home and each has been equipped with storage, a ceiling fan and an air conditioner. This is the perfect property for those looking for a comfortable and convenient place to come home.
 

@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '34 Emily Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/7WpIsoIob4qVv2f5ePcyfBImOrc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819066/105220057-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819079/105220057-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819078/105220057-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819077/105220057-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819076/105220057-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819075/105220057-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819074/105220057-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819073/105220057-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819072/105220057-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819071/105220057-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819070/105220057-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819069/105220057-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819068/105220057-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819067/105220057-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819066/105220057-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434929/images'
 property_id: '434929'
-id: a3688260-7751-42ce-8836-2b206aca9e0f
+price_search: '349000.0'
+id: 4a16c9ae-8ad5-471b-a9a3-19adafc84dd3
+suburb: 'ACACIA RIDGE'
 ---
 This lovely home situated on a 602sqm block, located in a quiet street would have to be the best value home in Acacia Ridge.
 

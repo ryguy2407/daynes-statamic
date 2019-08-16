@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '7 Stuart Place, FOREST LAKE'
 main_image: 'https://img.eagleagent.com.au/zBSkQzhgKbQlcEHS7W9NNEQ6pFs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818429/104547416-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818435/104547416-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818434/104547416-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818433/104547416-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818432/104547416-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818431/104547416-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818430/104547416-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818429/104547416-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434865/images'
 property_id: '434865'
-id: f80c96b1-9dfe-4aae-8519-a053d548ee67
+price_search: '339000.0'
+id: 884072d9-97e2-4c55-b553-dd47f9b07156
+suburb: 'FOREST LAKE'
 ---
 What more could you ask for? This cute large size villa is within walking distance to the lake and Forest Lake village and also backs onto a walking track! With its cottage style interior, air conditioned living area and alarm system this property won't last long.
 

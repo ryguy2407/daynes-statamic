@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '25 Landstead Street, OXLEY'
 main_image: 'https://img.eagleagent.com.au/Ljkc5jTQezsgJpOjyy_NOiRTRJI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820737/115811131-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820743/115811131-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820742/115811131-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820741/115811131-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820740/115811131-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820739/115811131-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820738/115811131-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820737/115811131-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435126/images'
 property_id: '435126'
-id: 825184c6-1365-402d-9047-18f3b1767f24
+price_search: '369000.0'
+id: 77168ef3-5de2-4879-a875-00bdcbcd6908
+suburb: OXLEY
 ---
 This solid brick and tile home in this quiet pocket of Oxley situated on a 607m2 block is in need of an internal renovation.
 With the potential to add your own touches, this could be the home you have been looking for!

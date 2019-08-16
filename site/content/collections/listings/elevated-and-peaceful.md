@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '20 Scouse Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/8LtM7rIFFjGVQuaol4x_-7tw31w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822773/130858662-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822785/130858662-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822784/130858662-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822783/130858662-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822782/130858662-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822781/130858662-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822780/130858662-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822779/130858662-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822778/130858662-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822777/130858662-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822776/130858662-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822775/130858662-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822774/130858662-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822773/130858662-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435288/images'
 property_id: '435288'
-id: 67b079fc-ec48-4fe0-b04b-46a90468da68
+price_search: '379000.0'
+id: b1f241c9-90cb-4e37-a6a8-c9888804a781
+suburb: 'ACACIA RIDGE'
 ---
 This inviting family home is ideal for those who are in need of a little extra from their property, while retaining the chance to realise their renovating dream. Comfortable and functional as is, this home holds the potential to be a labour of love for its next owner who could move in and benefit from the generous spaces. This generously proportioned 607sqm parcel of land is situated in a in a peaceful pocket of Acacia Ridge, giving plenty of room for gardeners and children to enjoy. Chamferboard exterior and tiled roof make for a charming home with great street appeal. A bright front balcony affords an elevated and picturesque outlook down the tree-lined street. The balcony expands off the open-plan living area, making this a spacious and light-filled space to enjoy. The living flows beautifully into the dining and kitchen where the hardwood timber floors have been exposed for low maintenance functionality. The kitchen is neat and tidy, updated with modern two pac cabinetry and hard-wearing finishes.
 

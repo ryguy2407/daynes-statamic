@@ -10,31 +10,11 @@ cars: 2
 status: Sold
 address: '33 / 380 Nottingham Road, ALGESTER'
 main_image: 'https://img.eagleagent.com.au/to0Yntn7_iYOSCVM84kqvJ8cgNM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818302/104260717-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818312/104260717-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818311/104260717-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818310/104260717-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818309/104260717-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818308/104260717-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818307/104260717-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818306/104260717-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818305/104260717-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818304/104260717-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818303/104260717-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818302/104260717-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434848/images'
 property_id: '434848'
-id: 35dd5ca8-c194-4c26-bf90-4df12b66eca0
+price_search: '275000.0'
+id: a482e1a3-13f7-4123-86e1-3c5d7561135a
+suburb: ALGESTER
 ---
 This two-bedroom townhouse is a beauty.
 

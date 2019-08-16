@@ -10,29 +10,11 @@ cars: 1
 status: Let
 address: '74 Elizabeth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/eoUnk56H7N8UFGVdYgbpvTg9RNk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825507/425174054-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825516/425174054-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825515/425174054-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825514/425174054-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825513/425174054-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825512/425174054-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825511/425174054-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825510/425174054-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825509/425174054-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825508/425174054-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825507/425174054-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435551/images'
 property_id: '435551'
-id: 5a6976af-cd1d-4003-a4bf-de89af99c110
+price_search: null
+id: 3060a811-73ca-490a-9c1d-3255f48de77d
+suburb: 'ACACIA RIDGE'
 ---
 This low-set three bedroom family home sits on large block in a very convenient part of Acacia Ridge. The property has plenty of space for busy families in the open-plan living and dining. Living areas and bedrooms are airy and full of light, with the polished timber floors giving a low-maintenance finish. Bedrooms are privately situated to the rear of the home, all with ceiling fans and two with generous built-in storage. The tiled bathroom with a shower is spacious and the toilet is separate. The home is surrounded by a spacious backyard framed by mature trees, perfect for children and pets.
 

@@ -10,37 +10,11 @@ cars: 1
 status: Let
 address: '72 Merchiston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/TF_5BhmcJlgg5OCfUYhgbWBAwKk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825021/422863742-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825034/422863742-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825033/422863742-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825032/422863742-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825031/422863742-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825030/422863742-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825029/422863742-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825028/422863742-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825027/422863742-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825026/422863742-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825025/422863742-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825024/422863742-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825023/422863742-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825022/422863742-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825021/422863742-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435505/images'
 property_id: '435505'
-id: c1901738-e028-44ce-a5a7-46f19c920226
+price_search: null
+id: 8d3eeff6-ec04-42ab-837f-978a4217e4bb
+suburb: 'ACACIA RIDGE'
 ---
 On an elevated block, surrounded by well-kept gardens and framed by beautiful mature trees, this property has lovely street appeal. With a sunny northern aspect, the generous internal spaces of this home are full of light. This home is an entertainers delight, with a generous billiards room and bar extension to the rear, stepping steps out to the private backyard. The kitchen and bathroom are neat and functional, both expanded for additional space and usability. Each of the three bedrooms are good-sized and include ceiling fans. The master suite has direct access to the billiards room and adjoining powder room.
 

@@ -10,33 +10,11 @@ cars: 2
 status: Let
 address: '1 / 11 Denman Street, GREENSLOPES'
 main_image: 'https://img.eagleagent.com.au/jUq47fVlqbhfPplPB8oXarqAaeA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824342/403710845-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824353/403710845-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824352/403710845-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824351/403710845-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824350/403710845-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824349/403710845-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824348/403710845-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824347/403710845-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824346/403710845-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824345/403710845-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824344/403710845-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824343/403710845-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824342/403710845-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435425/images'
 property_id: '435425'
-id: b809b378-430f-46f4-ad63-6e258c5f3b5d
+price_search: null
+id: f4d7e689-f08a-4686-8fca-ad3768d610f7
+suburb: GREENSLOPES
 ---
 Upstairs includes
 *  2 large bedrooms upstairs, master bedroom with French doors opening to the ensuite and walk in robe

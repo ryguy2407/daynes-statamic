@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '39 Desgrand Street, ARCHERFIELD'
 main_image: 'https://img.eagleagent.com.au/1WN_9ZgLSLa72x-HfNZTLg1HYWA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823812/123434710-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823820/123434710-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823819/123434710-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823818/123434710-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823817/123434710-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823816/123434710-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823815/123434710-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823814/123434710-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823813/123434710-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823812/123434710-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435373/images'
 property_id: '435373'
-id: ca2ba265-b756-475c-bb63-e55718244bac
+price_search: '399000.0'
+id: 5c387370-408b-4f6d-bd5e-d3e56679dafb
+suburb: ARCHERFIELD
 ---
 Sitting pretty behind the high timber fence is this cute low-set home, full of potential for home owners and investors alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home.
 

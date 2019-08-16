@@ -57,6 +57,9 @@ sections:
       template:
         type: template
         display: Template
+      is_hidden:
+        type: toggle
+        display: is_hidden
 taxonomies: true
 title: 'Page Fields'
 create_title: 'Page Fields'

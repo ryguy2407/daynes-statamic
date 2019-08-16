@@ -10,33 +10,11 @@ cars: 2
 status: Sold
 address: '17 Clembury Place, CALAMVALE'
 main_image: 'https://img.eagleagent.com.au/KNjikaAMI0BorQYmRWWNMHCJg1Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824149/116036819-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824160/116036819-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824159/116036819-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824158/116036819-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824157/116036819-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824156/116036819-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824155/116036819-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824154/116036819-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824153/116036819-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824152/116036819-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824151/116036819-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824150/116036819-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824149/116036819-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435399/images'
 property_id: '435399'
-id: 7fc16e01-62e7-4d64-bd8b-fffe8ab2adc4
+price_search: '480000.0'
+id: 5970e189-352a-496b-a622-d300e194fb7e
+suburb: CALAMVALE
 ---
 This quiet little cul-de-sac street is surely the envy of everyone in Calamvale. Privately positioned, this home will offer a unique blend of peace and tranquillity which maintains easy access to Calamvale District park.
 

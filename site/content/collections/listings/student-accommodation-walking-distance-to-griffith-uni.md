@@ -10,21 +10,11 @@ cars: 0
 status: Let
 address: '4 Dalveen Street, COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/6uaDA3d-GzO5obd1dDs20ljj6Bc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826108/415381767-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826113/415381767-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826112/415381767-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826111/415381767-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826110/415381767-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826109/415381767-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826108/415381767-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435612/images'
 property_id: '435612'
-id: 6d4a6951-31eb-41e0-b8ac-6fe820b63a98
+price_search: null
+id: 30f73568-80cf-4f82-9847-daa8ff394e13
+suburb: 'COOPERS PLAINS'
 ---
 Large 5 bedroom student share house has rooms to rent now.
 

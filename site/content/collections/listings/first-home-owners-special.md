@@ -10,19 +10,11 @@ cars: 1
 status: Sold
 address: '23 Benton Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/RbV5E07pqI79Eji56nxpBoLGAts=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824207/116582299-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824211/116582299-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824210/116582299-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824209/116582299-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824208/116582299-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824207/116582299-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435405/images'
 property_id: '435405'
-id: dc0333ad-555d-4864-afc3-805225ac1163
+price_search: '329000.0'
+id: cdb444cc-cc90-4979-9a0d-01e43a85394a
+suburb: 'ACACIA RIDGE'
 ---
 This three bedroom home on a 615sqm corner block will impress buyers looking for good presentation and practicality.
 

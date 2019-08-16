@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '503 Beatty Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6039pKK4MvU2-xcpYUq4neVIeYs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822216/128970366-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822228/128970366-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822227/128970366-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822226/128970366-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822225/128970366-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822224/128970366-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822223/128970366-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822222/128970366-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822221/128970366-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822220/128970366-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822219/128970366-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822218/128970366-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822217/128970366-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822216/128970366-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435249/images'
 property_id: '435249'
-id: 1d8e854c-ff10-4423-a207-ed8a96568815
+price_search: '329000.0'
+suburb: 'ACACIA RIDGE'
+id: 8d81c864-e4d6-4ef4-9140-caacdb565b63
 ---
 This lovely cottage is situated on a low-maintenance 462sqm block, in a handy location. Private behind leafy trees and an attractive timber fence, this property has great street appeal. Internally, the home is full of light and finished with a neutral colour scheme. Featuring lovely original features such as VJ walls, timber floors and decorative ceilings, this is a great example of an original home in the area, beautifully preserved. The open plan living and dining is expanded by the lovely sunroom, and flows well into the kitchen. The tiled kitchen and bathroom, while dated, are in great condition. The large master bedroom features a generous walk-in wardrobe and ceiling fan, while the additional bedroom is set privately to the rear of the home.
 

@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '27 Alveston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ghlOpTH7_5lfAfctTNhmXgz8vm0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822202/128885778-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822215/128885778-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822214/128885778-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822213/128885778-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822212/128885778-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822211/128885778-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822210/128885778-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822209/128885778-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822208/128885778-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822207/128885778-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822206/128885778-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822205/128885778-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822204/128885778-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822203/128885778-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822202/128885778-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435248/images'
 property_id: '435248'
-id: e102e501-8149-49b2-a805-d18e360cc05e
+price_search: '450000.0'
+id: eeaa4628-55fc-4ef7-85a7-bfee5dbaf37a
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented striking mid-century design is sure to attract those who are after a unique house to call home. Situated in quiet residential pocket, this is an idyllic location for families. A private family home, this property promises years of enjoyment in the spacious and fresh interiors, and tranquil surrounds. The cute north-facing front porch looks out to leafy trees, perfect for enjoying a morning coffee. Stepping into the living area, the homes revitalisation is showcased with glossy timber flooring and a clean, neutral colour palette. It is easy to imagine enjoying the warm northern sunshine or cosy fireplace in this inviting space. The open plan design encompasses the sleek designer kitchen, finished with white two pac cabinetry and an island bench accented with modern pendant lights.
 

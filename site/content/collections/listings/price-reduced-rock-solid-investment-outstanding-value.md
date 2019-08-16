@@ -10,27 +10,11 @@ cars: 4
 status: Sold
 address: '61 Merchiston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/MReTm0tKCHfogNtpZWZ3QFWSat8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823372/120744353-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823380/120744353-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823379/120744353-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823378/120744353-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823377/120744353-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823376/120744353-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823375/120744353-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823374/120744353-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823373/120744353-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823372/120744353-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435339/images'
 property_id: '435339'
-id: a24d4e24-5a21-496c-97e9-2fe3b6f192b7
+price_search: '379000.0'
+id: a2d2f966-a796-45f2-9470-7ddef422c5cd
+suburb: 'ACACIA RIDGE'
 ---
 This home has been the delight of the current owners, and their love and enjoyment is evident in the attention to detail and liveability of the property. Featuring double brick fully insulated construction and fully insulated ceilings, this will be a solid investment for years to come.
 

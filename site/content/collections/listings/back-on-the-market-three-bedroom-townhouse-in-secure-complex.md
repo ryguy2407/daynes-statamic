@@ -10,21 +10,11 @@ cars: 1
 status: Sold
 address: '26 Buckingham Pl, EIGHT MILE PLAINS'
 main_image: 'https://img.eagleagent.com.au/TAs4aAj4THx2GTu1JHXqFhdW6R0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818537/104649316-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818542/104649316-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818541/104649316-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818540/104649316-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818539/104649316-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818538/104649316-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818537/104649316-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434879/images'
 property_id: '434879'
-id: a84b1380-0891-4c30-b7dd-d57e614a024c
+price_search: '340000.0'
+id: b699125d-9dbc-4fd9-a948-c6601ab27044
+suburb: 'EIGHT MILE PLAINS'
 ---
 Situated in a six-year old complex of 74 villas and townhouses in Eight Mile Plains, this three bedroom, two bathroom, townhouse is a great opportunity for the astute investor.
 

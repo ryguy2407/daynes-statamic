@@ -10,29 +10,11 @@ cars: 2
 status: Sold
 address: '15 Gemstone Crescent, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/fjakFizwkuxvOlOIMcZKcKZ6Oh0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822192/129304534-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822201/129304534-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822200/129304534-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822199/129304534-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822198/129304534-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822197/129304534-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822196/129304534-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822195/129304534-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822194/129304534-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822193/129304534-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822192/129304534-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435247/images'
 property_id: '435247'
-id: 1e8fc181-d50e-4a81-9274-1a39766c1aaa
+price_search: '359000.0'
+id: a1c5a0b4-3ec5-411d-ae72-bb9edfb0e814
+suburb: 'ACACIA RIDGE'
 ---
 This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of light and looks out to the lovely grassy lawns. The open plan eat in kitchen and living are generously proportioned and perfect for accommodating busy families.
 

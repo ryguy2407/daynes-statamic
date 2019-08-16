@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '19 Queensthorpe Street, TARRAGINDI'
 main_image: 'https://img.eagleagent.com.au/LXOAozJcnhK1N_e9HpAxK5GU3hU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821394/126030426-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821402/126030426-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821401/126030426-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821400/126030426-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821399/126030426-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821398/126030426-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821397/126030426-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821396/126030426-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821395/126030426-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821394/126030426-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435180/images'
 property_id: '435180'
-id: 421bdf8c-be2d-4b92-946d-77ba8b9a3fc3
+price_search: '580000.0'
+id: 5866c0a5-34f6-4a30-a88e-5058749a2aa1
+suburb: TARRAGINDI
 ---
 This beautiful family home promises great lifestyle and is perfect for families and those who love to entertain. A classic post war property with tiled roof and chamferboard exterior, this is a charming and desirable design. The open plan kitchen, dining and living, flows effortlessly out onto the shady back deck overlooking the leafy backyard. These generous spaces boast elevated outlooks and are full of light, offering the very best of open plan living.
 

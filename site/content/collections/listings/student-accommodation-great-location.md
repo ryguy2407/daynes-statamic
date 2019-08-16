@@ -9,22 +9,12 @@ bathrooms: 2
 cars: 0
 status: Let
 address: '38 Granville Street, WEST END'
-main_image: 'https://img.eagleagent.com.au/VkuuRWwGxKslbzroiaYCW0a83q8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826102/414873511-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826107/414873511-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826106/414873511-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826105/414873511-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826104/414873511-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826103/414873511-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826102/414873511-image-M.jpg'
-property_id: '435611'
-id: 5d028c37-1197-4991-80c9-324688162d5b
+main_image: 'https://img.eagleagent.com.au/gbFB8KLRzmpE2YOHURisfqOkFbg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826236/416135609-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435629/images'
+property_id: '435629'
+price_search: null
+id: 4dd9d1cd-aaa8-431b-aff7-b2fb7fd1c8cd
+suburb: 'WEST END'
 ---
 This 5 bedroom student house is available to rent, with Large living areas up & down and a Huge kitchen up & down the house is only 4 kilometres to the QUT Campus. Common courtyard areas, Walk to Southbank, Internal laundry (not coin operated) , 25m walk to bus, Quiet street, City views from front deck & sunroom
 

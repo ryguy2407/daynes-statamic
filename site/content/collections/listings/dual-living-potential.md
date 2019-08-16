@@ -10,35 +10,11 @@ cars: 3
 status: Sold
 address: '46 Roseglen Street, GREENSLOPES'
 main_image: 'https://img.eagleagent.com.au/Vn1UMKJDDw2lCJogUQsoX4zls0M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821978/128249886-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821990/128249886-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821989/128249886-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821988/128249886-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821987/128249886-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821986/128249886-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821985/128249886-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821984/128249886-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821983/128249886-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821982/128249886-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821981/128249886-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821980/128249886-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821979/128249886-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821978/128249886-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435228/images'
 property_id: '435228'
-id: 62e52063-25b0-4a08-9b6d-08568566f0c1
+price_search: '650000.0'
+suburb: GREENSLOPES
+id: 5156c148-5953-4e7a-bca7-853de1e83a8a
 ---
 This immaculately presented home is your opportunity to secure a property in this desirable neighbourhood. Built in the traditional style for the area, this property is a charming place to call home. With great street appeal, this generous property will surprise and delight those looking for their next family home. Passing by the wishing well and through the front gardens, along the timber decking, you are welcomed by beautiful leadlight doors. Stepping inside, the open plan interiors are light-filled and spacious. Perfect for entertaining, the open plan living and dining flow seamlessly through to the kitchen and beyond to the vast timber deck. This deck overlooks the tree-lined recreational reserve to the rear, and is the perfect place to enjoy the sunrise over your morning coffee.
 

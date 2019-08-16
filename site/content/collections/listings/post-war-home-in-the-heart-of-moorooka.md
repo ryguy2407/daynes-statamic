@@ -10,27 +10,11 @@ cars: 0
 status: Sold
 address: '2 Rosling Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/nNMDiCmOeVs-Tv_O6DUM-NFI2Pg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818363/104372000-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818371/104372000-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818370/104372000-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818369/104372000-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818368/104372000-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818367/104372000-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818366/104372000-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818365/104372000-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818364/104372000-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818363/104372000-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434855/images'
 property_id: '434855'
-id: a7be952c-b4bf-4198-8cc3-e4780ac3f914
+price_search: '460000.0'
+id: 49a9b4a6-e261-4136-8871-85675c2634ad
+suburb: MOOROOKA
 ---
 Be quick to inspect this three bedroom post war home, on a 604sqm sized corner block in Moorooka.
 

@@ -10,21 +10,11 @@ cars: 1
 status: Sold
 address: '3 / 118 Hamilton Road, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/wiuCROcUlFc8QRCfA92ehgRwwJ0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818820/104937780-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818825/104937780-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818824/104937780-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818823/104937780-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818822/104937780-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818821/104937780-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818820/104937780-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434903/images'
 property_id: '434903'
-id: 2fad42db-edf1-4348-8bca-7c944283b891
+price_search: '365000.0'
+id: dccc5b91-1198-4690-83f0-6f61d2cc1a17
+suburb: MOOROOKA
 ---
 Secure this lovely three-bedroom, two bathroom townhouse in a complex of 30.
 Moorooka is only 8km to the city and this townhouse is close to all amenities.

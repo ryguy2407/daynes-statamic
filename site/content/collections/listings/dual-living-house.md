@@ -10,25 +10,11 @@ cars: 1
 status: Let
 address: '7 Cameron Street, WEST END'
 main_image: 'https://img.eagleagent.com.au/x9fpDOf2hUSDrqSd29lvsdOo6_4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826064/414625015-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826071/414625015-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826070/414625015-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826069/414625015-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826068/414625015-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826067/414625015-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826066/414625015-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826065/414625015-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826064/414625015-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435606/images'
 property_id: '435606'
-id: 60788ac5-fc83-4c65-ae0d-f7c8ae36d757
+price_search: null
+id: c3235f7b-7436-40c4-8486-959b788e170d
+suburb: 'WEST END'
 ---
 Situated just 1km from the CBD and walking distance to  West End Shopping/Restaurant precinct this massive home is vacant now and ready for new tenants.
 

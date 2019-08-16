@@ -10,39 +10,11 @@ cars: 2
 status: Sold
 address: '32 / 2 Diamantina Street, CALAMVALE'
 main_image: 'https://img.eagleagent.com.au/XCZfsiOxjvKZcSJAfVfhDau7je4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823085/117896799-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823099/117896799-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823098/117896799-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823097/117896799-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823096/117896799-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823095/117896799-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823094/117896799-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823093/117896799-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823092/117896799-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823091/117896799-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823090/117896799-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823089/117896799-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823088/117896799-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823087/117896799-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823086/117896799-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823085/117896799-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435312/images'
 property_id: '435312'
-id: a84eba21-04e1-4131-9275-7b9bd83cbcf3
+price_search: '389000.0'
+id: 5e7a4f1d-0bb8-426d-9bbf-4b89c9ecfcb8
+suburb: CALAMVALE
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

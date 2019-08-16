@@ -10,19 +10,11 @@ cars: 1
 status: Sold
 address: '3-15 Lagonda Street, ANNERLEY'
 main_image: 'https://img.eagleagent.com.au/YJxYwKpNIkOZcGVnhMjJSvEfqR4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824104/115532775-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824108/115532775-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824107/115532775-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824106/115532775-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824105/115532775-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824104/115532775-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435395/images'
 property_id: '435395'
-id: 0b295cea-8f57-4e5c-98df-cbff4db31be6
+price_search: '370000.0'
+id: a225fd73-e542-48ee-bf1b-8586ecf730d4
+suburb: ANNERLEY
 ---
 This brand new, well presented 2 bedroom unit is in a small complex of 5 units. It is only a stones throw to the Fairfield railway station with only a few stops to Central Station and Fairfield shopping Centre just a short stroll away.
 

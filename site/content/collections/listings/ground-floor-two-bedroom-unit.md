@@ -10,21 +10,11 @@ cars: 1
 status: Sold
 address: '20 / 329 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/paJC3Z4Hrt6p_D9TFc47Y75yivQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820472/110756691-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820477/110756691-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820476/110756691-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820475/110756691-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820474/110756691-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820473/110756691-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820472/110756691-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435097/images'
 property_id: '435097'
-id: 416bf9ce-5166-4b3e-948e-32d3761bf68d
+price_search: '389000.0'
+id: 738cd591-c043-4f59-a07e-bfe3cb82d591
+suburb: SALISBURY
 ---
 Act now to secure this terrific investment opportunity or to live with great convenience in Salisbury.
 

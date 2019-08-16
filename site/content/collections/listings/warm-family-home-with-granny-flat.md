@@ -10,37 +10,11 @@ cars: 1
 status: Let
 address: '20 Farrar Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ssYwC3cb7pZEUrakJ8bLrLYzc0I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825621/425628638-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825634/425628638-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825633/425628638-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825632/425628638-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825631/425628638-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825630/425628638-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825629/425628638-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825628/425628638-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825627/425628638-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825626/425628638-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825625/425628638-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825624/425628638-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825623/425628638-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825622/425628638-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825621/425628638-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435561/images'
 property_id: '435561'
-id: 913ffb12-4102-4499-a8f1-64304aac6892
+price_search: null
+id: 1fec7767-6757-4d5a-b6ff-c9b1a8faa43c
+suburb: 'ACACIA RIDGE'
 ---
 Immaculately presented, this desirable brick low-set property with a great layout is perfect for families. The open plan living and dining is adjoined by an additional room, easily converted into a range of useful spaces including study or additional bedroom. The kitchen steps off the living and dining, making entertaining a breeze. The property also boasts a spacious pool room and undercover entertaining area separate to the house. This space is ideal for large family gatherings with an additional toilet and plenty of room to relax and enjoy. This structure holds great potential as it could easily be converted into a granny flat for those after dual occupancy, or a large home office.
 

@@ -10,31 +10,11 @@ cars: 2
 status: Sold
 address: '27 Scouse Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/XBAOH8O0GJycNBjADn5BHv73trY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823152/118062335-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823162/118062335-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823161/118062335-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823160/118062335-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823159/118062335-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823158/118062335-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823157/118062335-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823156/118062335-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823155/118062335-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823154/118062335-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823153/118062335-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823152/118062335-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435317/images'
 property_id: '435317'
-id: 5bcc7721-72d9-46ac-bec2-1ccb71310e27
+price_search: '289000.0'
+id: b7854407-154f-451e-b26b-336f0a5414bd
+suburb: 'ACACIA RIDGE'
 ---
 This solid post-war home is of wooden construction and has hardwood floors throughout. Low-set and with an open-plan design, this property also features three good-sized bedrooms and one bathroom with separate toilet. This is a great entry level property for those who want to renovate and reap the rewards in this rapidly growing suburb.
 

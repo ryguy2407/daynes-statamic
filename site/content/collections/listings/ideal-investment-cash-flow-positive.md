@@ -10,23 +10,11 @@ cars: 2
 status: Sold
 address: '44 Melia Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ngfxBZvveoi_FXkiLQlWRin7aIM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824091/115510415-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824097/115510415-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824096/115510415-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824095/115510415-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824094/115510415-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824093/115510415-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824092/115510415-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824091/115510415-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435393/images'
 property_id: '435393'
-id: 3893d220-897c-4882-9b37-f3e5e33dc058
+price_search: '369000.0'
+id: 1b092ccb-016a-467e-96d7-f12e2ddc0368
+suburb: 'ACACIA RIDGE'
 ---
 Currently rented at $870 per week
 Thatâ€™s right! $870 per week on a room to room basis.

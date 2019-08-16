@@ -10,41 +10,11 @@ cars: 3
 status: Sold
 address: '404 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/1gR_e4R0EfhVao4VM9ZbSSsoEIs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823630/122791194-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823645/122791194-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823644/122791194-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823643/122791194-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823642/122791194-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823641/122791194-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823640/122791194-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823639/122791194-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823638/122791194-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823637/122791194-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823636/122791194-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823635/122791194-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823634/122791194-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823633/122791194-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823632/122791194-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823631/122791194-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823630/122791194-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435361/images'
 property_id: '435361'
-id: 2c06ac35-c7fd-45b3-a39c-263f2c36e0ad
+price_search: '429000.0'
+id: 98c6af62-20dc-464f-9987-b3bd7447d4a7
+suburb: 'ACACIA RIDGE'
 ---
 This generous home has it all for those who love to entertain and spend time with their family. The shady and beautiful timber deck opens off the spacious living area through double sliding doors, creating a great area to relax or entertain. The kitchen is also spacious, with plenty of storage and preparation space, and fresh finishes.
 

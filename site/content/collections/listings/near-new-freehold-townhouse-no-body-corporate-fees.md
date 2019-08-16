@@ -10,33 +10,11 @@ cars: 1
 status: Sold
 address: '34 Helles Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/LIIDgyZTT0LJ0JKDkZCTVRQp_8Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819080/105242582-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819091/105242582-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819090/105242582-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819089/105242582-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819088/105242582-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819087/105242582-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819086/105242582-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819085/105242582-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819084/105242582-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819083/105242582-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819082/105242582-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819081/105242582-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819080/105242582-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434930/images'
 property_id: '434930'
-id: e26f0898-de73-4de6-81aa-b6ac2f605e5a
+price_search: '475000.0'
+id: 913b2129-71b6-46c4-bf16-d79461e6704f
+suburb: MOOROOKA
 ---
 Situated in a quiet leafy street in Moorooka this three bedroom townhouse offers plenty of living space and great quality.
 

@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '11 Mawson Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DmF0TZCiG2m40oPWu-k3sPMv7H0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822000/128329310-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822012/128329310-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822011/128329310-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822009/128329310-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822008/128329310-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822007/128329310-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822006/128329310-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822005/128329310-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822004/128329310-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822003/128329310-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822002/128329310-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822001/128329310-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822000/128329310-image-M.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822010/128329310-image-J.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435230/images'
 property_id: '435230'
-id: 3c6469c2-dad0-4a4e-89e3-251c06105f18
+price_search: '450000.0'
+id: ce0a334f-b71a-4378-a1e3-23820a5a8d09
+suburb: 'ACACIA RIDGE'
 ---
 Come home to this stylish and generous family home, a rare offering of space and lifestyle in a low-maintenance, low-set design. The open plan interiors are welcoming and warm, in tasteful neutral colours and plenty of room to relax and entertain. They entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. The functionality and flow of these spaces is the pinnacle of design for those wishing to enjoy their property. The outdoor entertaining area overlooks the grassy stretch of yard and the immaculately presented gardens.
 

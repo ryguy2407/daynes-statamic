@@ -10,43 +10,11 @@ cars: 2
 status: Active
 address: '106 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/9li5aAlA9TTSaWojrAIewjbBIXM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823003/131617842-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823019/131617842-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823018/131617842-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823017/131617842-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823016/131617842-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823015/131617842-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823014/131617842-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823013/131617842-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823012/131617842-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823011/131617842-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823010/131617842-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823009/131617842-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823008/131617842-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823007/131617842-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823006/131617842-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823005/131617842-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823004/131617842-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823003/131617842-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435305/images'
 property_id: '435305'
-id: ba6d0d97-aecb-47cb-9408-2e02e30d988b
+price_search: '400000.0'
+id: 877580de-f9db-4fb5-a4f7-ee7806cb2602
+suburb: 'ACACIA RIDGE'
 ---
 Set amongst the trees, this split-level family home is unique in its location with only one neighbouring property. Backing on to parkland and overlooking nature reserve beyond, it is hard to believe the home is only 16km from the Brisbane CBD. This property is a much sought-after 809sqm block, meaning a generous parcel of land for a family to enjoy, build a granny flat or extension, or an attractive investment opportunity for those seeking a subdivision project (subject to council approval). Situated in one of the most elevated parts of the suburb, the views are second to none at sunset. The picturesque setting make it all the more attractive for each option presented by this investment.
 

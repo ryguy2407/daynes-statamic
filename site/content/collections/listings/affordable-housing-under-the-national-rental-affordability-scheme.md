@@ -10,21 +10,11 @@ cars: 1
 status: Let
 address: '329 Lillian Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/vngFb7xcIcQIfUDsqPxUZbGQSBY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824515/408981643-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824520/408981643-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824519/408981643-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824518/408981643-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824517/408981643-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824516/408981643-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824515/408981643-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435450/images'
 property_id: '435450'
-id: a5882af4-9e95-410d-89ee-c8e01a8de7ba
+price_search: null
+id: 24116b6a-4c64-42fb-9e06-02b70339d346
+suburb: SALISBURY
 ---
 ** This is a NRAS property - Please check eligibility requirements before making enquiry ** Email enquiries only please **
 

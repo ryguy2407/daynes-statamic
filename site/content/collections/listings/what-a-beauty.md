@@ -10,39 +10,11 @@ cars: 3
 status: Sold
 address: '6 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/F9k-gBubJ2SaIqoOBpZfeQRh95o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823030/117608907-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823044/117608907-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823043/117608907-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823042/117608907-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823041/117608907-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823040/117608907-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823039/117608907-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823038/117608907-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823037/117608907-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823036/117608907-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823035/117608907-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823034/117608907-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823033/117608907-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823032/117608907-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823031/117608907-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823030/117608907-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435307/images'
 property_id: '435307'
-id: 720a3592-7fa4-477b-b59d-6653bc553b7c
+price_search: '419000.0'
+id: d19b1709-f920-4eac-a156-5797ceb307e2
+suburb: 'ACACIA RIDGE'
 ---
 You will need to be extremely quick on this one as this property is absolutely packed with value. The home has been fully renovated and includes a private fully equipped, self-contained studio.
 

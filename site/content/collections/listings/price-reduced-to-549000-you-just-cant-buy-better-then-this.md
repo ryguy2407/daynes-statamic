@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '2 Maurice Avenue, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/vPty622JCPRP6-967wjBsqYafFQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818782/104882626-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818794/104882626-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818793/104882626-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818792/104882626-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818791/104882626-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818790/104882626-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818789/104882626-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818788/104882626-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818787/104882626-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818786/104882626-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818785/104882626-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818784/104882626-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818783/104882626-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818782/104882626-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434899/images'
 property_id: '434899'
-id: 4b64e539-591b-4e13-a021-98f59abc37da
+price_search: '541000.0'
+id: 9752ab10-7cbb-4c49-8b1a-097c9c3e96f5
+suburb: SALISBURY
 ---
 Situated on a 490sqm block, this beautiful home will not disappoint anyone who is looking for lots of room and a good looking home.
 

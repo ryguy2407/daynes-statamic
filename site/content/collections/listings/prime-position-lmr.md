@@ -10,27 +10,11 @@ cars: 0
 status: Sold
 address: '11 Mulvey Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/MHoggnu8Q6idvAhaL71GSUMG5E8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821521/126475878-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821529/126475878-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821528/126475878-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821527/126475878-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821526/126475878-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821525/126475878-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821524/126475878-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821523/126475878-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821522/126475878-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821521/126475878-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435189/images'
 property_id: '435189'
-id: f6a9d2e1-f39c-46cf-9bfe-13503abb01fb
+price_search: '415000.0'
+id: 50f0aad6-9c94-43f3-aa51-da106aacbc89
+suburb: 'ACACIA RIDGE'
 ---
 This cute two bedroom cottage is situated in a rapidly developing and exciting pocket of Acacia Ridge, on a 607sqm Low Medium Residential (LMR) block. Promising great short and long term potential, the property is a desirable rental as is with the zoning giving investors plenty of development options. The house itself is a neat and tidy dwelling with a well-presented interior and grassy lawns. The kitchen and bathroom are dated but functional, the bedrooms and living are spacious and full of light.
 

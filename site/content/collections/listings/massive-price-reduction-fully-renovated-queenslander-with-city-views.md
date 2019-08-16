@@ -10,39 +10,11 @@ cars: 4
 status: Sold
 address: '66 Nicholson Street, GREENSLOPES'
 main_image: 'https://img.eagleagent.com.au/J1OVMQl68cP8w_oD259mTGNGC_c=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819658/106093230-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819672/106093230-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819671/106093230-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819670/106093230-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819669/106093230-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819668/106093230-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819667/106093230-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819666/106093230-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819665/106093230-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819664/106093230-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819663/106093230-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819662/106093230-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819661/106093230-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819660/106093230-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819659/106093230-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819658/106093230-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435000/images'
 property_id: '435000'
-id: b11b85b5-afce-4b03-9dde-682b85ed0fc5
+price_search: '940000.0'
+id: bdb3e816-daaa-4af4-8a72-4232c6af96e2
+suburb: GREENSLOPES
 ---
 Spectacular City Views! Fully Renovated Queenslander Sitting High on the Hill
 

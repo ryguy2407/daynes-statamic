@@ -10,33 +10,11 @@ cars: 4
 status: Sold
 address: '41 Hemsworth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/CFMN5Q8QDJePWfgfMqi-PoNC_TM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820958/124507274-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820969/124507274-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820968/124507274-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820967/124507274-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820966/124507274-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820965/124507274-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820964/124507274-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820963/124507274-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820962/124507274-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820961/124507274-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820960/124507274-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820959/124507274-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820958/124507274-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435146/images'
 property_id: '435146'
-id: 84152343-b536-40e0-a0f2-4fe7ebfdedfa
+price_search: '425000.0'
+id: 82ab4352-aa45-4271-8d00-b48e31c34c75
+suburb: 'ACACIA RIDGE'
 ---
 Sitting proudly in one of Acacia Ridge’s most sought-after pockets is this chamferboard high-set home with a lovely elevated aspect. Stepping off the front balcony is the generous open plan living and dining space, flowing effortlessly into the large kitchen and back verandah beyond. This stunning timber verandah with modern balustrades and sized to capitalise on the elevated views is truly the highlight of this property. With such a convenient layout, it is easy to imagine enjoying relaxing in this lovely family home. Hardwood timber floors to the living, dining and bedrooms showcase the solid construction of this home and really highlight why these homes are so sought-after by first home owners and investors alike.
 

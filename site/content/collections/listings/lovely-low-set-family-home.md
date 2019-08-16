@@ -10,31 +10,11 @@ cars: 1
 status: Let
 address: '11 Lilyvale Street, MANSFIELD'
 main_image: 'https://img.eagleagent.com.au/aClB0PhzJFMXR3ZTlsxJZHMTHeA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826548/418408458-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826558/418408458-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826557/418408458-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826556/418408458-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826555/418408458-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826554/418408458-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826553/418408458-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826552/418408458-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826551/418408458-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826550/418408458-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826549/418408458-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826548/418408458-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435664/images'
 property_id: '435664'
-id: ba0e6c9d-dc0b-40c9-a282-ac444d4c01c8
+price_search: null
+id: 88dccb5a-6218-4965-819a-c04aa93cc8ec
+suburb: MANSFIELD
 ---
 This beautifully presented home is ideal for those who enjoy entertaining and spending time outdoors. With a great outdoor entertaining area overlooking a neat garden and a beautiful park with bike track just at the end of the street, this home is perfect for those who love to enjoy getting outside. Spacious, tastefully decorated and light-filled interiors make this a comfortable home, suitable for couples and growing families alike.
 

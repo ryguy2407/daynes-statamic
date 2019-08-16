@@ -10,25 +10,11 @@ cars: 1
 status: Let
 address: '32 Bellevue Parade, TARINGA'
 main_image: 'https://img.eagleagent.com.au/jNxXQQ3gX3k4B7RhNQKzy5Yx6xc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826072/414625347-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826079/414625347-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826078/414625347-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826077/414625347-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826076/414625347-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826075/414625347-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826074/414625347-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826073/414625347-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826072/414625347-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435607/images'
 property_id: '435607'
-id: 7f6138c4-b4f4-4837-8279-4dc79a7dad1e
+price_search: null
+id: 65285836-447b-4804-b5c1-b6598bc42c30
+suburb: TARINGA
 ---
 This 4 bedroom home is available for rent now.
 

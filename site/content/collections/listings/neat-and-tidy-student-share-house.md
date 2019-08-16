@@ -10,31 +10,11 @@ cars: 1
 status: Let
 address: '1 / 5 Howsan Street, MOUNT GRAVATT'
 main_image: 'https://img.eagleagent.com.au/_0NQ7Zr8aFK3dEYjfpxFXBk4nIM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826086/414872207-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826096/414872207-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826095/414872207-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826094/414872207-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826093/414872207-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826092/414872207-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826091/414872207-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826090/414872207-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826089/414872207-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826088/414872207-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826087/414872207-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826086/414872207-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435609/images'
 property_id: '435609'
-id: 5b249895-1923-453f-a569-cdb4a506f95c
+price_search: null
+id: 1ac37f7f-8c97-4adf-991a-c3035c46ef2d
+suburb: 'MOUNT GRAVATT'
 ---
 This 5 bedroom townhouse has a room available for rent. Fully furnished room, the property has an outdoor private patio area to sit and enjoy.
 

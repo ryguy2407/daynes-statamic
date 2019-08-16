@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '36 Elizabeth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/X8n1t-H9eCFjV37i0UobeD6_0_Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823201/118543659-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823207/118543659-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823206/118543659-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823205/118543659-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823204/118543659-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823203/118543659-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823202/118543659-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823201/118543659-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435322/images'
 property_id: '435322'
-id: 3a8431d8-cad5-4c28-98c7-7beb6d4c8ec4
+price_search: '850000.0'
+id: 320dd834-f6c1-4559-9aab-009965abc5e8
+suburb: 'ACACIA RIDGE'
 ---
 36 Elizabeth Street & 23 Amherst Street, Acacia Ridge
 

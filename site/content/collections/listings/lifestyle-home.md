@@ -10,37 +10,11 @@ cars: 4
 status: Sold
 address: '32 Oxley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6m6zNp_yM4k3IOVJNwmL-nHHNPI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822527/130436982-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822540/130436982-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822539/130436982-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822538/130436982-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822537/130436982-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822536/130436982-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822535/130436982-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822534/130436982-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822533/130436982-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822532/130436982-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822531/130436982-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822530/130436982-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822529/130436982-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822528/130436982-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822527/130436982-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435272/images'
 property_id: '435272'
-id: 9e449fdf-4a12-4760-b92d-0f29e01c0e05
+price_search: '445000.0'
+suburb: 'ACACIA RIDGE'
+id: 0063e967-5688-4ed9-a235-480c5c3c1df5
 ---
 Situated on a sweeping corner block, this immaculately presented home is perfect for those looking for a property to suit their lifestyle. With the perfect balance of low maintenance interiors, combined with generous outdoor entertaining spaces, this is a property to enjoy. The home is framed by leafy greenery and beautifully maintained gardens. All enjoyed from the expansive front deck. Stepping inside the clever conversion of the sunroom means a dedicated dining space, and is ideal for effortless blending of indoor and outdoor entertaining. Opening into the living area and to the kitchen beyond, these open plan spaces have been beautifully finished in neutral colours and showcase the hardwood timber floors. The kitchen has been designed with the utmost care and attention to both design and functionality, sure to compliment busy lifestyles.
 

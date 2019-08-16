@@ -10,37 +10,11 @@ cars: 0
 status: Sold
 address: '11 Woodlea Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/bSKRyYEeg7_qb2QLCgF9OKmGV2s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818848/104998705-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818861/104998705-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818860/104998705-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818859/104998705-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818858/104998705-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818857/104998705-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818856/104998705-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818855/104998705-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818854/104998705-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818853/104998705-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818852/104998705-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818851/104998705-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818850/104998705-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818849/104998705-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818848/104998705-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434906/images'
 property_id: '434906'
-id: bb918003-0ecf-4dcb-93d9-ddc110fda4cd
+price_search: '515000.0'
+id: 8343945f-17c2-4eb0-a8ae-e6eb2b1341bb
+suburb: MOOROOKA
 ---
 It's not everyday you get the opportunity to secure a huge 1037sqm block in Moorooka.
 

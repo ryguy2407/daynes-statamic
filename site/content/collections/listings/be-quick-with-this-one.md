@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '26 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rK5Sk6OudHT2O3JvNzvqFkBOwzE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820662/113628019-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820669/113628019-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820668/113628019-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820667/113628019-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820666/113628019-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820665/113628019-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820664/113628019-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820663/113628019-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820662/113628019-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435116/images'
 property_id: '435116'
-id: 7d392c70-99e3-47b1-8d07-e7d09413a273
+price_search: '329000.0'
+id: 90114f2b-af4a-4583-b67b-99c9d990ef2c
+suburb: 'ACACIA RIDGE'
 ---
 This property's established gardens will be sure to win your hearts over. Situated on a 701sqm corner block and very secluded from the road due to the beautiful vegetation in the front yard.
 

@@ -10,37 +10,11 @@ cars: 1
 status: Let
 address: '31 Dellow Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/WczWyLCzCNQSNzBk3ZXFze51uoo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824704/420918398-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824717/420918398-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824716/420918398-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824715/420918398-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824714/420918398-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824713/420918398-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824712/420918398-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824711/420918398-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824710/420918398-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824709/420918398-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824708/420918398-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824707/420918398-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824706/420918398-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824705/420918398-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824704/420918398-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435472/images'
 property_id: '435472'
-id: ae1765d8-7fe0-4713-9623-576424a4dd55
+price_search: null
+id: 029ce178-af21-4e0a-9536-e4f8e6633d2e
+suburb: 'ACACIA RIDGE'
 ---
 This large high-set family home is situated in one of the quietest and leafiest pockets of Acacia Ridge. This private and serene setting is perfectly complimented by the spacious, airy and bright interiors.
 

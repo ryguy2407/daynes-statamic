@@ -10,21 +10,11 @@ cars: 0
 status: Let
 address: '44 Sussex Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/91MGgRf6kkRa87gKnzhLA1rM-8I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824845/421762338-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824850/421762338-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824849/421762338-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824848/421762338-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824847/421762338-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824846/421762338-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824845/421762338-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435486/images'
 property_id: '435486'
-id: 377ccc2e-3bc6-464e-b346-7449c8aeb351
+price_search: null
+id: 6968652b-90c1-492b-8111-c53e19658854
+suburb: 'ACACIA RIDGE'
 ---
 This home is bright, airy and fresh, with plenty of space in the open-plan kitchen, living and dining, this house is perfect for families who love to entertain. The home is situated on a fully-fenced flat block, with a well-maintained grassy yard, perfect for children and pets.
 

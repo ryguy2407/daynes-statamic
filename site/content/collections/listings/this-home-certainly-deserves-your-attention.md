@@ -10,35 +10,11 @@ cars: 6
 status: Sold
 address: '501 Beatty Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/VxeI9uhu6IOZFAfzQ8GU5frgB8o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820626/113404203-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820638/113404203-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820637/113404203-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820636/113404203-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820635/113404203-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820634/113404203-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820633/113404203-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820632/113404203-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820631/113404203-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820630/113404203-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820629/113404203-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820628/113404203-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820627/113404203-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820626/113404203-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435113/images'
 property_id: '435113'
-id: f2512076-b559-4631-85d6-e39016b9e3da
+price_search: '559000.0'
+id: 391c9178-e82e-4a86-9605-42998156beb8
+suburb: 'ACACIA RIDGE'
 ---
 This totally renovated, federation style home is situated on a very large 1,062sqm resort style landscaped block. This property is packed with features and boasts a ton of character that you won't see everyday.
 

@@ -10,37 +10,11 @@ cars: 1
 status: Sold
 address: '24 Dunkeld Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/SCv4JjpyDplvEV1X13zlR6uNDpI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823725/123220666-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823738/123220666-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823737/123220666-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823736/123220666-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823735/123220666-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823734/123220666-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823733/123220666-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823732/123220666-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823731/123220666-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823730/123220666-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823729/123220666-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823728/123220666-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823727/123220666-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823726/123220666-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823725/123220666-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435368/images'
 property_id: '435368'
-id: 3ae4defa-c3b8-4ec1-8ce7-203d61b4df41
+price_search: '390000.0'
+id: b4922047-e7b9-44d8-bbbb-25077629d3cf
+suburb: 'ACACIA RIDGE'
 ---
 This property has it all for lifestyle and functionality, a beautifully presented family home situated in a quiet pocket of Acacia Ridge. Sitting behind the pretty white picket fence sits this high-set chamfer board home which will surely be the delight of the lucky future owners. The easy layout of this home promises plenty of space for a growing family. The open-plan combined living and kitchen space steps down to a lovely undercover entertaining area, overlooking the leafy backyard. Completely flat, fully fenced and private, the front and back yards afford a generous piece of land to enjoy.
 

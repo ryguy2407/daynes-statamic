@@ -10,43 +10,11 @@ cars: 1
 status: Sold
 address: '8 Wray Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DiyyhPIgJOQ97N9Lkh5UmHN86T4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821218/125498106-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821234/125498106-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821233/125498106-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821232/125498106-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821231/125498106-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821230/125498106-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821229/125498106-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821228/125498106-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821227/125498106-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821226/125498106-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821225/125498106-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821224/125498106-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821223/125498106-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821222/125498106-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821221/125498106-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821220/125498106-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821219/125498106-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821218/125498106-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435165/images'
 property_id: '435165'
-id: 7a03dbe8-d41a-4f84-8748-cdd828b75e18
+price_search: '425000.0'
+id: 03af7306-f635-4d3d-abca-45cb81ca6afe
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented home represents the ideal of modern living and an opportunity to secure one of Acacia Ridge’s most desirable properties. This private family home, promises years of enjoyment in the spacious and fresh interiors, and tranquil surrounds. The cute east-facing front porch looks out to the beautifully kept front lawns and to parkland beyond, perfect for enjoying a morning coffee. The beautiful gardens either side of the property are privately enclosed by the recently completed timber fence. Dual street access has been afforded with double car gates opening to the large shed to the rear.
 

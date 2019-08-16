@@ -2,66 +2,33 @@
 title: 'Modern Lifestyle'
 property_type: House
 listing_type: residential_sale
-price: 'Offers Over $660,000'
+price: '$349,000'
 rent: null
-bedrooms: 4
-bathrooms: 2
-cars: 2
-status: Active
-address: '12 Gippsland Place, CALAMVALE'
-main_image: 'https://img.eagleagent.com.au/QDrzxSI98h89aUp2qPqtWEJGwQs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822907/131584494-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822918/131584494-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822917/131584494-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822916/131584494-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822915/131584494-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822914/131584494-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822913/131584494-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822912/131584494-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822911/131584494-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822910/131584494-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822909/131584494-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822908/131584494-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822907/131584494-image-M.jpg'
-property_id: '435299'
-id: 3dc8e8c0-787c-49b2-bc2e-089640b53301
+bedrooms: 3
+bathrooms: 3
+cars: 1
+status: Sold
+address: '1 Lochore Court, CRESTMEAD'
+main_image: 'https://img.eagleagent.com.au/kcMr7fQx08OLitYlUpkK7jkzRvA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822255/129094282-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435252/images'
+property_id: '435252'
+price_search: '349000.0'
+suburb: CRESTMEAD
+id: f614c9a3-2dd5-4019-af84-6ba122e66ea2
 ---
-This welcoming and gracious family home promises the new lucky owners the very best in convenience and lifestyle. Sweeping lawns front the property which has been finished with a neutral render and stylishly complemented by treated timber accents, all giving this property great street appeal. What cannot be seen from the outside, however, are the generously proportioned internal spaces with lofty ceilings and beautiful finishes.
+This stunning home guarantees lifestyle and ease of living. The property is surrounded by sweeping lawns and privately behind mature trees. With a beautiful street presence, this is a home to be proud of. Stepping inside, the tiled reception hall is welcoming and cool. Leading through to the living on one side and bedrooms on the other, this is a brilliant and functional layout for families. The real showpiece of this property is the incredible entertaining patio to the rear of the home, overlooking the sparkling pool. The tiled patio can comfortably accommodate multiple outdoor settings and includes a spa. Framed by beautifully cared for gardens, this space is sure to form the setting of many happy memories.
 
-Stepping through the front door, you are welcomed by sophisticated and cool interiors, with stylish flooring and neutral colours on the walls. The entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. Privately set to the rear of the home, the open concept living spaces have a modern and contemporary feel, with glossy floor tiles and a neutral colour scheme. The generous open-plan kitchen with glossy benchtops overlooks the open plan family and dining space, and beyond to the back patio. Each of these well-appointed spaces are perfect for those who entertain and enjoy relaxing with family, both inside and out. Immediately off the hall is a tiled and spacious living room, with the possibility to be utilised as a media room, study or home office.
-
-Each of the four bedrooms include air conditioning and built-in storage, with the large master suite serviced by a lovely ensuite and walk in wardrobe. Designed for families, the beautifully presented main bathroom provides two way access to one of the bedrooms and twin basins. This home offers effortless entertaining and easy living for years to come. A showpiece of functional and lifestyle-focused design, this is a home that will tick all the boxes for those looking for a home to be proud of.
+Inside, the carpeted living is both generous and stylish, with the feature bay-window adding character and plenty of light. The eat-in kitchen sits between the indoor and outdoor living, and is a wonderful example of low-maintenance and modern design. The three bedrooms each include built-in storage, the large master suite is also air conditioned and serviced by a lovely ensuite. With all the convenience of a functional family home and the added bonus of amazing outdoor spaces, this is a great opportunity to secure a property to guarantee and fun summer ahead!
 
 This property features:
 
-*  Lovely street appeal with neat frontage
-*  Open plan interiors with living, dining and kitchen privately set to the rear and flowing out to entertaining area
-*  Under cover entertaining area shady and private
-*  Additional living room to the front of the home, potential to be utilised as media room, study, home office or additional bedroom
-*  Kitchen with granite benchtops, neutral cabinetry and plenty of storage
-*  Gas cooktop, electric oven with rangehood, dishwasher
-*  Carpets to master and one additional bedroom
-*  Glossy tiles to living, kitchen, family rooms and two bedrooms
-*  Air conditioning throughout
-*  Vacuumaid ducted vacuum cleaner
-*  Security and insect screens throughout property to windows and doors
-*  Modern downlights throughout
-*  Double garage with tiled floor, internal access to the house, extra length allowing for storage
-*  Additional car parking on driveway
-*  Rainwater tank, gravity fed
-*  Gas hotwater system
-*  Low-maintenance block, fully fenced
+*  Generous entertaining area with undercover patio, pool, spa and yard
+*  Large internal living area with air conditioner
+*  Functional and modern kitchen
+*  Three good sized bedrooms, all with built in storage
+*  Master with air conditioning and ensuite
+*  Large laundry off kitchen, with storage
+*  Additional room off laundry which could be utilised as a study, rumpus or storage
+*  Beautifully presented gardens surrounding property
 
-This is an outstanding location for both lifestyle and convenience. Just a 7 minute drive to Calamvale Central Shopping Centre and Sunnybank Hills Shopping Town, providing easy access to ample retail, services and amenities. In addition to this, it’s just a little further down the road to Westfield Garden City. Commuters will appreciate the easy commute along major thoroughfares and less than 20km to the CBD. Situated in the catchments for Algester State School and Calamvale Community College and Griffith University is a short drive or bus ride away. Calamvale is known for its leafy parks and warm community, and this property is situated right in the heart of this great suburb. Within walking distance to multiple parks and nature reserves, this is a great place to raise a family. This is a generous property packed with value!
+Situated on a generous 729sqm block, this is a generous piece of land with a home for everyone to enjoy. Families will be attracted by the low-maintenance design and modern finishes, in addition to the lifestyle features on offer. Just over 1km from Marsden State High School and 2km from Crestmead State School, this is a great property for families with children. The location is great for access to nearby major arterial roads, including the M1, Logan Motorway and Mt Lindsay Highway for those who commute. A beautiful home and packed with extras, this property will not last long.

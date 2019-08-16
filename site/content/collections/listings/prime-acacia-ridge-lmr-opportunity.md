@@ -10,25 +10,11 @@ cars: 2
 status: Sold
 address: '49 Elizabeth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/dU1eUkjXn2_dCeO0HYTsrRF6WIQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821970/128240506-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821977/128240506-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821976/128240506-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821975/128240506-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821974/128240506-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821973/128240506-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821972/128240506-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821971/128240506-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821970/128240506-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435227/images'
 property_id: '435227'
-id: 154b06c3-89f2-4cb4-8e35-61729eecfbd6
+price_search: '500000.0'
+id: 98865ff9-04a4-4566-94c8-85107707c03d
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully renovated three bedroom home has much to offer investors and families alike. Situated on a fully fenced 825sqm block and LMR zoned, this could be an opportunity to develop the land or enjoy the property as is. Beautifully polished floors, an open plan design and ample light make this an airy and bright residence. The extension to the rear of the property offers great lifestyle spaces with a large rumpus or family room stepping out to a lovely shady verandah overlooking the grassy backyard.
 

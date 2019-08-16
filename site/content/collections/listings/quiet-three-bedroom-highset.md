@@ -10,37 +10,11 @@ cars: 2
 status: Let
 address: '21 Eirroc Street, ARCHERFIELD'
 main_image: 'https://img.eagleagent.com.au/gHLV9oguhxXCJVZuP8rixVOUiUU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826422/417493394-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826435/417493394-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826434/417493394-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826433/417493394-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826432/417493394-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826431/417493394-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826430/417493394-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826429/417493394-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826428/417493394-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826427/417493394-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826426/417493394-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826425/417493394-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826424/417493394-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826423/417493394-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826422/417493394-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435651/images'
 property_id: '435651'
-id: 1b92c3b6-2d34-472d-9252-a8259f867068
+price_search: null
+id: 7988ac8b-2732-4726-a193-1e3ad00f60a1
+suburb: ARCHERFIELD
 ---
 This cute, high-set home with a leafy outlook  is situated in a quiet cul-de-sac. The home is private, set back from the road and surrounded by trees and lawns. With bright open plan living areas and great outdoor entertaining spaces, this home will be great for families and entertainers.
 

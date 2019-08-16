@@ -10,37 +10,11 @@ cars: 1
 status: Sold
 address: '49 Oxley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/kq_1eRntOa6tuhC0Dz5R0wr1g9Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821763/127723758-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821776/127723758-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821775/127723758-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821774/127723758-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821773/127723758-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821772/127723758-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821771/127723758-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821770/127723758-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821769/127723758-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821768/127723758-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821767/127723758-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821766/127723758-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821765/127723758-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821764/127723758-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821763/127723758-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435211/images'
 property_id: '435211'
-id: c85ef07f-11dc-409c-a4c6-28f97b067730
+price_search: '360000.0'
+suburb: 'ACACIA RIDGE'
+id: d2816653-b9cc-4122-8773-b852b265c5b6
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the unique design. A welcoming place to call home, this property has great street appeal with plenty of character. Oxley Street is a lovely wide street with glimpses towards Brisbane CBD, lined by well-kept homes and gardens. With the second storey extension, this property stands out and is an exciting opportunity to create a generous family home. Stepping inside, the large living spaces are open and inviting, the perfect blank slate to create functional spaces for busy families.
 

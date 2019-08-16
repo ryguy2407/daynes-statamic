@@ -10,29 +10,11 @@ cars: 1
 status: Sold
 address: '5 / 42 Keats Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/aYLaId9Do-HBp5E6pu2Nq6lvuL8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818330/104300394-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818339/104300394-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818338/104300394-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818337/104300394-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818336/104300394-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818335/104300394-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818334/104300394-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818333/104300394-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818332/104300394-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818331/104300394-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818330/104300394-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434850/images'
 property_id: '434850'
-id: b164a4aa-142d-4eca-ad66-89e0f3c55a2a
+price_search: '425000.0'
+id: 8f7ac767-304f-447c-b781-b2261dd1a2c1
+suburb: MOOROOKA
 ---
 If you can see yourself living in a modern 3 bedroom, 2.5 bathroom townhouse with a large manicured lawn courtyard including a massive Jacaranda tree then this is the property for you!
 

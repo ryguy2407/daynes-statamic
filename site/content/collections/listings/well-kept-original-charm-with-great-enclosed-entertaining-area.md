@@ -10,29 +10,11 @@ cars: 0
 status: Sold
 address: '16 Maverton Street, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/DHgdHRt5-GzIyLNxBoLN7Q5c8-Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820261/108506666-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820270/108506666-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820269/108506666-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820268/108506666-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820267/108506666-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820266/108506666-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820265/108506666-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820264/108506666-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820263/108506666-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820262/108506666-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820261/108506666-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435078/images'
 property_id: '435078'
-id: c9d2bc55-6599-4ced-ae30-a9ba224f4912
+price_search: '399000.0'
+id: 6ed80093-9530-4e51-955f-900c7a5263fa
+suburb: SALISBURY
 ---
 This lovely three bedroom lowset home is situated in a quiet pocket of Salisbury.
 

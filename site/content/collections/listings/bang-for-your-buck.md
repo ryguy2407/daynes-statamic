@@ -10,33 +10,11 @@ cars: 2
 status: Sold
 address: '32 Heaton Street, ROCKLEA'
 main_image: 'https://img.eagleagent.com.au/G-WMXWPV6SEaeaXyYSMka0Bwo8E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823173/118340231-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823184/118340231-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823183/118340231-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823182/118340231-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823181/118340231-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823180/118340231-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823179/118340231-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823178/118340231-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823177/118340231-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823176/118340231-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823175/118340231-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823174/118340231-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823173/118340231-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435319/images'
 property_id: '435319'
-id: deb64672-3f41-4265-9e31-a3a1f55f80bb
+price_search: '450000.0'
+id: d5de8e13-1738-48cb-87d8-4483e5d3aad6
+suburb: ROCKLEA
 ---
 Wow! A near new four bedroom, two bathroom home within 11km of the CBD at this price? Yes, but you will have to act quickly. This home has so much to offer and will not break the bank.
 

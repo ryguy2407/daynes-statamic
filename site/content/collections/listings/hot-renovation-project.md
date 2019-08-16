@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '78 Merchiston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/eBl6730qLbZipWdAavZOQ3qgjZU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821991/128287998-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821999/128287998-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821998/128287998-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821997/128287998-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821996/128287998-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821995/128287998-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821994/128287998-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821993/128287998-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821992/128287998-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821991/128287998-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435229/images'
 property_id: '435229'
-id: dd3b507d-9597-4caa-8d8f-48b0b58f13f9
+price_search: '350000.0'
+id: fb31b603-49b2-44f7-b682-34300064b672
+suburb: 'ACACIA RIDGE'
 ---
 Step back in time and see the potential of this private family home. Sitting proudly on a generous elevated block, this home has been the place of many happy memories and is being offered for the first time in more than 40 years. Largely original interiors have had some upgrades including the installation of ceiling fans and updated kitchen cabinetry. Beyond this, the house has amazing bones with solid construction, tiled roof and hardwood floors. Homes such as these are sought after for their renovation potential and easy layouts for busy families.
 

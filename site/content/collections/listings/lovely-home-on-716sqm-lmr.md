@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '42 Mannington Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/uV8xEKJh8x1-8nCjtKRJkNU9o2s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823711/123152126-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823724/123152126-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823723/123152126-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823722/123152126-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823721/123152126-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823720/123152126-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823719/123152126-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823718/123152126-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823716/123152126-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823715/123152126-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823714/123152126-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823713/123152126-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823712/123152126-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823711/123152126-image-M.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823717/123152126-image-F.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435367/images'
 property_id: '435367'
-id: f8e141dd-c53b-47c0-aa96-4d00d5b28ac4
+price_search: '420000.0'
+id: ffcae327-cc90-434b-8bf1-91b85976c15e
+suburb: 'ACACIA RIDGE'
 ---
 This gorgeous low-set brick bungalow has been the place of many happy family memories, and is offered for the first time in 40 years. Lovingly and attentively maintained, this home is full of character and would be a fantastic investment opportunity for any savvy buyer. Situated on a generous 716sqm block with 20m frontage, zoned Low Medium Residential (LMR), this solid home represents an array of short and long term investment options.
 

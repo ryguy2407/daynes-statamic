@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '47 Hemsworth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_Dl1JIJgwiPDRylt0p1lmJJViK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823956/114177323-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823968/114177323-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823967/114177323-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823966/114177323-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823965/114177323-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823964/114177323-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823963/114177323-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823962/114177323-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823961/114177323-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823960/114177323-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823959/114177323-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823958/114177323-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823957/114177323-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823956/114177323-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435383/images'
 property_id: '435383'
-id: 84bc6c55-cb78-4e51-9ab9-be9a0b2bb822
+price_search: '349000.0'
+id: af91c5c3-8ea7-4b63-93b1-d05a019a1b99
+suburb: 'ACACIA RIDGE'
 ---
 This highset three bedroom home is located in a really lovely part of Acacia Ridge deserves your immediate inspection.
 

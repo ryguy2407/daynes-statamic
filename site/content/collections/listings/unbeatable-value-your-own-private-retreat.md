@@ -10,29 +10,11 @@ cars: 2
 status: Sold
 address: '119 Woff Street, SUNNYBANK'
 main_image: 'https://img.eagleagent.com.au/x1Lyp8KWDCaD-Thrzg1kE1HahFU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824257/113881935-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824266/113881935-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824265/113881935-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824264/113881935-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824263/113881935-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824262/113881935-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824261/113881935-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824260/113881935-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824259/113881935-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824258/113881935-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824257/113881935-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435410/images'
 property_id: '435410'
-id: 660a6f25-b51f-407b-9a82-335c438538cc
+price_search: '725000.0'
+id: 79fe0986-2937-44b3-bb75-406625787053
+suburb: SUNNYBANK
 ---
 Massive Price Reduction. Now Best Offer Over $725,000 will buy!
 

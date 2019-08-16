@@ -10,39 +10,11 @@ cars: 1
 status: Sold
 address: '18 Fadden Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/P40V9kYtMzjSB_O1fNXZw6ZHICc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820986/124412126-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821000/124412126-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820999/124412126-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820998/124412126-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820997/124412126-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820996/124412126-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820995/124412126-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820994/124412126-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820993/124412126-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820992/124412126-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820991/124412126-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820990/124412126-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820989/124412126-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820988/124412126-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820987/124412126-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820986/124412126-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435148/images'
 property_id: '435148'
-id: 32021b15-f109-4674-9c37-3664e2ce32ef
+price_search: '425000.0'
+id: ab0b71e4-7104-4ad6-8a89-350bc432ee1b
+suburb: 'ACACIA RIDGE'
 ---
 Step inside this warm inviting home and it’s not hard to imagine the easy entertaining and relaxation. The beautifully presented polished timber floors are perfectly showcased by the open-plan kitchen, living and dining areas. Also a feature of the comfortable living area is the brick fireplace, perfect for cosy winter evenings at home. The shady timber back deck steps off the kitchen, making for convenient entertaining with family and friends.
 

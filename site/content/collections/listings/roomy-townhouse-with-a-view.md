@@ -10,21 +10,11 @@ cars: 0
 status: Let
 address: '6 / 10 Carson Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/lbiyP2kOx6Yp70wELuTel5tmH6Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826289/416384405-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826294/416384405-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826293/416384405-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826292/416384405-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826291/416384405-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826290/416384405-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826289/416384405-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435635/images'
 property_id: '435635'
-id: 38b42df4-2a34-4a27-8b54-e9959ed20a5e
+price_search: null
+id: 4ec46503-1e98-424c-b8c5-a844663b234f
+suburb: MOOROOKA
 ---
 Great location, walking distance to Moorooka train station
 Features of this property are;

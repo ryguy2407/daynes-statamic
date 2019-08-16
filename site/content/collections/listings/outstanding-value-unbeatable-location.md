@@ -10,23 +10,11 @@ cars: 3
 status: Sold
 address: '32 Dunkeld Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/5oi0H33lOEzxv4Iv8nefNRQ5JW4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823352/120447617-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823358/120447617-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823357/120447617-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823356/120447617-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823355/120447617-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823354/120447617-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823353/120447617-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823352/120447617-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435336/images'
 property_id: '435336'
-id: 836d6021-b1fb-47e9-a765-a4dd2eaae6c6
+price_search: '350000.0'
+id: 0fc62fbd-ae79-40e1-8a4d-fb26ab0a3d86
+suburb: 'ACACIA RIDGE'
 ---
 This low-set chamfer-board home is situated in a quiet pocket of Acacia Ridge and is a perfect first home or investment opportunity. With recent major upgrades including a brand new sealed concrete driveway leading to both the carport beside the house and an enormous back shed, there are still plenty of opportunities to add your own individual touches to this home. Upgrades also include a brand new Colorbond roof and new gutters. Featuring an open plan kitchen and living area, opening through French doors to a beautiful newly built North facing veranda, this home offers plenty of lifestyle. The veranda overlooks lovingly maintained gardens with citrus trees and sweeping lawns and is an ideal space for relaxation.
 

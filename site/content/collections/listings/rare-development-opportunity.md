@@ -2,53 +2,19 @@
 title: 'Rare Development Opportunity'
 property_type: House
 listing_type: residential_sale
-price: 'For Sale'
+price: SOLD
 rent: null
 bedrooms: 3
 bathrooms: 1
-cars: 1
+cars: 0
 status: Sold
-address: '359 Watson Road, ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/rQTdiOsXokrNqomamfihD1AcXgA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822312/129411310-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822329/129411310-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822328/129411310-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822327/129411310-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822326/129411310-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822325/129411310-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822324/129411310-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822323/129411310-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822322/129411310-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822321/129411310-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822320/129411310-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822319/129411310-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822318/129411310-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822317/129411310-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822316/129411310-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822315/129411310-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822314/129411310-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822313/129411310-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822312/129411310-image-M.jpg'
-property_id: '435256'
-id: 78df9217-3ba8-4d3f-bb50-0f0b8a40def8
+address: '361 Watson Road, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/llb9x57S913v-FYkoP65nubZ2PY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822344/130469014-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435258/images'
+property_id: '435258'
+price_search: '365000.0'
+id: 10a87a95-4583-431b-b539-1198bd0eb464
+suburb: 'ACACIA RIDGE'
 ---
 This is a rare opportunity to secure a generous parcel of land in one of Brisbane’s most rapidly developing areas. This generous offering of land, zoned Low Medium Residential (LMR), comprises two individual allotments totalling 1,294sqm with a 32.4m (approx.) frontage, representing an array of short and long term investment options subject to council approval including:
 

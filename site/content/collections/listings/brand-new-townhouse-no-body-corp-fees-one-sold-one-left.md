@@ -10,25 +10,11 @@ cars: 1
 status: Sold
 address: '2 / 36 Helles Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/wH__uFbg2WMvHZ_T5-HloBGDJpM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818068/104008505-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818075/104008505-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818074/104008505-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818073/104008505-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818072/104008505-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818071/104008505-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818070/104008505-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818069/104008505-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818068/104008505-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434797/images'
 property_id: '434797'
-id: 7f635f86-78f1-4a71-b33f-b91181d851b7
+price_search: '439000.0'
+id: a724354e-cb23-42dc-8ae7-c473e62f5907
+suburb: MOOROOKA
 ---
 Situated in a quiet leafy street in Moorooka. The property features a lovely landscaped courtyard, spacious open plan living area, vogue kitchen with stainless steel appliances.
 Upstairs there are three bedrooms with built in robes, the main has a walk in robe and ensuite.

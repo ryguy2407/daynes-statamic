@@ -2,44 +2,36 @@
 title: 'Ready to Renovate!'
 property_type: House
 listing_type: residential_sale
-price: 'Offers Over $335,000'
+price: '$389,000'
 rent: null
 bedrooms: 3
 bathrooms: 1
-cars: 3
+cars: 2
 status: Sold
-address: '32 Flaxton Street, ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/r6UwVlS_AyPcBVUULJ6kQRcCBw8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821362/125962830-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821370/125962830-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821369/125962830-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821368/125962830-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821367/125962830-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821366/125962830-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821365/125962830-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821364/125962830-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821363/125962830-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821362/125962830-image-M.jpg'
-property_id: '435177'
-id: edac62cf-6e65-4851-9c2b-686e33f3261c
+address: '17 Oswin Street, ACACIA RIDGE'
+main_image: 'https://img.eagleagent.com.au/4790wGYv8tLIsZmRGcfCMI5zLuc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821384/126729662-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435179/images'
+property_id: '435179'
+price_search: '389000.0'
+id: dba275a3-893f-4388-b37d-79b7e2e9162a
+suburb: 'ACACIA RIDGE'
 ---
-The home, while comfortable as is, represents an opportunity for the first home buyer or investor to undertake a renovation, making this home truly your own. A cool and comfortable home, with a spacious combined living and dining area. The solid brick home is highly sought-after with flexible options for opening up the internal design. The three good-sized bedrooms are well-appointed and full of light. The block is gently sloping and generously proportioned, with plenty of room for gardeners and children to enjoy.
+This unique home is set on an elevated 604sqm block in a quiet residential pocket of Acacia Ridge. Privately set back from the road and overlooking the leafy gardens, this property holds amazing potential. With generous living spaces, both inside and out, this home is perfect for busy families and entertainers alike. This property is full of natural light, with the north eastern aspect best enjoyed from the sunny front verandah. Stepping into the open plan living and dining, there is a feeling of space and light. The kitchen is also incorporated into this space and flows out to the shady back patio, ideal for relaxed entertaining. This is a thoroughly modern open-concept design and will complement low-maintenance family living.
+
+With a chamferboard exterior and hardwood timber floors, will be a much sought after home for its solid construction and unique design. The bathroom has been recently updated with lovely neutral tiles and sleek finishes. The three bedrooms are grouped privately away from the central living spaces, perfect for those with small children. The master bedroom is generously sized and well appointed with ceiling fan and built in wardrobes.The property does require work but presents a great opportunity. This is a home with solid bones and a great layout, perfect as a project for anyone at any stage of their property investment journey.
 
 This property features:
 
-* Spacious combined living and dining with additional nook
-* Kitchen with plenty of storage
-* Original hardwood floors throughout
-* Three good sized bedrooms
-* Fully fenced mainly flat block, perfect for children and pets
+*  Lovely north east aspect framed by leafy trees, elevated block
+*  Chamferboard exterior
+*  Sunny front porch giving privacy to two of the bedrooms
+*  Lino to open plan kitchen and dining, carpet to living
+*  Ceiling fans to living and kitchen
+*  Large kitchen with plenty of storage and bench space
+*  Kitchen steps through to shady patio, perfect for entertaining
+*  Three bedrooms, master with large built in wardrobes and ceiling fan
+*  Recently updated bathroom with separate shower and bath, designer stainless steel fittings and attractive neutral tiles, toilet separate
+*  Security and insect screens to front windows
+*  Garage and storage underneath house
 
-Situated in a quiet pocket of Acacia Ridge, this home is a peaceful setting for a growing family. Likewise, investors will see potential in this home of solid construction and in a desirable location. Convenient to Elizabeth Street Shopping Centre and Acacia Marketplace on Beaudesert Road, both boasting a great range of amenities. Also situated to be convenient to a great range of primary schools and daycare centres in the surrounding local area. Perfect for those who commute, with great transport options to the north, south and west of Brisbane. This home will not last long, call today to arrange an inspection!
+The location of this property is ideal for those who are seeking the convenience of the area and access to all the major transport routes with minimal through traffic. The Acacia Market Place includes Woolworths and Aldi in addition to a great range of boutique shops. Convenient to the great primary schools the area has to offer including Acacia Ridge State School and St Fatima’s Primary School, in addition to daycares and childcare options. Acacia Ridge is a rapidly developing area with investors recognising the potential in this suburb only 15km from Brisbane CBD.

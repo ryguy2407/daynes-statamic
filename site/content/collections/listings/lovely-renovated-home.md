@@ -2,43 +2,19 @@
 title: 'Lovely Renovated Home'
 property_type: House
 listing_type: residential_rental
-price: '$390 per week'
-rent: '390.0'
+price: '$370 per week'
+rent: '370.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
 status: Let
 address: '14 Emily Street, ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/O3RcHSGTw9t7qyO8LOWXs19yLjI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825279/424057614-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825291/424057614-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825290/424057614-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825289/424057614-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825288/424057614-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825287/424057614-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825286/424057614-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825285/424057614-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825284/424057614-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825283/424057614-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825282/424057614-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825281/424057614-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825280/424057614-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825279/424057614-image-M.jpg'
-property_id: '435529'
-id: 39075494-3c39-4965-a3bf-8fa9139b535e
+main_image: 'https://img.eagleagent.com.au/9dCuFkmAjKwd-4kNqrPQatw-mvE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825599/425524758-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435559/images'
+property_id: '435559'
+price_search: null
+id: d02d3120-65c3-42ad-b0f9-0593b67e4597
+suburb: 'ACACIA RIDGE'
 ---
 Step inside and enjoy the tastefully updated interiors and immediately feel at home. The updates have been thoughtfully applied, with fresh neutral colours and clean finishes; this home is the perfect opportunity for those looking to move! The hardwood timber floors have been polished and are perfectly complemented by the fresh walls. The open plan living and dining flow into the functional kitchen. Neat and tidy, the kitchen has plenty of storage and bench space.
 

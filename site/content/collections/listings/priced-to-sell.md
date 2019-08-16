@@ -10,31 +10,11 @@ cars: 1
 status: Sold
 address: '140 Ainsworth Street, SALISBURY'
 main_image: 'https://img.eagleagent.com.au/Gd1bYhwe5GreZEzpfxf0VzhJ5ew=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820308/108875086-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820318/108875086-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820317/108875086-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820316/108875086-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820315/108875086-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820314/108875086-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820313/108875086-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820312/108875086-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820311/108875086-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820310/108875086-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820309/108875086-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820308/108875086-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435082/images'
 property_id: '435082'
-id: 07d7fe13-e925-428c-8269-a23174bc0ea4
+price_search: '368000.0'
+id: 6aa5baa5-2039-4e77-99ed-4c93d1ef5b70
+suburb: SALISBURY
 ---
 *  A superb treed 663sqm block in a quiet area
 *  Two bedrooms + study, however the study can be used as a third bedroom

@@ -10,37 +10,11 @@ cars: 1
 status: Sold
 address: '25 Carowell Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Gk05gJmVUBBrGwG69M17Zfp6azk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821847/127906778-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821860/127906778-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821859/127906778-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821858/127906778-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821857/127906778-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821856/127906778-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821855/127906778-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821854/127906778-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821853/127906778-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821852/127906778-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821851/127906778-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821850/127906778-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821849/127906778-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821848/127906778-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821847/127906778-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435217/images'
 property_id: '435217'
-id: c6341045-b19b-42d1-ad84-3ff1956b5e87
+price_search: '450000.0'
+id: 1d960d8e-878b-4e62-ac3f-4ac5498a9582
+suburb: 'ACACIA RIDGE'
 ---
 This completely renovated home is the ultimate of modern living, representing the perfect opportunity to secure one of Acacia Ridge's most prestigious properties. With an elevated position, this private family home promises years of enjoyment in the spacious interiors and tranquil surrounds. Stepping inside the living room, provides a warm and inviting space, a showcase of the fresh walls and glossy timber floors. The sleek and modern kitchen is functional and expansive, allowing the space to service busy families. The kitchen features clean white cabinetry, laminate benchtops and stainless steel appliances. Stepping down to the paved undercover outdoor area, it is easy to imagine relaxing with family and friends in this generous home.
 

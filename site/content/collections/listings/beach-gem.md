@@ -10,33 +10,11 @@ cars: 1
 status: Let
 address: '55 Taylor Avenue, GOLDEN BEACH'
 main_image: 'https://img.eagleagent.com.au/UC7HHvAgyxZcb4LDtCmpZzXS4gs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824787/421504938-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824798/421504938-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824797/421504938-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824796/421504938-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824795/421504938-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824794/421504938-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824793/421504938-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824792/421504938-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824791/421504938-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824790/421504938-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824789/421504938-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824788/421504938-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824787/421504938-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435480/images'
 property_id: '435480'
-id: 64c6672a-862d-42cf-aa56-05af18f696b2
+price_search: null
+id: da3b7a12-e282-4fd2-a308-3da095965f2a
+suburb: 'GOLDEN BEACH'
 ---
 ** Please contact Cherie Cooney on 0498 256 885 for enquiries **
 

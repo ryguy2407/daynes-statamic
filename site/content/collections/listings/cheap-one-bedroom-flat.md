@@ -10,21 +10,11 @@ cars: 1
 status: Let
 address: '3 / 292 Archerfield Road, RICHLANDS'
 main_image: 'https://img.eagleagent.com.au/Hf6IUvvmtsPKBv33xL8_6U-xEQ4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826180/415382119-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826185/415382119-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826184/415382119-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826183/415382119-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826182/415382119-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826181/415382119-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826180/415382119-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435621/images'
 property_id: '435621'
-id: 5451a07b-9f36-49b8-9239-9bf8c1bb6b1e
+price_search: null
+id: 3dca9fdb-0da1-4528-87e9-bd82e69e998f
+suburb: RICHLANDS
 ---
 Be quick to see this one bedroom flat - it won't last
 

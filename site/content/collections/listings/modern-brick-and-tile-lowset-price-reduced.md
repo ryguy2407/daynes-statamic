@@ -10,21 +10,11 @@ cars: 2
 status: Sold
 address: '10 Stanley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/fNeNAUKwkZ--gsAKOfS12be1GhA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824098/115517519-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824103/115517519-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824102/115517519-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824101/115517519-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824100/115517519-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824099/115517519-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824098/115517519-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435394/images'
 property_id: '435394'
-id: 6b80cdb0-f15e-4119-bb0b-584547513717
+price_search: '388000.0'
+id: f5ae43c4-7674-488f-8a43-1a996b6449fa
+suburb: 'ACACIA RIDGE'
 ---
 Situated on a 405m2 block in this modern estate this home was built about 15 years ago by Devine Homes.
 

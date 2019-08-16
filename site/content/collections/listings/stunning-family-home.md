@@ -10,45 +10,11 @@ cars: 2
 status: Sold
 address: '5 Caladenia Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/2k6FadjuoxVt3gpuns052mL-CX0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821067/124835430-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821084/124835430-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821083/124835430-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821082/124835430-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821081/124835430-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821080/124835430-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821079/124835430-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821078/124835430-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821077/124835430-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821076/124835430-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821075/124835430-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821074/124835430-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821073/124835430-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821072/124835430-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821071/124835430-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821070/124835430-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821069/124835430-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821068/124835430-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821067/124835430-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435154/images'
 property_id: '435154'
-id: ba35e087-ba8f-4e45-ab48-c530a6742a0e
+price_search: '490000.0'
+id: 01d1777a-532d-471b-9441-7525db93fb7e
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. The original home of the Caladenia Estate, this property boasts an exceptional outlook across parkland and is situated on the pick of the lots. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 

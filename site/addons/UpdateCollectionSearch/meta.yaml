@@ -1,0 +1,7 @@
+name: Update Collection Search
+version: 1.1
+description: Update a collection's search index when addding a new entry to it
+addon_url: null
+developer: LionsMouth Digital
+developer_url: https://lionsmouth.digital
+commercial: false

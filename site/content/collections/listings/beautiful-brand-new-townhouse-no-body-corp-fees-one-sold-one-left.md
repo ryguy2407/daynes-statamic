@@ -10,21 +10,11 @@ cars: 1
 status: Sold
 address: '1 / 36 Helles Street, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/BusFOnlVaFXRB1CuuKwIGq1FDUA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818062/104008362-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818067/104008362-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818066/104008362-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818065/104008362-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818064/104008362-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818063/104008362-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818062/104008362-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434796/images'
 property_id: '434796'
-id: 2fd7a21c-65cb-44b9-991b-7f2bf0649f22
+price_search: '449000.0'
+id: 4d2441d6-1ed2-4149-a7f8-f9d084ac0ef0
+suburb: MOOROOKA
 ---
 Situated in a leafy quiet street in Moorooka.  This 3 bedroom 2 bathroom and 1 powder room townhouse  features large landscaped courtyard, spacious open plan living area, vogue kitchen  with stainless steel appliances.
 Upstairs there are three bedrooms with a study nook and a large walk in robe in the main room.

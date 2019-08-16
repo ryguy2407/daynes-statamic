@@ -10,31 +10,11 @@ cars: 2
 status: Sold
 address: '260 Mortimer Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/yqUcEWladaN7QG2V71ZlqsTVXxs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823506/121763450-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823516/121763450-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823515/121763450-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823514/121763450-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823513/121763450-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823512/121763450-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823511/121763450-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823510/121763450-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823509/121763450-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823508/121763450-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823507/121763450-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823506/121763450-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435353/images'
 property_id: '435353'
-id: 589e5b41-5340-437b-9638-af256153c81b
+price_search: '400000.0'
+id: 44d3d87c-b05a-423a-8101-98ff56442e98
+suburb: 'ACACIA RIDGE'
 ---
 This lovingly maintained family home is in perfect, original condition and ready for its next chapter. This property has great bones with hardwood flooring hidden under linoleum and a wonderful layout, perfect for modern living. The house is spacious and bright, with generous open plan living areas and good sized bedrooms. There is also the potential to double the space of this house by enclosing downstairs. High-set with clad exterior and set on a fully fenced 554sqm flat block, this property has amazing potential for the savvy investor or those seeking a lovely family home.
 

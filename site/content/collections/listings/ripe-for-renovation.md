@@ -1,37 +1,46 @@
 ---
-title: 'Ripe For Renovation!'
+title: 'Ripe for Renovation!'
 property_type: House
 listing_type: residential_sale
-price: ''
+price: 'FOR SALE'
 rent: null
-bedrooms: 4
+bedrooms: 3
 bathrooms: 1
-cars: 4
+cars: 1
 status: Sold
-address: '330 Henson Road, SALISBURY'
-main_image: 'https://img.eagleagent.com.au/wF1cqhE_FEV1Rfu4TP2SQGOBQyE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820601/113187723-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820606/113187723-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820605/113187723-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820604/113187723-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820603/113187723-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820602/113187723-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820601/113187723-image-M.jpg'
-property_id: '435110'
-id: 39424bbb-9ce6-4f66-8357-65941e162a08
+address: '26 Abbeville Street, UPPER MOUNT GRAVATT'
+main_image: 'https://img.eagleagent.com.au/8p372AQevaLVS1KBX0vDdhsJkSk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820946/124508882-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435145/images'
+property_id: '435145'
+price_search: '550000.0'
+id: 14c13b8f-81c0-4cbd-8f8c-8ae9be0205cd
+suburb: 'UPPER MOUNT GRAVATT'
 ---
-Here we have a large four bedroom post war home on a 658sqm block. Under the carpets you have beautiful hardwood floors that can be polished and turned into a real feature of the home. The interior walls and ceilings do require painting but this is quite an easy way to add value.
+This traditional highset chamferboard home is a great opportunity to transform an original home into something your own. With the original kitchen and bathroom, this is fabulous blank canvas for the savvy investor wanting to secure a piece of this thriving area. It is a prime example of the lovely post-war homes of this much sought-after area with timber floors hidden by carpets and lino, and lofty ceilings. This is a family friendly property with great living spaces and generous bedrooms, and situated just across the road from the beautiful Abbeville Park.
 
-Many years ago they removed and relocated the existing back stairs and extended an area to the rear of the home which they now use as a dining room. It also has a separate bathroom and toilet.
+This home features:
 
-Underneath the house has a massive storage area that is also lockable. The home comes with a swimming pool with decking and a privacy screen to one side. Off street parking for 4 cars and a double carport. It is totally fenced which makes it child and pet friendly.
+*  Three good sized bedrooms
+*  Hardwood floors throughout, currently under carpet and lino
+*  Original kitchen and bathroom with some upgrades, perfect for the savvy renovator
+*  Outdoor undercover patio area overlooking large grassy yard
+*  Additional undercover area at the rear of the property
+*  One lock up garage under house in addition to storage
+*  Leafy aspect looking out to parkland
 
-It is close to all amenities including public transport.
+Situated in the Wishart State School and Mansfield State High School catchments, this is a great home for those with school-aged children. Also walking distance to Mt Gravatt Showgrounds where the Sunday morning markets can be enjoyed, in addition to a great offering of recreational community activities. This is truly an outstanding location, with close proximity to:
 
-The owner has priced this very realistically at $429,000 for a quick sale. Inspection by appointment.
+Westfield Garden City - 8 minute drive
+Westfield Carindale - 9 minute drive
+Mt Gravatt Showgrounds (Farmers Markets are held on Sunday mornings) - 10 minute walk
+Wishart State School - 3 minute drive / 15 minute walk
+Mansfield State High School - 4 minute drive
+Clairvaux MacKillop College - 5 minute drive
+Bus stops - 3 minute walk
+Mt Gravatt Plaza (including Woolworths & Coles) - 4 minute drive
+Brisbane CBD via easy access to M3 - 18 minute drive
+Griffith University - Nathan & Mt Gravatt Campuses - 8 minute drive
+QEII Hospital - 10 minute drive
+Bunnings Warehouse - 3 minute drive
+
+Opportunities like this are becoming more rare and this property will not last long, call today to arrange an inspection!

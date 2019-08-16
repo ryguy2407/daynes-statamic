@@ -10,35 +10,11 @@ cars: 2
 status: Sold
 address: '46 Dellow Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/vgdojJybir8GFKZ4gsszwrmgNzI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821703/127352222-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821715/127352222-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821714/127352222-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821713/127352222-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821712/127352222-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821711/127352222-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821710/127352222-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821709/127352222-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821708/127352222-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821707/127352222-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821706/127352222-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821705/127352222-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821704/127352222-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821703/127352222-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435206/images'
 property_id: '435206'
-id: 8b448117-84a9-4310-8f71-86649b4ea9b9
+price_search: '400000.0'
+id: ede753c3-55fe-473b-aca1-72a00361db47
+suburb: 'ACACIA RIDGE'
 ---
 Come home to this stunning high-set home and relax in the spacious bright open-plan interiors and expansive veranda. Stepping up to the cute east-facing balcony, the open-plan living, dining and kitchen are offset by the stunning timber veranda, overlooking the neat backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright. With plenty of room for a growing family, this home is perfect for those who are after a little more from their investment.
 

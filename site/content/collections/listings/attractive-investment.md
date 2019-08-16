@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '19 Mawson Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/5XqUljCqAE5dRs8Ly7Dh595Em-w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822299/129689206-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822311/129689206-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822310/129689206-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822309/129689206-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822308/129689206-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822307/129689206-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822306/129689206-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822305/129689206-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822304/129689206-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822303/129689206-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822302/129689206-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822301/129689206-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822300/129689206-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822299/129689206-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435255/images'
 property_id: '435255'
-id: 0b189acc-a8f1-409d-a6ec-bdda08e31f5c
+price_search: '430000.0'
+id: 6717e02b-b565-44f7-9ae1-0466e00c72f7
+suburb: 'ACACIA RIDGE'
 ---
 With great street appeal, this home is set on a lovely low-maintenance block in a quiet neighbourhood. Generously proportioned both inside and out, this property is a rare offering of space and lifestyle in a low-set design. Stepping through the front door, you are welcomed by sophisticated and cool interiors, with stylish flooring and neutral colours on the walls. The entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. The generous open-plan kitchen and dining opens out through sliding doors and also overlook the grassy yard with beautiful gardens. Each of these well-appointed spaces are perfect for those who entertain and enjoy relaxing with family, both inside and out.
 

@@ -10,21 +10,11 @@ cars: 1
 status: Let
 address: '14 Harden Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/52f6RACbQVNokHrdglwMCWH6LM4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826542/418364070-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826547/418364070-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826546/418364070-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826545/418364070-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826544/418364070-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826543/418364070-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826542/418364070-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435663/images'
 property_id: '435663'
-id: 562a51ef-37c8-4f06-93b6-89c08adc0741
+price_search: null
+id: fc604469-3cfa-4897-a02f-058a42a2f8d4
+suburb: 'ACACIA RIDGE'
 ---
 This neat cottage is situated in a quiet and leafy pocket of Acacia Ridge, surrounded by shady trees and a great garden. Perfect for families, the functional layout boasts a large eat-in kitchen, a spacious living area and additional sun-room, perfect for a home office or storage. The two bedrooms are generous sized, the master including a large built-in wardrobe unit.
 

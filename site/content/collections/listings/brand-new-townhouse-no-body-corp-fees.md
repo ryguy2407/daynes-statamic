@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '228 Pickering Street, ENOGGERA'
 main_image: 'https://img.eagleagent.com.au/ERtUMj4VzI0EMaX66bAIp6eoj1s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818383/104414521-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818389/104414521-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818388/104414521-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818387/104414521-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818386/104414521-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818385/104414521-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818384/104414521-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818383/104414521-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434857/images'
 property_id: '434857'
-id: 5f5a522d-e21f-487d-b336-14a5373fb627
+price_search: '449000.0'
+id: 4e2f000a-4ae1-42df-a6e7-b764a1dc13e6
+suburb: ENOGGERA
 ---
 Secure a brand new three bedroom townhouse
 

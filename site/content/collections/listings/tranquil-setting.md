@@ -10,31 +10,11 @@ cars: 2
 status: Let
 address: '181 Mayfield Road, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/JB0B5981YKxZ50CwDvQCBREFcKc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825464/424975394-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825474/424975394-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825473/424975394-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825472/424975394-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825471/424975394-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825470/424975394-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825469/424975394-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825468/424975394-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825467/424975394-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825466/424975394-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825465/424975394-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825464/424975394-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435547/images'
 property_id: '435547'
-id: c427efae-31af-4c2e-b9b4-bd2d2a5e9aec
+price_search: null
+id: b2522b62-45d5-45b2-a3bb-95c589119cd1
+suburb: MOOROOKA
 ---
 This generous family home is situated in a leafy and elevate position, just meters from Toohey Forest. Ideal for busy families with varying and diverse needs from their home, this property is sure to tick all the boxes. With summer fast approaching, by far the most desirable feature of this property is the beautiful pool and grassy yard. Internally, the two large living spaces on the top level and tiled rumpus on the ground floor mean everyone will have a place to relax and unwind. The layout of the top level is functional, with the multiple living areas giving families the option to customise the use of each area to suit their needs. The main living is elevated from the rest of the home making it a lovely retreat,  featuring a fireplace and sweeping views across the suburb.
 

@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '5 Coley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/sWlv9K6uiNHSEMw0BZnJ5R1UW-g=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822733/130679722-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822746/130679722-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822745/130679722-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822744/130679722-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822743/130679722-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822742/130679722-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822741/130679722-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822740/130679722-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822739/130679722-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822738/130679722-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822737/130679722-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822736/130679722-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822735/130679722-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822734/130679722-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822733/130679722-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435285/images'
 property_id: '435285'
-id: 40434fb7-3717-47b5-9321-3c54e46920b3
+price_search: '379000.0'
+id: d1bf6ee2-593e-45da-ba7d-df2086bd39b0
+suburb: 'ACACIA RIDGE'
 ---
 This property is an excellent example of why so many renovators are drawn to this rapidly developing suburb. Of desirable low-set rendered brick construction with hardwood timber floors, this home has been built to last. Owned by the same family since it was built, the property has been much loved throughout its history. Only minor upgrades have been applied to the kitchen and bathroom, leaving the remainder of the house the perfect blank canvas to modernise.
 

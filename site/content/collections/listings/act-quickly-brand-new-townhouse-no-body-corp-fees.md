@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '2 / 228 Pickering Street, ENOGGERA'
 main_image: 'https://img.eagleagent.com.au/HtLHar_muSwwE00PySXQmMIXuQg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818422/104525172-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818428/104525172-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818427/104525172-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818426/104525172-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818425/104525172-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818424/104525172-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818423/104525172-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818422/104525172-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434864/images'
 property_id: '434864'
-id: 9ce5c043-33d7-4213-805a-28d7741c6f5e
+price_search: '439000.0'
+id: 9750b4bd-3723-4310-ba24-eb6f31332924
+suburb: ENOGGERA
 ---
 Here is your last chance to secure a brand new three bedroom townhouse in this development.
 

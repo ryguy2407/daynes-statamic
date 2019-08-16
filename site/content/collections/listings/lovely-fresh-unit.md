@@ -10,27 +10,11 @@ cars: 0
 status: Let
 address: '1 / 21 Brentford Road, RICHLANDS'
 main_image: 'https://img.eagleagent.com.au/UTLfy3cusvfjVQXvw9sFiKdg3UI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825557/425292546-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825565/425292546-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825564/425292546-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825563/425292546-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825562/425292546-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825561/425292546-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825560/425292546-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825559/425292546-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825558/425292546-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825557/425292546-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435555/images'
 property_id: '435555'
-id: b1663d50-270c-4ce3-abab-7eb5df8e5ea0
+price_search: null
+id: 1362e6ab-c97a-4d5d-8063-2d5e2f4643a4
+suburb: RICHLANDS
 ---
 This cute two bedroom unit is situated at the front of a duplex in a quiet area. Privately tucked away from the road, the unit is surrounded by shady trees and the yard enclosed by timber fences. The front patio overlooks the yard and steps into the spacious open plan living, dining and kitchen. Fresh and modern, the kitchen features plenty of storage and sleek finishes. The two bedrooms are generously sized and full of light. The unit is serviced by the family bathroom, including a shower over bathtub and separate toilet. Glossy hardwood timber floors throughout are low maintenance and compliment the crisp white walls.
 

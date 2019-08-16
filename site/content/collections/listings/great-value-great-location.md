@@ -10,27 +10,11 @@ cars: 3
 status: Sold
 address: '95 Elizabeth Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/gzZMeGmZ3RfIUNTYBarm_5gnVQ8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823410/121094706-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823418/121094706-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823417/121094706-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823416/121094706-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823415/121094706-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823414/121094706-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823413/121094706-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823412/121094706-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823411/121094706-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823410/121094706-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435344/images'
 property_id: '435344'
-id: ac268421-1917-45ca-a24f-85051808c527
+price_search: '395000.0'
+id: 5198f32c-86cb-46fc-bbf7-be7fa73f07fd
+suburb: 'ACACIA RIDGE'
 ---
 This great home, situated on a sweeping corner block right in the hub of Acacia Ridge is a fantastic investment opportunity in this rapidly growing area. Perfect for first home owners looking to renovate with three good-sized bedrooms, well-proportioned spaces, solid timber flooring, chamfer board exterior and a tiled roof. The property also boasts great outdoor features including veggie patches, double lock up shed with water and power and an undercover concrete patio.
 

@@ -10,33 +10,11 @@ cars: 1
 status: Sold
 address: '5 / 18 Delavan Street, WISHART'
 main_image: 'https://img.eagleagent.com.au/fcOXjEttnR7qIVVnlKDf39mIl6Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819676/106165543-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819687/106165543-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819686/106165543-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819685/106165543-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819684/106165543-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819683/106165543-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819682/106165543-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819681/106165543-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819680/106165543-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819679/106165543-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819678/106165543-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819677/106165543-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819676/106165543-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435002/images'
 property_id: '435002'
-id: 9da436b8-2585-4630-9be1-3b9eb89b28a2
+price_search: '395000.0'
+id: 594ff730-3bf3-4aed-83a0-52689ef45ba5
+suburb: WISHART
 ---
 This renovated three bedroom townhouse, in a secured complex is one you really should inspect.
 

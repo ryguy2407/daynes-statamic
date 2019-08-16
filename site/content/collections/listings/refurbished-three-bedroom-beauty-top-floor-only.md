@@ -10,23 +10,11 @@ cars: 0
 status: Let
 address: '26 Wakley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/FGqJAhcnuaVVLJLM2sdCAARQ348=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824521/409084727-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824527/409084727-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824526/409084727-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824525/409084727-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824524/409084727-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824523/409084727-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824522/409084727-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824521/409084727-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435451/images'
 property_id: '435451'
-id: 02e5efe4-12e6-427c-a736-e32e8aa7e4fa
+price_search: null
+id: 55f1bb6c-5240-482e-b891-3d3eb9a76153
+suburb: 'ACACIA RIDGE'
 ---
 *  Three Bedrooms (top floor of high-set residence)
 *  Polished timber floor boards

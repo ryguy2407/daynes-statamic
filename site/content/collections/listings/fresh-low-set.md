@@ -10,33 +10,11 @@ cars: 3
 status: Let
 address: '73 Gregory Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/OTxWeyC5bZvBoxKP6hbN5SLbTBc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825677/425810590-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825688/425810590-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825687/425810590-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825686/425810590-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825685/425810590-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825684/425810590-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825683/425810590-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825682/425810590-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825681/425810590-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825680/425810590-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825679/425810590-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825678/425810590-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825677/425810590-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435566/images'
 property_id: '435566'
-id: c030482c-3926-4a80-9466-7387e8a57eae
+price_search: null
+id: b565b454-8c62-46fb-8e95-cc5b6e8467d8
+suburb: 'ACACIA RIDGE'
 ---
 Privately set back from leafy Gregory Street, this low-set family home welcomes you with its lovely street appeal. Stepping inside, you will find yourself in a lovely sitting room or study area reminiscent of a Spanish Villa with its textured walls and cool tiled flooring. It is easy to imagine kicking back with a coffee and a good book. The air conditioned lounge and dining area feature lovely white tongue and groove timber walls contrasting to the beautiful timber flooring.
 

@@ -10,23 +10,11 @@ cars: 2
 status: Sold
 address: '30 / 115 Albany Creek Road, ASPLEY'
 main_image: 'https://img.eagleagent.com.au/3K9Pk8daBe1hK7bI5msfXdNsC18=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819775/106442160-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819781/106442160-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819780/106442160-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819779/106442160-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819778/106442160-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819777/106442160-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819776/106442160-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819775/106442160-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435013/images'
 property_id: '435013'
-id: 94f6c92f-6f86-40ac-b713-3e0a882659ef
+price_search: '369000.0'
+id: 71fc973a-194c-4672-b82e-3af0db912ec9
+suburb: ASPLEY
 ---
 Great opportunity to acquire this three bedroom villa in a neat & quiet complex of 35.
 

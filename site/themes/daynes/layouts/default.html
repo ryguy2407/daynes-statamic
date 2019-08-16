@@ -36,7 +36,7 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                         <ul class="navbar-nav">
-                            {{ nav from="/" max_depth="2" }}
+                            {{ nav from="/" max_depth="2" is_hidden:isnt="true" }}
                                 <li class="nav-item {{ if is_current || is_parent }}active{{ /if }}">
                                     <a href="{{ url }}" class="nav-link">{{ title }}</a>
                                 </li>

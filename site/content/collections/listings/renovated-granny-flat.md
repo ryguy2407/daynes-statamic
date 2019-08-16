@@ -10,25 +10,11 @@ cars: 0
 status: Let
 address: '4 Scott Street, REDLAND BAY'
 main_image: 'https://img.eagleagent.com.au/jmm-ZNt7Y-1p14zH_eQQF8THU5U=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826192/415613235-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826199/415613235-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826198/415613235-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826197/415613235-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826196/415613235-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826195/415613235-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826194/415613235-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826193/415613235-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826192/415613235-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435623/images'
 property_id: '435623'
-id: 74319c56-cc8f-4213-8380-2ebed58907cd
+price_search: null
+id: c10cac00-93cf-4f25-8a14-bc1c7c0131f8
+suburb: 'REDLAND BAY'
 ---
 Recently completely renovated this spacious, fully self-contained and security screened granny flat is available for rent now.
 

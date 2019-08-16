@@ -9,34 +9,12 @@ bathrooms: 2
 cars: 2
 status: Let
 address: '27 Bale Street, ROCKLEA'
-main_image: 'https://img.eagleagent.com.au/UfgqzNdiqLzcG9kqvHYoDHc-HpA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824659/420529146-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824670/420529146-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824669/420529146-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824668/420529146-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824667/420529146-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824666/420529146-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824665/420529146-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824664/420529146-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824663/420529146-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824662/420529146-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824661/420529146-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824660/420529146-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824659/420529146-image-M.jpg'
-property_id: '435467'
-id: 3a1ba2ac-0b81-49c6-a403-f516f7a56ba0
+main_image: 'https://img.eagleagent.com.au/7vrm5iuK_N8g__D-2UTs-MOKIic=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825010/422802406-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435504/images'
+property_id: '435504'
+price_search: null
+id: f27c1faf-0703-4ac7-8200-c3c13e216a19
+suburb: ROCKLEA
 ---
 This renovated four bedroom property is a stylish and immaculately presented place to call home. Spacious living areas and generous bedrooms are beautifully finished with clean, freshly painted walls and beautiful flooring. Featuring hardwood timber floors, lino and tiles throughout, this is a low-maintenance home, perfect for families. The air conditioned open plan living, dining and kitchen, is spacious and ideal for entertaining. The kitchen has clean finishes, modern appliances and plenty of storage space. A rarity in the area where four bedroom, two bathrooms are less common, this property provides the space and convenience for the modern family.
 

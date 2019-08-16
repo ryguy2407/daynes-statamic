@@ -10,29 +10,11 @@ cars: 2
 status: Sold
 address: '15 Kirkley Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ycmNs6fnAA5BG_A43oWNadIasdc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820673/113714103-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820682/113714103-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820681/113714103-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820680/113714103-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820679/113714103-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820678/113714103-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820677/113714103-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820676/113714103-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820675/113714103-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820674/113714103-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820673/113714103-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435118/images'
 property_id: '435118'
-id: f39b7f44-0a27-4af8-a082-ec8b1eb7049a
+price_search: '439000.0'
+id: 9533833b-ba7c-4678-be13-cfa136ad9eab
+suburb: 'ACACIA RIDGE'
 ---
 This home has so many attributes that I am sure you will agree that it ticks all the boxes.
 

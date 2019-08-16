@@ -10,31 +10,11 @@ cars: 0
 status: Sold
 address: '993 Boundary Rd, COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/JNFDE1XrBcXvNHw3mOCtU8B_f9M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818262/104186731-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818272/104186731-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818271/104186731-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818270/104186731-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818269/104186731-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818268/104186731-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818267/104186731-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818266/104186731-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818265/104186731-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818264/104186731-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818263/104186731-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818262/104186731-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/434845/images'
 property_id: '434845'
-id: 3471c2df-96c4-43e5-9927-88004d859b7f
+price_search: '349000.0'
+id: ce26b6f8-783f-4664-9f78-28dd95068df1
+suburb: 'COOPERS PLAINS'
 ---
 This 3 bedroom, lowest, fully fenced house on 647 m2 is a must inspect for those trying to enter the housing market!  It features a large outdoor entertaining area off the kitchen and a private deck including a childproof gate out the front, making it the perfect home for the family that likes to have friends over for a BBQ.  Other features of this delightful property include:
 

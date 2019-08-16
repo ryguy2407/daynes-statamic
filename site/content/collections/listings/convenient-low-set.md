@@ -10,23 +10,11 @@ cars: 1
 status: Let
 address: '359 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/f6xgjp-ypyVFoVEWJtz3Pc68S5U=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824893/422175914-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824899/422175914-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824898/422175914-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824897/422175914-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824896/422175914-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824895/422175914-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824894/422175914-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824893/422175914-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435491/images'
 property_id: '435491'
-id: 76feb81d-c452-4d05-bac4-62cafe379671
+price_search: null
+id: cd7493ef-45d8-4fd4-90b6-e0d07f2e433f
+suburb: 'ACACIA RIDGE'
 ---
 This low-set home is a good size for busy families with a large living, eat-in kitchen and three bedrooms. Perfect for those seeking the convenience of the area, this property is handy to public transport, and walking distance to schools, shops and parks.
 

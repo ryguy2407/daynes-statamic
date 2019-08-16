@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '12 Bellamy Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/FSJcWWxlWDWaswvAb0Cfyc0KDGA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821555/126538418-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821568/126538418-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821567/126538418-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821566/126538418-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821565/126538418-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821564/126538418-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821563/126538418-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821562/126538418-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821561/126538418-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821560/126538418-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821559/126538418-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821558/126538418-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821557/126538418-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821556/126538418-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821555/126538418-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435192/images'
 property_id: '435192'
-id: e6926b1f-85ae-4e1c-a239-e0e0b58c708a
+price_search: '430000.0'
+id: f73619e0-3745-46af-ab06-2dc35957a6c9
+suburb: 'ACACIA RIDGE'
 ---
 Privately tucked behind the lovely timber fence is this delightful family home. This property has been designed to to incorporate plenty of outdoor spaces, perfect to relax in the idyllic shady settings provided by the lofty trees and grassy lawns. This beautiful chamfer board home is set on an elevated 804sqm block, a generous parcel of land to enjoy. The leafy outlook is best enjoyed from the back patio which steps out from the beautifully finished kitchen making entertaining a breeze. Perfect for entertainers and families alike, this property holds the potential to become your dream home.
 

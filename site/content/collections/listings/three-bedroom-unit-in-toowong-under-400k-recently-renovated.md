@@ -10,25 +10,11 @@ cars: 1
 status: Sold
 address: 'A1 / 32 Miskin Street, TOOWONG'
 main_image: 'https://img.eagleagent.com.au/_zBhbWc_Wtl32qI8509_ycRCuRY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820607/113304503-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820614/113304503-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820613/113304503-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820612/113304503-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820611/113304503-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820610/113304503-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820609/113304503-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820608/113304503-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820607/113304503-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435111/images'
 property_id: '435111'
-id: ba7d034c-6533-46d7-bfce-1478b81454b5
+price_search: '389000.0'
+id: 657f86ee-5b3d-46c0-8f6c-15e10f3e5e30
+suburb: TOOWONG
 ---
 You will be hard pressed to find a recently renovated three bedroom unit in Toowong for under $400,000. The property is currently tenanted and achieves $450 per week!
 

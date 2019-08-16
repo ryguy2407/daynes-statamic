@@ -10,27 +10,11 @@ cars: 0
 status: Let
 address: '8 Dunkeld Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/GjA8WY52gnDlWB2s3vPkGFRITQI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824815/421628674-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824823/421628674-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824822/421628674-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824821/421628674-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824820/421628674-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824819/421628674-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824818/421628674-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824817/421628674-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824816/421628674-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824815/421628674-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435483/images'
 property_id: '435483'
-id: 11d7b098-afbc-4961-a068-382f38dd7e62
+price_search: null
+id: cd4763ab-f757-408c-9c9a-b03bcd902949
+suburb: 'ACACIA RIDGE'
 ---
 This property has it all for lifestyle and functionality, a lovely family home situated in a quiet pocket of Acacia Ridge. Freshly painted throughout, the floors recently polished and the kitchen and bathroom updated, this is a very well-presented home. The easy layout of this home gives plenty of space for a growing family. The property is fully fenced, private and the front and back yards afford a generous piece of land to enjoy.
 

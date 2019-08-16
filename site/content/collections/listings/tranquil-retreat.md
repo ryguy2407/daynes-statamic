@@ -10,31 +10,11 @@ cars: 1
 status: Sold
 address: '16 North Place, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/egZrr7EvWGhs92LULG6GonH4zdE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821716/127343954-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821726/127343954-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821725/127343954-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821724/127343954-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821723/127343954-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821722/127343954-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821721/127343954-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821720/127343954-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821719/127343954-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821718/127343954-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821717/127343954-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821716/127343954-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435207/images'
 property_id: '435207'
-id: db692892-705d-450d-80f5-7c679100d221
+price_search: '450000.0'
+id: 86935108-af90-4d43-9c5a-e0936fb2df43
+suburb: 'ACACIA RIDGE'
 ---
 If privacy and space is what you are looking for, this home ticks all the boxes. Backing on to lush bushland, this is a tranquil setting for families. This home is a much sought-after lowset design, of solid brick construction with low-maintenance finishes. Internally, the generous spaces are cool and flooded with natural light. Offering large, open-plan living spaces, this home is perfect for families needing a little extra from their home. The kitchen is situated at the heart of a vast tiled combined living and dining, opening out to a patio through sliding doors. The gardens are neatly presented, with the backyard separately fenced, providing a shady and secure space for children to play. Functionality and ease of living are presented with this lifestyle focused design.
 

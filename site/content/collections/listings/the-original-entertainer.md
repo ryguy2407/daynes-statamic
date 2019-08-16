@@ -10,37 +10,11 @@ cars: 1
 status: Sold
 address: '72 Merchiston Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/p97wjaLjN0F8BfsjSnfltQWwVcE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821627/126821766-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821640/126821766-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821639/126821766-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821638/126821766-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821637/126821766-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821636/126821766-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821635/126821766-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821634/126821766-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821633/126821766-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821632/126821766-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821631/126821766-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821630/126821766-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821629/126821766-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821628/126821766-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821627/126821766-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435198/images'
 property_id: '435198'
-id: f853ce08-68bf-4556-a58e-35eba0e8a384
+price_search: '375000.0'
+id: 71d21846-22e8-430e-b65a-19dbebc05b1d
+suburb: 'ACACIA RIDGE'
 ---
 This beautifully presented home is being offered to the market for the first time in more than 50 years. The place of many happy family memories, this property will no doubt bring joy into the lives of the next owners. On an elevated block, surrounded by well-kept gardens and framed by beautiful mature trees, this property has lovely street appeal. With a sunny northern aspect, the generous internal spaces of this home are full of light. Of solid brick construction, this type of home is much sought-after in the area for the hardwood timber flooring and renovation potential.
 

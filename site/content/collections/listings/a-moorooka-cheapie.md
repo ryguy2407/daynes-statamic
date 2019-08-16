@@ -10,17 +10,11 @@ cars: 1
 status: Sold
 address: '1 / 65 Goodwin Terrace, MOOROOKA'
 main_image: 'https://img.eagleagent.com.au/7TdyOtu2s1V_5C-Ycgbp3emV3qU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824253/113788715-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824256/113788715-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824255/113788715-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824254/113788715-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824253/113788715-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435409/images'
 property_id: '435409'
-id: 6ba36290-4ab1-4421-91fa-928cb91ddac3
+price_search: '250000.0'
+id: 3458860a-6416-4b2c-9fa9-dedaba353eef
+suburb: MOOROOKA
 ---
 First Home Owners or Investors dont delay.
 

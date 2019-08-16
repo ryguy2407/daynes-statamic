@@ -10,21 +10,11 @@ cars: 1
 status: Let
 address: '121 Middle Street, COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/Gk0cLHHheTMmEB3D7A6k6UGIyy8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825976/413949555-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825981/413949555-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825980/413949555-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825979/413949555-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825978/413949555-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825977/413949555-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825976/413949555-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435596/images'
 property_id: '435596'
-id: 57412a43-0c69-40b2-9291-bc171aa92913
+price_search: null
+id: 0f31219e-a8e5-4b86-a1e1-153451629923
+suburb: 'COOPERS PLAINS'
 ---
 This lowset 3 bedroom brick house is available for rent now.
 

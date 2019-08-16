@@ -10,21 +10,11 @@ cars: 1
 status: Let
 address: '14 Harden Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/TUVqrf1HFZ-WkeSYUpjVaHQzzg8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826186/415576839-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826191/415576839-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826190/415576839-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826189/415576839-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826188/415576839-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826187/415576839-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826186/415576839-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435622/images'
 property_id: '435622'
-id: 5749868d-419c-4ee5-87df-9f4030520a26
+price_search: null
+id: 5006024c-f9d4-467d-a5ff-fdb137e79313
+suburb: 'ACACIA RIDGE'
 ---
 This 2 bedroom house is available for rent, the property is about 100 metres to bus stops on Mortimer Road. Also close to schools, parks, shopping centres and amenities.
 

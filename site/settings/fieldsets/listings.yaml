@@ -8,6 +8,9 @@ sections:
       listing_type:
         type: text
         display: 'Listing Type'
+      status:
+        type: text
+        display: Status
       address:
         type: text
         display: Address
@@ -26,13 +29,6 @@ sections:
       main_image:
         type: text
         display: 'Main Image'
-      status:
-        options:
-          current: Current
-          sold: Sold
-          leased: Leased
-        type: select
-        display: Status
       content:
         cheatsheet: false
         restrict_assets: false

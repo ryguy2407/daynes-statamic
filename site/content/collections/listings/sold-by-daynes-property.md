@@ -8,53 +8,13 @@ bedrooms: 2
 bathrooms: 2
 cars: 1
 status: Sold
-address: '9 / 69 Cook Street, OXLEY'
-main_image: 'https://img.eagleagent.com.au/VYBBVa7yq1ojhNjqY62mRv4AQGw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822134/130469042-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822154/130469042-image-U.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822153/130469042-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822152/130469042-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822151/130469042-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822150/130469042-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822149/130469042-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822148/130469042-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822147/130469042-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822146/130469042-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822145/130469042-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822144/130469042-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822143/130469042-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822142/130469042-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822141/130469042-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822140/130469042-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822139/130469042-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822138/130469042-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822137/130469042-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822136/130469042-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822135/130469042-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822134/130469042-image-M.jpg'
-property_id: '435243'
-id: fe647c1d-368e-4641-b446-20f905a8e08f
+address: '13 / 69 Cook Street, OXLEY'
+main_image: 'https://img.eagleagent.com.au/qDeANUA4Hd4bjqb9w1e7LpzYKzE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822658/130468986-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435280/images'
+property_id: '435280'
+price_search: '402500.0'
+id: 3da298b2-5a3d-41c7-a0cb-f7d9bf5e3c68
+suburb: OXLEY
 ---
 Oxley Central Apartments / / Boutique Development Offering Unique Location & Lifestyle
 

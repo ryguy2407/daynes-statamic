@@ -10,21 +10,11 @@ cars: 1
 status: Sold
 address: '14 Harden Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/w-XPWUHmQXm1I3ei86g0bf3NhAw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821482/126357110-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821487/126357110-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821486/126357110-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821485/126357110-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821484/126357110-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821483/126357110-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821482/126357110-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435187/images'
 property_id: '435187'
-id: b59b6cbb-a493-47f6-8b1e-dea47f234d1c
+price_search: '420000.0'
+id: 27ab9c3f-41e3-4e16-9908-cf2306f1a9ac
+suburb: 'ACACIA RIDGE'
 ---
 This is a rare opportunity to secure a generous parcel of land in one of Brisbane’s most rapidly developing areas. This generous offering of land, zoned Low Medium Residential (LMR), comprises two individual allotments totalling 1,369sqm, representing an array of short and long term investment options.
 

@@ -10,51 +10,11 @@ cars: 4
 status: Sold
 address: '7 Spowers Street, ARCHERFIELD'
 main_image: 'https://img.eagleagent.com.au/gxtYBjeIp6OqOcY-7161v5adwf8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823563/122124382-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823583/122124382-image-U.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823582/122124382-image-T.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823581/122124382-image-S.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823580/122124382-image-R.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823579/122124382-image-Q.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823578/122124382-image-P.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823577/122124382-image-O.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823576/122124382-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823575/122124382-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823574/122124382-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823573/122124382-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823572/122124382-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823571/122124382-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823570/122124382-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823569/122124382-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823568/122124382-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823567/122124382-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823566/122124382-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823565/122124382-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823564/122124382-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823563/122124382-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435357/images'
 property_id: '435357'
-id: 588610bb-f720-4e07-8ca5-82f6f9001a45
+price_search: '450000.0'
+id: d3e461d2-38a6-4d30-9f58-11839e8fd172
+suburb: ARCHERFIELD
 ---
 Set amongst the trees in this quiet, idyllic pocket of Archerfield is this beautifully presented high-set home. This property is sure to impress with plenty of space for a growing family and those who love to entertain. With a recently renovated kitchen and bathroom, and great indoor and outdoor spaces to enjoy, this property requires only those personal finishes to make this feel like your home. An added bonus of this property is the media room, partially soundproofed and with block-out curtains, this is a real plus for those who enjoy games and films. Perfect for first home buyers, this home is situated on a 599sqm flat block, in a flood-free area and in a quiet cul-de-sac with amazing convenience to a great range of amenities.
 

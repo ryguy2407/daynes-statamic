@@ -10,35 +10,11 @@ cars: 1
 status: Sold
 address: '14 Limerick Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/SO7BcDLw9yPdWqlWsDD_TgUnmIs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822361/129758366-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822373/129758366-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822372/129758366-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822371/129758366-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822370/129758366-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822369/129758366-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822368/129758366-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822367/129758366-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822366/129758366-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822365/129758366-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822364/129758366-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822363/129758366-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822362/129758366-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822361/129758366-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435260/images'
 property_id: '435260'
-id: 241b2cc1-c98f-408e-8ff0-97b0e9863630
+price_search: '400000.0'
+id: 73f60694-5122-4256-9ac0-a5252db187d5
+suburb: 'ACACIA RIDGE'
 ---
 Situated on a 880sqm flat block, zoned Low Medium Residential (LMR), this property offers potential plus to the lucky future owners with amazing long-term growth. The perfect property for the savvy investor or homeowner, this investment represents the option to renovate with the aim to move in or tenant, or develop now or in the future. As an LMR site, this property has many options in both the short and long term to maximise your return on investment. Being such a generous parcel of land with a wide frontage, the land could potentially accommodate a unit, townhouse or subdivision development.
 

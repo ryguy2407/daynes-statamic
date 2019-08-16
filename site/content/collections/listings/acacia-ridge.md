@@ -10,21 +10,11 @@ cars: 1
 status: Let
 address: '3 Dellow Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/STvRfPCqmiGP4XERvcrT6txJ8Qg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826174/415192935-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826179/415192935-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826178/415192935-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826177/415192935-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826176/415192935-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826175/415192935-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826174/415192935-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435620/images'
 property_id: '435620'
-id: 8f500e74-dde3-4810-9c99-6901a24211e6
+price_search: null
+id: a6896d17-8350-4198-8939-53afed569592
+suburb: 'ACACIA RIDGE'
 ---
 This well presented 3 bedroom family home located in a quiet street in Acacia Ridge is only minutes from city bus and the Watson rd primary school.
 

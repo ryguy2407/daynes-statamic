@@ -10,23 +10,11 @@ cars: 1
 status: Sold
 address: '1334 Beaudesert Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6xQuYdDGajAnSjwxWb7Ns4EZWAU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823100/117924043-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823106/117924043-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823105/117924043-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823104/117924043-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823103/117924043-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823102/117924043-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823101/117924043-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823100/117924043-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435313/images'
 property_id: '435313'
-id: dade442d-37ba-485f-85ec-932e0a667564
+price_search: '299000.0'
+id: c6983f64-ae6a-43f6-9318-cbc37864335d
+suburb: 'ACACIA RIDGE'
 ---
 Entertain your friends and family with the generously sized back deck and fully fenced backyard. The fully-equipped kitchen, combined living and dining room open straight out onto the deck; perfect for families and entertainers alike.
 

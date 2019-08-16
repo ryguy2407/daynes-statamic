@@ -10,37 +10,11 @@ cars: 2
 status: Sold
 address: '41 Desgrand Street, ARCHERFIELD'
 main_image: 'https://img.eagleagent.com.au/7vgnz0zNuPihCz_y1jq-SlZBQrc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822018/128373382-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822031/128373382-image-N.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822030/128373382-image-L.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822029/128373382-image-K.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822028/128373382-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822027/128373382-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822026/128373382-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822025/128373382-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822024/128373382-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822023/128373382-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822022/128373382-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822021/128373382-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822020/128373382-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822019/128373382-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822018/128373382-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435232/images'
 property_id: '435232'
-id: 445bd896-9bcb-470b-92c7-7141fecf9cb7
+price_search: '415000.0'
+id: 8fcdd4ca-64fb-493c-b701-9b0191422f2d
+suburb: ARCHERFIELD
 ---
 This delightful, north-facing charmferboard home is full of light and beautifully presented. Featuring lofty ceilings and spacious interiors, thoughtful renovations have created a fresh and inviting home. It is easy to imagine relaxing on the front deck of this lovely high-set home, enjoying the tranquility of the leafy surrounds and friendly neighbourhood. Inside, the bright and airy spaces are kept private with the mature trees and hedging. The three generous bedrooms are stepped up and separate from the living spaces, giving privacy and a great layout for families.
 

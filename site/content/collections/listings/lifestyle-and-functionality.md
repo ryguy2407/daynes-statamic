@@ -10,31 +10,11 @@ cars: 0
 status: Sold
 address: '8 Dunkeld Street, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/r7gLjJZCd4TBoNfdClWEX5kUFqw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821674/127289790-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821684/127289790-image-J.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821683/127289790-image-I.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821682/127289790-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821681/127289790-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821680/127289790-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821679/127289790-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821678/127289790-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821677/127289790-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821676/127289790-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821675/127289790-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821674/127289790-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435202/images'
 property_id: '435202'
-id: 75646e86-b064-4b23-9880-7c0940987de4
+price_search: '320000.0'
+id: 956ca8c3-193f-4b9a-8ddb-6b3af200276b
+suburb: 'ACACIA RIDGE'
 ---
 This property has it all for lifestyle and functionality, a lovely family home situated in a quiet pocket of Acacia Ridge. Freshly painted internally, the home has been finished in a tasteful, neutral colour palette which is complemented by the the abundance of natural light in every room. The hardwood timber floors have also been recently polished, giving the home a fresh and modern feel. The kitchen and bathroom have been updated. The easy layout of the home gives plenty of space for a growing families with the combined kitchen and dining opening to the living area and to a leafy backyard. The front sunroom also affords plenty of options as a play room, home office or simply a place to enjoy the peaceful neighbourhood.
 

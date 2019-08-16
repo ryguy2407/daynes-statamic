@@ -10,27 +10,11 @@ cars: 2
 status: Sold
 address: '315 Watson Road, ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/3pWEUTFnQMI-lR4s3jV7Zzga1F0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822871/131226030-image-M.jpg'
-images:
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822879/131226030-image-H.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822878/131226030-image-G.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822877/131226030-image-F.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822876/131226030-image-E.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822875/131226030-image-D.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822874/131226030-image-C.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822873/131226030-image-B.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822872/131226030-image-A.jpg'
-  -
-    url: 'https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822871/131226030-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435296/images'
 property_id: '435296'
-id: eb370680-bf3c-4ae2-9be6-d12f7a0bd5d1
+price_search: '400000.0'
+id: cb3e187b-0dec-454a-8258-e12ca9328960
+suburb: 'ACACIA RIDGE'
 ---
 This is a lovely, neat family home surrounded by mature trees giving it great street appeal. The property has been brought back to life with fresh paint externally and internally. Low-maintenance polished timber floors along with the neutral palette throughout make this home a great blank canvas. The living area is spacious and full of light, and steps through to the eat-in kitchen. The kitchen has been finished with attractive splashback tiles, detailed cabinetry and is equipped with plenty of storage space. The yard is large, fenced and grassy, perfect to accommodate children and pets.
 
