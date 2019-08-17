@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/J2N_hH932aMpD1xyVTqpp40bQHk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435396/images'
 property_id: '435396'
 price_search: '725000.0'
-id: 8f094ecb-75f2-407c-8f97-64345655af67
 suburb: GREENSLOPES
+id: 8f094ecb-75f2-407c-8f97-64345655af67
 ---
 Priced to sell at $749,000
 

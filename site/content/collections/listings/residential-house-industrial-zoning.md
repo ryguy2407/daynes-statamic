@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/p1CZ5b0WIc__fEhK1D-18UecICQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434976/images'
 property_id: '434976'
 price_search: '370000.0'
-id: 420f0feb-b895-4cfe-b8ee-a3b0a9138cfc
 suburb: 'ACACIA RIDGE'
+id: 420f0feb-b895-4cfe-b8ee-a3b0a9138cfc
 ---
 *  Good level 610sqm site for future development
 *  Currently has 3 bedroom timber home + garage on site

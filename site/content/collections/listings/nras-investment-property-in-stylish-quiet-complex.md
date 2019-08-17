@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/XCZfsiOxjvKZcSJAfVfhDau7je4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435312/images'
 property_id: '435312'
 price_search: '389000.0'
-id: 5e7a4f1d-0bb8-426d-9bbf-4b89c9ecfcb8
 suburb: CALAMVALE
+id: 5e7a4f1d-0bb8-426d-9bbf-4b89c9ecfcb8
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

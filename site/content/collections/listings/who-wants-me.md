@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ciVpVqzcY6d2M71nMVU2zMJSsiE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434846/images'
 property_id: '434846'
 price_search: '440000.0'
-id: 67246f50-3d0b-45be-9679-77a3ca5f948b
 suburb: SALISBURY
+id: 67246f50-3d0b-45be-9679-77a3ca5f948b
 ---
 I am a lovely post war home perched on a massive 809sqm block. My features and attributes include:
 

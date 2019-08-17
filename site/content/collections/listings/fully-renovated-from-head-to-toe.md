@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/oIHoLVXdowqJ1mpNiUa_0lvtIUU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435306/images'
 property_id: '435306'
 price_search: '375000.0'
-id: d30b8f64-5c4a-4d2b-8846-a26af23688ac
 suburb: 'ACACIA RIDGE'
+id: d30b8f64-5c4a-4d2b-8846-a26af23688ac
 ---
 Here we have a fully renovated solid brick highset home on a 607m2 block in a very quiet cul-de-sac. It features three bedrooms with a further room which could be used as a single bedroom or office/study. It has lovely French doors leading out from the lounge room to a brand new north-east facing deck.
 

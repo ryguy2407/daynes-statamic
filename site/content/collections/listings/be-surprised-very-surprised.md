@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/kK9NsdZPY_d2DBG4sXuhbKrH728=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435131/images'
 property_id: '435131'
 price_search: '799000.0'
-id: cf6d8b69-fe3a-42d7-94ed-b8e77d838745
 suburb: RICHLANDS
+id: cf6d8b69-fe3a-42d7-94ed-b8e77d838745
 ---
 Richlands Investment Opportunity
 

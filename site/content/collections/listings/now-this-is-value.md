@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/r-QlktShjoW8q_XoKgWVSIPa_c8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435171/images'
 property_id: '435171'
 price_search: '445000.0'
-id: 2e0fd82a-fb03-4f1e-b4b2-9ad3452f2bc4
 suburb: 'MERMAID WATERS'
+id: 2e0fd82a-fb03-4f1e-b4b2-9ad3452f2bc4
 ---
 Positioned at the end of a quiet cul-de-sac, this gated complex offers a unique blend of resort-style living with the Tuscan-inspired architecture, beautifully landscaped grounds, sparkling swimming pool and access to the canal for all your boating activities.
 

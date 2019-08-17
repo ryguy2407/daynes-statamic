@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/DC1O-g-VVleRz7gPPbjeN9kWlFY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435624/images'
 property_id: '435624'
 price_search: null
-id: e85c6385-ca20-43aa-b401-0d33a9317b71
 suburb: ANNERLEY
+id: e85c6385-ca20-43aa-b401-0d33a9317b71
 ---
 This fully renovated 5 bedroom student house is available for rent now.
 

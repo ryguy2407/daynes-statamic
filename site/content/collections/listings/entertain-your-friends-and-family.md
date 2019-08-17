@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/rJSxFQJW_xkJICy9ZoL9XJeF_yE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435602/images'
 property_id: '435602'
 price_search: null
-id: 8210fd96-ea6e-4e90-99e3-dedbaeaaf3e0
 suburb: 'ACACIA RIDGE'
+id: 8210fd96-ea6e-4e90-99e3-dedbaeaaf3e0
 ---
 Entertain your friends and family with the generously sized back deck and fully fenced backyard.
 

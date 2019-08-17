@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/lYHAsVZZrU3pBnMtfRX2SfX_Rvk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435340/images'
 property_id: '435340'
 price_search: '289000.0'
-id: 22e8cb26-824f-42bf-9ab8-bf5ad1cfcbaa
 suburb: MOOROOKA
+id: 22e8cb26-824f-42bf-9ab8-bf5ad1cfcbaa
 ---
 This lovely two bedroom unit is situated in the heart of Moorooka amongst newly landscaped grounds and a quiet and leafy street. Enjoy the privacy of this unit in the middle of a boutique complex of four, featuring a lovely sheltered balcony off the living area affording an elevated and leafy view. The two bedrooms a good-sized and the open plan kitchen and living areas are well proportioned. Ready for some simple renovations, this is a fantastic opportunity for the savvy investor or first home buyer to make their move into the booming Moorooka property market.
 

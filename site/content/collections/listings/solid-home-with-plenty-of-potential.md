@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/gjBGBA9pQxrAA-mibxjVE2gKdSk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434954/images'
 property_id: '434954'
 price_search: '479000.0'
-id: 569c75df-ccfc-4254-9e70-5a6047215fae
 suburb: MOOROOKA
+id: 569c75df-ccfc-4254-9e70-5a6047215fae
 ---
 Here is your chance to secure a large brick & tile home in a great position. This home has loads of potential and with a bit of tender, love and care it would make a great family home.
 

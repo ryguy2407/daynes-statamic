@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/uvX4Ud4wrLplmMXaRyTsJf-Yzmk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435453/images'
 property_id: '435453'
 price_search: null
-id: 576f45c7-dc6a-4b57-910d-da9178ef6e3a
 suburb: SALISBURY
+id: 576f45c7-dc6a-4b57-910d-da9178ef6e3a
 ---
 * Two bedroom, two bathroom
 * Built in 2011

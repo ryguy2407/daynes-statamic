@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/2miuGoEYeS0blIgktV_j4t8sp3Q=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435400/images'
 property_id: '435400'
 price_search: '379000.0'
-id: ab4713b2-1e3f-4077-a9ec-4311b8ba6295
 suburb: SALISBURY
+id: ab4713b2-1e3f-4077-a9ec-4311b8ba6295
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/mCiqiCIxQ8-_k2RXe9jVdRJH8M0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435594/images'
 property_id: '435594'
 price_search: null
-id: 9fecd439-9e41-499c-9a63-32528d062460
 suburb: SALISBURY
+id: 9fecd439-9e41-499c-9a63-32528d062460
 ---
 Features;
 * Two bedrooms with ceiling fans

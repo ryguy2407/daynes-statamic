@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/4VAxcnYDprxFmhfOa9kd57g4sqA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435362/images'
 property_id: '435362'
 price_search: '365000.0'
-id: 98f88897-3474-4394-a7aa-bcc7c968061d
 suburb: 'ACACIA RIDGE'
+id: 98f88897-3474-4394-a7aa-bcc7c968061d
 ---
 This beautifully presented family home is being offered for the first time in 44 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter.
 

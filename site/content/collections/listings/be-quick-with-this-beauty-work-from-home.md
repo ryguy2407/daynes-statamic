@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/55mzCUgfT67TRjBM-qlW9OldpIM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434881/images'
 property_id: '434881'
 price_search: '530000.0'
-id: 9d98bacb-773b-42fe-8e16-9745424c66a4
 suburb: TARRAGINDI
+id: 9d98bacb-773b-42fe-8e16-9745424c66a4
 ---
 This lovely three bedroom home is situated in a quiet leafy street in Tarragindi in an elevated position.
 

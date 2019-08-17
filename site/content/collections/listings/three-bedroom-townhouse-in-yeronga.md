@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/SjecbDiJ4K-ocsljdG9RSNvVSEU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434876/images'
 property_id: '434876'
 price_search: '450000.0'
-id: 3f31be1c-3085-499a-9b54-3afb07635c08
 suburb: YERONGA
+id: 3f31be1c-3085-499a-9b54-3afb07635c08
 ---
 Don't miss this great opportunity of securing this free-standing three-bedroom townhouse in Yeronga
 

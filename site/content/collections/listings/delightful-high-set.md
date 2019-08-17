@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/7vgnz0zNuPihCz_y1jq-SlZBQrc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435232/images'
 property_id: '435232'
 price_search: '415000.0'
-id: 8fcdd4ca-64fb-493c-b701-9b0191422f2d
 suburb: ARCHERFIELD
+id: 8fcdd4ca-64fb-493c-b701-9b0191422f2d
 ---
 This delightful, north-facing charmferboard home is full of light and beautifully presented. Featuring lofty ceilings and spacious interiors, thoughtful renovations have created a fresh and inviting home. It is easy to imagine relaxing on the front deck of this lovely high-set home, enjoying the tranquility of the leafy surrounds and friendly neighbourhood. Inside, the bright and airy spaces are kept private with the mature trees and hedging. The three generous bedrooms are stepped up and separate from the living spaces, giving privacy and a great layout for families.
 

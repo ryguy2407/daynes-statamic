@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/j1uTpM5Qt_Y7sxp_yLgGFpIZWe8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434975/images'
 property_id: '434975'
 price_search: '670000.0'
-id: 85e53693-c141-4ed6-99a2-304dff83afb0
 suburb: YERONGA
+id: 85e53693-c141-4ed6-99a2-304dff83afb0
 ---
 This lovely three bedroom post war home is situated in a highly sort after area of Yeronga. Sitting proud on 541sqm of land this property is sure to impress.
 

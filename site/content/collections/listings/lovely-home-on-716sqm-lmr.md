@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/uV8xEKJh8x1-8nCjtKRJkNU9o2s=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435367/images'
 property_id: '435367'
 price_search: '420000.0'
-id: ffcae327-cc90-434b-8bf1-91b85976c15e
 suburb: 'ACACIA RIDGE'
+id: ffcae327-cc90-434b-8bf1-91b85976c15e
 ---
 This gorgeous low-set brick bungalow has been the place of many happy family memories, and is offered for the first time in 40 years. Lovingly and attentively maintained, this home is full of character and would be a fantastic investment opportunity for any savvy buyer. Situated on a generous 716sqm block with 20m frontage, zoned Low Medium Residential (LMR), this solid home represents an array of short and long term investment options.
 

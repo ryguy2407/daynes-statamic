@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/paJC3Z4Hrt6p_D9TFc47Y75yivQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435097/images'
 property_id: '435097'
 price_search: '389000.0'
-id: 738cd591-c043-4f59-a07e-bfe3cb82d591
 suburb: SALISBURY
+id: 738cd591-c043-4f59-a07e-bfe3cb82d591
 ---
 Act now to secure this terrific investment opportunity or to live with great convenience in Salisbury.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/4sKeZqorZE6XJjSPkTRezYTq29E=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435565/images'
 property_id: '435565'
 price_search: null
-id: 435dcf5c-2b4f-43b0-b102-197f6b467d24
 suburb: 'DUTTON PARK'
+id: 435dcf5c-2b4f-43b0-b102-197f6b467d24
 ---
 DESCRIPTION: Nicely renovated 3 bedroom flat in Dutton Park/Highgate Hill. This apartment has a combined lounge dining area. All windows are double glazed so no traffic noise will be heard.
 

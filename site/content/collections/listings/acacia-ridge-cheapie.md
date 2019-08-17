@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/P1Shx0COIDKBpsDLMO4xsks9ei0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435117/images'
 property_id: '435117'
 price_search: '265000.0'
-id: b4e73226-c130-4c0c-a2a7-f6208ea51cc6
 suburb: 'ACACIA RIDGE'
+id: b4e73226-c130-4c0c-a2a7-f6208ea51cc6
 ---
 If you are into renovating or prepared to renovate then this one may be for you.
 

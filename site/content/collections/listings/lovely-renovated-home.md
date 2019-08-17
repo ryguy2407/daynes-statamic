@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/9dCuFkmAjKwd-4kNqrPQatw-mvE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435559/images'
 property_id: '435559'
 price_search: null
-id: d02d3120-65c3-42ad-b0f9-0593b67e4597
 suburb: 'ACACIA RIDGE'
+id: d02d3120-65c3-42ad-b0f9-0593b67e4597
 ---
 Step inside and enjoy the tastefully updated interiors and immediately feel at home. The updates have been thoughtfully applied, with fresh neutral colours and clean finishes; this home is the perfect opportunity for those looking to move! The hardwood timber floors have been polished and are perfectly complemented by the fresh walls. The open plan living and dining flow into the functional kitchen. Neat and tidy, the kitchen has plenty of storage and bench space.
 

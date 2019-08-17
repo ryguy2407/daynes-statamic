@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/YYpfztNsS5d-fx0tzjbKDrEmFM4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435005/images'
 property_id: '435005'
 price_search: '390000.0'
-id: a36624d4-7a68-491f-9c2b-9e7dfc345dbd
 suburb: YERONGA
+id: a36624d4-7a68-491f-9c2b-9e7dfc345dbd
 ---
 What a great opportunity! Renovated two bedroom unit in very desirable location; situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

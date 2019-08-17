@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Emeo1IgQumAESmoTy1gICRZ0mfE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435401/images'
 property_id: '435401'
 price_search: '349000.0'
-id: 575c4e0d-fdb9-48c4-80b0-cedc85013e0c
 suburb: RICHLANDS
+id: 575c4e0d-fdb9-48c4-80b0-cedc85013e0c
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

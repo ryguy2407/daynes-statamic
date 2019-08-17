@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/p97wjaLjN0F8BfsjSnfltQWwVcE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435198/images'
 property_id: '435198'
 price_search: '375000.0'
-id: 71d21846-22e8-430e-b65a-19dbebc05b1d
 suburb: 'ACACIA RIDGE'
+id: 71d21846-22e8-430e-b65a-19dbebc05b1d
 ---
 This beautifully presented home is being offered to the market for the first time in more than 50 years. The place of many happy family memories, this property will no doubt bring joy into the lives of the next owners. On an elevated block, surrounded by well-kept gardens and framed by beautiful mature trees, this property has lovely street appeal. With a sunny northern aspect, the generous internal spaces of this home are full of light. Of solid brick construction, this type of home is much sought-after in the area for the hardwood timber flooring and renovation potential.
 

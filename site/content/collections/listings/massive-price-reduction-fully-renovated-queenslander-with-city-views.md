@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/J1OVMQl68cP8w_oD259mTGNGC_c=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435000/images'
 property_id: '435000'
 price_search: '940000.0'
-id: bdb3e816-daaa-4af4-8a72-4232c6af96e2
 suburb: GREENSLOPES
+id: bdb3e816-daaa-4af4-8a72-4232c6af96e2
 ---
 Spectacular City Views! Fully Renovated Queenslander Sitting High on the Hill
 

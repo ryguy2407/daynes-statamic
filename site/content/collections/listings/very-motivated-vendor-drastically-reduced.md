@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/2f2a_N06B-vQvnxJ4mGtX-p2ScI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434867/images'
 property_id: '434867'
 price_search: '409000.0'
-id: e8f80864-adfc-46f0-8a83-5f0b75f6fd10
 suburb: SPRINGFIELD
+id: e8f80864-adfc-46f0-8a83-5f0b75f6fd10
 ---
 Do not miss out on the opportunity to secure this great family home for such a great price.
 

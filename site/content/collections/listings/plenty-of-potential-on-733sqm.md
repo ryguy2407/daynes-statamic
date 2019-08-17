@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/VY4HXlJkL9nL2mo3QLjc_QvujyE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435195/images'
 property_id: '435195'
 price_search: '389000.0'
-id: 7acd476d-ca5c-4ead-96a6-f9c191cdfc2d
 suburb: 'ACACIA RIDGE'
+id: 7acd476d-ca5c-4ead-96a6-f9c191cdfc2d
 ---
 This is a lovely example of the classic Acacia Ridge home of solid construction and functional layout. With chamfer board exterior and solid timber floors throughout, this home has great bones. A promising investment for home owners and investors alike, this has the potential to be either a comfortable home or generate a tidy return. The property is currently tenanted until February 2018, allowing owner-occupiers possession in the near future and investors the opportunity to continue with a great long-term tenant.
 

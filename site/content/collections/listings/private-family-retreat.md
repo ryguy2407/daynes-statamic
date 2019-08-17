@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/LXOAozJcnhK1N_e9HpAxK5GU3hU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435180/images'
 property_id: '435180'
 price_search: '580000.0'
-id: 5866c0a5-34f6-4a30-a88e-5058749a2aa1
 suburb: TARRAGINDI
+id: 5866c0a5-34f6-4a30-a88e-5058749a2aa1
 ---
 This beautiful family home promises great lifestyle and is perfect for families and those who love to entertain. A classic post war property with tiled roof and chamferboard exterior, this is a charming and desirable design. The open plan kitchen, dining and living, flows effortlessly out onto the shady back deck overlooking the leafy backyard. These generous spaces boast elevated outlooks and are full of light, offering the very best of open plan living.
 

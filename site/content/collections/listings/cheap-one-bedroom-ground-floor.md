@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/m_PCtO0OK8z3i4JcpHowWqkNjz4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435700/images'
 property_id: '435700'
 price_search: null
-id: fc3c0bf9-a3c1-4233-a1b4-174502288f28
 suburb: RICHLANDS
+id: fc3c0bf9-a3c1-4233-a1b4-174502288f28
 ---
 *  One Bedroom with built in wardrobe
 *  Tiled throughout

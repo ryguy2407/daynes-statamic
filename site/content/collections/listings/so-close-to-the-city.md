@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/YJxYwKpNIkOZcGVnhMjJSvEfqR4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435395/images'
 property_id: '435395'
 price_search: '370000.0'
-id: a225fd73-e542-48ee-bf1b-8586ecf730d4
 suburb: ANNERLEY
+id: a225fd73-e542-48ee-bf1b-8586ecf730d4
 ---
 This brand new, well presented 2 bedroom unit is in a small complex of 5 units. It is only a stones throw to the Fairfield railway station with only a few stops to Central Station and Fairfield shopping Centre just a short stroll away.
 

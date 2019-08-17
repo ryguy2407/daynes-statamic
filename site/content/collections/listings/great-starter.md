@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/6RZyFeIj6tbCZzM8jkgauhgvIjE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435166/images'
 property_id: '435166'
 price_search: '350000.0'
-id: 613495ed-d967-476f-9cd6-9099546c6951
 suburb: 'ACACIA RIDGE'
+id: 613495ed-d967-476f-9cd6-9099546c6951
 ---
 This lovely three bedroom home is ripe for renovation and a fantastic investment opportunity in this rapidly growing area. Conveniently situated right in the hub of Acacia Ridge, this property is close to transport and a great range of amenities. Recently repainted and freshened up internally, this is a functional family home with bright and airy interiors. North facing on a low maintenance 446sqm block, the home is privately set back from the road behind leafy hedges and framed by a beautiful Jacaranda. The fully-fenced front yard is the perfect setting for children and pets to play in the shade.
 

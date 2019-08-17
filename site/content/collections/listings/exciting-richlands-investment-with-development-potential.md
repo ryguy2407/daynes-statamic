@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/19aK1CFH2wAtYiQ5T3JoDu7rpZc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435332/images'
 property_id: '435332'
 price_search: '419000.0'
-id: 3a2db3be-cb48-428b-8af4-c5f9225c3799
 suburb: RICHLANDS
+id: 3a2db3be-cb48-428b-8af4-c5f9225c3799
 ---
 This recently renovated two-bedroom family home boasts a fresh kitchen, bathroom and lovely living and entertaining spaces. To the rear of the property is an un-renovated large, freestanding, fully self-contained granny flat of similar construction to the main house. This is an ideal property for growing families and investors alike, with plenty of exciting opportunities to capitalise on your investment.
 

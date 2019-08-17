@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/f5zS8D7QHwFdBOHaR1WP6csiD1g=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435526/images'
 property_id: '435526'
 price_search: null
-id: 7a4469ca-686c-4e04-bca5-5176ec82e237
 suburb: 'ACACIA RIDGE'
+id: 7a4469ca-686c-4e04-bca5-5176ec82e237
 ---
 This large, beautifully presented home is situated on a generous block allowing plenty of space for families. With a large living area, good-sized kitchen and three bedrooms, this property offers more space than most in the area. Completely repainted and newly tiled throughout, this is a fresh and convenient home. The bathroom and kitchen have also been updated. Within walking distance to a great range of local amenities and public transport, this is a great location.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/zY-VG7M2bXRUexw5Zn0aU-VQgK0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435533/images'
 property_id: '435533'
 price_search: null
-id: f527e3c5-a4ff-423f-a606-c9163773e1f0
 suburb: 'ACACIA RIDGE'
+id: f527e3c5-a4ff-423f-a606-c9163773e1f0
 ---
 This lovely high-set home is situated in a quiet leafy pocket, a stone's throw from local parks and Acacia Ridge State School. This little corner of Acacia Ridge is popular with families as it is removed from the traffic and close to all the important amenities. The house itself is a private retreat, featuring a large, open-plan living and dining, flowing into the modern kitchen. This kitchen features lovely white cabinetry and stainless steel appliances. Polished timber floors throughout the living, dining, hallway and bedrooms gives this home an easy to maintain appeal. Additional value and attraction for this property is the additional fully enclosed space downstairs. Perfect for additional living space, a rumpus room or simply storage, this space is a great addition to an already generous home.
 

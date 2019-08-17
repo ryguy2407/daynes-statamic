@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/FGqJAhcnuaVVLJLM2sdCAARQ348=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435451/images'
 property_id: '435451'
 price_search: null
-id: 55f1bb6c-5240-482e-b891-3d3eb9a76153
 suburb: 'ACACIA RIDGE'
+id: 55f1bb6c-5240-482e-b891-3d3eb9a76153
 ---
 *  Three Bedrooms (top floor of high-set residence)
 *  Polished timber floor boards

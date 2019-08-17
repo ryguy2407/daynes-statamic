@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/wH__uFbg2WMvHZ_T5-HloBGDJpM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434797/images'
 property_id: '434797'
 price_search: '439000.0'
-id: a724354e-cb23-42dc-8ae7-c473e62f5907
 suburb: MOOROOKA
+id: a724354e-cb23-42dc-8ae7-c473e62f5907
 ---
 Situated in a quiet leafy street in Moorooka. The property features a lovely landscaped courtyard, spacious open plan living area, vogue kitchen with stainless steel appliances.
 Upstairs there are three bedrooms with built in robes, the main has a walk in robe and ensuite.

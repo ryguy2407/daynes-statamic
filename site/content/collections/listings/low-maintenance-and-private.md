@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/KJXeMgwAzm6GxLZrKozGcWoIofE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435585/images'
 property_id: '435585'
 price_search: null
-id: f7a6f0c7-b90d-448a-a265-2be80e3645d4
 suburb: SALISBURY
+id: f7a6f0c7-b90d-448a-a265-2be80e3645d4
 ---
 This low-maintenance home is a great retreat for families or students. A must-see property, the tiled floors throughout make the interiors cool and comfortable, while the layout is highly functional and convenient. The open plan living space is generous, expanding into the front sunroom at the entry. An additional space to the rear of the home could be utilised as a rumpus or study space. The fresh kitchen and bathroom are stylish and well proportioned with plenty of storage. The two bedrooms are equipped with ceiling fans. This is a great home for those seeking a generous and private escape in this convenient location!
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/DXGdgXg9ExX8aCc9NtMDGfigyK0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435298/images'
 property_id: '435298'
 price_search: '369000.0'
-id: e5277568-9052-43c6-b63d-2a0c25ab381e
 suburb: 'ACACIA RIDGE'
+id: e5277568-9052-43c6-b63d-2a0c25ab381e
 ---
 This immaculately preserved property is your chance to secure a classic piece of mid-century design. Like stepping into a time capsule, this home is a beautiful example of the era and the perfect compliment to modern living and design sensibilities. For those who love the current trend for modern, Scandinavian inspired design, the open plan living and dining with the battened feature divide would provide the perfect backdrop to furniture and finishings with this aesthetic. Retaining the timber panelled walls would complete the mid-century look, but would be equally stylish with a coat of paint in a neutral tone. The living space is also a showcase of the hardwood timber flooring, for which homes of this era are much sought after. These floors are throughout the remainder of the home, protected by lino and would be simply stunning once revealed. Because if its immaculate preservation, this investment gives the lucky future owners plenty of options, many of which could be achieved relatively inexpensively.
 

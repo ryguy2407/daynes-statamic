@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/B89yIw23PlwJxwCu1HT7z4ygTNc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435286/images'
 property_id: '435286'
 price_search: '350000.0'
-id: 4895fb1c-1777-4698-a74e-7ec61ed52ca1
 suburb: 'ACACIA RIDGE'
+id: 4895fb1c-1777-4698-a74e-7ec61ed52ca1
 ---
 This lovely high-set home is ready and waiting for renovation. Neatly presented and highly functional as is, this is a great opportunity for owner occupiers to move straight in and realise their renovation dreams at their own pace. Situated in a quiet, elevated pocket of Acacia Ridge and surrounded by mature trees and neat gardens, this property has great street appeal. This home is a great example of classic mid-century design and quality construction. Original homes in the area are much sought after for their solid timber frames and flooring, and renowned for the ease at which they can be transformed into a retreat to suit the modern lifestyle.
 

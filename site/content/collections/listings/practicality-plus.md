@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ROnYfn28UUT1KU8qfggKq5iZ7P8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435270/images'
 property_id: '435270'
 price_search: '425000.0'
-id: 5ff552d9-6cf0-4fd8-92c5-5cbb8bbe5ffb
 suburb: 'ACACIA RIDGE'
+id: 5ff552d9-6cf0-4fd8-92c5-5cbb8bbe5ffb
 ---
 Sitting behind the pretty white fence sits this thoughtfully renovated home which will surely be the delight of its lucky future owners. This low-set home has been completely renovated with low-maintenance finishes and a functional layout for busy families. The front of the home is framed by lovely greenery, shading and protecting the concrete entertaining patio. Stepping inside, the home delights with open plan living and dining flowing effortlessly into the kitchen. The living spaces have been finished in neutral colours, with the vinyl wood-look flooring tastefully chosen to provide a low maintenance finish with a designer aesthetic. This perfectly complements the clean finishes of the recently installed kitchen, with cream two pac cabinetry and quality stainless steel appliances.
 

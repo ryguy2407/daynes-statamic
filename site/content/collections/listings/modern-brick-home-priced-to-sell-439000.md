@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ycmNs6fnAA5BG_A43oWNadIasdc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435118/images'
 property_id: '435118'
 price_search: '439000.0'
-id: 9533833b-ba7c-4678-be13-cfa136ad9eab
 suburb: 'ACACIA RIDGE'
+id: 9533833b-ba7c-4678-be13-cfa136ad9eab
 ---
 This home has so many attributes that I am sure you will agree that it ticks all the boxes.
 

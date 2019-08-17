@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/70xX6e5RFiYPU7Tg3QizHhqzRus=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435121/images'
 property_id: '435121'
 price_search: '599000.0'
-id: 4c9f208f-d78a-4ad9-bfec-2e4c03a3104e
 suburb: 'ST LUCIA'
+id: 4c9f208f-d78a-4ad9-bfec-2e4c03a3104e
 ---
 Situated in an enviable location on Armadale Street is this superbly renovated tri-level townhouse. Whether you are an investor or owner occupier, this property at its now reduced price offers a great opportunity in prestigious St Lucia.
 

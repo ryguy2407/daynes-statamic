@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/eVEhpBGSWIh5HTJOZblNdegmIIY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435420/images'
 property_id: '435420'
 price_search: null
-id: 62e91ee4-d017-46b5-a66a-162a99f7b556
 suburb: YERONGA
+id: 62e91ee4-d017-46b5-a66a-162a99f7b556
 ---
 - 2 bedroom unit
 - recently renovated throughout including a fantastic new kitchen

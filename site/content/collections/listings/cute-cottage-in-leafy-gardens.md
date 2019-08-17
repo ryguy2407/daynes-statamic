@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/52f6RACbQVNokHrdglwMCWH6LM4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435663/images'
 property_id: '435663'
 price_search: null
-id: fc604469-3cfa-4897-a02f-058a42a2f8d4
 suburb: 'ACACIA RIDGE'
+id: fc604469-3cfa-4897-a02f-058a42a2f8d4
 ---
 This neat cottage is situated in a quiet and leafy pocket of Acacia Ridge, surrounded by shady trees and a great garden. Perfect for families, the functional layout boasts a large eat-in kitchen, a spacious living area and additional sun-room, perfect for a home office or storage. The two bedrooms are generous sized, the master including a large built-in wardrobe unit.
 

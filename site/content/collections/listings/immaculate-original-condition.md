@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/dGdI942CHCKsYrtNTP6nbpgd2oo=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435151/images'
 property_id: '435151'
 price_search: '550000.0'
-id: 01d233d5-ea57-4914-95a4-db325fa9bf7e
 suburb: 'UPPER MOUNT GRAVATT'
+id: 01d233d5-ea57-4914-95a4-db325fa9bf7e
 ---
 This charming original home is a golden opportunity for the next lucky owners to realise their renovation dreams! In immaculate original condition, this property is perfect for those looking for a home where they can move in straight away and really take their time to achieve their perfect home. High-set and with an elevated outlook over this character area, this property is a must see for investors and first home buyers alike.
 

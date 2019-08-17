@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/YykqbA22-FcQX_BFrhamT_MiqUA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435240/images'
 property_id: '435240'
 price_search: '383000.0'
-id: 4d44a535-ce9f-43df-8902-802fd162aca8
 suburb: 'ACACIA RIDGE'
+id: 4d44a535-ce9f-43df-8902-802fd162aca8
 ---
 Situated in a quiet and leafy pocket of Acacia Ridge, this home offers plenty of space to entertain friends and family. Built by Devine Homes, this property resides on a 431m2 block backing onto tranquil bush land.
 

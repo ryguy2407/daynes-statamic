@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/rGwPfz2X_Ck8WaU0xkJwH7UEZl0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435069/images'
 property_id: '435069'
 price_search: '480000.0'
-id: 9ea4a84d-3278-43c3-8996-97943fea2684
 suburb: SALISBURY
+id: 9ea4a84d-3278-43c3-8996-97943fea2684
 ---
 **Get in now and beat the stamp duty increase commencing 1st August 2011**
 

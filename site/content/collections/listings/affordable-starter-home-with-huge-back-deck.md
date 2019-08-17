@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/6xQuYdDGajAnSjwxWb7Ns4EZWAU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435313/images'
 property_id: '435313'
 price_search: '299000.0'
-id: c6983f64-ae6a-43f6-9318-cbc37864335d
 suburb: 'ACACIA RIDGE'
+id: c6983f64-ae6a-43f6-9318-cbc37864335d
 ---
 Entertain your friends and family with the generously sized back deck and fully fenced backyard. The fully-equipped kitchen, combined living and dining room open straight out onto the deck; perfect for families and entertainers alike.
 

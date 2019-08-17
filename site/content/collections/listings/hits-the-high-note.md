@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/P40V9kYtMzjSB_O1fNXZw6ZHICc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435148/images'
 property_id: '435148'
 price_search: '425000.0'
-id: ab0b71e4-7104-4ad6-8a89-350bc432ee1b
 suburb: 'ACACIA RIDGE'
+id: ab0b71e4-7104-4ad6-8a89-350bc432ee1b
 ---
 Step inside this warm inviting home and it’s not hard to imagine the easy entertaining and relaxation. The beautifully presented polished timber floors are perfectly showcased by the open-plan kitchen, living and dining areas. Also a feature of the comfortable living area is the brick fireplace, perfect for cosy winter evenings at home. The shady timber back deck steps off the kitchen, making for convenient entertaining with family and friends.
 

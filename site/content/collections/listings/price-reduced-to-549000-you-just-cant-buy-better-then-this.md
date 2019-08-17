@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/vPty622JCPRP6-967wjBsqYafFQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434899/images'
 property_id: '434899'
 price_search: '541000.0'
-id: 9752ab10-7cbb-4c49-8b1a-097c9c3e96f5
 suburb: SALISBURY
+id: 9752ab10-7cbb-4c49-8b1a-097c9c3e96f5
 ---
 Situated on a 490sqm block, this beautiful home will not disappoint anyone who is looking for lots of room and a good looking home.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/aVboJ_93MNw-ho7uCBja0K0n6ns=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434957/images'
 property_id: '434957'
 price_search: '600000.0'
-id: 6d420bad-77c3-4341-b6af-13b135937939
 suburb: MOOROOKA
+id: 6d420bad-77c3-4341-b6af-13b135937939
 ---
 Located in a central Moorooka location this brand new home offers plenty of space and superior quality.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/UC7HHvAgyxZcb4LDtCmpZzXS4gs=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435480/images'
 property_id: '435480'
 price_search: null
-id: da3b7a12-e282-4fd2-a308-3da095965f2a
 suburb: 'GOLDEN BEACH'
+id: da3b7a12-e282-4fd2-a308-3da095965f2a
 ---
 ** Please contact Cherie Cooney on 0498 256 885 for enquiries **
 

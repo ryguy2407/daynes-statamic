@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ngfxBZvveoi_FXkiLQlWRin7aIM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435393/images'
 property_id: '435393'
 price_search: '369000.0'
-id: 1b092ccb-016a-467e-96d7-f12e2ddc0368
 suburb: 'ACACIA RIDGE'
+id: 1b092ccb-016a-467e-96d7-f12e2ddc0368
 ---
 Currently rented at $870 per week
 Thatâ€™s right! $870 per week on a room to room basis.

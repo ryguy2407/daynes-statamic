@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/sv4rlyx2QIm4uJcF7BjRPlHusa8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435348/images'
 property_id: '435348'
 price_search: '409000.0'
-id: 5e8349c8-2ea8-4451-8215-75475f50fcda
 suburb: 'ACACIA RIDGE'
+id: 5e8349c8-2ea8-4451-8215-75475f50fcda
 ---
 This spacious property has it all for a great lifestyle for families who love to entertain and enjoy their time together. With two large outdoor entertaining areas overlooking the lush gardens and sparkling pool, this property will not disappoint. The outdoor spaces do not end there with the yard looking out to the local park, and a back gate allowing access to even more playing space. Inside the home, the open plan kitchen, living and dining room are fresh  and modern. High set chamfer board and situated on a 582sqm block, this property will not disappoint!
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/K1V2POj96VFbEZAgiRahqTWu0Ig=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435696/images'
 property_id: '435696'
 price_search: null
-id: e21092e2-ff0c-40fa-9b35-4747a64ca06c
 suburb: RICHLANDS
+id: e21092e2-ff0c-40fa-9b35-4747a64ca06c
 ---
 *  Four bedrooms and a study
 *  The master bedroom has WIR and ensuite

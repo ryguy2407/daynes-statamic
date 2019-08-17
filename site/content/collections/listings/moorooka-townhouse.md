@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/jNC9Wc15Yy5a5k-QKT7ya4n1Rq8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435414/images'
 property_id: '435414'
 price_search: null
-id: 89be5844-d6a0-49df-9b83-0b4e486d5c29
 suburb: MOOROOKA
+id: 89be5844-d6a0-49df-9b83-0b4e486d5c29
 ---
 3 bedroom townhouse for rent
 

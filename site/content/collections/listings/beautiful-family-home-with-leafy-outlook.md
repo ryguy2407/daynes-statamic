@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/qmdJ66i2Tkji5TsERUsR6qPcHxU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435354/images'
 property_id: '435354'
 price_search: '400000.0'
-id: 72b16b4b-6f7b-4473-ba08-9f951ad559f1
 suburb: 'ACACIA RIDGE'
+id: 72b16b4b-6f7b-4473-ba08-9f951ad559f1
 ---
 This lovely high-set chamfer board house is ripe and ready to go for the final touches to make this a great lifestyle home. With a great open-plan layout, complimenting modern family living, this property makes the most of its elevated and leafy outlook. The open-plan kitchen, living and dining step out through French doors to both the front and back deck, guaranteeing bright and airy spaces with great breezes. Situated in one of the quietest and greenest pockets of Acacia Ridge, and within walking distance to schools and parks, this property is just what you have been waiting for!
 

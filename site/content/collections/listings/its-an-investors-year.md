@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ncriIww4-x1aNQO5awqYiDIQlaw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434795/images'
 property_id: '434795'
 price_search: '285000.0'
-id: 82701b48-ad11-495a-af0b-c351a32ce0df
 suburb: MOOROOKA
+id: 82701b48-ad11-495a-af0b-c351a32ce0df
 ---
 Secure this Immaculate two-bedroom unit in Moorooka
 

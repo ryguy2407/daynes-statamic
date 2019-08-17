@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/hd69wqTRKWAYtbZzXr3XX2ZI-hA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435655/images'
 property_id: '435655'
 price_search: null
-id: 4e6b1a38-13ed-44ff-b7ed-fea1ce6ff868
 suburb: 'ACACIA RIDGE'
+id: 4e6b1a38-13ed-44ff-b7ed-fea1ce6ff868
 ---
 This beautifully renovated three bedroom has beautifully polished floors, an open plan design and ample light make this an airy and bright residence. The extension to the rear of the property offers great lifestyle spaces with a large rumpus or family room stepping out to a lovely shady verandah overlooking the grassy backyard.
 

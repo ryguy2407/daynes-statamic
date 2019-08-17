@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/mE-x6UCbO3zyWKgHJ1Tl5bozSVw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435102/images'
 property_id: '435102'
 price_search: '369000.0'
-id: 0504ae8f-d998-4a2d-a010-2c5bff081cb4
 suburb: RICHLANDS
+id: 0504ae8f-d998-4a2d-a010-2c5bff081cb4
 ---
 Price slashed $30,000 to $369,000
 

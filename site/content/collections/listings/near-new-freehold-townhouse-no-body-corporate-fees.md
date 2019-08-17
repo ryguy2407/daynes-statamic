@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/LIIDgyZTT0LJ0JKDkZCTVRQp_8Y=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434930/images'
 property_id: '434930'
 price_search: '475000.0'
-id: 913b2129-71b6-46c4-bf16-d79461e6704f
 suburb: MOOROOKA
+id: 913b2129-71b6-46c4-bf16-d79461e6704f
 ---
 Situated in a quiet leafy street in Moorooka this three bedroom townhouse offers plenty of living space and great quality.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/VKyEBeH_L9VyOxXqOFKRZ_LQ8aM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435051/images'
 property_id: '435051'
 price_search: '349000.0'
-id: 7c961448-124d-4c71-9662-6b801829b912
 suburb: MOOROOKA
+id: 7c961448-124d-4c71-9662-6b801829b912
 ---
 Act quickly to secure this lovely two bedroom villa in a managed complex of 30. This property is currently on a six month lease at $320 per week.
 

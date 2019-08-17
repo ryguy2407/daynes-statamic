@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/X8n1t-H9eCFjV37i0UobeD6_0_Y=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435322/images'
 property_id: '435322'
 price_search: '850000.0'
-id: 320dd834-f6c1-4559-9aab-009965abc5e8
 suburb: 'ACACIA RIDGE'
+id: 320dd834-f6c1-4559-9aab-009965abc5e8
 ---
 36 Elizabeth Street & 23 Amherst Street, Acacia Ridge
 

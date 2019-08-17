@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ERtUMj4VzI0EMaX66bAIp6eoj1s=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434857/images'
 property_id: '434857'
 price_search: '449000.0'
-id: 4e2f000a-4ae1-42df-a6e7-b764a1dc13e6
 suburb: ENOGGERA
+id: 4e2f000a-4ae1-42df-a6e7-b764a1dc13e6
 ---
 Secure a brand new three bedroom townhouse
 

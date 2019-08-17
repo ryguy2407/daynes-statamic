@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/x1Lyp8KWDCaD-Thrzg1kE1HahFU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435410/images'
 property_id: '435410'
 price_search: '725000.0'
-id: 79fe0986-2937-44b3-bb75-406625787053
 suburb: SUNNYBANK
+id: 79fe0986-2937-44b3-bb75-406625787053
 ---
 Massive Price Reduction. Now Best Offer Over $725,000 will buy!
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/T-dxUsmtLInV69VHmorcs4CXGB4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434963/images'
 property_id: '434963'
 price_search: '359000.0'
-id: b3617594-e481-459e-b96a-161ff02cf675
 suburb: MOOROOKA
+id: b3617594-e481-459e-b96a-161ff02cf675
 ---
 This two bedroom unit situated on the 1st level at the rear is a first home owners dream. Only 3 years old and still like new
 

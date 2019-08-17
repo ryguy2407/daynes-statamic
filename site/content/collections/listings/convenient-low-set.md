@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/f6xgjp-ypyVFoVEWJtz3Pc68S5U=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435491/images'
 property_id: '435491'
 price_search: null
-id: cd7493ef-45d8-4fd4-90b6-e0d07f2e433f
 suburb: 'ACACIA RIDGE'
+id: cd7493ef-45d8-4fd4-90b6-e0d07f2e433f
 ---
 This low-set home is a good size for busy families with a large living, eat-in kitchen and three bedrooms. Perfect for those seeking the convenience of the area, this property is handy to public transport, and walking distance to schools, shops and parks.
 

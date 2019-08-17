@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Rzd2qjVUj7c898-r3Kw4UneqKW0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435528/images'
 property_id: '435528'
 price_search: null
-id: c091cde7-534e-4baa-9228-fe62bde26aa3
 suburb: 'ACACIA RIDGE'
+id: c091cde7-534e-4baa-9228-fe62bde26aa3
 ---
 This generous family home is perfect for those needing more space for their growing family. Situated with a sunny north-facing aspect, the home is full of light. The property is fronted by a private patio which opens out from the large living area. Stepping off the living are two carpeted rooms, with a door between and the ability to close off from the main house. Ideal as a nursery, home office or study, or a rumpus room. The additional three bedrooms are spacious and the bathroom modern. Situated in a quiet pocket, offers the very best of convenience and a friendly community. A much sought-after low-set design with lovely street appeal, this home is large and a great layout for busy families with plenty of space.
 

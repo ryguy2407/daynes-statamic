@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/6uaDA3d-GzO5obd1dDs20ljj6Bc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435612/images'
 property_id: '435612'
 price_search: null
-id: 30f73568-80cf-4f82-9847-daa8ff394e13
 suburb: 'COOPERS PLAINS'
+id: 30f73568-80cf-4f82-9847-daa8ff394e13
 ---
 Large 5 bedroom student share house has rooms to rent now.
 

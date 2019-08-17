@@ -1,13 +1,11 @@
 <h1>Search Results</h1>
 <hr>
-<h4 class="mb-5">Suburb: {{ get:suburb }} {{ if get:listing_type }} Listing type: {{ get:listing_type }} {{ /if }}</h4>
 
-{{ if get:listing_type }}
-    {{ collection from="listings" suburb:contains="{ get:suburb }" listing_type:contains="{ get:listing_type }" limit="9" paginate="true" as="listing" }}
+    {{ collection from="listings" suburb:contains="{ get:suburb }" listing_type:contains="{ get:listing_type }" status:contains="{ get:status }" limit="9" paginate="true" as="listing" }}
+
+        {{ if no_results }}
+            <h4 class="mb-5">Sorry, there are no {{ get:status }} properties in {{ get:suburb }} at this time.</h4>
+        {{ /if }}
+
         {{ partial:list }}
     {{ /collection }}
-{{ else }}
-    {{ collection from="listings" suburb:contains="{ get:suburb }" limit="9" paginate="true" as="listing" }}
-        {{ partial:list }}
-    {{ /collection }}
-{{ /if }}

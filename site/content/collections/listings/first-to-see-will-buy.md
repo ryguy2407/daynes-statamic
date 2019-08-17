@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/q7qnwWXKGnjx_I2N9aB-IVy_hms=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434849/images'
 property_id: '434849'
 price_search: '330000.0'
-id: 7f6e16c2-f425-410b-bc45-114d5f48beb1
 suburb: MOOROOKA
+id: 7f6e16c2-f425-410b-bc45-114d5f48beb1
 ---
 This tri-level 2 bedroom townhouse is in a complex of only 4 and is only 10 years old! Put that together with very low body corporate fees of just $860 p.a. and you have one VERY sought after property.
 

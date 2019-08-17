@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/bLvlVQ3ZpySdF9dvgHowhKyWGDw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435289/images'
 property_id: '435289'
 price_search: '899000.0'
-id: 291bbe37-fa74-4588-bd9b-c36b511ddf47
 suburb: TARRAGINDI
+id: 291bbe37-fa74-4588-bd9b-c36b511ddf47
 ---
 MUST BE SOLD - MAKE AN OFFER - WELL BELOW REPLACEMENT VALUE!
 

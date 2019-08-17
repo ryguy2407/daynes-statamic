@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/LaWHFh7CQ89fQqq1D3T_OvyuPMU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435397/images'
 property_id: '435397'
 price_search: '220000.0'
-id: d73e78c6-c272-4aff-b9d8-2724d410e26e
 suburb: 'ACACIA RIDGE'
+id: d73e78c6-c272-4aff-b9d8-2724d410e26e
 ---
 Best offer over $220,000
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/VZk7QaC7FmsOdS2Hvoox0ndudsE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434966/images'
 property_id: '434966'
 price_search: '595000.0'
-id: 5f1cf2f4-6f83-451a-a6c7-bfc5748409b0
 suburb: YERONGA
+id: 5f1cf2f4-6f83-451a-a6c7-bfc5748409b0
 ---
 Here is a great opportunity to secure a 650sqm level block within 150m of the Brisbane river. With plenty of high calibre homes and in close proximity to riverfront properties, this block has plenty of potential for someone to build a very special home.
 

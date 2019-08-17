@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Ldyo6qyqdSQz9jeSy-PVXptuaQ8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435403/images'
 property_id: '435403'
 price_search: '299000.0'
-id: f76c2d06-fea3-4863-9b8d-082d810904eb
 suburb: 'BROWNS PLAINS'
+id: f76c2d06-fea3-4863-9b8d-082d810904eb
 ---
 Here we have a neat and tidy four bedroom brick and tile home situated in a desirable area of Browns Plains.
 

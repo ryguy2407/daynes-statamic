@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/NkBA0jPwJh9svsu0mGt5_FPdXns=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435123/images'
 property_id: '435123'
 price_search: '309000.0'
-id: 8fd40632-0be2-44bd-a10d-904be8241cea
 suburb: INALA
+id: 8fd40632-0be2-44bd-a10d-904be8241cea
 ---
 Good, tidy tenant in place on a 12 month lease until 28th May 2010 at $280 per week.
 

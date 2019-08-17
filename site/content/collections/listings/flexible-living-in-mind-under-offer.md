@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Fdni0LLXxqiigI7r-wPgmrE2-34=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435238/images'
 property_id: '435238'
 price_search: '440000.0'
-id: e6899803-53de-4bf8-bf36-146959af0f62
 suburb: ALGESTER
+id: e6899803-53de-4bf8-bf36-146959af0f62
 ---
 This lovely two story brick and tile home is conveniently positioned in the heart of Algester.
 The house itself backs onto Timberland Park - a rarity in Algester. Well maintained, it has been designed with flexible living in mind and would suit any family or professional couples.

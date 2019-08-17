@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/aIuhHhpQspBojgz9l4WANj_nVFU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435093/images'
 property_id: '435093'
 price_search: '439000.0'
-id: 45f4d957-13b4-41b6-924b-2420b39c9210
 suburb: SALISBURY
+id: 45f4d957-13b4-41b6-924b-2420b39c9210
 ---
 If you love to entertain family and friends then this one is for you.
 

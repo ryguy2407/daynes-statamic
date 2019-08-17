@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/IXr3yHJLfYldYesTbwtShNJKX8o=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434840/images'
 property_id: '434840'
 price_search: '449000.0'
-id: cd12f713-f750-4421-8c6f-0d3b8ac05f6f
 suburb: MOOROOKA
+id: cd12f713-f750-4421-8c6f-0d3b8ac05f6f
 ---
 From the moment you step inside this gorgeous Queenslander you will feel right at home as it has the perfect blend of old world charm and an ideal position.  Bright airy colours, hoop pine floorboards and the most quaint touches throughout which will make you fall in love!
 

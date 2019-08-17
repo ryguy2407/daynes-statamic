@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/kjVkhCxbK7ir7zMETOqCV-KZquM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435658/images'
 property_id: '435658'
 price_search: null
-id: 5381f882-14cb-4379-9387-131cb2515c95
 suburb: 'ACACIA RIDGE'
+id: 5381f882-14cb-4379-9387-131cb2515c95
 ---
 This spacious family home is perfect for those looking for liveability and convenience in a great area. This high set home boasts beautiful polished wooden floors, plenty of open plan living space and good sized bedrooms, the master with built in wardrobes. The bathroom has fresh tiles with a shower over the bath and separate toilet. The kitchen features plenty of storage space and a functional layout, with a convenient window through to the dining area. Downstairs is secure with a lockable garage and separate carpeted room, perfect as a storage or rumpus room. The backyard is spacious, shady and fenced, perfect for kids and privacy.
 

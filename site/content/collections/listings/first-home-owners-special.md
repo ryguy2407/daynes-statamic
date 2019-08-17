@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/RbV5E07pqI79Eji56nxpBoLGAts=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435405/images'
 property_id: '435405'
 price_search: '329000.0'
-id: cdb444cc-cc90-4979-9a0d-01e43a85394a
 suburb: 'ACACIA RIDGE'
+id: cdb444cc-cc90-4979-9a0d-01e43a85394a
 ---
 This three bedroom home on a 615sqm corner block will impress buyers looking for good presentation and practicality.
 

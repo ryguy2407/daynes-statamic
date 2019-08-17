@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/WzPba_R6cOfC2p43IHCW6TQtR3E=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435193/images'
 property_id: '435193'
 price_search: '430000.0'
-id: 87ae047b-774a-4478-a306-c6128f896099
 suburb: 'ACACIA RIDGE'
+id: 87ae047b-774a-4478-a306-c6128f896099
 ---
 This inviting family home is ideal for those who need a little extra from their property, while retaining the chance to realise their renovating dream. Beautifully presented with lovely neutral colours throughout, this home is unique for the vaulted ceilings, giving an interesting feel to the home. Attractive and low-maintenance lino flooring hides beautiful hardwood floors for which these homes are much sought-after. The carpets to the bedrooms are in great condition and well chosen for the neutral colour scheme.
 

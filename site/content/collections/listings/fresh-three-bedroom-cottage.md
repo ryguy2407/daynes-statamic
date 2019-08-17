@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/GuwEUqApjd5ZAJrazBgA3AsFOMQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435462/images'
 property_id: '435462'
 price_search: null
-id: 60d4ab69-7e88-4ac6-833a-38af61333196
 suburb: SALISBURY
+id: 60d4ab69-7e88-4ac6-833a-38af61333196
 ---
 This freshly renovated three bedroom cottage is immaculately presented and ready to go! The home is bright and airy, with fresh paint, polished floorboards and beautiful tiles throughout. The living spaces and bedrooms are generously proportioned, designed to maximise enjoyment and lifestyle.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/oEIn_L5q2uig1Ret89-sJ73b73I=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435488/images'
 property_id: '435488'
 price_search: null
-id: d652b9f7-232e-4790-88a0-69626e6a5341
 suburb: SALISBURY
+id: d652b9f7-232e-4790-88a0-69626e6a5341
 ---
 Two Bedroom Unit, Close To Griffith Uni
 

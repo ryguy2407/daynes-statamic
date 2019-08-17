@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/CWUll6FjJdGDSYAJWOZ8xd-NrHg=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435419/images'
 property_id: '435419'
 price_search: null
-id: 927f781d-7a1f-4a09-a829-41afeb1cec35
 suburb: MOOROOKA
+id: 927f781d-7a1f-4a09-a829-41afeb1cec35
 ---
 3 bedroom modern brick townhouse
 

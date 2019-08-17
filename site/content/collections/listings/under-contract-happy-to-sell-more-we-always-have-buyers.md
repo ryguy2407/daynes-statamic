@@ -13,7 +13,7 @@ main_image: 'https://img.eagleagent.com.au/yaNF7fgmlU6sKb6JJW_R_ZlwyQc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434778/images'
 property_id: '434778'
 price_search: '299000.0'
-id: a6b852c3-8965-49f7-802d-aa738ce21dfe
 suburb: SALISBURY
+id: a6b852c3-8965-49f7-802d-aa738ce21dfe
 ---
 This three-bedroom, free-standing townhouse in a complex of four is sure to please. At only seven years old, it offers a spacious and functional kitchen with plenty of cupboard space. It also includes a single lock-up garage, a generously-sized courtyard with patio and a balcony off the main bedroom. Located close to all amenities whilst only 9 km from the CBD.

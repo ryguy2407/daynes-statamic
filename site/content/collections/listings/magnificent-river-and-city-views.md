@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/4Uakjq3fMDtx5HTN9xenvEuELyM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435142/images'
 property_id: '435142'
 price_search: '560000.0'
-id: 8c6218eb-8e3e-44fb-bb2f-eca7b19b1c65
 suburb: 'SOUTH BANK'
+id: 8c6218eb-8e3e-44fb-bb2f-eca7b19b1c65
 ---
 The Emporium Apartments are the most highly anticipated and high profile developments situated on Southbank, the bustling cultural hub for which Brisbane is world-renowned. This apartment represents a rare opportunity to secure a precious piece of this vibrant riverfront community. Situated a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

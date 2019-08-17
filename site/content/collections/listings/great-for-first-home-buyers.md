@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Jlr36CL7IB0JlWAXNfTQdvftTqk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434933/images'
 property_id: '434933'
 price_search: '349000.0'
-id: 4b290c5f-888c-4797-b3de-7f8566a6f763
 suburb: 'ACACIA RIDGE'
+id: 4b290c5f-888c-4797-b3de-7f8566a6f763
 ---
 Situated on a 701sqm block in a great street is a lovely three bedroom house.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/N6xogFx_20wIzHO_-ekucoXkOBo=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435326/images'
 property_id: '435326'
 price_search: '425000.0'
-id: 96b7fe17-0969-4452-b4eb-550ea7d7228d
 suburb: 'ACACIA RIDGE'
+id: 96b7fe17-0969-4452-b4eb-550ea7d7228d
 ---
 Invite your guests into this spacious and lovingly kept home. This property is complete with large entertaining areas, including open-plan kitchen, dining and informal living stepping out to undercover paved outdoor area. This well thought-out home features plenty of space for a growing family with functional and adaptable spaces and good-sized bedrooms.
 

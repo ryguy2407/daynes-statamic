@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/WczWyLCzCNQSNzBk3ZXFze51uoo=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435472/images'
 property_id: '435472'
 price_search: null
-id: 029ce178-af21-4e0a-9536-e4f8e6633d2e
 suburb: 'ACACIA RIDGE'
+id: 029ce178-af21-4e0a-9536-e4f8e6633d2e
 ---
 This large high-set family home is situated in one of the quietest and leafiest pockets of Acacia Ridge. This private and serene setting is perfectly complimented by the spacious, airy and bright interiors.
 

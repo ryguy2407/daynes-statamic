@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/G-WMXWPV6SEaeaXyYSMka0Bwo8E=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435319/images'
 property_id: '435319'
 price_search: '450000.0'
-id: d5de8e13-1738-48cb-87d8-4483e5d3aad6
 suburb: ROCKLEA
+id: d5de8e13-1738-48cb-87d8-4483e5d3aad6
 ---
 Wow! A near new four bedroom, two bathroom home within 11km of the CBD at this price? Yes, but you will have to act quickly. This home has so much to offer and will not break the bank.
 

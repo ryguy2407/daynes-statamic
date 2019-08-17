@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/TzM920qlgIORqEfoGWr0wqQN3M4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435164/images'
 property_id: '435164'
 price_search: '525000.0'
-id: e24c9a3a-f644-484c-b34e-7e99b123e011
 suburb: 'ACACIA RIDGE'
+id: e24c9a3a-f644-484c-b34e-7e99b123e011
 ---
 A generous family home, this property is a value-packed move in ready opportunity in one of the best neighbourhoods of Acacia Ridge. This house has been the labour of love for the current owners who have renovated it to an exceptional level of quality and thoughtful design. The upstairs portion of the home is characterised by light-filled, open plan living spaces expanding seamlessly out to the front and back decks. Perfect for easy entertaining, the back deck is spacious enough to get the family together and private to enjoy a breakfast coffee with the sunrise.
 

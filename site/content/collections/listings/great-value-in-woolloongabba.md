@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/zawUd7T5VV2oeHo2YZ3mK8p5QqU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435639/images'
 property_id: '435639'
 price_search: null
-id: 9ee7e90e-7f29-41ca-8100-8f3f99bdd97c
 suburb: WOOLLOONGABBA
+id: 9ee7e90e-7f29-41ca-8100-8f3f99bdd97c
 ---
 Now is the time to hurry to Gabba Central and secure yourself that resort style living you’ve been searching for!
 

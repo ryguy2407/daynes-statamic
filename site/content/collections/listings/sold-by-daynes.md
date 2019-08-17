@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ZhcstAZn_LopXN0NO4R3srq-wjk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435244/images'
 property_id: '435244'
 price_search: '410000.0'
-id: a12322f6-b3c7-42ec-a735-2ce06245852a
 suburb: OXLEY
+id: a12322f6-b3c7-42ec-a735-2ce06245852a
 ---
 Oxley Central Apartments / / Boutique Development Offering Unique Location & Lifestyle
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/rbzf0ZKqo5UKvqoecESaJdkQrgU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435384/images'
 property_id: '435384'
 price_search: '280000.0'
-id: 7cc8a4af-2a5f-447d-81b3-1d6ea236a1e7
 suburb: SALISBURY
+id: 7cc8a4af-2a5f-447d-81b3-1d6ea236a1e7
 ---
 Here we have a lowset brick and tile 2 bedroom house in the heart of Salisbury and only 11 kms from the CBD. It is situated on a 602sqm corner allotment with 2 street frontages.
 

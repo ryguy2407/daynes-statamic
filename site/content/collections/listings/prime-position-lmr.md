@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/MHoggnu8Q6idvAhaL71GSUMG5E8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435189/images'
 property_id: '435189'
 price_search: '415000.0'
-id: 50f0aad6-9c94-43f3-aa51-da106aacbc89
 suburb: 'ACACIA RIDGE'
+id: 50f0aad6-9c94-43f3-aa51-da106aacbc89
 ---
 This cute two bedroom cottage is situated in a rapidly developing and exciting pocket of Acacia Ridge, on a 607sqm Low Medium Residential (LMR) block. Promising great short and long term potential, the property is a desirable rental as is with the zoning giving investors plenty of development options. The house itself is a neat and tidy dwelling with a well-presented interior and grassy lawns. The kitchen and bathroom are dated but functional, the bedrooms and living are spacious and full of light.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/VxeI9uhu6IOZFAfzQ8GU5frgB8o=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435113/images'
 property_id: '435113'
 price_search: '559000.0'
-id: 391c9178-e82e-4a86-9605-42998156beb8
 suburb: 'ACACIA RIDGE'
+id: 391c9178-e82e-4a86-9605-42998156beb8
 ---
 This totally renovated, federation style home is situated on a very large 1,062sqm resort style landscaped block. This property is packed with features and boasts a ton of character that you won't see everyday.
 

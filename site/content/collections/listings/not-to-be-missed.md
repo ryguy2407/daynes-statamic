@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/LdJdTDskHO_xhZVAkpBj_P41m70=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435100/images'
 property_id: '435100'
 price_search: '459000.0'
-id: 6bc9d119-56b7-4e93-a6c6-bcfab0970863
 suburb: SALISBURY
+id: 6bc9d119-56b7-4e93-a6c6-bcfab0970863
 ---
 PRICED TO SELL at $459,000
 

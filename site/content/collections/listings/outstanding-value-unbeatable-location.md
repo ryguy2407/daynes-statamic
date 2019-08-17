@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/5oi0H33lOEzxv4Iv8nefNRQ5JW4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435336/images'
 property_id: '435336'
 price_search: '350000.0'
-id: 0fc62fbd-ae79-40e1-8a4d-fb26ab0a3d86
 suburb: 'ACACIA RIDGE'
+id: 0fc62fbd-ae79-40e1-8a4d-fb26ab0a3d86
 ---
 This low-set chamfer-board home is situated in a quiet pocket of Acacia Ridge and is a perfect first home or investment opportunity. With recent major upgrades including a brand new sealed concrete driveway leading to both the carport beside the house and an enormous back shed, there are still plenty of opportunities to add your own individual touches to this home. Upgrades also include a brand new Colorbond roof and new gutters. Featuring an open plan kitchen and living area, opening through French doors to a beautiful newly built North facing veranda, this home offers plenty of lifestyle. The veranda overlooks lovingly maintained gardens with citrus trees and sweeping lawns and is an ideal space for relaxation.
 

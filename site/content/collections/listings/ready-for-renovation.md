@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/PGkGBSwUGLAAXOb11E072YaTQJI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435213/images'
 property_id: '435213'
 price_search: '300000.0'
-id: 4ee9c0ed-9260-472a-a602-346ac54fac62
 suburb: 'ACACIA RIDGE'
+id: 4ee9c0ed-9260-472a-a602-346ac54fac62
 ---
 This classic Acacia Ridge cottage is of solid construction with tiled roof, chamferboard exterior and hardwood floors. Original interiors will require complete renovation. Situated on a 607sqm block, across from Archerfield Airport.
 

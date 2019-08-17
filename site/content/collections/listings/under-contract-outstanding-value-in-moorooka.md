@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/axQGnoyPbtiZDjKelFSij3YEqlQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435327/images'
 property_id: '435327'
 price_search: '385000.0'
-id: a33ed15d-4ffd-4e31-a756-0b9b8fba105a
 suburb: MOOROOKA
+id: a33ed15d-4ffd-4e31-a756-0b9b8fba105a
 ---
 This townhouse in the heart of Moorooka has been freshened up and is ready to go! In addition to new paint throughout, the property has been fitted with new quality carpets and new kitchen appliances including electric stove, oven and dishwasher. Thoughtfully designed to maximise convenience and living, the open plan kitchen and dining step out on to a paved under-cover courtyard through double sliding doors. The front and courtyard gardens are well-maintained and manageable, perfect for city living. Upstairs are three good-sized bedrooms, including the master which features an ensuite, built-in wardrobe and air-conditioning. The complex includes thirty townhouses and all grounds are maintains by the on-site manager.
 

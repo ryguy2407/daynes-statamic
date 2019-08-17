@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Jg4MptRoiV9cP4UM8GCTr74xi8s=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435572/images'
 property_id: '435572'
 price_search: null
-id: 645d4e82-f255-4b16-9a3f-4eafbf0ba484
 suburb: 'ACACIA RIDGE'
+id: 645d4e82-f255-4b16-9a3f-4eafbf0ba484
 ---
 This generous brick, dual level townhouse is tucked privately and securely in this well managed, gated community. Enjoy the privacy and ease of entertaining in the private yard, stepping effortlessly from the open-plan living and kitchen area. Internally, this townhouse is expansive and full of light. The two well-appointed bedrooms have lovely neutral carpets, storage and ceiling fans. The bedrooms are perfectly complemented by the fresh main bathroom, immaculately kept and beautifully presented.
 

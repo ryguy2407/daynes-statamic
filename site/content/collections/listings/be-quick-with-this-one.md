@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/rK5Sk6OudHT2O3JvNzvqFkBOwzE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435116/images'
 property_id: '435116'
 price_search: '329000.0'
-id: 90114f2b-af4a-4583-b67b-99c9d990ef2c
 suburb: 'ACACIA RIDGE'
+id: 90114f2b-af4a-4583-b67b-99c9d990ef2c
 ---
 This property's established gardens will be sure to win your hearts over. Situated on a 701sqm corner block and very secluded from the road due to the beautiful vegetation in the front yard.
 

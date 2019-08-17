@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/DHgdHRt5-GzIyLNxBoLN7Q5c8-Y=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435078/images'
 property_id: '435078'
 price_search: '399000.0'
-id: 6ed80093-9530-4e51-955f-900c7a5263fa
 suburb: SALISBURY
+id: 6ed80093-9530-4e51-955f-900c7a5263fa
 ---
 This lovely three bedroom lowset home is situated in a quiet pocket of Salisbury.
 

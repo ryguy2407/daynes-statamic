@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/fIvuJKxZwx8iTsSHy50vpzUnmlA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435509/images'
 property_id: '435509'
 price_search: null
-id: 85a721c7-6bc9-4a2b-98b6-119113266895
 suburb: RICHLANDS
+id: 85a721c7-6bc9-4a2b-98b6-119113266895
 ---
 * Two bedrooms
 * Built-in wardrobes to bedrooms

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Lg2bJuamxLogn2UsoaZjKIsVpf4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435497/images'
 property_id: '435497'
 price_search: null
-id: 21926135-54ed-489c-8e99-a7c4dd0e285a
 suburb: ROCKLEA
+id: 21926135-54ed-489c-8e99-a7c4dd0e285a
 ---
 Situated on a generous 834sqm block with excellent access, this property offers plenty of space and storage
 

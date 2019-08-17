@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/fNeNAUKwkZ--gsAKOfS12be1GhA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435394/images'
 property_id: '435394'
 price_search: '388000.0'
-id: f5ae43c4-7674-488f-8a43-1a996b6449fa
 suburb: 'ACACIA RIDGE'
+id: f5ae43c4-7674-488f-8a43-1a996b6449fa
 ---
 Situated on a 405m2 block in this modern estate this home was built about 15 years ago by Devine Homes.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/jP80querO7lKCfY54UX4QqXj5Io=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435010/images'
 property_id: '435010'
 price_search: '525000.0'
-id: da729606-68b9-45ad-a1c7-71ae1ef8df40
 suburb: TARRAGINDI
+id: da729606-68b9-45ad-a1c7-71ae1ef8df40
 ---
 Located on a quiet street in Tarragindi and backing onto forest, this lowest 3 bedroom home has all the privacy you could ask for!
 

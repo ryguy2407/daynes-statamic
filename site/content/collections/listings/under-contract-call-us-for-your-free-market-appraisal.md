@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/qlFt6vviGprz1RKcb4jJK5O16Zk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434835/images'
 property_id: '434835'
 price_search: '135000.0'
-id: 2e3c3091-c621-4544-b558-348604af7388
 suburb: LEICHHARDT
+id: 2e3c3091-c621-4544-b558-348604af7388
 ---
 Secure a 600sqm block of land in a new subdivision within Leichhardt.
 The block is surrounded by quality three and four bedroom homes with double garages.

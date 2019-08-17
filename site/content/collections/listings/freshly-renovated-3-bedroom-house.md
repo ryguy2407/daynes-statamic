@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/DF0y21w9t7_WGfvdlCoLmRbP5Ok=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435601/images'
 property_id: '435601'
 price_search: null
-id: c7f6667c-9205-41b4-8a5f-a9a2b4e3804d
 suburb: MARGATE
+id: c7f6667c-9205-41b4-8a5f-a9a2b4e3804d
 ---
 This 3 bedroom house is now available for rent.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Gd1bYhwe5GreZEzpfxf0VzhJ5ew=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435082/images'
 property_id: '435082'
 price_search: '368000.0'
-id: 6aa5baa5-2039-4e77-99ed-4c93d1ef5b70
 suburb: SALISBURY
+id: 6aa5baa5-2039-4e77-99ed-4c93d1ef5b70
 ---
 *  A superb treed 663sqm block in a quiet area
 *  Two bedrooms + study, however the study can be used as a third bedroom

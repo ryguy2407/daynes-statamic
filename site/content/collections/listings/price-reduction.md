@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/EyCQCsrKTqOhOvV4cRZZteJLKZk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434964/images'
 property_id: '434964'
 price_search: '379000.0'
-id: ff8fcbf1-851b-4b6f-8449-96ec9f8c874a
 suburb: ALGESTER
+id: ff8fcbf1-851b-4b6f-8449-96ec9f8c874a
 ---
 You will be impressed by this modern three bedroom home on 610sqm in a quiet street in Algester.
 This home is ideal for the first home buyer looking for a modern home with great value.

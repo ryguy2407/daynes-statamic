@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/_Dl1JIJgwiPDRylt0p1lmJJViK0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435383/images'
 property_id: '435383'
 price_search: '349000.0'
-id: af91c5c3-8ea7-4b63-93b1-d05a019a1b99
 suburb: 'ACACIA RIDGE'
+id: af91c5c3-8ea7-4b63-93b1-d05a019a1b99
 ---
 This highset three bedroom home is located in a really lovely part of Acacia Ridge deserves your immediate inspection.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/QG7lwnY0bDYCQpK0DOx97PVd7ac=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435631/images'
 property_id: '435631'
 price_search: null
-id: 4879c990-d914-48b6-be45-297d6a8f1dcb
 suburb: 'SPRING HILL'
+id: 4879c990-d914-48b6-be45-297d6a8f1dcb
 ---
 This one bedroom cottage situated in a quiet cul-de-sac is available for rent now.
 

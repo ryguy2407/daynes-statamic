@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/NYh7SMb7YvHW-ilS0zlDE4R1Y1M=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435140/images'
 property_id: '435140'
 price_search: '550000.0'
-id: 2ffb357b-3c19-4ca1-a289-c03b67566753
 suburb: 'SOUTH BANK'
+id: 2ffb357b-3c19-4ca1-a289-c03b67566753
 ---
 ** Call for a private inspection **
 

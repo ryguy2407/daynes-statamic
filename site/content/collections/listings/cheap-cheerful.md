@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/FGhT-9xNg_vo2gBP9oKR1-8T9P4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435558/images'
 property_id: '435558'
 price_search: null
-id: bee9b0ed-f351-4040-b638-a99aa9d4fddc
 suburb: 'ACACIA RIDGE'
+id: bee9b0ed-f351-4040-b638-a99aa9d4fddc
 ---
 Privately set back on the block and situated on a wide block framed by mature trees, this property has great street appeal. The home is functional and clean, with an updated kitchen and a basic but serviceable bathroom. Stepping up from the leafy front yard, the front sunroom has been converted into an extension of the living and acts as a lovely reception room. The living has a sunny outlook to the front yard and has been equipped with a ceiling fan and air conditioner. Stepping through the home, the open plan kitchen and dining are spacious and bright, also giving access through the side door to the backyard. The three bedrooms are well proportioned and have a leafy outlook to the surrounding gardens.
 

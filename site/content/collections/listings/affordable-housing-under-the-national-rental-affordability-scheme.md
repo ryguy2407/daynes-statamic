@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/vngFb7xcIcQIfUDsqPxUZbGQSBY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435450/images'
 property_id: '435450'
 price_search: null
-id: 24116b6a-4c64-42fb-9e06-02b70339d346
 suburb: SALISBURY
+id: 24116b6a-4c64-42fb-9e06-02b70339d346
 ---
 ** This is a NRAS property - Please check eligibility requirements before making enquiry ** Email enquiries only please **
 

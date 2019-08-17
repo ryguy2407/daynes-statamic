@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/rSnzocTEqmobS5UvWyB1vu-a03k=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435297/images'
 property_id: '435297'
 price_search: '389000.0'
-id: f2cbcfa2-b20d-468f-b4c3-b43840bb6b21
 suburb: SALISBURY
+id: f2cbcfa2-b20d-468f-b4c3-b43840bb6b21
 ---
 This modern unit is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 

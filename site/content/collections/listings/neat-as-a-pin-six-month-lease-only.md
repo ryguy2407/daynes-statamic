@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/v3f60L8Jd1ZbP4joZXsOtjuK-_Q=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435468/images'
 property_id: '435468'
 price_search: null
-id: 6f0c0f73-4972-4997-a408-919028a14f5a
 suburb: ROCKLEA
+id: 6f0c0f73-4972-4997-a408-919028a14f5a
 ---
 This beautifully presented, low maintenance property is perfect for those who are after a spacious home without sacrificing convenience. Situated close to transport, Brisbane Markets, leafy parks and a great range of amenities, this property really can offer it all.
 

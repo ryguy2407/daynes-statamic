@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/8giFa4SJD5Rnp6ODaDqYHZ7msCA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434941/images'
 property_id: '434941'
 price_search: '369000.0'
-id: 4965e6d0-c717-434b-9048-8ffe696bbc28
 suburb: 'ACACIA RIDGE'
+id: 4965e6d0-c717-434b-9048-8ffe696bbc28
 ---
 You will be impressed by this just renovated four bedroom home on 582sqm in Acacia Ridge
 This home would be ideal for a large family looking for great value with room to move.

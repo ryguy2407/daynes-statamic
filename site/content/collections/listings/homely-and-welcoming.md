@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/momE8ZyJ8vWWLYXyWuTGL-jIv8s=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435283/images'
 property_id: '435283'
 price_search: '379000.0'
-id: 8d595457-68ba-4108-a592-7ec2c69b99e7
 suburb: 'ACACIA RIDGE'
+id: 8d595457-68ba-4108-a592-7ec2c69b99e7
 ---
 This charming cottage, situated in a leafy and peaceful pocket of Acacia Ridge is bursting with character and promises years of enjoyment in the comfortable interiors. Painted a fresh white and privately situated behind a timber fence and leafy trees, the home has great street appeal. Low-set, surrounded by grassy lawns and on a generous 733sqm flat block, this is great buying for those seeking their next home or investment.
 

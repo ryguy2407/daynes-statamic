@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/2GI3u8vw9qGj02hDvRKsF3NwGVM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435091/images'
 property_id: '435091'
 price_search: '549000.0'
-id: 6cdef1b2-f1c9-448f-93f0-b92644509b60
 suburb: TOOWONG
+id: 6cdef1b2-f1c9-448f-93f0-b92644509b60
 ---
 Features;
 *  Three bedrooms with built in robes

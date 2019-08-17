@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/iT5LIAQrYIrMnBp33CTK5YThiyo=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434974/images'
 property_id: '434974'
 price_search: '650000.0'
-id: 6dece630-c8c6-41ca-8b04-f649fadf92a4
 suburb: YERONGA
+id: 6dece630-c8c6-41ca-8b04-f649fadf92a4
 ---
 This big, beautiful, treed block is in a quiet street, only 85 metres from a kilometre of parkland stretching north along the Brisbane River and situated adjacent to the most prestigious area of the Yeronga Corso where multi-million dollar houses underpin strong future property values.
 

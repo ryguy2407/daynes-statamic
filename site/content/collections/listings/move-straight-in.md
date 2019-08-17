@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/AsLO63T--ktFIDy9nmXSULnWvO8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435159/images'
 property_id: '435159'
 price_search: '365000.0'
-id: 3886585d-0ab3-4b34-80f2-c38f081cadd2
 suburb: 'ACACIA RIDGE'
+id: 3886585d-0ab3-4b34-80f2-c38f081cadd2
 ---
 This low-set brick home has been immaculately renovated and is ready to go! Easy, low maintenance living is a guarantee with the convenient layout and clean finishes of this neat family home. Surrounded by lovely grassy grounds, home is full of natural light with large windows and a north-facing aspect. This home features an open plan living, kitchen and dining, beautifully finished with timber-look flooring and a fresh paint palette. The kitchen and laundry open to the paved patio, overlooking the grassy backyard. These generous outdoor areas are perfect for entertaining and enjoying with your family.
 

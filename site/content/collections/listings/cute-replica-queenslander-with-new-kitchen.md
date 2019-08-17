@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/UTq5wJHFmdwceE8geoLmY5sWiB0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435073/images'
 property_id: '435073'
 price_search: '449000.0'
-id: db764bf5-d0a2-4633-9de1-0e5261ad8660
 suburb: SALISBURY
+id: db764bf5-d0a2-4633-9de1-0e5261ad8660
 ---
 Situated in a quiet, leafy street, this lovely replica Queenslander is a must to inspect.
 

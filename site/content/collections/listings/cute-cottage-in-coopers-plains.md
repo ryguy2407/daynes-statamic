@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/9MHadH_Hwn-yYpdrrQa9Bdaa3sY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434878/images'
 property_id: '434878'
 price_search: '349000.0'
-id: a7d5a72b-1358-459b-bf7e-f740d2fbfac5
 suburb: 'COOPERS PLAINS'
+id: a7d5a72b-1358-459b-bf7e-f740d2fbfac5
 ---
 This light and airy two bedroom cottage set on 607sqm is a must inspect for those trying to get into the market.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/5TDYagUZrz3gcjyOU4_IOraZFxw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/440241/images'
 property_id: '440241'
 price_search: null
-id: 3d03fb4c-6b5a-4f25-8050-b8ec5b5643ec
 suburb: 'ACACIA RIDGE'
+id: 3d03fb4c-6b5a-4f25-8050-b8ec5b5643ec
 ---
 This brick and tile family home, set on a fully fenced block, offers space and room for the family to grow.
 

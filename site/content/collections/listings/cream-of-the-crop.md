@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/29_7Jo7Vot9B0pPhP4yqpZCER7I=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435376/images'
 property_id: '435376'
 price_search: '450000.0'
-id: 7dee7c7d-9d38-4386-86a0-d77e1b274ceb
 suburb: 'ACACIA RIDGE'
+id: 7dee7c7d-9d38-4386-86a0-d77e1b274ceb
 ---
 It is our pleasure to bring this beautifully presented low-set brick home to the market, a seldom matched treat in the Acacia Ridge area. Encompassing all that could be desired from a premium property investment, this home has it all for those seeking maximum value for money. Situated on a 587sqm Low Medium Residential (LMR) block, this property also represents an investment with both short and long term opportunity. The savvy investor and home owner alike will see the value in this perfectly presented property with such amazing growth and development potential in this rapidly changing suburb.
 

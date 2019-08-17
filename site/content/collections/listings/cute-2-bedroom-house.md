@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/lKNj_C4qVv7CybTs0LZRJZAG51I=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435630/images'
 property_id: '435630'
 price_search: null
-id: 9c2b6e27-811f-4a3d-9b41-b8fbac444e1c
 suburb: 'ACACIA RIDGE'
+id: 9c2b6e27-811f-4a3d-9b41-b8fbac444e1c
 ---
 This 2 bedroom home located in Acacia Ridge is available for rent.
 

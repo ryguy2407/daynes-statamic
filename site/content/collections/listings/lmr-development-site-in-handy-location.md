@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/vDMvnTNH3ClwzV7n8iKAE-I3YyE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435309/images'
 property_id: '435309'
 price_search: '419000.0'
-id: 4bcd6d0e-e648-498d-8e68-0f5146c21de1
 suburb: 'ACACIA RIDGE'
+id: 4bcd6d0e-e648-498d-8e68-0f5146c21de1
 ---
 Seize the opportunity that is presented here!
 

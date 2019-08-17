@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/r7gLjJZCd4TBoNfdClWEX5kUFqw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435202/images'
 property_id: '435202'
 price_search: '320000.0'
-id: 956ca8c3-193f-4b9a-8ddb-6b3af200276b
 suburb: 'ACACIA RIDGE'
+id: 956ca8c3-193f-4b9a-8ddb-6b3af200276b
 ---
 This property has it all for lifestyle and functionality, a lovely family home situated in a quiet pocket of Acacia Ridge. Freshly painted internally, the home has been finished in a tasteful, neutral colour palette which is complemented by the the abundance of natural light in every room. The hardwood timber floors have also been recently polished, giving the home a fresh and modern feel. The kitchen and bathroom have been updated. The easy layout of the home gives plenty of space for a growing families with the combined kitchen and dining opening to the living area and to a leafy backyard. The front sunroom also affords plenty of options as a play room, home office or simply a place to enjoy the peaceful neighbourhood.
 

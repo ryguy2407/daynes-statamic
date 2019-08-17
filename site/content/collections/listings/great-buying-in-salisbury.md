@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/TsRnenAGNYFklHaD_5HLWHZCzc4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435104/images'
 property_id: '435104'
 price_search: '409000.0'
-id: c37b59fc-d9d5-4a58-b9a7-003a4a90a07d
 suburb: SALISBURY
+id: c37b59fc-d9d5-4a58-b9a7-003a4a90a07d
 ---
 Only 11 kms to the CBD, this home is situated on a 506sqm fully fenced block in a quiet pocket of Salisbury. It has been raised to legal height underneath which has been restumped and battened off to lock up stage ready to be build in or just leave the way it is.
 

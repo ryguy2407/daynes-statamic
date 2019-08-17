@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/7vrm5iuK_N8g__D-2UTs-MOKIic=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435504/images'
 property_id: '435504'
 price_search: null
-id: f27c1faf-0703-4ac7-8200-c3c13e216a19
 suburb: ROCKLEA
+id: f27c1faf-0703-4ac7-8200-c3c13e216a19
 ---
 This renovated four bedroom property is a stylish and immaculately presented place to call home. Spacious living areas and generous bedrooms are beautifully finished with clean, freshly painted walls and beautiful flooring. Featuring hardwood timber floors, lino and tiles throughout, this is a low-maintenance home, perfect for families. The air conditioned open plan living, dining and kitchen, is spacious and ideal for entertaining. The kitchen has clean finishes, modern appliances and plenty of storage space. A rarity in the area where four bedroom, two bathrooms are less common, this property provides the space and convenience for the modern family.
 

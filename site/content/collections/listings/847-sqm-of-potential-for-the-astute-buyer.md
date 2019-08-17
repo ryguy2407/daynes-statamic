@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/D9d1rXJFqEDF494cL-dX_yz9OaM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435241/images'
 property_id: '435241'
 price_search: '595000.0'
-id: 1e7b5f2f-c732-438c-ab0c-f18a101740ad
 suburb: 'COOPERS PLAINS'
+id: 1e7b5f2f-c732-438c-ab0c-f18a101740ad
 ---
 Astute investors will be quick to realise the potential on offer in this property. In addition to the large land area and the possibility of subdivision (subject to BCC approval) there is a very well maintained 3 bedroom family home plus a self-contained living area at the rear suitable for use as student accommodation. The student accommodation is currently rented at $220 per week.
 

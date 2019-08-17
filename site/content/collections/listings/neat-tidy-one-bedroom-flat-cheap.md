@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ZdKIXe4RsKa3vy_iN5lveRIGgDM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435641/images'
 property_id: '435641'
 price_search: null
-id: a2bf7996-57ef-4955-97ef-adb41657a730
 suburb: RICHLANDS
+id: a2bf7996-57ef-4955-97ef-adb41657a730
 ---
 Be quick to see this one bedroom flat - it won't last
 

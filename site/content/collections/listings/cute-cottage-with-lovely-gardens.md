@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/TUVqrf1HFZ-WkeSYUpjVaHQzzg8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435622/images'
 property_id: '435622'
 price_search: null
-id: 5006024c-f9d4-467d-a5ff-fdb137e79313
 suburb: 'ACACIA RIDGE'
+id: 5006024c-f9d4-467d-a5ff-fdb137e79313
 ---
 This 2 bedroom house is available for rent, the property is about 100 metres to bus stops on Mortimer Road. Also close to schools, parks, shopping centres and amenities.
 

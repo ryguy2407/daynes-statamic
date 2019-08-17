@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ApUFvT6fi-V3KUFzxfaycO-Pc0Y=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435618/images'
 property_id: '435618'
 price_search: null
-id: 92b2e0ed-7d97-450c-8e4f-1028c2aa8a63
 suburb: TOOWONG
+id: 92b2e0ed-7d97-450c-8e4f-1028c2aa8a63
 ---
 Great Value don't miss out on this one.
 

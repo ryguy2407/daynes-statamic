@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/aYLaId9Do-HBp5E6pu2Nq6lvuL8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434850/images'
 property_id: '434850'
 price_search: '425000.0'
-id: 8f7ac767-304f-447c-b781-b2261dd1a2c1
 suburb: MOOROOKA
+id: 8f7ac767-304f-447c-b781-b2261dd1a2c1
 ---
 If you can see yourself living in a modern 3 bedroom, 2.5 bathroom townhouse with a large manicured lawn courtyard including a massive Jacaranda tree then this is the property for you!
 

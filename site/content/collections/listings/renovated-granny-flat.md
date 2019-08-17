@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/jmm-ZNt7Y-1p14zH_eQQF8THU5U=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435623/images'
 property_id: '435623'
 price_search: null
-id: c10cac00-93cf-4f25-8a14-bc1c7c0131f8
 suburb: 'REDLAND BAY'
+id: c10cac00-93cf-4f25-8a14-bc1c7c0131f8
 ---
 Recently completely renovated this spacious, fully self-contained and security screened granny flat is available for rent now.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/KNjikaAMI0BorQYmRWWNMHCJg1Q=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435399/images'
 property_id: '435399'
 price_search: '480000.0'
-id: 5970e189-352a-496b-a622-d300e194fb7e
 suburb: CALAMVALE
+id: 5970e189-352a-496b-a622-d300e194fb7e
 ---
 This quiet little cul-de-sac street is surely the envy of everyone in Calamvale. Privately positioned, this home will offer a unique blend of peace and tranquillity which maintains easy access to Calamvale District park.
 

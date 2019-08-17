@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/3K9Pk8daBe1hK7bI5msfXdNsC18=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435013/images'
 property_id: '435013'
 price_search: '369000.0'
-id: 71fc973a-194c-4672-b82e-3af0db912ec9
 suburb: ASPLEY
+id: 71fc973a-194c-4672-b82e-3af0db912ec9
 ---
 Great opportunity to acquire this three bedroom villa in a neat & quiet complex of 35.
 

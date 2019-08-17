@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/GZWbqST4EnoZSyosVZKhLxivIDc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435345/images'
 property_id: '435345'
 price_search: '400000.0'
-id: c7026ca4-aa5c-4f72-a309-16a53e482945
 suburb: 'ACACIA RIDGE'
+id: c7026ca4-aa5c-4f72-a309-16a53e482945
 ---
 Step inside this beautifully liveable family home and enjoy all the great lifestyle features it has to offer. Featuring beautifully finished hardwood timber flooring and recently renovated kitchen and bathroom, there really is nothing left to do but move in. The open plan kitchen, living and dining room are well proportioned and full of light. The bedrooms are all good-sized and functional, with the master afforded privacy and a leafy view to the rear of the property. The backyard is flat, with landscaped garden beds, mature trees and grassy areas.
 

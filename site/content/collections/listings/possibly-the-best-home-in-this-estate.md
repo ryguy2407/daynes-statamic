@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/hyEnlKr6eE2qpLCl5mAihShUuA8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435199/images'
 property_id: '435199'
 price_search: '375000.0'
-id: 7e5d5884-c157-40fe-81ee-b599ecaf67ae
 suburb: CRESTMEAD
+id: 7e5d5884-c157-40fe-81ee-b599ecaf67ae
 ---
 Priced to sell at best offer over $375,000.
 

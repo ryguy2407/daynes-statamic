@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/nNMDiCmOeVs-Tv_O6DUM-NFI2Pg=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434855/images'
 property_id: '434855'
 price_search: '460000.0'
-id: 49a9b4a6-e261-4136-8871-85675c2634ad
 suburb: MOOROOKA
+id: 49a9b4a6-e261-4136-8871-85675c2634ad
 ---
 Be quick to inspect this three bedroom post war home, on a 604sqm sized corner block in Moorooka.
 

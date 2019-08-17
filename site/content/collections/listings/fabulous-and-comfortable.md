@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ikzBIxtY5NRAR1W1aJzqCA-LyIU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435223/images'
 property_id: '435223'
 price_search: '450000.0'
-id: 750b2a7f-3e31-4242-952c-ab6b9e910e90
 suburb: 'ACACIA RIDGE'
+id: 750b2a7f-3e31-4242-952c-ab6b9e910e90
 ---
 Completely renovated and immaculately presented both inside and out, this home is one to fall in love with. The home is a classic of mid-century design, with open plan interiors offering liveability and lifestyle in excess. Stepping into the home, the tiled sunroom is both a lovely reception and an extension of the living area. The flowing open plan design integrates the living, dining and kitchen into an airy and functional space, perfect for easy entertaining and relaxation. The modern kitchen has been finished with granite benchtops and glossy two pac cabinetry, and equipped with stainless steel appliances. The tiled floor and finishes have been well-chosen to ensure a low-maintenance and convenient design in the kitchen. The original hardwood timber floors, for which these homes are much sought after, have been polished to perfection throughout the living, hallways and bedrooms.
 

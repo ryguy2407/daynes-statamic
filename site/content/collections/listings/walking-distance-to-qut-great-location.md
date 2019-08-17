@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/aY8ZIqYfaMVrE8e-76mvdixRVWk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435628/images'
 property_id: '435628'
 price_search: null
-id: 77711c1e-c517-45a3-8e4c-cf6236244378
 suburb: 'HIGHGATE HILL'
+id: 77711c1e-c517-45a3-8e4c-cf6236244378
 ---
 This student house has rooms available for rent now.
 

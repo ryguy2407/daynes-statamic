@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/gxtYBjeIp6OqOcY-7161v5adwf8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435357/images'
 property_id: '435357'
 price_search: '450000.0'
-id: d3e461d2-38a6-4d30-9f58-11839e8fd172
 suburb: ARCHERFIELD
+id: d3e461d2-38a6-4d30-9f58-11839e8fd172
 ---
 Set amongst the trees in this quiet, idyllic pocket of Archerfield is this beautifully presented high-set home. This property is sure to impress with plenty of space for a growing family and those who love to entertain. With a recently renovated kitchen and bathroom, and great indoor and outdoor spaces to enjoy, this property requires only those personal finishes to make this feel like your home. An added bonus of this property is the media room, partially soundproofed and with block-out curtains, this is a real plus for those who enjoy games and films. Perfect for first home buyers, this home is situated on a 599sqm flat block, in a flood-free area and in a quiet cul-de-sac with amazing convenience to a great range of amenities.
 

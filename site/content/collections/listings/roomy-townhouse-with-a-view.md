@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/lbiyP2kOx6Yp70wELuTel5tmH6Q=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435635/images'
 property_id: '435635'
 price_search: null
-id: 4ec46503-1e98-424c-b8c5-a844663b234f
 suburb: MOOROOKA
+id: 4ec46503-1e98-424c-b8c5-a844663b234f
 ---
 Great location, walking distance to Moorooka train station
 Features of this property are;

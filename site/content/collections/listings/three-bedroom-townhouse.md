@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/JKgVT_VUSt9CAmYgbga9WIX6Zu4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435487/images'
 property_id: '435487'
 price_search: null
-id: 4b28c6eb-a1f2-482e-aed5-afa41dd0b95c
 suburb: MOOROOKA
+id: 4b28c6eb-a1f2-482e-aed5-afa41dd0b95c
 ---
 ** Please call Neil Jennings on 0432 800 753 for inspections and enquiries **
 

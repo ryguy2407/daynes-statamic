@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ue6MXqtCrqtcll0JvnIphFl5JX8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435648/images'
 property_id: '435648'
 price_search: null
-id: 7937d811-e47c-4153-b4ee-018915238492
 suburb: MOOROOKA
+id: 7937d811-e47c-4153-b4ee-018915238492
 ---
 This neat three bedroom house is ideal for those who are after a private family home in a convenient location. The property is beautifully light and airy inside, and boasts a private and leafy backyard to the rear. Featuring an air conditioned open plan kitchen and dining, which opens to a good-sized living area, this property has plenty of space to enjoy time together. The porch to the front of the property is secured by gates and can be used as an extension of the living area by opening the French doors.
 

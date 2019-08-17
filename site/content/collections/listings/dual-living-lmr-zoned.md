@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/_WWn0Tw7JIav1MTCV-5TceFiSJA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435284/images'
 property_id: '435284'
 price_search: '499000.0'
-id: 4be08e5a-14f8-40f0-9a8f-07806848c3ca
 suburb: 'ACACIA RIDGE'
+id: 4be08e5a-14f8-40f0-9a8f-07806848c3ca
 ---
 Come home to this unique and stunning home to relax in the spacious bright open-plan interiors and expansive back veranda. This is a home to be proud of, beautifully framed by tropical gardens and finished in a modern colour scheme both externally and internally. Sure to attract those who are looking for dual-living potential, the property has been cleverly converted to include a generous, self-contained studio. An amazing opportunity that must be seen to be believed!
 

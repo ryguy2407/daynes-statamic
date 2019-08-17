@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Pd7xt4Gf-wTxytDTlKMitHGOziM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435347/images'
 property_id: '435347'
 price_search: '359000.0'
-id: f37e257f-7c99-4077-9ee1-6ee14c5fa003
 suburb: 'ACACIA RIDGE'
+id: f37e257f-7c99-4077-9ee1-6ee14c5fa003
 ---
 This lovely lowset home is a fantastic investment opportunity for first home buyers, families and investors alike. The property boasts great lifestyle and liveability with airy open plan kitchen, dining and living areas stepping out to the large back deck, overlooking the leafy backyard. The gardens are beautifully presented with mature trees and shrubs surrounding the lush grassy yard areas. Lovingly cared for, the home is fresh and modern and ready for its next happy family to move in and enjoy.
 

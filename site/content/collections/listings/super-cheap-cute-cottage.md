@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/8HlNoYzyoDaOXvToTqUN5avngpk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435532/images'
 property_id: '435532'
 price_search: null
-id: f0fb4222-b985-44b8-bf74-8a62d33c61a1
 suburb: 'ACACIA RIDGE'
+id: f0fb4222-b985-44b8-bf74-8a62d33c61a1
 ---
 This cottage is situated on a fully-fenced block, surrounded by well maintained gardens and lawns. Perfect for families, the functional layout boasts a large eat-in kitchen, a spacious living area and all finished with low-maintenance polished timber floors. The two bedrooms are generous sized with ceiling fans, the master including a large built-in wardrobe unit.
 

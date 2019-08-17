@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/m5Og3GLPQA1rVixXs6NRLUBMTkA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435233/images'
 property_id: '435233'
 price_search: '475000.0'
-id: e93337d4-002b-4086-b483-62fb820bf10f
 suburb: 'ACACIA RIDGE'
+id: e93337d4-002b-4086-b483-62fb820bf10f
 ---
 This property is perfect for those who are seeking a little extra bang for their buck! Brilliantly situated on Mortimer Road for exposure and convenience, and renovated to maximise the useful spaces, this home is a must-see. The unique value of this property is in the cleverly converted downstairs spaces. Beyond the lock up double tandem garage, there are multiple rooms suitable for a variety of uses. Combined with the exposure of the property, these spaces would be ideal for those running their business from home. The home has great street appeal, set amongst lovely manicured gardens and lawns.
 

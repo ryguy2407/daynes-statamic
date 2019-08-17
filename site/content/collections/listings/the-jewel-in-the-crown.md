@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/jpt08UCIHCQJUIIwMy51a32NB-c=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435388/images'
 property_id: '435388'
 price_search: '409000.0'
-id: 3e858ed4-0b7d-4ba3-b17d-ec2dfd164fa7
 suburb: 'ACACIA RIDGE'
+id: 3e858ed4-0b7d-4ba3-b17d-ec2dfd164fa7
 ---
 From the front to the rear boundary this property has had a major makeover. But please, dont take my word for it, come and see for yourself!!
 

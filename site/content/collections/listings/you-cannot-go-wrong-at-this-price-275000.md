@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ZHByFnffISsUYqfYLUTKOWbJiVw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435046/images'
 property_id: '435046'
 price_search: '275000.0'
-id: 56c0fbdc-629f-448b-9e7d-8bc33b70e958
 suburb: MOOROOKA
+id: 56c0fbdc-629f-448b-9e7d-8bc33b70e958
 ---
 UNBEATABLE PRICE
 

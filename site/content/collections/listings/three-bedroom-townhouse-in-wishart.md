@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Pxe-SoXznRKY-NNxYHHaaoIEfKc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435423/images'
 property_id: '435423'
 price_search: null
-id: 03357e11-5434-4a4c-8729-f2a448b60369
 suburb: WISHART
+id: 03357e11-5434-4a4c-8729-f2a448b60369
 ---
 - Kitchen with dishwasher
 - Upstairs three bedrooms with built ins

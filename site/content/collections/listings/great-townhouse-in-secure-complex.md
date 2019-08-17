@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/fcOXjEttnR7qIVVnlKDf39mIl6Q=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435002/images'
 property_id: '435002'
 price_search: '395000.0'
-id: 594ff730-3bf3-4aed-83a0-52689ef45ba5
 suburb: WISHART
+id: 594ff730-3bf3-4aed-83a0-52689ef45ba5
 ---
 This renovated three bedroom townhouse, in a secured complex is one you really should inspect.
 

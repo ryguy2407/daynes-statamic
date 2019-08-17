@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/zsOpUtMmyVobucRCiOSDjvJonU0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435108/images'
 property_id: '435108'
 price_search: '625000.0'
-id: 6ef77665-a54a-4b69-98f6-08061ed74a98
 suburb: COORPAROO
+id: 6ef77665-a54a-4b69-98f6-08061ed74a98
 ---
 This totally renovated home is exceptionally well presented with plenty of character features including ornate cornices, polished timber floors, picture rails and VJ's. This property does not require any more to be spent.
 

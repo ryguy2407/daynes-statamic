@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ub4__M_HsEuosIDqc9fEV4uLQIM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435048/images'
 property_id: '435048'
 price_search: '1200000.0'
-id: b36c3fb8-9328-4da2-b881-efe3834e2b3e
 suburb: MOOROOKA
+id: b36c3fb8-9328-4da2-b881-efe3834e2b3e
 ---
 The Ultimate Family Residence and Professional Home Office
 27 Northview Outlook, Clifton Hill.

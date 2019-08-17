@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/fjakFizwkuxvOlOIMcZKcKZ6Oh0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435247/images'
 property_id: '435247'
 price_search: '359000.0'
-id: a1c5a0b4-3ec5-411d-ae72-bb9edfb0e814
 suburb: 'ACACIA RIDGE'
+id: a1c5a0b4-3ec5-411d-ae72-bb9edfb0e814
 ---
 This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of light and looks out to the lovely grassy lawns. The open plan eat in kitchen and living are generously proportioned and perfect for accommodating busy families.
 

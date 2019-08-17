@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/x4seWLakoQoX4nolCnica4M62nA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435372/images'
 property_id: '435372'
 price_search: '479000.0'
-id: 5b6d3326-826e-442e-8993-acbbd1daa28e
 suburb: 'ACACIA RIDGE'
+id: 5b6d3326-826e-442e-8993-acbbd1daa28e
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this beautiful high-set home awaiting the next chapter. Thoughtfully renovated and transformed into a spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front deck, enjoying the tranquility afforded by the quiet neighbourhood and the leafy block backing onto lush nature reserve. Inside, the bright open-plan living and dining area steps through to the shady back deck, overlooking the equally as lovely backyard. This property allows plenty of space for relaxation and entertaining alike, just move in and enjoy!
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Ljkc5jTQezsgJpOjyy_NOiRTRJI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435126/images'
 property_id: '435126'
 price_search: '369000.0'
-id: 77168ef3-5de2-4879-a875-00bdcbcd6908
 suburb: OXLEY
+id: 77168ef3-5de2-4879-a875-00bdcbcd6908
 ---
 This solid brick and tile home in this quiet pocket of Oxley situated on a 607m2 block is in need of an internal renovation.
 With the potential to add your own touches, this could be the home you have been looking for!

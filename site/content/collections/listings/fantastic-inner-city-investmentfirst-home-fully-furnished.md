@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/yROAks9iV6gv_clqxALt9k-4aFM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435015/images'
 property_id: '435015'
 price_search: '274995.0'
-id: 767f781d-f769-47c9-9e5a-9b717c4ab0cd
 suburb: 'SOUTH BRISBANE'
+id: 767f781d-f769-47c9-9e5a-9b717c4ab0cd
 ---
 Look no further for your dream investment or first home, this is it!
 

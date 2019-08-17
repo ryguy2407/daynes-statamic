@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Va3YOGe-JQ5C3XTBgMT9NjW7BOk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435678/images'
 property_id: '435678'
 price_search: null
-id: 603b2545-0b49-4613-a0a0-0fe26eb6095c
 suburb: 'ACACIA RIDGE'
+id: 603b2545-0b49-4613-a0a0-0fe26eb6095c
 ---
 This newly renovated low-set family home has been meticulously and beautifully presented. The perfect property for families, the house boasts plenty of storage and low-maintenance living. This home has been completely renovated though out with fresh paint internally and externally, newly polished timber floors to living and kitchen, new carpets to bedrooms and a new kitchen and bathroom.
 

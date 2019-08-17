@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/pxUUYB-kocSFbGZKGB3ILSz_yv8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435617/images'
 property_id: '435617'
 price_search: null
-id: f253f07f-23bb-4bc5-8312-568d65506626
 suburb: 'EAST BRISBANE'
+id: f253f07f-23bb-4bc5-8312-568d65506626
 ---
 This Three Bedroom Student House has been tastefully renovated. Open plan combined modern kitchen and living area. Great location with easy access to shops, Gabba cricket ground, there is also a bus stop outside the property which gives you easy access to QUT, Southbank and the CBD.
 

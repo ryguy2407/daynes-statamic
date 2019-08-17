@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/00vaAUg3QNwe2vVJiPidB85flO4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435662/images'
 property_id: '435662'
 price_search: null
-id: 1a1edb96-9dda-4aaf-9275-dc97d1e17dce
 suburb: 'HIGHGATE HILL'
+id: 1a1edb96-9dda-4aaf-9275-dc97d1e17dce
 ---
 This stylish open-plan apartment is the perfect compliment to the trendy Highgate Hill lifestyle. Partially filled with tasteful and comfortable furniture, this home overlooks leafy greenery and is just a stones throw away from the river.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/F9k-gBubJ2SaIqoOBpZfeQRh95o=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435307/images'
 property_id: '435307'
 price_search: '419000.0'
-id: d19b1709-f920-4eac-a156-5797ceb307e2
 suburb: 'ACACIA RIDGE'
+id: d19b1709-f920-4eac-a156-5797ceb307e2
 ---
 You will need to be extremely quick on this one as this property is absolutely packed with value. The home has been fully renovated and includes a private fully equipped, self-contained studio.
 

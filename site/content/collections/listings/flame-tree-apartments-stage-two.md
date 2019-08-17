@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ss_a4DbGn4PvrtYAowgJoZ0Lb0s=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434826/images'
 property_id: '434826'
 price_search: '375000.0'
-id: cf91803a-73e3-4a5f-812a-8742c94eb605
 suburb: 'UPPER MOUNT GRAVATT'
+id: cf91803a-73e3-4a5f-812a-8742c94eb605
 ---
 This one-bedroom unit is sure to please. With the kitchen comprising of electric European appliances, and garbage disposal and the apartments also include clothes dryer, washing machine and gas hot water.
 

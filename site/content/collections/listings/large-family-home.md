@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Bfx5N-VMiXnSbz_fpi78xfOyuus=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435534/images'
 property_id: '435534'
 price_search: null
-id: 0df52a55-aba2-46b7-a72d-2661577d8120
 suburb: DURACK
+id: 0df52a55-aba2-46b7-a72d-2661577d8120
 ---
 This high-set home is spacious, full of light and beautifully presented. The polished timber floors and light coloured walls are the perfect blank canvas for you to create your own welcoming home. The open plan kitchen, living and dining step out to the large back deck, ideal for relaxing and entertaining. The kitchen has been newly renovated and finished with beautiful grey cabinetry, pale laminate benchtops and stainless steel appliances. Each of the bedrooms upstairs is equipped with ceiling fans, blockout blinds and built in storage.
 

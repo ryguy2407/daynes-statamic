@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/p1gsYXAxS_XoU1A2d2WU_vuB-Xg=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435231/images'
 property_id: '435231'
 price_search: '392000.0'
-id: 0cdd31a3-fed5-4b20-840f-41dfd4d1655a
 suburb: 'ACACIA RIDGE'
+id: 0cdd31a3-fed5-4b20-840f-41dfd4d1655a
 ---
 This home is the perfect starting place for those seeking an ideal first home. With a convenient low-set design and low-maintenance finishes, this property is move in ready with plenty of potential to grow with you. The spacious open plan living and dining flow into the functionally designed kitchen and out to the shady back patio. Great for entertaining and busy families, this layout is the pinnacle of lifestyle and convenience-focused design. The location of this home is second to none, situated on a street with no through traffic, a quiet and idyllic setting.
 

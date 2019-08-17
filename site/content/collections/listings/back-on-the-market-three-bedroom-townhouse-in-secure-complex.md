@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/TAs4aAj4THx2GTu1JHXqFhdW6R0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434879/images'
 property_id: '434879'
 price_search: '340000.0'
-id: b699125d-9dbc-4fd9-a948-c6601ab27044
 suburb: 'EIGHT MILE PLAINS'
+id: b699125d-9dbc-4fd9-a948-c6601ab27044
 ---
 Situated in a six-year old complex of 74 villas and townhouses in Eight Mile Plains, this three bedroom, two bathroom, townhouse is a great opportunity for the astute investor.
 

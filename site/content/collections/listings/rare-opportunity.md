@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/w-XPWUHmQXm1I3ei86g0bf3NhAw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435187/images'
 property_id: '435187'
 price_search: '420000.0'
-id: 27ab9c3f-41e3-4e16-9908-cf2306f1a9ac
 suburb: 'ACACIA RIDGE'
+id: 27ab9c3f-41e3-4e16-9908-cf2306f1a9ac
 ---
 This is a rare opportunity to secure a generous parcel of land in one of Brisbane’s most rapidly developing areas. This generous offering of land, zoned Low Medium Residential (LMR), comprises two individual allotments totalling 1,369sqm, representing an array of short and long term investment options.
 

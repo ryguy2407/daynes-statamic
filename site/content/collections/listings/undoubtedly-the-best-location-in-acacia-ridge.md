@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/DvqQofRqbAj_G_SIhgG1MxBaZbc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435398/images'
 property_id: '435398'
 price_search: '380000.0'
-id: 6216b603-be4b-483e-a7ff-0b9fabe12c5c
 suburb: 'ACACIA RIDGE'
+id: 6216b603-be4b-483e-a7ff-0b9fabe12c5c
 ---
 Please donâ€™t take my word for it because I want you to come and see for yourself as this is truly a superb location. In my opinion the best in Acacia Ridge but I want you to be the judge.
 

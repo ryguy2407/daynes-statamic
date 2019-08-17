@@ -2,6 +2,7 @@
 
 namespace Statamic\Addons\CRMListings;
 
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Statamic\Addons\CRMListings\Repositories\SyncListings;
 use Statamic\Extend\Controller;
@@ -30,8 +31,23 @@ class CRMListingsController extends Controller
         ]);
     }
 
+    public function update()
+    {
+        return $this->view('create', [
+            'title' => 'Update Listings'
+        ]);
+    }
+
     public function syncListings()
     {
+        //Add a timestamp for when the sync was done
+        $this->storage->put('lastsync', Carbon::now());
+
         return $this->sync->syncAllListings(request('status'), request('listing_type'), 0);
+    }
+
+    public function updateListings()
+    {
+
     }
 }

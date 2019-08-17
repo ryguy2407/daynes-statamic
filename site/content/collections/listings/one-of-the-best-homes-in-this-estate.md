@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/wW67mTJP72pYZRZMxaDR5Pdyyl0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435311/images'
 property_id: '435311'
 price_search: '398000.0'
-id: d267d331-1cf7-4e0f-8871-fd5fed8ad659
 suburb: 'ACACIA RIDGE'
+id: d267d331-1cf7-4e0f-8871-fd5fed8ad659
 ---
 This brick & tile three bedroom plus study family home is situated at the end of a very quiet and leafy cul-de-sac. It was built by Devine homes in 1997 and is positioned on a 451sqm block which is prominently bigger than the average in this estate. It also has beautiful landscaped gardens which are an absolute credit to its current owner. The house has been maintained to the highest standards which you will see when you come to view at the open house this Saturday.
 

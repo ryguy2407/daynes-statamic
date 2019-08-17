@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/91MGgRf6kkRa87gKnzhLA1rM-8I=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435486/images'
 property_id: '435486'
 price_search: null
-id: 6968652b-90c1-492b-8111-c53e19658854
 suburb: 'ACACIA RIDGE'
+id: 6968652b-90c1-492b-8111-c53e19658854
 ---
 This home is bright, airy and fresh, with plenty of space in the open-plan kitchen, living and dining, this house is perfect for families who love to entertain. The home is situated on a fully-fenced flat block, with a well-maintained grassy yard, perfect for children and pets.
 

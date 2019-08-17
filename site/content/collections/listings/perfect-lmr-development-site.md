@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/-QT7uMC8hHxvzla-3zOCPUaup7Y=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435321/images'
 property_id: '435321'
 price_search: '445000.0'
-id: 1ac56251-0d24-45df-b4c5-0f7239948461
 suburb: 'ACACIA RIDGE'
+id: 1ac56251-0d24-45df-b4c5-0f7239948461
 ---
 Here we have a flat 825sqm (Low-Medium Density Residential) block with a tenanted three bedroom house situated very close to Elizabeth Street Shopping Centre.
 

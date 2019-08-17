@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/gHlFxz5u5mLg31eU44jdClmBqaY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434866/images'
 property_id: '434866'
 price_search: '480000.0'
-id: 78abffea-87f4-4cf8-826c-78d850f98af6
 suburb: TARRAGINDI
+id: 78abffea-87f4-4cf8-826c-78d850f98af6
 ---
 Don't judge a book by its cover...
 

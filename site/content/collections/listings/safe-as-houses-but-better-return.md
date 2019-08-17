@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/TKgHHXMQuudaw5vc_4aVfCaMEg8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435004/images'
 property_id: '435004'
 price_search: '350000.0'
-id: f213d5ca-380d-436c-8e4e-527a664980d2
 suburb: WOODRIDGE
+id: f213d5ca-380d-436c-8e4e-527a664980d2
 ---
 *  Secure long-term tenant paying $32,400 p.a.
 *  302 sqm net area over 2 levels

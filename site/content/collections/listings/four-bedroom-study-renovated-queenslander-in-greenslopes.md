@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/jUq47fVlqbhfPplPB8oXarqAaeA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435425/images'
 property_id: '435425'
 price_search: null
-id: f4d7e689-f08a-4686-8fca-ad3768d610f7
 suburb: GREENSLOPES
+id: f4d7e689-f08a-4686-8fca-ad3768d610f7
 ---
 Upstairs includes
 *  2 large bedrooms upstairs, master bedroom with French doors opening to the ensuite and walk in robe

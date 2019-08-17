@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/vQv3_CH1WkQ42WZuj6-Wu1zaDSc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434901/images'
 property_id: '434901'
 price_search: '665000.0'
-id: dbadde66-1a3a-4a8e-9829-86268ebad7b4
 suburb: 'HOLLAND PARK'
+id: dbadde66-1a3a-4a8e-9829-86268ebad7b4
 ---
 Here is a terrific opportunity to secure a solid brick & tile home situated on a prime corner block boasting 966sqm of land on 2 lots.
 

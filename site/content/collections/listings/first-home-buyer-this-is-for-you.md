@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/JNFDE1XrBcXvNHw3mOCtU8B_f9M=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434845/images'
 property_id: '434845'
 price_search: '349000.0'
-id: ce26b6f8-783f-4664-9f78-28dd95068df1
 suburb: 'COOPERS PLAINS'
+id: ce26b6f8-783f-4664-9f78-28dd95068df1
 ---
 This 3 bedroom, lowest, fully fenced house on 647 m2 is a must inspect for those trying to enter the housing market!  It features a large outdoor entertaining area off the kitchen and a private deck including a childproof gate out the front, making it the perfect home for the family that likes to have friends over for a BBQ.  Other features of this delightful property include:
 

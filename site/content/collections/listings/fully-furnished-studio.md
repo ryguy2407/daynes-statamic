@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/F-bg7orW0ag_mwqrBQ6LblrK8DY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435693/images'
 property_id: '435693'
 price_search: null
-id: ef5b69f3-99ee-4c49-aa84-807387d8a238
 suburb: 'SPRING HILL'
+id: ef5b69f3-99ee-4c49-aa84-807387d8a238
 ---
 **Please contact Gail on 0400 240 210 for enquiries**
 

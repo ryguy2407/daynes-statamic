@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/rhl-uGGUAZ_nUasearFJyI_8e-s=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435330/images'
 property_id: '435330'
 price_search: '370000.0'
-id: 2ff99c5f-6f9c-47e1-a4a7-a6cdba3025c6
 suburb: 'ACACIA RIDGE'
+id: 2ff99c5f-6f9c-47e1-a4a7-a6cdba3025c6
 ---
 This property has been proudly owned and lovingly maintained for 25 years, and is ready for the next era. Structurally, the home is high set and boasts hardwood construction, chamferboard exterior, a tiled roof and hardwood plank floors. The home is fresh and airy, with plenty of large windows allowing plenty of light. The property offers many lifestyle features with large entertaining areas, immaculately maintained gardens and a pool. The kitchen and bathroom, while functional, would benefit from an update and offers a way of putting your own mark on the home. Under the house is a particular treat with lock-up for two cars, large laundry, toilet and shower servicing the pool, and plenty of storage. Generously sized living and bedroom spaces, along with extensive outdoor areas mean plenty of room for a growing family and a not to be missed opportunity.
 

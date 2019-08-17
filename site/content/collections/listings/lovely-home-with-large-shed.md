@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/CLfczJh9IWlxaRQ2cpLzEWrAvLQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435494/images'
 property_id: '435494'
 price_search: null
-id: efa89b02-0926-44fc-8147-1c72f0c7e1d1
 suburb: 'ACACIA RIDGE'
+id: efa89b02-0926-44fc-8147-1c72f0c7e1d1
 ---
 This cute two bedroom cottage is situated in a quiet and leafy pocket of Acacia Ridge.
 

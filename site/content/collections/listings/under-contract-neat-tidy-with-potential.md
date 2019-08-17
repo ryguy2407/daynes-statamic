@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/xnVS3XuA-_nhGA7BBiYtIzThBhk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435281/images'
 property_id: '435281'
 price_search: '320000.0'
-id: b558c558-2c19-474c-bb87-107e05f2270b
 suburb: 'ACACIA RIDGE'
+id: b558c558-2c19-474c-bb87-107e05f2270b
 ---
 Located on a 607sqm block, this highset home is perfect for families with generous living areas and bedrooms. It is situated on one of Acacia Ridge’s best streets, convenient to schools, public transport and shops. The existing house would be highly suitable for a family or viable as an investment property. There is also potential to add value to this property by doubling the living space underneath.
 

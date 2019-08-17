@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Iix5nZsKeINWzJMBbRIgNw_vW9c=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435637/images'
 property_id: '435637'
 price_search: null
-id: 5607be23-0b05-4970-ad74-87fbc159a260
 suburb: 'COOPERS PLAINS'
+id: 5607be23-0b05-4970-ad74-87fbc159a260
 ---
 Situated in a very convenient location, this three bedroom home is walking distance to Coopers Plains train station and sits across the road from Coopers Plains Primary School. At the back of the property is a large 3 bay lock up shed.
 

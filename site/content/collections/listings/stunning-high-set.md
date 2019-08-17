@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/vgdojJybir8GFKZ4gsszwrmgNzI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435206/images'
 property_id: '435206'
 price_search: '400000.0'
-id: ede753c3-55fe-473b-aca1-72a00361db47
 suburb: 'ACACIA RIDGE'
+id: ede753c3-55fe-473b-aca1-72a00361db47
 ---
 Come home to this stunning high-set home and relax in the spacious bright open-plan interiors and expansive veranda. Stepping up to the cute east-facing balcony, the open-plan living, dining and kitchen are offset by the stunning timber veranda, overlooking the neat backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright. With plenty of room for a growing family, this home is perfect for those who are after a little more from their investment.
 

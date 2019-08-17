@@ -13,7 +13,7 @@ main_image: 'https://img.eagleagent.com.au/TIqbq7GgR3I_QEZ8B3_ld1sM9FM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435413/images'
 property_id: '435413'
 price_search: null
-id: a90a2ef9-2b01-4f65-936f-e3116586d2b2
 suburb: ROCKLEA
+id: a90a2ef9-2b01-4f65-936f-e3116586d2b2
 ---
 3 bedroom highset home with a single lock up garage.

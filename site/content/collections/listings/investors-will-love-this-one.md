@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/_ere3fuv-4s3xv_cLoHrb78_PNQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434870/images'
 property_id: '434870'
 price_search: '329000.0'
-id: d910f13b-4278-4efc-a962-6715de0f56c9
 suburb: 'MOUNT GRAVATT EAST'
+id: d910f13b-4278-4efc-a962-6715de0f56c9
 ---
 Currently rented at $300 per week, this lovely 2 bedroom townhouse with on-site manager will surely impress even the most astute investor!
 

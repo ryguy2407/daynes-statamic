@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/8sggRKrvSLs4f4KGnTeCrGBchKE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435200/images'
 property_id: '435200'
 price_search: '255000.0'
-id: 9a547f36-690d-461f-831f-79e4ad777b3a
 suburb: TAIGUM
+id: 9a547f36-690d-461f-831f-79e4ad777b3a
 ---
 This spacious unit represents the ultimate blank canvas, perfect for those wishing to realise their creative dreams. The unit has been immaculately cared for, and the light-filled spaces need only cosmetic renovations to become a stylish home. The open plan living has been cleverly designed to offer the very best functionality and flows through to the private courtyard at the rear. This courtyard backs onto the local school oval, meaning no neighbours and quiet enjoyment. Situated in close proximity to ample visitor parking and the complex pool area, this property is great for those who love to entertain.
 

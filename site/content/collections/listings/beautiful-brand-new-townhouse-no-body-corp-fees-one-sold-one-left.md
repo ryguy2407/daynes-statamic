@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/BusFOnlVaFXRB1CuuKwIGq1FDUA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434796/images'
 property_id: '434796'
 price_search: '449000.0'
-id: 4d2441d6-1ed2-4149-a7f8-f9d084ac0ef0
 suburb: MOOROOKA
+id: 4d2441d6-1ed2-4149-a7f8-f9d084ac0ef0
 ---
 Situated in a leafy quiet street in Moorooka.  This 3 bedroom 2 bathroom and 1 powder room townhouse  features large landscaped courtyard, spacious open plan living area, vogue kitchen  with stainless steel appliances.
 Upstairs there are three bedrooms with a study nook and a large walk in robe in the main room.

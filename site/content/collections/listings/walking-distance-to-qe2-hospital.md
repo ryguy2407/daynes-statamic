@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Gk0cLHHheTMmEB3D7A6k6UGIyy8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435596/images'
 property_id: '435596'
 price_search: null
-id: 0f31219e-a8e5-4b86-a1e1-153451629923
 suburb: 'COOPERS PLAINS'
+id: 0f31219e-a8e5-4b86-a1e1-153451629923
 ---
 This lowset 3 bedroom brick house is available for rent now.
 

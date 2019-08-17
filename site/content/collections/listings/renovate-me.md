@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/sWlv9K6uiNHSEMw0BZnJ5R1UW-g=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435285/images'
 property_id: '435285'
 price_search: '379000.0'
-id: d1bf6ee2-593e-45da-ba7d-df2086bd39b0
 suburb: 'ACACIA RIDGE'
+id: d1bf6ee2-593e-45da-ba7d-df2086bd39b0
 ---
 This property is an excellent example of why so many renovators are drawn to this rapidly developing suburb. Of desirable low-set rendered brick construction with hardwood timber floors, this home has been built to last. Owned by the same family since it was built, the property has been much loved throughout its history. Only minor upgrades have been applied to the kitchen and bathroom, leaving the remainder of the house the perfect blank canvas to modernise.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Oj50qEdjHmme7oBl0yapjsQdPWk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435239/images'
 property_id: '435239'
 price_search: '850000.0'
-id: 6c4f6b7c-18a4-41ba-bbdf-cf5b4db0ef6b
 suburb: 'ACACIA RIDGE'
+id: 6c4f6b7c-18a4-41ba-bbdf-cf5b4db0ef6b
 ---
 This is an excellent opportunity to secure a sizable amount of land at 1,214sqm with a total frontage of 35.7m, zoned General Industry B. Opportunities such as these are rare, particularly in such a strategic location and with a current viable residential rental income. These are side-by-side, completely flat blocks, giving the future owner the option to develop now, or in the future.
 

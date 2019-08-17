@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Fs-y84awrndfWXQvJERrZb37wLU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435426/images'
 property_id: '435426'
 price_search: null
-id: a02ca4e1-4b57-4d50-b9de-31d9548d82d1
 suburb: GREENSLOPES
+id: a02ca4e1-4b57-4d50-b9de-31d9548d82d1
 ---
 This near new, three bedroom, two bathroom townhouse is located within a small complex of two townhouses and a renovated Queenslander.
 

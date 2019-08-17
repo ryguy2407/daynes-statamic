@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/_vputpqQmP8Dl_OBiUl0WHnXQBI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435115/images'
 property_id: '435115'
 price_search: '359000.0'
-id: c347c6bc-30fc-4df7-9bdb-b25aa1b4bf23
 suburb: 'ACACIA RIDGE'
+id: c347c6bc-30fc-4df7-9bdb-b25aa1b4bf23
 ---
 Beautifully presented four bedroom home on a very tidy 812sqm block. This is truly a great family home.
 

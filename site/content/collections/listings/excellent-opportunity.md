@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/fkfO_ECdSlhHdB3BFrhxXw9UbtU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435235/images'
 property_id: '435235'
 price_search: '399000.0'
-id: 8630fe69-f2a8-4f98-91b9-1fb8e0bd3521
 suburb: 'ACACIA RIDGE'
+id: 8630fe69-f2a8-4f98-91b9-1fb8e0bd3521
 ---
 With beautiful polished timber floors and solid brick exterior, this home has great bones. The kitchen and bathroom have been recently updated and there is a fresh, neutral colour scheme throughout. The living space, kitchen and bedrooms are bright, airy and full of light. The house is situated on a fully fenced, completely flat 597sqm block with two street access and plenty of yard space to utilise.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/KVtiGJBPztl5eLZyM68Z2uIz_Zw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435371/images'
 property_id: '435371'
 price_search: '470000.0'
-id: 4d9c4244-5fc1-4e32-98a2-3e37e61f7fe8
 suburb: 'ACACIA RIDGE'
+id: 4d9c4244-5fc1-4e32-98a2-3e37e61f7fe8
 ---
 This completely renovated home is the epitome of modern living and the represents the perfect opportunity to secure one of Acacia Ridge's most prestigious properties. Secluded behind the leafy frontage is this private family home, promising years of enjoyment of the spacious interiors and tranquil surrounds. A true stand-out feature of this home is the gorgeous east-facing front deck looking out to the beautifully kept front gardens and to parkland beyond. Made for entertainers, this deck is equipped with built in benches and steps down to a purpose-built pizza oven, perfect for effortless entertaining.
 

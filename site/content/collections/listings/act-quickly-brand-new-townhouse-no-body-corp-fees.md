@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/HtLHar_muSwwE00PySXQmMIXuQg=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434864/images'
 property_id: '434864'
 price_search: '439000.0'
-id: 9750b4bd-3723-4310-ba24-eb6f31332924
 suburb: ENOGGERA
+id: 9750b4bd-3723-4310-ba24-eb6f31332924
 ---
 Here is your last chance to secure a brand new three bedroom townhouse in this development.
 

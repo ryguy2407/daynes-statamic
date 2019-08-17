@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/JYZeyeh2UB4CN00pKpsdDSFzgzU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435081/images'
 property_id: '435081'
 price_search: '359000.0'
-id: 64d2df00-f4c6-4c08-8550-26e720cb63f8
 suburb: ALGESTER
+id: 64d2df00-f4c6-4c08-8550-26e720cb63f8
 ---
 Forget all previous price indications - Owner Instructions are clear - This house must be sold!
 

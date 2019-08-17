@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/O9V4KsxtDj0tu_421-Uo5vW4aYA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435695/images'
 property_id: '435695'
 price_search: null
-id: 74ab41a1-352c-486f-b712-27a1129388d5
 suburb: SALISBURY
+id: 74ab41a1-352c-486f-b712-27a1129388d5
 ---
 Ground Floor Two Bedroom Unit, Close To Griffith Uni
 

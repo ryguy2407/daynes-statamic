@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/OjrN2Kxmrjytv4DkBNBkq2OGUkE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435153/images'
 property_id: '435153'
 price_search: '485000.0'
-id: 66260bd3-3a9c-4101-b02e-2015aa62723a
 suburb: ROCKLEA
+id: 66260bd3-3a9c-4101-b02e-2015aa62723a
 ---
 Attention developers! This is a rare opportunity to secure an excellent site for immediate or future development. A generous 834sqm block, already on two lots and with excellent access, this property holds the potential to generate a tidy profit for the savvy investor.
 

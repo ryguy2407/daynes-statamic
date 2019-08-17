@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/XBSHKfydc-t55keNnb2ckQqVlN8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435688/images'
 property_id: '435688'
 price_search: null
-id: ae12d351-f218-476e-ae27-a0e81ba222d1
 suburb: 'ACACIA RIDGE'
+id: ae12d351-f218-476e-ae27-a0e81ba222d1
 ---
 Set amongst the trees, this split-level family home is unique in its location with only one neighbouring property. Backing on to parkland and overlooking nature reserve beyond, it is hard to believe the home is only 17km from the Brisbane CBD.
 

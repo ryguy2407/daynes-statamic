@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/CQTzn5UWmLq8SrOmAMoaa7vXPSk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435089/images'
 property_id: '435089'
 price_search: '549000.0'
-id: 9ffe452e-d77a-404b-b57e-65a1bab954c7
 suburb: ASPLEY
+id: 9ffe452e-d77a-404b-b57e-65a1bab954c7
 ---
 This four bedroom brick and tile home is situated on 716sqm block in a quiet cul-de-sac in this prestigious part of Aspley Grove.
 

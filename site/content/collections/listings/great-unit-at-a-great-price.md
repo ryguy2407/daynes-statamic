@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/8hzCzrpeRq315Jv5cgS4iATA9Cg=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434934/images'
 property_id: '434934'
 price_search: '428000.0'
-id: 0caa3918-b6ad-49d9-b40a-64d58633009b
 suburb: YEERONGPILLY
+id: 0caa3918-b6ad-49d9-b40a-64d58633009b
 ---
 Located on a quiet street in Yeerongpilly this brand new two bedroom unit is in a complex of eight.
 

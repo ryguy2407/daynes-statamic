@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/iUUeQIFVXCvn7ZOfiaTioxNIMvE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435385/images'
 property_id: '435385'
 price_search: '399000.0'
-id: d3de7992-ce9f-45a3-abab-3f46046132b0
 suburb: 'ACACIA RIDGE'
+id: d3de7992-ce9f-45a3-abab-3f46046132b0
 ---
 This home was one of the last to be built in this relatively modern estate in 1998. The original owners have resided there all this time and are reluctantly offering it for sale as they are moving south to their farm.
 

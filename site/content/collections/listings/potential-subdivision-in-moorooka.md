@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/bSKRyYEeg7_qb2QLCgF9OKmGV2s=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434906/images'
 property_id: '434906'
 price_search: '515000.0'
-id: 8343945f-17c2-4eb0-a8ae-e6eb2b1341bb
 suburb: MOOROOKA
+id: 8343945f-17c2-4eb0-a8ae-e6eb2b1341bb
 ---
 It's not everyday you get the opportunity to secure a huge 1037sqm block in Moorooka.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/J9ESiKsbG-GqZhoJ4uDzH8XktvE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435390/images'
 property_id: '435390'
 price_search: '335000.0'
-id: d07604a0-20f9-4b15-b313-17e8780208b4
 suburb: 'ACACIA RIDGE'
+id: d07604a0-20f9-4b15-b313-17e8780208b4
 ---
 Here we have a cute three bedroom workers cottage situated on 670m2 of land in quiet Agnes Street in very good condition.
 

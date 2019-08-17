@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/1WN_9ZgLSLa72x-HfNZTLg1HYWA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435373/images'
 property_id: '435373'
 price_search: '399000.0'
-id: 5c387370-408b-4f6d-bd5e-d3e56679dafb
 suburb: ARCHERFIELD
+id: 5c387370-408b-4f6d-bd5e-d3e56679dafb
 ---
 Sitting pretty behind the high timber fence is this cute low-set home, full of potential for home owners and investors alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home.
 

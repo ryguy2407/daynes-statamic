@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/WBGudRk3aRUAA16sL4vbkDdlClY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435652/images'
 property_id: '435652'
 price_search: null
-id: a98cd41f-6c85-4294-8610-0a9ca37923ed
 suburb: 'ACACIA RIDGE'
+id: a98cd41f-6c85-4294-8610-0a9ca37923ed
 ---
 This highset family home is on a large 541sqm completely flat block. Situated in a quiet part of Acacia Ridge, this property would be ideal for families. The house has good bones with solid hardwood floors and chamfer board exterior.
 

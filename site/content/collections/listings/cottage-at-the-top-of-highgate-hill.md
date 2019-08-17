@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/MDFSY_a3XREHCXxX2GvpI3smX9w=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435690/images'
 property_id: '435690'
 price_search: null
-id: d44eaeca-f4e3-405b-88a9-e986bb0ccba1
 suburb: 'HIGHGATE HILL'
+id: d44eaeca-f4e3-405b-88a9-e986bb0ccba1
 ---
 **Six-month lease only**
 

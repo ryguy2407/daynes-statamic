@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/wmSmxvwLIJPdodlBZt653MFIc5o=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435479/images'
 property_id: '435479'
 price_search: null
-id: ac06e586-748b-443c-8dd2-fe1baf18a90a
 suburb: ARCHERFIELD
+id: ac06e586-748b-443c-8dd2-fe1baf18a90a
 ---
 This cute, high-set home with a leafy outlook is situated in a quiet cul-de-sac. The home is private, set back from the road and surrounded by trees and lawns. With bright open plan living areas and great outdoor entertaining spaces, this home will be great for families and entertainers.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/VATvXILPq7uHFGbhjPrpPOsw-TI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435124/images'
 property_id: '435124'
 price_search: '579000.0'
-id: f5bc7d49-768b-4f86-8921-67c0d9874f6a
 suburb: MOOROOKA
+id: f5bc7d49-768b-4f86-8921-67c0d9874f6a
 ---
 Set in a lovely street in Moorooka, this home offers an easy living lifestyle and plenty of room to entertain friends and family. Be sure to inspect this property as you will be impressed by the quality and size of this home.
 

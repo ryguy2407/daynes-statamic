@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ozPn8I0gAahYF4mJudaUR2j0yV8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434880/images'
 property_id: '434880'
 price_search: '365000.0'
-id: d5c210c0-09fd-4ee0-b7b3-75c1d4e42f12
 suburb: 'ACACIA RIDGE'
+id: d5c210c0-09fd-4ee0-b7b3-75c1d4e42f12
 ---
 With some elbow grease and a bit of TLC this 3 bedroom highset on 759sqm could make a great home or solid investment.
 

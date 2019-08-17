@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/9Oha4GgQX8YPYOOfEUkJmRXESoE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435642/images'
 property_id: '435642'
 price_search: null
-id: 31b26bb9-dcd5-4d2c-93fe-48e060f79783
 suburb: TARINGA
+id: 31b26bb9-dcd5-4d2c-93fe-48e060f79783
 ---
 This Executive Style Multi Level Townhouse is available for rent now. The Townhouse is located in a small complex of 4 townhouse.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/AFAkq_jevYIS9L5AWj4yJAwl7uc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435583/images'
 property_id: '435583'
 price_search: null
-id: 36ed6279-53bd-46dc-b851-e06163989dc9
 suburb: SUNNYBANK
+id: 36ed6279-53bd-46dc-b851-e06163989dc9
 ---
 This charming family home has beautiful character, and is a home to be truly proud of. Stepping inside from the inviting front deck, you are welcomed into the light and airy home. The living area beckons you in with the lovely Hampton's colour scheme of grey walls, white trim and lovely timber floors. A delightful wood heater conjures up images of sitting in the warmth on a winter's evening with a cup of cocoa. Lovely double french doors open from the living area onto the back deck.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Ur2Hq6n7JUUUQ37jmu7bJir8b9g=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435107/images'
 property_id: '435107'
 price_search: '439000.0'
-id: 2fdd7f70-4e5e-43a6-bac6-1bda730f7c78
 suburb: 'MANLY WEST'
+id: 2fdd7f70-4e5e-43a6-bac6-1bda730f7c78
 ---
 This home is a beauty for those wishing to have double living areas. It is situated on a 607sqm block in a leafy quiet street in Manly West. So close to all schools including pre schools. Very handy to shopping centres and a 7 minute walk to the rail. It is also approximately 2 kms to the Manly marina and the bay.
 

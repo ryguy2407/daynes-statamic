@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Dvm7U52Owu894TqMkFIabB9SyQs=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435197/images'
 property_id: '435197'
 price_search: '650000.0'
-id: 2ca65a6c-0948-4874-b70a-53d9dbf412b4
 suburb: 'COOPERS PLAINS'
+id: 2ca65a6c-0948-4874-b70a-53d9dbf412b4
 ---
 Set amongst beautiful subtropical gardens, this generous property will surprise and delight those looking for their next family home. With fantastic entertaining and relaxing spaces, both inside and out, this is a property perfect for those who gather family and friends together. Backing on to parkland and with a sweeping lawn surrounded by the beautiful gardens, kids will adore this property. The sweeping and expansive living areas look out to the gardens and are filled with natural light. The layout of the home affords plenty of space for the lifestyle of busy families, and like all functional homes, the kitchen is at the heart. The kitchen is a sizeable space and flows effortlessly through to both internal and external living spaces. Designed to provide the perfect balance between great street appeal yet not compromising on privacy, this home must be seen to be appreciated.
 

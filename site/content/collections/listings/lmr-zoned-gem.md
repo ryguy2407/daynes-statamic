@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/etKDiFSSer76TWwgxE14CUh_OqU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435282/images'
 property_id: '435282'
 price_search: '379000.0'
-id: 132bd9ad-93e7-4906-8d7f-8b88bdb8c4a4
 suburb: 'ACACIA RIDGE'
+id: 132bd9ad-93e7-4906-8d7f-8b88bdb8c4a4
 ---
 This cute three bedroom cottage is conveniently situated in Acacia Ridge, on a 728sqm Low Medium Residential (LMR) zoned block. This is a great opportunity to secure a generous single allotment of land in one of Brisbane’s most rapidly developing areas. With a 21.8m frontage, this property represents an array of short and long term investment options subject to council approval. For those interested, a property developers report can be made available at request. Should you choose to hold the land and develop later, the house itself holds the potential to become a tidy rental with good return. With hardwood timber floors throughout and a good layout for families, the home itself only needs cosmetic upgrades to become a highly liveable property. Large outdoor spaces, fully fenced, and a single lock up garage to the rear also service the existing home.
 

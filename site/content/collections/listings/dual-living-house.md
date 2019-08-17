@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/x9fpDOf2hUSDrqSd29lvsdOo6_4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435606/images'
 property_id: '435606'
 price_search: null
-id: c3235f7b-7436-40c4-8486-959b788e170d
 suburb: 'WEST END'
+id: c3235f7b-7436-40c4-8486-959b788e170d
 ---
 Situated just 1km from the CBD and walking distance to  West End Shopping/Restaurant precinct this massive home is vacant now and ready for new tenants.
 

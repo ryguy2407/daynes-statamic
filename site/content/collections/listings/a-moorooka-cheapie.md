@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/7TdyOtu2s1V_5C-Ycgbp3emV3qU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435409/images'
 property_id: '435409'
 price_search: '250000.0'
-id: 3458860a-6416-4b2c-9fa9-dedaba353eef
 suburb: MOOROOKA
+id: 3458860a-6416-4b2c-9fa9-dedaba353eef
 ---
 First Home Owners or Investors dont delay.
 

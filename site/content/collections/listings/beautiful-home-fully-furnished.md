@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/-yXgt87EYY7fqPXG7ehoXoNoLQ0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435478/images'
 property_id: '435478'
 price_search: null
-id: 538580bf-3efb-4589-b64e-474c9ce8e6da
 suburb: 'HOLLAND PARK WEST'
+id: 538580bf-3efb-4589-b64e-474c9ce8e6da
 ---
 This spacious and functional family home is bright and full of light. Boasting attractive high ceilings, and fresh kitchen and bathroom, this is the perfect home to welcome guests and relax with your family. This home is being offered fully furnished, making it ideal for those relocating or starting the next chapter of their lives.
 

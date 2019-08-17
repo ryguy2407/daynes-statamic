@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/rDOXdjcL-Mit1jF4RYK2shHTU4Q=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435293/images'
 property_id: '435293'
 price_search: '430000.0'
-id: e391ed26-ddf8-41ff-8146-e10efaacca60
 suburb: 'ACACIA RIDGE'
+id: e391ed26-ddf8-41ff-8146-e10efaacca60
 ---
 Set privately amongst the tranquility of beautiful acreage, this home is the perfect escape for those seeking more from the place they call home. More peaceful enjoyment of your own generous piece of land, more quality time with family and friends, and simply more time to relax. Really adding to the feeling of a semi-rural setting is the abundance of fruit trees and the space to cultivate vegetable gardens, bees and chooks. The outside entertaining patio overlooks the leafy surrounds and grassy lawns really allowing the appreciation of the tranquil surrounds of this sprawling 820sqm block.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/7WpIsoIob4qVv2f5ePcyfBImOrc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434929/images'
 property_id: '434929'
 price_search: '349000.0'
-id: 4a16c9ae-8ad5-471b-a9a3-19adafc84dd3
 suburb: 'ACACIA RIDGE'
+id: 4a16c9ae-8ad5-471b-a9a3-19adafc84dd3
 ---
 This lovely home situated on a 602sqm block, located in a quiet street would have to be the best value home in Acacia Ridge.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/xmGfMXFr_CVbt_NIfGY72j8Ql7g=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435531/images'
 property_id: '435531'
 price_search: null
-id: 537ae0c4-f47e-49f0-942d-927237477f5b
 suburb: 'ACACIA RIDGE'
+id: 537ae0c4-f47e-49f0-942d-927237477f5b
 ---
 This beautifully presented home is ready and waiting to be enjoyed. The home features beautifully polished timber floors and neutral colours on the walls, perfect to compliment any taste. This is a cool and comfortable home, with a spacious combined living and dining area. The large kitchen is situated to the rear of the home, and steps out to the backyard giving plenty of opportunity for easy outdoor entertaining. The kitchen is well-presented with plenty of storage and electric cooktop/oven combination with rangehood. The family bathroom is well presented with tiled floor, storage and shower. The three good-sized bedrooms are well-appointed and full of light. This home is well-positioned for families, across the road from parkland.
 

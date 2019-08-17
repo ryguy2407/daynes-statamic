@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/1e3V-1X8nJXdbiT9f-yPuYUiOSw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435605/images'
 property_id: '435605'
 price_search: null
-id: deaeff2b-18bf-4393-80cc-b84ee4bdfc5a
 suburb: 'MOUNT GRAVATT'
+id: deaeff2b-18bf-4393-80cc-b84ee4bdfc5a
 ---
 This 5 bedroom townhouse has a room available for rent. Fully furnished room, the property has an outdoor private patio area to sit and enjoy.
 

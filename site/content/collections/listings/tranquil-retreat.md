@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/egZrr7EvWGhs92LULG6GonH4zdE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435207/images'
 property_id: '435207'
 price_search: '450000.0'
-id: 86935108-af90-4d43-9c5a-e0936fb2df43
 suburb: 'ACACIA RIDGE'
+id: 86935108-af90-4d43-9c5a-e0936fb2df43
 ---
 If privacy and space is what you are looking for, this home ticks all the boxes. Backing on to lush bushland, this is a tranquil setting for families. This home is a much sought-after lowset design, of solid brick construction with low-maintenance finishes. Internally, the generous spaces are cool and flooded with natural light. Offering large, open-plan living spaces, this home is perfect for families needing a little extra from their home. The kitchen is situated at the heart of a vast tiled combined living and dining, opening out to a patio through sliding doors. The gardens are neatly presented, with the backyard separately fenced, providing a shady and secure space for children to play. Functionality and ease of living are presented with this lifestyle focused design.
 

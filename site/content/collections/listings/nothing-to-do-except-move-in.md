@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/Pu03yC59YeFhUCi_qOiGu6a8rV0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435304/images'
 property_id: '435304'
 price_search: '389000.0'
-id: ff1e6a11-e730-464a-a342-9261f1fa1c1d
 suburb: 'ACACIA RIDGE'
+id: ff1e6a11-e730-464a-a342-9261f1fa1c1d
 ---
 This lovely home in Oxley Street is a real gem. It is situated on a fully fenced 708sqm block with landscaped gardens. The house is totally renovated with nothing more to spend.
 

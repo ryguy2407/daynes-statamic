@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/m-JTc_ncywDfstOt-_rK6g-iA7w=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434843/images'
 property_id: '434843'
 price_search: '310000.0'
-id: f4c88ad0-ea85-4b47-a186-6d2d1e4a7ec3
 suburb: 'EIGHT MILE PLAINS'
+id: f4c88ad0-ea85-4b47-a186-6d2d1e4a7ec3
 ---
 Situated in a six-year old complex of 74 dwellings in Eight Mile Plains, this three bedroom, two bathroom, free-standing home is a great opportunity for the astute investor.
 

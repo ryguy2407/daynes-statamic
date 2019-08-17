@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/6AERp_RYCORltXke4vrzQ0kO3rk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435352/images'
 property_id: '435352'
 price_search: '449000.0'
-id: 55327dee-11af-4033-b505-bd4cb1b4952d
 suburb: 'ACACIA RIDGE'
+id: 55327dee-11af-4033-b505-bd4cb1b4952d
 ---
 Step out onto the sweeping back veranda of this great Queensland home and enjoy the idyllic shady setting and privacy provided by the lofty trees and grassy lawns. This beautiful high-set chamfer board home is set amongst lush green gardens and shady trees. Perfect for entertainers and families alike, this property holds the potential to become your dream home.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/YY-6abg1YMH80XPjIYrHCDLZaSQ=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435625/images'
 property_id: '435625'
 price_search: null
-id: 35477461-0e62-43a1-a11c-2a21ebece496
 suburb: 'COOPERS PLAINS'
+id: 35477461-0e62-43a1-a11c-2a21ebece496
 ---
 The Studio Apartment  is walking distance to Griffith Uni, transport & local shops.  The studio would suit a single person - NON SMOKERS
 

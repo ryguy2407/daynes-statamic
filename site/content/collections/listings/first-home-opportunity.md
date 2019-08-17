@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/28rVOxjtY1SCm1MQ--G-dnIeFj4=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435389/images'
 property_id: '435389'
 price_search: '325000.0'
-id: 9b0755db-4edb-4c32-8238-34ddc9f56c89
 suburb: 'ACACIA RIDGE'
+id: 9b0755db-4edb-4c32-8238-34ddc9f56c89
 ---
 This well maintained, 3 bedroom home with 3 car lock up garage is well worth your immediate inspection.
 

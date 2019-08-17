@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/yqUcEWladaN7QG2V71ZlqsTVXxs=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435353/images'
 property_id: '435353'
 price_search: '400000.0'
-id: 44d3d87c-b05a-423a-8101-98ff56442e98
 suburb: 'ACACIA RIDGE'
+id: 44d3d87c-b05a-423a-8101-98ff56442e98
 ---
 This lovingly maintained family home is in perfect, original condition and ready for its next chapter. This property has great bones with hardwood flooring hidden under linoleum and a wonderful layout, perfect for modern living. The house is spacious and bright, with generous open plan living areas and good sized bedrooms. There is also the potential to double the space of this house by enclosing downstairs. High-set with clad exterior and set on a fully fenced 554sqm flat block, this property has amazing potential for the savvy investor or those seeking a lovely family home.
 

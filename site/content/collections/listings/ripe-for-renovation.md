@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/8p372AQevaLVS1KBX0vDdhsJkSk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435145/images'
 property_id: '435145'
 price_search: '550000.0'
-id: 14c13b8f-81c0-4cbd-8f8c-8ae9be0205cd
 suburb: 'UPPER MOUNT GRAVATT'
+id: 14c13b8f-81c0-4cbd-8f8c-8ae9be0205cd
 ---
 This traditional highset chamferboard home is a great opportunity to transform an original home into something your own. With the original kitchen and bathroom, this is fabulous blank canvas for the savvy investor wanting to secure a piece of this thriving area. It is a prime example of the lovely post-war homes of this much sought-after area with timber floors hidden by carpets and lino, and lofty ceilings. This is a family friendly property with great living spaces and generous bedrooms, and situated just across the road from the beautiful Abbeville Park.
 

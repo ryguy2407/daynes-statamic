@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/YSXLBfeNXZJr-WgTB23eKGUzaqk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435632/images'
 property_id: '435632'
 price_search: null
-id: 9e248b30-c7d4-40dc-92e7-209ea1e8b163
 suburb: TOOWONG
+id: 9e248b30-c7d4-40dc-92e7-209ea1e8b163
 ---
 This three bedroom unit in the heart of Toowong is now available for rent. Perfect for students with direct buses to UQ St Lucia, QUT Gardens Point and Kelvin Grove.
 

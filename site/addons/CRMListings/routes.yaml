@@ -10,3 +10,7 @@ routes:
   create:
     uses: create
     as: create
+
+  update:
+    uses: update
+    as: update

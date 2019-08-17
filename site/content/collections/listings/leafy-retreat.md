@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/0OUz6Btp7OA14gHVe8k8F-p5N-8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435266/images'
 property_id: '435266'
 price_search: '380000.0'
-id: 7caf6b14-2046-4915-9c31-05c18e387e57
 suburb: 'ACACIA RIDGE'
+id: 7caf6b14-2046-4915-9c31-05c18e387e57
 ---
 This lovely family home set amongst leafy surrounds promises great lifestyle and is perfect for families. A charming low-set property with chamferboard exterior, this is a much sought-after design. Framed by neat and well-maintained gardens with an abundance of mature trees, the home is very private. Inside, the spacious open-plan living and dining flow nicely into the kitchen, and through the laundry to the back deck beyond. Perfect for entertainers those who love to relax with family and friends, this deck steps down to a paved area and grassy yard.
 

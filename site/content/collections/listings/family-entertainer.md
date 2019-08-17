@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/2YweGfPOcjTpnPEoYRwzOytrtSo=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435363/images'
 property_id: '435363'
 price_search: '420000.0'
-id: cd60eb59-d673-4783-a62d-dfbccd580528
 suburb: 'ACACIA RIDGE'
+id: cd60eb59-d673-4783-a62d-dfbccd580528
 ---
 This beautifully presented family home, positioned on the leafy and desirable Gregory Street, is a rare and unique opportunity for families and investors alike. Featuring expansive open plan living and entertaining areas, this home is perfect for those who love to relax and spend time with their family and friends.
 

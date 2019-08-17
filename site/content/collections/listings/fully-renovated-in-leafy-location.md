@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/S_ZZW4AfJLlB68K4AI6mFdmc0PY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435556/images'
 property_id: '435556'
 price_search: null
-id: 1015f8ed-e362-41a1-8c95-e430b1fe8821
 suburb: 'ACACIA RIDGE'
+id: 1015f8ed-e362-41a1-8c95-e430b1fe8821
 ---
 Situated in a quiet pocket and situated on a large, leafy block, this is a beautiful place to call home. Completely renovated internally, with a new kitchen and bathroom, and externally with two spacious decks expanding off the living area. The open plan kitchen, living and dining have been re-configured to create an open and inviting space to relax and entertain. The bedrooms are generous and full of light, each including ceiling fans and built in wardrobes. The yard is fully fenced and includes plenty of shady trees, perfect to enjoy from the deck.
 

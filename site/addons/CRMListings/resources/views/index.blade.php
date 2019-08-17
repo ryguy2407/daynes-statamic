@@ -4,8 +4,13 @@
     <div class="card">
         <h1 style="margin-bottom: 20px;">Here is where we can manually update our listing collection from Eagle API</h1>
 
-        <p>Some of these lists are really long, feel free to launch the sync and navigate away,
-            it will continue to work in the background</p>
+        <p>Some of these lists are really long and can take a minute or two to update</p>
+
+        <h2>Get latest updated properties</h2>
+        <p>Use this option to get only properties that were upated since last sync (recommended)</p>
+        <a class="btn btn-primary" href="{{ route('update') }}">Update Listings</a>
+
+        <hr>
 
         <h2>Sync active residential sales</h2>
         <p>Use this option to sync all the current residential sale listings</p>

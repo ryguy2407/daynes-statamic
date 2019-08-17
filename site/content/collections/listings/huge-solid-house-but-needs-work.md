@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ULxHEDWtQJy5aYfMWQgKcq-9AHI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435391/images'
 property_id: '435391'
 price_search: '359000.0'
-id: a992e06d-32f2-4a52-863e-8180f54e7e2a
 suburb: 'ACACIA RIDGE'
+id: a992e06d-32f2-4a52-863e-8180f54e7e2a
 ---
 This huge brick and tile home in this quiet pocket of Acacia Ridge situated on a 546m2 block is in need of an internal renovation. Originally built in the mid 1980's it features 4 bedrooms upstairs with separate lounge and dining room.
 

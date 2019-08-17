@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/4TtakjqGpQyoHJIYjDjnI1AzevU=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435375/images'
 property_id: '435375'
 price_search: '399000.0'
-id: f79e3bf3-8076-4ab7-a03f-eda20e734333
 suburb: ARCHERFIELD
+id: f79e3bf3-8076-4ab7-a03f-eda20e734333
 ---
 Offered for the first time in more than 30 years, this delightful traditional weatherboard home is full of character and beautifully presented. Featuring lofty ceilings and spacious interiors, thoughtful renovations have created a fresh and inviting home. It is easy to imaging relaxing on the front deck of this lovely high-set home, enjoying the tranquility of the leafy surrounds and friendly neighbourhood. Inside, the bright and airy spaces are kept private with the attractive etched glass windows.
 

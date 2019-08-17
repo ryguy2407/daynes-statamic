@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/R5q68CrVPaQnJGzqkCQoL3lkfFk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435615/images'
 property_id: '435615'
 price_search: null
-id: 9dfe2a89-293e-4637-a901-0d78ccb903c8
 suburb: 'COOPERS PLAINS'
+id: 9dfe2a89-293e-4637-a901-0d78ccb903c8
 ---
 5 bedroom house
 2 bathrooms

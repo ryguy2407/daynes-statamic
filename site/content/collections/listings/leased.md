@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/ccweClOETLGwASEUzk-RRv7y5wA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435636/images'
 property_id: '435636'
 price_search: null
-id: e449533b-032c-49f4-a5ce-ad9f6e504ad5
 suburb: 'ACACIA RIDGE'
+id: e449533b-032c-49f4-a5ce-ad9f6e504ad5
 ---
 This lovingly renovated home is without doubt one of the best in the area. The property boasts beautifully presented gardens, with low maintenance mature native plants and sweeping lawns. The inviting spaces continue inside with polished hardwood floors throughout and generously proportioned living areas. This home is high-set, meaning perfectly captured breezes and a beautiful outlook from the front deck. It is the small luxuries that make this home truly unique. The bathroom is a full wet-room featuring fresh neutral tiles, spa bath and a lovely custom built vanity with marble bench-top. Under the house has been renovated to include a large tiled room with plenty of storage and a single car garage. Fully fenced, flat block of land perfect for children and pets.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/tKYmtXmB0u3usX7N4r8HOez69Q0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435331/images'
 property_id: '435331'
 price_search: '369000.0'
-id: dbf4fe28-dace-41a4-8fef-482620c97a84
 suburb: 'ACACIA RIDGE'
+id: dbf4fe28-dace-41a4-8fef-482620c97a84
 ---
 This lovely high set home is located in a quiet and leafy pocket of Acacia Ridge. Relax on the front north-east facing balcony and enjoy a leafy and elevated outlook or entertain in your spacious barbecue area. Featuring highly liveable indoor and outdoor spaces for families, there is plenty of potential in this investment.
 

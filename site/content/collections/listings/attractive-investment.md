@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/5XqUljCqAE5dRs8Ly7Dh595Em-w=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435255/images'
 property_id: '435255'
 price_search: '430000.0'
-id: 6717e02b-b565-44f7-9ae1-0466e00c72f7
 suburb: 'ACACIA RIDGE'
+id: 6717e02b-b565-44f7-9ae1-0466e00c72f7
 ---
 With great street appeal, this home is set on a lovely low-maintenance block in a quiet neighbourhood. Generously proportioned both inside and out, this property is a rare offering of space and lifestyle in a low-set design. Stepping through the front door, you are welcomed by sophisticated and cool interiors, with stylish flooring and neutral colours on the walls. The entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. The generous open-plan kitchen and dining opens out through sliding doors and also overlook the grassy yard with beautiful gardens. Each of these well-appointed spaces are perfect for those who entertain and enjoy relaxing with family, both inside and out.
 

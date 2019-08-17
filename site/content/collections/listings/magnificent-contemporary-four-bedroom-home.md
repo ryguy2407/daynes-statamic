@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/__E8vBHKrSNnjI8DK8rzNH-Etps=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435084/images'
 property_id: '435084'
 price_search: '589000.0'
-id: decdc527-c943-4d83-992d-0fd85191fdaa
 suburb: TARRAGINDI
+id: decdc527-c943-4d83-992d-0fd85191fdaa
 ---
 Situated on a flat, low maintenance 405sqm block is a modern two level residence which is sure to impress you. Absolutely ideal for a family looking for a modern home in a great location with plenty of space.
 

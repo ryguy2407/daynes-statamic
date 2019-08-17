@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/imgya2mqLRD37Glxf2Brv53nmS8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435221/images'
 property_id: '435221'
 price_search: '400000.0'
-id: dae11e60-02da-4f23-9666-ad754cddb9da
 suburb: 'ACACIA RIDGE'
+id: dae11e60-02da-4f23-9666-ad754cddb9da
 ---
 Situated on a generous 741sqm flat parcel of land in one of the most convenient pockets of Acacia Ridge, this property represents a myriad of options to savvy investors and home buyers alike. Of much sought-after low-set design and functional internal layout, this home is the perfect blank slate and ripe for renovation. The internal spaces are generous and flow well, with open plan living and dining adjoining the galley-style kitchen. The three good-sized bedrooms are situated away from the main living and have large windows allowing plenty of natural light.
 

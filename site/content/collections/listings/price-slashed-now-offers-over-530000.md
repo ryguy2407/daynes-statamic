@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/DKhmBiA31_PmqDsX6WU0pB3PBTw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434853/images'
 property_id: '434853'
 price_search: '570000.0'
-id: 2e61ab3e-80cb-495e-ab65-66aa81c51093
 suburb: GREENBANK
+id: 2e61ab3e-80cb-495e-ab65-66aa81c51093
 ---
 Acreage In Greenbank - Close to all Amenities
 

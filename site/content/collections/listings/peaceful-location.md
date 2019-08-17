@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/j3CGLPCd3Ye5OpXPJmtwJkiij4Q=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435250/images'
 property_id: '435250'
 price_search: '399000.0'
-id: 9a03bc57-7102-4fb2-8b57-8051211ea6fe
 suburb: 'ACACIA RIDGE'
+id: 9a03bc57-7102-4fb2-8b57-8051211ea6fe
 ---
 This generous family home has it all for those who are seeking space and convenience. A low-maintenance, low-set design, this comfortable home represents an opportunity to under take cosmetic updates to make it truly your own. Set in a quiet pocket of Acacia Ridge with no through traffic, this property offers privacy and convenience, all on the one level! Well proportioned for comfortable family living, this home boasts plenty of space for entertaining and relaxing. The living is air conditioned and the kitchen is spacious, with enough bench space and storage to accommodate busy families. These generous open plan kitchen and dining spaces are complemented by the four well-proportioned bedrooms. Each of the bedrooms is equipped with built-in storage and the master is adjoined by an ensuite.
 

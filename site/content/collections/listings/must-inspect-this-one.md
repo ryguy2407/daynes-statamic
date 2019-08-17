@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/N9T4wyuhzTzH1oUr4nNBbkrskig=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435439/images'
 property_id: '435439'
 price_search: null
-id: f868338c-ed44-4191-9767-4f9d48afe408
 suburb: TOOWONG
+id: f868338c-ed44-4191-9767-4f9d48afe408
 ---
 *  Three double bedrooms with built-ins
 *  New kitchen with stainless steel appliances including gas stove

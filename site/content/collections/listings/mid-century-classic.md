@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/iAK5vtzxxCzpMwvbfmpLXRgB-_8=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435242/images'
 property_id: '435242'
 price_search: '350000.0'
-id: b502e927-e9d5-4a44-88bd-c7365b0f19d3
 suburb: 'ACACIA RIDGE'
+id: b502e927-e9d5-4a44-88bd-c7365b0f19d3
 ---
 This neat low-set property is your chance to secure a classic piece of mid-century design. Situated on a generous 622sqm block, this home has lovely street appeal with the striking sloped roof and tidy brick fence. The cute front patio opens off the living area and provides privacy from the street. Inside, the generous open plan living and dining flows through to the original kitchen. The kitchen, while dated, is functional and showcases the classic cabinetry. The backdoor off the kitchen leads through to the laundry and into the yard beyond. With its built in barbeque and sweeping lawns, the yard will be the delight of families with children and pets alike.
 

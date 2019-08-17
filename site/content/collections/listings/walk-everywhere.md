@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/zCsaakJYxPQ5gmIdCRBfZAnBw1E=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435590/images'
 property_id: '435590'
 price_search: null
-id: 1af1bbab-43c6-405c-a5c0-353c9d104ae4
 suburb: 'ACACIA RIDGE'
+id: 1af1bbab-43c6-405c-a5c0-353c9d104ae4
 ---
 Set in a convenient pocket of Acacia Ridge, this three bedroom family home is just a stone's throw to shops and public transport. A comfortable home, this is a property that offers ample space for the family. Internally, the air conditioned living space adjoining the large eat-in kitchen provides a great layout for busy families. The kitchen is functional with plenty of storage space, and both gas and electric facilities for cooking. There are three bedrooms, two include wardrobes. As an added bonus, there is a separate area at the back of the property which is privately screened, and can be used as an entertaining area. A lovely deck to the front of the property gives additional relaxation space and the perfect place to enjoy your morning coffee.
 

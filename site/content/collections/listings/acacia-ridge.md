@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/STvRfPCqmiGP4XERvcrT6txJ8Qg=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435620/images'
 property_id: '435620'
 price_search: null
-id: a6896d17-8350-4198-8939-53afed569592
 suburb: 'ACACIA RIDGE'
+id: a6896d17-8350-4198-8939-53afed569592
 ---
 This well presented 3 bedroom family home located in a quiet street in Acacia Ridge is only minutes from city bus and the Watson rd primary school.
 

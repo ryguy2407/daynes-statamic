@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/bsbK7s7idKJZUTcQ0hCbq7cm844=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434790/images'
 property_id: '434790'
 price_search: '560000.0'
-id: b7b7bdae-ecda-4a9d-9f14-89ddff5d5d8e
 suburb: WOOLLOONGABBA
+id: b7b7bdae-ecda-4a9d-9f14-89ddff5d5d8e
 ---
 Here we have a semi-renovated Queenslander  so close to the city.  Situated on a generous 610 sqm of land with off street parking.
 

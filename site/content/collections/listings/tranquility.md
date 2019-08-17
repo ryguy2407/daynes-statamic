@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/8FI2OdFWdKUbpv6EaMXPFfrJohs=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435184/images'
 property_id: '435184'
 price_search: '800000.0'
-id: e0f56c08-de98-4666-b943-ce2dc8ba692a
 suburb: FORESTDALE
+id: e0f56c08-de98-4666-b943-ce2dc8ba692a
 ---
 Set amongst the tranquility of beautifully forested acreage, this home is the perfect escape for those seeking more from the place they call home. More peaceful enjoyment of your own generous piece of land, more quality time with family and friends, and simply more time to relax. With high-quality, low-maintenance finishes, this home will help you rediscover that balance and help you to truly unwind. Designed with families in mind, the flowing interiors, beautifully crafted with glossy tiles, quality carpets, neutral colours and modern lighting are spacious and inviting. Stepping outside to the entertaining area, the soaring roofline of this patio maximises enjoyment and appreciation of the bushland surrounds.
 

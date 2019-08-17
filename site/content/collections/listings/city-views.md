@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/AMoXGCPCo9hHW_qx5aCecD8jMfk=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435156/images'
 property_id: '435156'
 price_search: '420000.0'
-id: 1d7a1ab9-4c39-4fe0-b3e6-7f40c0523290
 suburb: 'ACACIA RIDGE'
+id: 1d7a1ab9-4c39-4fe0-b3e6-7f40c0523290
 ---
 This stunning family home has been thoughtfully renovated to create functional and warm surrounds. Making the most of the elevated outlook over parkland with CBC views, the front deck is perfect for those who entertain. This deck flows effortlessly from the large, open plan kitchen and living spaces. The kitchen has been beautifully finished with attractive white two pac cabinetry and a layout ideally suited to busy families. From the kitchen is the large living space; these generously proportioned rooms perfectly showcasing the polished timber floors. Continuing through to the back of the house is another beautiful timber deck overlooking the leafy backyard. This home has multiple spaces for entertaining, relaxing and playing, and is sure to tick all the boxes for those looking for a value-packed home.
 

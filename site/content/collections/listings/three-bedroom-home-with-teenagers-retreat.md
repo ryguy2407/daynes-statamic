@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/7ART_P8v6SDS7GDFGKKG30V9PMs=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435310/images'
 property_id: '435310'
 price_search: '379000.0'
-id: 59c743c4-1a89-4004-99e0-2d3a85ec8165
 suburb: 'ACACIA RIDGE'
+id: 59c743c4-1a89-4004-99e0-2d3a85ec8165
 ---
 This property which is situated in one of Acacia Ridge's best streets is now offered for sale. Situated on a 665sqm elevated block which is completely fenced with established gardens. Constructed of chamfer board with a tiled roof. This home is in very good condition and will be appreciated once you view it.
 

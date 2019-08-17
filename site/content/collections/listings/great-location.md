@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/jNxXQQ3gX3k4B7RhNQKzy5Yx6xc=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435607/images'
 property_id: '435607'
 price_search: null
-id: 65285836-447b-4804-b5c1-b6598bc42c30
 suburb: TARINGA
+id: 65285836-447b-4804-b5c1-b6598bc42c30
 ---
 This 4 bedroom home is available for rent now.
 

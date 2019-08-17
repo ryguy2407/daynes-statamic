@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/WVHQ7qZb6eJ6UgqAjBIPsmC362w=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434951/images'
 property_id: '434951'
 price_search: '509000.0'
-id: 5754837b-8db4-4212-bc00-82a4fcfd7d48
 suburb: GREENSLOPES
+id: 5754837b-8db4-4212-bc00-82a4fcfd7d48
 ---
 This near new, three bedroom, two bathroom townhouse is located in a quiet Greenslopes street within a small complex of two townhouses and a renovated Queenslander.
 

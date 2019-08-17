@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/QNhyq1vphotViEgP5-iQB8qGvww=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435626/images'
 property_id: '435626'
 price_search: null
-id: 8aec543f-9fc4-4158-a585-91bfad1a7315
 suburb: 'ACACIA RIDGE'
+id: 8aec543f-9fc4-4158-a585-91bfad1a7315
 ---
 Situated close  to schools, public transport, pools and entertainment this 3 bedroom house is available for rent now.
 

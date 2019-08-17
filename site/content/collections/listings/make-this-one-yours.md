@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/zBSkQzhgKbQlcEHS7W9NNEQ6pFs=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434865/images'
 property_id: '434865'
 price_search: '339000.0'
-id: 884072d9-97e2-4c55-b553-dd47f9b07156
 suburb: 'FOREST LAKE'
+id: 884072d9-97e2-4c55-b553-dd47f9b07156
 ---
 What more could you ask for? This cute large size villa is within walking distance to the lake and Forest Lake village and also backs onto a walking track! With its cottage style interior, air conditioned living area and alarm system this property won't last long.
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/7-C-wa566LiShOc7hscfEQvP5Qg=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435392/images'
 property_id: '435392'
 price_search: '439000.0'
-id: 4cf6eed6-9f11-4518-9943-95945145267b
 suburb: 'ACACIA RIDGE'
+id: 4cf6eed6-9f11-4518-9943-95945145267b
 ---
 Firstly we have the fully renovated three bedroom house at front of the property which has been tastefully done. Brand new kitchen with new stainless steel appliances, a new bathroom, polished timber hardwood floors which look an absolute treat. Totally repainted internally. The property is totally fenced with a remote electric gate for additional security.
 

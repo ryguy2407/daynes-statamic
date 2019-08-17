@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/CFMN5Q8QDJePWfgfMqi-PoNC_TM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435146/images'
 property_id: '435146'
 price_search: '425000.0'
-id: 82ab4352-aa45-4271-8d00-b48e31c34c75
 suburb: 'ACACIA RIDGE'
+id: 82ab4352-aa45-4271-8d00-b48e31c34c75
 ---
 Sitting proudly in one of Acacia Ridge’s most sought-after pockets is this chamferboard high-set home with a lovely elevated aspect. Stepping off the front balcony is the generous open plan living and dining space, flowing effortlessly into the large kitchen and back verandah beyond. This stunning timber verandah with modern balustrades and sized to capitalise on the elevated views is truly the highlight of this property. With such a convenient layout, it is easy to imagine enjoying relaxing in this lovely family home. Hardwood timber floors to the living, dining and bedrooms showcase the solid construction of this home and really highlight why these homes are so sought-after by first home owners and investors alike.
 

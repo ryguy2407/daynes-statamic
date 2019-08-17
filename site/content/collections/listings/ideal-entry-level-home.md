@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/TGs9O3EqqNad84aaWr028_pZsLs=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435320/images'
 property_id: '435320'
 price_search: '325000.0'
-id: de2801d3-db70-4498-a9cf-3e7546fbe12e
 suburb: 'ACACIA RIDGE'
+id: de2801d3-db70-4498-a9cf-3e7546fbe12e
 ---
 This three bedroom high-set home is situated on a generous 675sqm block in a quiet and leafy pocket of Acacia Ridge. This home presents a great opportunity for entry-level buyers who are willing to put in some work to value-add and give it their own personal touch. A comfortable home as is so renovate at your own pace.
 

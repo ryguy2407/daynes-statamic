@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/iteM5wxcgLQxANEAeivLVCnQA1E=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435571/images'
 property_id: '435571'
 price_search: null
-id: d4e6f4c1-98c4-4faf-a0f5-a67f96153dde
 suburb: 'ACACIA RIDGE'
+id: d4e6f4c1-98c4-4faf-a0f5-a67f96153dde
 ---
 This fresh family property is spacious and comfortable, perfect for those needing a little extra from their next home. Freshly painted internally and externally, this is a neat and tidy place to call home. Low-maintenance finishes throughout the interiors, with timber floors to the living and bedrooms, and tiles to the kitchen and bathroom give this property great appeal. Boasting four generous bedrooms set privately away from the living spaces, this property is a desirable and much sought-after configuration. The large eat-in kitchen is neat and tidy, with dishwasher and tiled flooring. Likewise, the family bathroom is spacious and conveniently incorporates the laundry, ideal for busy families.  Outside, the compact yard is a lovely space to relax and entertain in your elevated and breezy position.
 

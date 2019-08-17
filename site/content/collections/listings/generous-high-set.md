@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/SCv4JjpyDplvEV1X13zlR6uNDpI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435368/images'
 property_id: '435368'
 price_search: '390000.0'
-id: b4922047-e7b9-44d8-bbbb-25077629d3cf
 suburb: 'ACACIA RIDGE'
+id: b4922047-e7b9-44d8-bbbb-25077629d3cf
 ---
 This property has it all for lifestyle and functionality, a beautifully presented family home situated in a quiet pocket of Acacia Ridge. Sitting behind the pretty white picket fence sits this high-set chamfer board home which will surely be the delight of the lucky future owners. The easy layout of this home promises plenty of space for a growing family. The open-plan combined living and kitchen space steps down to a lovely undercover entertaining area, overlooking the leafy backyard. Completely flat, fully fenced and private, the front and back yards afford a generous piece of land to enjoy.
 

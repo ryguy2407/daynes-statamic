@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/bh_VkJN8F6SzSfpZC3guI48_5CE=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434794/images'
 property_id: '434794'
 price_search: '385000.0'
-id: 8d39fd94-539d-4f3b-a9de-9c41cd169558
 suburb: 'CARINA HEIGHTS'
+id: 8d39fd94-539d-4f3b-a9de-9c41cd169558
 ---
 You will love this brand new 2 bedroom tri-level townhouse, it has everything you need.  Live in an exclusive 5 townhouse complex close to transport and shopping centres.
 

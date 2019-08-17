@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/wZCrVKGXrYujPBSqfszYD_v04ZA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435408/images'
 property_id: '435408'
 price_search: '349000.0'
-id: 8c4dba5f-d434-4378-9658-13eb330064af
 suburb: CHUWAR
+id: 8c4dba5f-d434-4378-9658-13eb330064af
 ---
 This property is leased through the National Rental Affordable Scheme (NRAS). The NRAS period for this property expires on 09/05/2022 which means you have approximately a further 9 years of benefits from the scheme.
 

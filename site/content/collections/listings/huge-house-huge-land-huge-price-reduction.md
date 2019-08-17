@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/yu8at2hutpaBltXNw1kwVHExtBI=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435056/images'
 property_id: '435056'
 price_search: '790000.0'
-id: ce16cf7c-3983-4d17-9c05-d81d531255ce
 suburb: SAMSONVALE
+id: ce16cf7c-3983-4d17-9c05-d81d531255ce
 ---
 ***The owner has reduced the price from $839,000 to now best offer over $790,000. Don't miss your chance! ***
 

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/wiuCROcUlFc8QRCfA92ehgRwwJ0=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434903/images'
 property_id: '434903'
 price_search: '365000.0'
-id: dccc5b91-1198-4690-83f0-6f61d2cc1a17
 suburb: MOOROOKA
+id: dccc5b91-1198-4690-83f0-6f61d2cc1a17
 ---
 Secure this lovely three-bedroom, two bathroom townhouse in a complex of 30.
 Moorooka is only 8km to the city and this townhouse is close to all amenities.

@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/mdnBq_zG0PCZHQnlF6fG68tCGAY=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435449/images'
 property_id: '435449'
 price_search: null
-id: 6b1194db-fa2b-478f-9b92-8381e327e7ed
 suburb: JINDALEE
+id: 6b1194db-fa2b-478f-9b92-8381e327e7ed
 ---
 *  Stand alone studio flat
 *  Modern, good sized kitchen

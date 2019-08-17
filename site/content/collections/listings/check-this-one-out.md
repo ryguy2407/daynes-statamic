@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/to0Yntn7_iYOSCVM84kqvJ8cgNM=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/434848/images'
 property_id: '434848'
 price_search: '275000.0'
-id: a482e1a3-13f7-4123-86e1-3c5d7561135a
 suburb: ALGESTER
+id: a482e1a3-13f7-4123-86e1-3c5d7561135a
 ---
 This two-bedroom townhouse is a beauty.
 

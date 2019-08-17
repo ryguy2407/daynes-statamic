@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/CvWx-U6WhYv-G0UK3G2swZ0ULNw=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435314/images'
 property_id: '435314'
 price_search: '539000.0'
-id: 70f1f29d-f8c6-4817-8f1c-65959c282f58
 suburb: PARKINSON
+id: 70f1f29d-f8c6-4817-8f1c-65959c282f58
 ---
 This home brings together the best for suburban family lifestyle.
 

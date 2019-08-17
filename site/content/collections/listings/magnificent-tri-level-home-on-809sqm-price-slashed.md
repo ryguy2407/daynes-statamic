@@ -13,8 +13,8 @@ main_image: 'https://img.eagleagent.com.au/392MKjLJSWO_X1IRqFe88jTuhuA=/1280x854
 images: 'http://www.eagleagent.com.au/api/v2/properties/435079/images'
 property_id: '435079'
 price_search: '749000.0'
-id: 2597ada0-0c1b-43a5-8207-2540e4c003b3
 suburb: SALISBURY
+id: 2597ada0-0c1b-43a5-8207-2540e4c003b3
 ---
 Situated on a fully landscaped 809sqm block in one of Salisbury's best streets, sits a massive contemporary home that should tick all the boxes even for the largest of families.
 
