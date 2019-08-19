@@ -50,4 +50,9 @@ class CRMListingsController extends Controller
     {
 
     }
+
+    public function getImages()
+    {
+        return $this->sync->getImages(request('url'));
+    }
 }

@@ -1,4 +1,9 @@
-<div id="demo" class="carousel slide my-5" data-ride="carousel" style="position:relative;">
+<div class="loading text-center">
+    <h1>Loading images....</h1>
+    <img src="{{ theme:img src='ajax-loader.gif' }}" width="200">
+</div>
+
+<div id="demo" class="carousel slide my-5" data-ride="carousel" style="position:relative;display: none;">
 
     <div class="overlay p-5">
         <h2 style="color: #fff;">{{ title }}</h2>
@@ -9,18 +14,12 @@
 
     <!-- Indicators -->
     <ul class="carousel-indicators">
-        {{ c_r_m_listings:images images="{{ images }}" }}
-            <li data-target="#demo" data-slide-to="{{ zero_index }}" class="{{ if first }}active{{ /if }}"></li>
-        {{ /c_r_m_listings:images }}
+
     </ul>
 
     <!-- The slideshow -->
     <div class="carousel-inner">
-        {{ c_r_m_listings:images images="{{ images }}" }}
-        <div class="carousel-item {{ if first }}active{{ /if }}" data-interval="5000">
-            <img src="{{ imageUrl }}" style="width: 100%;margin-top: -100px">
-        </div>
-        {{ /c_r_m_listings:images }}
+
     </div>
 
     <!-- Left and right controls -->
@@ -89,4 +88,28 @@
 </script>
 <script async defer
         src="https://maps.googleapis.com/maps/api/js?key={{ env:GOOGLEAPI }}&callback=initMap">
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    jQuery(document).ready(function($){
+        $.ajax({
+            url: "/!/c_r_m_listings/images?url={{ images }}",
+            success: function(result) {
+                $('div.loading').hide();
+                $('div.carousel').fadeIn();
+                result.forEach(function(data, index){
+
+                    function isActive(index) {
+                        if(index == 0) {
+                            return 'active';
+                        }
+                    }
+
+                    $('ul.carousel-indicators').append('<li data-target="#demo" data-slide-to='+index+' class="'+ isActive(index) +'"></li>');
+                    $('div.carousel-inner').append('<div class="carousel-item '+ isActive(index) +'" data-interval="5000"><img src="'+data.imageUrl+'" style="width: 100%;margin-top: -100px"></div>');
+                });
+            }
+        });
+    });
 </script>
