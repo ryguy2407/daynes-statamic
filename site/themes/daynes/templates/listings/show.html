@@ -9,6 +9,7 @@
         <h2 style="color: #fff;">{{ title }}</h2>
         <h4 style="color: #fff">{{ property_type }} - {{ listing_type | deslugify | title }}</h4>
         <h4 style="color: #fff;">{{ price }}</h4>
+        <h5 style="background: #444;padding: 5px 10px;border-radius: 5px;color:#fff;display: inline-block;">{{ status }}</h5>
     </div>
 
 
@@ -57,6 +58,7 @@
     <div id="map"></div>
 </div>
 
+<!--GOOGLE STUFF-->
 <script>
     // Initialize and add the map
     function initMap() {
@@ -90,6 +92,7 @@
         src="https://maps.googleapis.com/maps/api/js?key={{ env:GOOGLEAPI }}&callback=initMap">
 </script>
 
+<!--AJAX IMAGE LOADING-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
     jQuery(document).ready(function($){

@@ -68,32 +68,12 @@
     </div>
 </form>
 
-<div class="listings d-flex flex-wrap justify-content-start">
-    {{ collection:listings status:contains="Active" limit="20"}}
-        <div class="listing col-lg-4">
-            <a href="{{ url }}">
-                <img src="{{ main_image }}" style="width: 100%;">
-            </a>
+    {{ collection from="listings" status:contains="Active" limit="9" paginate="true" as="listing" }}
 
-            <h5 class="title m-0">{{ title }}</h5>
-            <div class="details">
-                <ul class="d-flex justify-content-between m-0 flex-wrap">
-                    {{ if landarea }}
-                        <li class="mb-4"><i class="fas fa-ruler-combined mr-2"></i>{{ landarea }} m2</li>
-                    {{ endif }}
-                    {{ if bedrooms }}
-                        <li><i class="fas fa-bed mr-2"></i>{{ bedrooms }} Bedrooms</li>
-                    {{ endif }}
-                    {{ if bathrooms }}
-                        <li><i class="fas fa-bath mr-2"></i>{{ bathrooms }} Bathrooms</li>
-                    {{ endif }}
-                </ul>
-                <hr class="m-0">
-                {{ if price }}
-                    <h4 class="m-0">{{ price }}</h4>
-                {{ /if }}
-            </div>
-        </div>
-    {{ /collection:listings }}
-</div>
+        {{ if no_results }}
+            <h4 class="mb-5">Sorry, there are no {{ get:status }} properties in {{ get:suburb }} at this time.</h4>
+        {{ /if }}
+
+        {{ partial:list }}
+    {{ /collection }}
 

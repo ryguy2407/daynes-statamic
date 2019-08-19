@@ -10,9 +10,9 @@ $(function(){
 });
 
 function animateTopBar(element, scrollPos) {
-    if(scrollPos <= 40) {
+    if(scrollPos <= 10) {
         element.removeClass('topBar-scroll');
-    } else if(scrollPos > 100) {
+    } else if(scrollPos > 70) {
         element.addClass('topBar-scroll');
     }
 }

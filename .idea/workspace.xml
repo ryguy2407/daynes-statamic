@@ -2,461 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cbf393f-363a-4ecb-8d28-7dcb3725bf11" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/1062sqm-subdivision-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/1214sqm-general-industry.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/3-bedroom-highset.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/653sqm-lmr-in-leafy-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/711sqm-lmr.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/834sqm-double-block.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/834sqm-flat-block-with-studio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/847-sqm-of-potential-for-the-astute-buyer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/880sqm-lmr-block.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/a-coorparoo-gem.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/a-moorooka-cheapie.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/a-must-see-for-investors.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridge-cheapie.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridges-cheapest-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/act-quickly-brand-new-townhouse-no-body-corp-fees.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-family-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-four-bedroom-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-housing-under-the-national-rental-affordability-scheme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-starter-home-with-huge-back-deck.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/air-conditioned-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/amazing-opportunity-in-prestigious-development.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/amazing-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/amazing-views.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/attention-all-first-home-buyers-price-reduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/attention-all-first-home-buyers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/attention-investors-affordable-nras-property.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/attractive-investment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/back-on-the-market-three-bedroom-townhouse-in-secure-complex.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/back-on-the-market-townhouse-and-management-rights.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/bang-for-your-buck.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-quick-lots-of-room-and-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-quick-with-this-beauty-work-from-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-quick-with-this-one.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-surprised-very-surprised.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/beach-gem.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautiful-brand-new-townhouse-no-body-corp-fees-one-sold-one-left.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautiful-family-home-with-leafy-outlook.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautiful-home-fully-furnished.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautifully-presented-home-in-convenient-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautifully-presented.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautifully-renovated-cottage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/blackwood-road-renovator-price-reduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/blank-canvas.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-great-position-great-price.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-townhouse-no-body-corp-fees-one-sold-one-left.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-townhouse-no-body-corp-fees.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/breezy-elevated-position.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/bright-and-airy-townhouse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/bursting-with-value.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cbd-livingsuburb-prices.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/character-and-convenience.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/charming-cottage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/charming-family-home-overlooking-parkland.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-cheerful.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-flat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-ground-floor.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/check-this-one-out.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/city-views.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/classic-entertaining-with-rumpus.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/classic-post-war-on-759sqm.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/classic-renovated-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/close-to-everything-price-slashed-by-30000.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/contract-crashed-submit-all-offers-leafy-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/contract-crashed-well-presented-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/contract-crashedback-on-the-market.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/convenient-lifestyle.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/convenient-low-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/convenient-modern-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/coopers-plains.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cottage-at-the-top-of-highgate-hill.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cottage-on-607sqm-lmr.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cream-of-the-crop.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-2-bedroom-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-acacia-ridge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-coopers-plains.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-leafy-gardens.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-on-683sqm-lmr.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-with-double-carport.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-with-lovely-gardens.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-replica-queenslander-with-new-kitchen.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-three-bedroom-cottage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/definately-the-best-you-will-find.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/delightful-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/dual-living-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/dual-living-lmr-zoned.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/dual-living-on-hemsworth.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/dual-living-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/easy-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/effortless-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-and-peaceful.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-and-private.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-breezy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/entertain-your-friends-and-family.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/entry-level-sunnybank.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/entry-level-with-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/epitome-of-modern-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/excellent-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/exceptional-presentation-quality.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/exciting-richlands-investment-with-development-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/executive-townhouse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/exquisite-views-exceptional-quality.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fabulous-and-comfortable.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/family-entertainer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/family-home-in-serene-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fantastic-inner-city-investmentfirst-home-fully-furnished.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyer-this-could-be-for-you.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyer-this-is-for-you.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyers-astute-investors-should-inspect.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyers-check-this-one-out.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-owners-special.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-in-first-served.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-to-see-will-buy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/five-bedroom-home-check-out-the-price.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/flame-tree-apartments-stage-two.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/flat-855sqm-block.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/flexible-living-in-mind-under-offer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/four-bedroom-house-at-back-of-small-complex.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/four-bedroom-study-renovated-queenslander-in-greenslopes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-and-modern.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-easy-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-four-bedroom.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-home-potential-plus.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-low-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-three-bedroom-cottage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/freshly-renovated-3-bedroom-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-fenced-and-convenient.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-furnished-ideal-for-students.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-furnished-studio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-from-head-to-toe.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-in-leafy-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-student-accommodation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/funky-private-retreat-price-reduced.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/generous-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/generous-high-set-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/generous-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/good-bones.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/gorgeous-high-set-on-759sqm.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/granny-flat-in-quiet-peaceful-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-buying-in-salisbury.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-entry-level-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-for-first-home-buyers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-investment-opportunity-8km-from-cbd.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-investment-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-lifestyle-low-maintenance.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-potential-with-great-address.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-starter.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-townhouse-in-secure-complex.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-two-bedroom-unit-in-yeronga.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-unit-at-a-great-price.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-unit-in-ultra-handy-position-price-reduced-by-20000.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-value-great-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-value-in-toowong.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-value-in-woolloongabba.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ground-floor-two-bedroom-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/hidden-gem.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/high-on-hemsworth.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/high-set-family-home-in-serene-setting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/high-set-three-bedroom-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/hits-the-high-note.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/homely-and-welcoming.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/hot-renovation-project.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/huge-house-huge-land-huge-price-reduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/huge-solid-house-but-needs-work.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ideal-entry-level-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ideal-investment-cash-flow-positive.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ideal-tenanted-investment-property.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/immaculate-original-condition.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/immaculate-presentation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/immaculate-renovation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/inner-city-rural-paradise-just-7km-from-the-city.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/investment-opportunity-in-moorooka.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/investors-check-this-one-out.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/investors-how-can-you-go-past-this-one.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/investors-will-love-this-one.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/inviting-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/its-an-investors-year.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/just-needs-an-external-paint-but-has-so-much-to-offer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/large-4-bedroom-family-home-plus-study.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/large-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/large-family-no-problem.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lawn-maintenance-included.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-and-private.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-entertainer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-retreat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/leased.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lifestyle-and-functionality.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lifestyle-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lmr-development-site-in-handy-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lmr-zoned-gem.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/location-and-luxury.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/looking-for-quality-value-for-money.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/looks-can-be-deceiving.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-cottage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-fresh-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-high-set-entertainer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-highset-backing-onto-parkland.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-highset-on-hemsworth.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-home-on-716sqm-lmr.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-home-with-large-shed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-leafy-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-low-set-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-low-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-modern-home-great-for-entertaining.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-refurbished-flat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-renovated-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-renovated-room-in-dutton-park-three-rooms-available.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-three-bedroom-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/low-maintenance-and-private.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/low-maintenance-brick-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/low-maintenance-lifestyle.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/low-set-with-high-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/lush-gardens-tranquil-surrounds.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/magnificent-contemporary-four-bedroom-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/magnificent-river-and-city-views.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/magnificent-tri-level-home-on-809sqm-price-slashed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/make-an-offer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/make-this-one-yours.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/mamma-mia-this-is-the-one.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/massive-price-reduction-fully-renovated-queenslander-with-city-views.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/mid-century-classic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-and-stylish.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-apartment-in-convenient-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-apartment-with-great-convenience-including-double-garage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-brick-and-tile-lowset-price-reduced.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-brick-home-priced-to-sell-439000.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-granny-flat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-lifestyle.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-near-new-lowset-brick-tile-must-be-sold.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-two-bedroom-apartment-in-quiet-complex.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-two-bedroom-unit-close-to-griffith-uni.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/moorooka-townhouse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/move-straight-in.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-be-sold-large-four-bedroom-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-be-sold-make-an-offer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-inspect-this-one.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-sell-all-offers-over-650k-considered-971sqm-block-very-close-to-corso.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/near-new-freehold-townhouse-no-body-corporate-fees.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-and-tidy-on-599sqm-lmr.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-and-tidy-student-share-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-and-tidy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-as-a-pin-six-month-lease-only.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-as-a-pin.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy-one-bedroom-flat-cheap.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy-with-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/newly-renovated-3-bedroom-student-accommodation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/not-to-be-missed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nothing-to-do-but-move-in-and-enjoy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nothing-to-do-except-move-in.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/now-this-is-value.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-12km-from-brisbane-cbd.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-in-stylish-quiet-complex.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-modern-townhouse-in-great-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-stylish-three-bedroom-townhouse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-property-ground-floor-two-bedroom-modern-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-property-ground-floor-two-bedroom-two-bathroom-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-property-two-bedroom-modern-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-two-bedroom-ground-floor-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-two-bedroom-modern-unit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/one-bedroom-apartment-in-woolloongabba.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/one-of-a-kind.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/one-of-the-best-homes-in-this-estate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/open-plan-entertainer-price-reduced.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/original-high-set-with-amazing-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/outdoor-living-at-its-best.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-position-build-your-new-home-here.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-low-maintenance.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-unbeatable-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-you-wont-buy-better-at-this-price.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/owner-wants-this-sold-make-an-offer-today.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/oxley-brick-home-with-opportunity-to-add-your-own-touches.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/peaceful-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/peaceful-setting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/perfect-for-griffith-university-public-transport.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/perfect-lmr-development-site.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/piece-of-paradise.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/plenty-of-potential-on-733sqm.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/plenty-of-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/position-and-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/possibly-the-best-home-in-this-estate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/post-war-home-in-the-heart-of-moorooka.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/potential-plus.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/potential-subdivision-in-moorooka.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/practicality-and-convenience.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/practicality-plus.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-reduced-rock-solid-investment-outstanding-value.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-reduced-to-549000-you-just-cant-buy-better-then-this.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-reduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-now-offers-over-530000.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-to-329000.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-we-challenge-you-to-find-a-better-townhouse-at-this-price.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/priced-to-sell.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-acacia-ridge-lmr-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-position-lmr.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-position.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-and-tranquil.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-convenient.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-entertainer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-family-oasis-on-749sqm.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-family-retreat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-lifestyle.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-retreat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-sanctuary.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-convenient-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-convenient.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-inner-city-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-three-bedroom-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-three-bedroom-highset.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-development-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-find-huge-family-home-in-acacia-ridge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-find-in-moorooka.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-high-end-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-lmr-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-opportunity-582sqm-prime-land.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-for-renovation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-set-go-under-contract.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-set-renovate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-to-renovate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/refurbished-three-bedroom-beauty-top-floor-only.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/refurbished-two-bedroom-home-close-to-everything.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovate-me.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-dual-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-four-bedroom-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-granny-flat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-highset-huge-rumpus-area.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-home-overlooking-park.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovators-dream.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rental-return-renovate-or-remodel.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/residential-house-industrial-zoning.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/retro-on-the-park.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ripe-for-renovation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/river-precinct-property.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rock-solid-investment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/rock-solid.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/roomy-townhouse-with-a-view.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/safe-as-houses-but-better-return.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/semi-furnished-paradise.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/serene-location-rare-investment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/so-close-to-the-city.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-by-daynes-property.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-by-daynes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-off-market.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-very-quickly-if-you-wish-to-sell-just-give-us-a-call.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/solid-home-with-plenty-of-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/something-quite-special.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/sophisticated-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/spacious-and-inviting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/spacious-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/striking-design.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-accommodation-great-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-accommodation-walking-distance-to-griffith-uni.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-share-accom-one-room-available.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-share-house-one-room-available.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-share-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/studio-apartment-would-suit-single-person-only.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/studio-apartment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/stunning-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/stunning-high-set.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/stunning-sunsets.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/stylish-design.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/stylish-home-on-769sqm-all-offers-considered.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/sub-division-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/summer-here-we-come.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/summer-ready.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/super-cheap-cute-cottage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/the-beauty-of-dual-living.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/the-jewel-in-the-crown.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/the-original-entertainer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/this-home-certainly-deserves-your-attention.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-home-with-teenagers-retreat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse-in-wishart.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse-in-yeronga.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-unit-in-toowong-under-400k-recently-renovated.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-up-market-townhouse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/tidy-low-maintenance.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/tiled-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/townhouse-in-moorooka.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquil-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquil-retreat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquil-setting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquility.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/two-bedroom-unit-in-lovely-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/two-prime-lmr-development-sites-rare.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/two-story-highset.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ultimate-lifestyle-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ultra-convenience.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/ultra-convenient-yet-private-location-under-contract.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/unbeatable-value-your-own-private-retreat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-at-first-open-house.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-bright-airy-and-neat-as-a-pin.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-call-us-for-your-free-market-appraisal.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-exceptional-presentation-must-inspect.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-happy-to-sell-more-we-always-have-buyers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-lovely-highset-on-hemsworth.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-neat-tidy-with-potential.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-outstanding-value-in-moorooka.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-private-family-home-in-great-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-renovated-two-bedroom-unit-in-great-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-spacious-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-the-one-you-have-been-waiting-for.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-within-24-hours-ready-for-renovation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/undoubtedly-the-best-location-in-acacia-ridge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-arrangement-with-plenty-of-options.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-investment-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-opportunity.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-private-family-retreat-on-double-block.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/value-packed-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/value-packed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/versatile-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/very-motivated-vendor-drastically-reduced.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/very-well-presented-solid-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/walk-everywhere.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/walk-to-train-school-large-shed-at-rear.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/walking-distance-to-qe2-hospital.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/walking-distance-to-qut-great-location.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/warm-and-welcoming.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/warm-family-home-with-granny-flat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/warm-family-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/we-challenge-you-to-find-better.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/welcome-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/well-below-replacement-value.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/well-kept-original-charm-with-great-enclosed-entertaining-area.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/well-presented-home-act-quickly.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/what-a-beauty.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/who-wants-me.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/work-from-home.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/wow-a-townhouse-with-its-own-huge-backyard.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-cannot-buy-better-than-this-price-reduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-cannot-go-wrong-at-this-price-275000.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-just-cant-go-wrong-with-this-one.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-little-beauty.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/site/content/collections/listings/your-next-project.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site/themes/daynes/partials/slideshow.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/SyncListings.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/Repositories/SyncListings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/storage/addons/CRMListings/lastsync" afterPath="$PROJECT_DIR$/site/storage/addons/CRMListings/lastsync" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/js/daynes.js" afterPath="$PROJECT_DIR$/site/themes/daynes/js/daynes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/partials/list.html" afterPath="$PROJECT_DIR$/site/themes/daynes/partials/list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html" />
     </list>
     <ignored path="daynesproperty.iws" />
@@ -479,12 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SyncListings.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/Repositories/SyncListings.php">
+      <file leaf-file-name="show.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.5115151">
-              <caret line="74" column="65" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="65" />
-              <folding />
+            <state vertical-scroll-proportion="0.6787879">
+              <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+                <marker date="1566188840290" expanded="true" signature="4013:4043" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -497,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/errors/validation.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/edit.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
@@ -521,7 +79,6 @@
         <option value="$PROJECT_DIR$/site/settings/routes.yaml" />
         <option value="$PROJECT_DIR$/site/settings/fieldsets/listings.yaml" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/agents/index.html" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/js/daynes.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/site/themes/daynes/sass/sections/header.scss" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/pages/show.html" />
@@ -543,11 +100,13 @@
         <option value="$PROJECT_DIR$/site/storage/addons/CRMListings/lastsync" />
         <option value="$PROJECT_DIR$/site/addons/CRMListings/routes.yaml" />
         <option value="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
         <option value="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" />
         <option value="$PROJECT_DIR$/site/themes/daynes/partials/slideshow.html" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html" />
         <option value="$PROJECT_DIR$/site/addons/CRMListings/Repositories/SyncListings.php" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/partials/list.html" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/js/daynes.js" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html" />
       </list>
     </option>
   </component>
@@ -754,92 +313,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="elements" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -892,33 +365,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="statamic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daynesproperty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="storage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CRMListings" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -937,6 +384,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statamic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daynesproperty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="listings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1180,10 +653,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="157" y="23" width="1263" height="877" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940617" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940617" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1393,13 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/js/daynes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10181818">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/daynes/sass/sections/header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19172932">
@@ -1559,35 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4751515">
-          <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
-          <folding>
-            <marker date="1565947498177" expanded="true" signature="244:4205" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="269:907" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="943:4196" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="976:3156" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1005:1184" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1072:1169" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1211:3142" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1247:3127" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1305:3108" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1359:1463" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1672:1768" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1870:3085" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="1918:3058" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="2103:2230" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="2347:2913" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="2541:2644" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="2753:2871" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="3202:3244" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="3258:3471" placeholder="..." />
-            <marker date="1565947498177" expanded="true" signature="3307:3457" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/content/collections/listings/folder.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37333333">
@@ -1595,33 +1032,6 @@
           <folding>
             <marker date="1565780123321" expanded="true" signature="59:97" placeholder="columns:" />
             <marker date="1565780123321" expanded="true" signature="98:142" placeholder="searchable:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/partials/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.2739394">
-          <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-          <folding>
-            <marker date="1565948889848" expanded="true" signature="60:957" placeholder="..." />
-            <marker date="1565948889848" expanded="true" signature="113:931" placeholder="..." />
-            <marker date="1565948889848" expanded="true" signature="142:217" placeholder="..." />
-            <marker date="1565948889848" expanded="true" signature="191:203" placeholder="..." />
-            <marker date="1565948889848" expanded="true" signature="295:920" placeholder="..." />
-            <marker date="1565948889848" expanded="true" signature="365:831" placeholder="..." />
-            <marker date="1565948889848" expanded="true" signature="1020:2538" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23757575">
-          <caret line="7" column="61" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="61" />
-          <folding>
-            <marker date="1565949099962" expanded="true" signature="16:123" placeholder="..." />
-            <marker date="1565949099962" expanded="true" signature="38:116" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1680,47 +1090,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769697">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <marker date="1566082303726" expanded="true" signature="29:858" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="112:204" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="143:189" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="272:379" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="303:364" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="444:574" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="639:811" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="681:796" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="952:2112" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="995:2104" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="1021:1339" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="1108:1324" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="1365:1631" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="1458:1616" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="1657:1937" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="1744:1922" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="1983:2093" placeholder="..." />
-            <marker date="1566082303726" expanded="false" signature="2050:2062" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="2175:3288" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="2279:3250" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="2312:2395" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="2365:2377" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="2481:3235" placeholder="..." />
-            <marker date="1566082303726" expanded="true" signature="2555:3073" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/pages/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30545455">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68421054">
@@ -1762,14 +1131,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/partials/slideshow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/CRMListingsTags.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4909091">
@@ -1785,51 +1146,158 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10181818">
-          <caret line="36" column="74" selection-start-line="36" selection-start-column="74" selection-end-line="36" selection-end-column="74" />
-          <folding>
-            <marker date="1566186967211" expanded="true" signature="32:137" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="211:243" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="244:947" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="275:484" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="296:308" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="346:357" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="444:456" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="547:558" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="619:631" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="738:804" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="873:939" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="1020:1037" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="1038:1486" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="1526:1543" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="1544:1713" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="1723:2832" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="1782:2823" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="2099:2817" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="2252:2805" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="2291:2673" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="2408:2653" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="2679:2791" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="2853:2958" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="3057:3945" placeholder="..." />
-            <marker date="1566186967211" expanded="true" signature="3097:3934" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="3114:3926" placeholder="{&quot;url&quot;: &quot;/!/c_r_m_listings/images?url={{ images }}&quot;...}" />
-            <marker date="1566186967211" expanded="true" signature="3216:3916" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="3355:3900" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="3403:3538" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="3444:3516" placeholder="{...}" />
-            <marker date="1566186967211" expanded="true" signature="3841:3871" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/Repositories/SyncListings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.5115151">
           <caret line="74" column="65" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="65" />
+          <folding>
+            <marker date="1566187758073" expanded="true" signature="105:3092" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="169:196" placeholder="{...}" />
+            <marker date="1566187758073" expanded="true" signature="294:953" placeholder="{...}" />
+            <marker date="1566187758073" expanded="true" signature="576:771" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="640:708" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="863:928" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="995:2767" placeholder="{...}" />
+            <marker date="1566187758073" expanded="true" signature="999:1315" placeholder="//..." />
+            <marker date="1566187758073" expanded="true" signature="1333:2259" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="2357:2367" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="2394:2404" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="2492:2572" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="2580:2763" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="2689:2732" placeholder="..." />
+            <marker date="1566187758073" expanded="true" signature="2803:3090" placeholder="{...}" />
+            <marker date="1566187758073" expanded="true" signature="2994:3062" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23757575">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="61" />
+          <folding>
+            <marker date="1565949099962" expanded="true" signature="16:123" placeholder="..." />
+            <marker date="1565949099962" expanded="true" signature="38:116" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/partials/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23757575">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <marker date="1566188179279" expanded="true" signature="60:959" placeholder="..." />
+            <marker date="1566188179279" expanded="true" signature="113:933" placeholder="..." />
+            <marker date="1566188179279" expanded="true" signature="142:217" placeholder="..." />
+            <marker date="1566188179279" expanded="true" signature="191:203" placeholder="..." />
+            <marker date="1566188179279" expanded="true" signature="297:922" placeholder="..." />
+            <marker date="1566188179279" expanded="true" signature="367:833" placeholder="..." />
+            <marker date="1566188179279" expanded="true" signature="1022:2540" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/pages/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10181818">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="10" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3757577">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <marker date="1566188277608" expanded="true" signature="29:858" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="112:204" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="143:189" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="272:379" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="303:364" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="444:574" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="639:811" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="681:796" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="952:2112" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="995:2104" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="1021:1339" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="1108:1324" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="1365:1631" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="1458:1616" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="1657:1937" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="1744:1922" placeholder="..." />
+            <marker date="1566188277608" expanded="true" signature="1983:2093" placeholder="..." />
+            <marker date="1566188277608" expanded="false" signature="2050:2062" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/collections/listings/847-sqm-of-potential-for-the-astute-buyer.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33939394">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6630303">
+          <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
+          <folding>
+            <marker date="1565947498177" expanded="true" signature="244:4205" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="269:907" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="943:4196" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="976:3156" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1005:1184" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1072:1169" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1211:3142" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1247:3127" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1305:3108" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1359:1463" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1672:1768" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1870:3085" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="1918:3058" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="2103:2230" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="2347:2913" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="2541:2644" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="2753:2871" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="3202:3244" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="3258:3471" placeholder="..." />
+            <marker date="1565947498177" expanded="true" signature="3307:3457" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/js/daynes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4751515">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <marker date="1566188757956" expanded="true" signature="12:229" placeholder="{...}" />
+            <marker date="1566188757956" expanded="true" signature="129:225" placeholder="{...}" />
+            <marker date="1566188757956" expanded="true" signature="276:432" placeholder="{...}" />
+            <marker date="1566188757956" expanded="true" signature="302:355" placeholder="{...}" />
+            <marker date="1566188757956" expanded="true" signature="380:430" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6787879">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <marker date="1566188840290" expanded="true" signature="4013:4043" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
