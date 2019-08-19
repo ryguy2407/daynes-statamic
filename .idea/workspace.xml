@@ -2,440 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cbf393f-363a-4ecb-8d28-7dcb3725bf11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" afterPath="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/addons/CRMListings/routes.yaml" afterPath="$PROJECT_DIR$/site/addons/CRMListings/routes.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/1062sqm-subdivision-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/1062sqm-subdivision-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/1214sqm-general-industry.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/1214sqm-general-industry.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/3-bedroom-highset.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/3-bedroom-highset.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/653sqm-lmr-in-leafy-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/653sqm-lmr-in-leafy-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/711sqm-lmr.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/711sqm-lmr.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/834sqm-double-block.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/834sqm-double-block.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/834sqm-flat-block-with-studio.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/834sqm-flat-block-with-studio.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/847-sqm-of-potential-for-the-astute-buyer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/847-sqm-of-potential-for-the-astute-buyer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/880sqm-lmr-block.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/880sqm-lmr-block.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/a-coorparoo-gem.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/a-coorparoo-gem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/a-moorooka-cheapie.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/a-moorooka-cheapie.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/a-must-see-for-investors.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/a-must-see-for-investors.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridge-cheapie.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridge-cheapie.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridge.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridge.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridges-cheapest-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/acacia-ridges-cheapest-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/act-quickly-brand-new-townhouse-no-body-corp-fees.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/act-quickly-brand-new-townhouse-no-body-corp-fees.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-family-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/affordable-family-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-four-bedroom-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/affordable-four-bedroom-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-housing-under-the-national-rental-affordability-scheme.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/affordable-housing-under-the-national-rental-affordability-scheme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/affordable-starter-home-with-huge-back-deck.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/affordable-starter-home-with-huge-back-deck.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/amazing-opportunity-in-prestigious-development.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/amazing-opportunity-in-prestigious-development.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/amazing-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/amazing-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/amazing-views.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/amazing-views.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/attention-all-first-home-buyers-price-reduction.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/attention-all-first-home-buyers-price-reduction.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/attention-all-first-home-buyers.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/attention-all-first-home-buyers.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/attention-investors-affordable-nras-property.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/attention-investors-affordable-nras-property.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/attractive-investment.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/attractive-investment.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/back-on-the-market-three-bedroom-townhouse-in-secure-complex.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/back-on-the-market-three-bedroom-townhouse-in-secure-complex.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/back-on-the-market-townhouse-and-management-rights.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/back-on-the-market-townhouse-and-management-rights.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/bang-for-your-buck.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/bang-for-your-buck.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-quick-lots-of-room-and-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/be-quick-lots-of-room-and-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-quick-with-this-beauty-work-from-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/be-quick-with-this-beauty-work-from-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-quick-with-this-one.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/be-quick-with-this-one.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/be-surprised-very-surprised.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/be-surprised-very-surprised.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/beach-gem.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/beach-gem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautiful-brand-new-townhouse-no-body-corp-fees-one-sold-one-left.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/beautiful-brand-new-townhouse-no-body-corp-fees-one-sold-one-left.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautiful-family-home-with-leafy-outlook.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/beautiful-family-home-with-leafy-outlook.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautiful-home-fully-furnished.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/beautiful-home-fully-furnished.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautifully-presented-home-in-convenient-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/beautifully-presented-home-in-convenient-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautifully-presented.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/beautifully-presented.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/beautifully-renovated-cottage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/beautifully-renovated-cottage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/blackwood-road-renovator-price-reduction.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/blackwood-road-renovator-price-reduction.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/blank-canvas.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/blank-canvas.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-great-position-great-price.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/brand-new-great-position-great-price.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/brand-new-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-townhouse-no-body-corp-fees-one-sold-one-left.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/brand-new-townhouse-no-body-corp-fees-one-sold-one-left.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/brand-new-townhouse-no-body-corp-fees.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/brand-new-townhouse-no-body-corp-fees.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/breezy-elevated-position.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/breezy-elevated-position.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/bursting-with-value.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/bursting-with-value.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cbd-livingsuburb-prices.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cbd-livingsuburb-prices.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/character-and-convenience.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/character-and-convenience.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/charming-cottage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/charming-cottage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/charming-family-home-overlooking-parkland.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/charming-family-home-overlooking-parkland.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-cheerful.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cheap-cheerful.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-flat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-flat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-ground-floor.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-ground-floor.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cheap-one-bedroom-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/check-this-one-out.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/check-this-one-out.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/city-views.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/city-views.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/classic-entertaining-with-rumpus.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/classic-entertaining-with-rumpus.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/classic-post-war-on-759sqm.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/classic-post-war-on-759sqm.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/classic-renovated-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/classic-renovated-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/close-to-everything-price-slashed-by-30000.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/close-to-everything-price-slashed-by-30000.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/contract-crashed-submit-all-offers-leafy-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/contract-crashed-submit-all-offers-leafy-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/contract-crashed-well-presented-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/contract-crashed-well-presented-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/contract-crashedback-on-the-market.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/contract-crashedback-on-the-market.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/convenient-lifestyle.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/convenient-lifestyle.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/convenient-low-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/convenient-low-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/convenient-modern-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/convenient-modern-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/coopers-plains.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/coopers-plains.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cottage-at-the-top-of-highgate-hill.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cottage-at-the-top-of-highgate-hill.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cottage-on-607sqm-lmr.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cottage-on-607sqm-lmr.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cream-of-the-crop.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cream-of-the-crop.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-2-bedroom-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-2-bedroom-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-acacia-ridge.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-acacia-ridge.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-coopers-plains.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-coopers-plains.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-leafy-gardens.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-in-leafy-gardens.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-on-683sqm-lmr.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-on-683sqm-lmr.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-with-double-carport.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-with-double-carport.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-with-lovely-gardens.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage-with-lovely-gardens.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-cottage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-replica-queenslander-with-new-kitchen.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-replica-queenslander-with-new-kitchen.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/cute-three-bedroom-cottage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/cute-three-bedroom-cottage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/definately-the-best-you-will-find.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/definately-the-best-you-will-find.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/delightful-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/delightful-high-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/dual-living-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/dual-living-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/dual-living-lmr-zoned.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/dual-living-lmr-zoned.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/dual-living-on-hemsworth.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/dual-living-on-hemsworth.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/effortless-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/effortless-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-and-peaceful.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/elevated-and-peaceful.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-and-private.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/elevated-and-private.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-breezy.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/elevated-breezy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/elevated-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/entertain-your-friends-and-family.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/entertain-your-friends-and-family.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/entry-level-sunnybank.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/entry-level-sunnybank.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/entry-level-with-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/entry-level-with-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/epitome-of-modern-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/epitome-of-modern-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/excellent-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/excellent-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/exceptional-presentation-quality.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/exceptional-presentation-quality.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/exciting-richlands-investment-with-development-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/exciting-richlands-investment-with-development-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/executive-townhouse.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/executive-townhouse.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/exquisite-views-exceptional-quality.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/exquisite-views-exceptional-quality.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fabulous-and-comfortable.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fabulous-and-comfortable.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/family-entertainer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/family-entertainer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/family-home-in-serene-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/family-home-in-serene-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fantastic-inner-city-investmentfirst-home-fully-furnished.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fantastic-inner-city-investmentfirst-home-fully-furnished.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyer-this-could-be-for-you.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyer-this-could-be-for-you.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyer-this-is-for-you.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyer-this-is-for-you.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyers-astute-investors-should-inspect.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyers-astute-investors-should-inspect.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyers-check-this-one-out.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-home-buyers-check-this-one-out.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-home-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-home-owners-special.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-home-owners-special.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-in-first-served.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-in-first-served.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/first-to-see-will-buy.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/first-to-see-will-buy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/five-bedroom-home-check-out-the-price.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/five-bedroom-home-check-out-the-price.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/flame-tree-apartments-stage-two.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/flame-tree-apartments-stage-two.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/flat-855sqm-block.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/flat-855sqm-block.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/flexible-living-in-mind-under-offer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/flexible-living-in-mind-under-offer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/four-bedroom-house-at-back-of-small-complex.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/four-bedroom-house-at-back-of-small-complex.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/four-bedroom-study-renovated-queenslander-in-greenslopes.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/four-bedroom-study-renovated-queenslander-in-greenslopes.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-and-modern.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fresh-and-modern.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-easy-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fresh-easy-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-four-bedroom.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fresh-four-bedroom.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-home-potential-plus.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fresh-home-potential-plus.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-low-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fresh-low-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fresh-three-bedroom-cottage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fresh-three-bedroom-cottage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/freshly-renovated-3-bedroom-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/freshly-renovated-3-bedroom-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-fenced-and-convenient.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fully-fenced-and-convenient.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-furnished-ideal-for-students.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fully-furnished-ideal-for-students.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-furnished-studio.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fully-furnished-studio.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-from-head-to-toe.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-from-head-to-toe.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-in-leafy-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-in-leafy-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-student-accommodation.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/fully-renovated-student-accommodation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/funky-private-retreat-price-reduced.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/funky-private-retreat-price-reduced.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/generous-high-set-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/generous-high-set-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/generous-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/generous-high-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/gorgeous-high-set-on-759sqm.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/gorgeous-high-set-on-759sqm.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/granny-flat-in-quiet-peaceful-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/granny-flat-in-quiet-peaceful-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-buying-in-salisbury.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-buying-in-salisbury.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-entry-level-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-entry-level-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-for-first-home-buyers.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-for-first-home-buyers.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-investment-opportunity-8km-from-cbd.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-investment-opportunity-8km-from-cbd.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-investment-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-investment-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-potential-with-great-address.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-potential-with-great-address.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-starter.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-starter.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-townhouse-in-secure-complex.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-townhouse-in-secure-complex.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-two-bedroom-unit-in-yeronga.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-two-bedroom-unit-in-yeronga.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-unit-at-a-great-price.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-unit-at-a-great-price.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-unit-in-ultra-handy-position-price-reduced-by-20000.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-unit-in-ultra-handy-position-price-reduced-by-20000.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-value-great-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-value-great-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-value-in-toowong.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-value-in-toowong.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/great-value-in-woolloongabba.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/great-value-in-woolloongabba.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ground-floor-two-bedroom-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ground-floor-two-bedroom-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/hidden-gem.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/hidden-gem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/high-on-hemsworth.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/high-on-hemsworth.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/high-set-family-home-in-serene-setting.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/high-set-family-home-in-serene-setting.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/high-set-three-bedroom-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/high-set-three-bedroom-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/hits-the-high-note.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/hits-the-high-note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/homely-and-welcoming.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/homely-and-welcoming.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/hot-renovation-project.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/hot-renovation-project.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/huge-house-huge-land-huge-price-reduction.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/huge-house-huge-land-huge-price-reduction.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/huge-solid-house-but-needs-work.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/huge-solid-house-but-needs-work.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ideal-entry-level-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ideal-entry-level-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ideal-investment-cash-flow-positive.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ideal-investment-cash-flow-positive.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ideal-tenanted-investment-property.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ideal-tenanted-investment-property.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/immaculate-original-condition.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/immaculate-original-condition.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/immaculate-presentation.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/immaculate-presentation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/inner-city-rural-paradise-just-7km-from-the-city.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/inner-city-rural-paradise-just-7km-from-the-city.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/investment-opportunity-in-moorooka.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/investment-opportunity-in-moorooka.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/investors-check-this-one-out.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/investors-check-this-one-out.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/investors-how-can-you-go-past-this-one.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/investors-how-can-you-go-past-this-one.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/investors-will-love-this-one.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/investors-will-love-this-one.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/its-an-investors-year.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/its-an-investors-year.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/just-needs-an-external-paint-but-has-so-much-to-offer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/just-needs-an-external-paint-but-has-so-much-to-offer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/large-4-bedroom-family-home-plus-study.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/large-4-bedroom-family-home-plus-study.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/large-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/large-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/large-family-no-problem.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/large-family-no-problem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lawn-maintenance-included.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lawn-maintenance-included.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-and-private.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/leafy-and-private.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-entertainer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/leafy-entertainer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/leafy-high-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/leafy-retreat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/leafy-retreat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/leased.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/leased.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lifestyle-and-functionality.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lifestyle-and-functionality.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lmr-development-site-in-handy-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lmr-development-site-in-handy-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lmr-zoned-gem.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lmr-zoned-gem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/looking-for-quality-value-for-money.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/looking-for-quality-value-for-money.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/looks-can-be-deceiving.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/looks-can-be-deceiving.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-cottage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-cottage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-fresh-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-fresh-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-high-set-entertainer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-high-set-entertainer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-high-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-highset-backing-onto-parkland.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-highset-backing-onto-parkland.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-highset-on-hemsworth.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-highset-on-hemsworth.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-home-on-716sqm-lmr.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-home-on-716sqm-lmr.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-home-with-large-shed.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-home-with-large-shed.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-leafy-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-leafy-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-low-set-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-low-set-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-low-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-low-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-modern-home-great-for-entertaining.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-modern-home-great-for-entertaining.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-refurbished-flat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-refurbished-flat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-renovated-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-renovated-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-renovated-room-in-dutton-park-three-rooms-available.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-renovated-room-in-dutton-park-three-rooms-available.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lovely-three-bedroom-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lovely-three-bedroom-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/low-maintenance-and-private.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/low-maintenance-and-private.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/low-maintenance-brick-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/low-maintenance-brick-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/low-set-with-high-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/low-set-with-high-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/lush-gardens-tranquil-surrounds.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/lush-gardens-tranquil-surrounds.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/magnificent-contemporary-four-bedroom-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/magnificent-contemporary-four-bedroom-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/magnificent-river-and-city-views.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/magnificent-river-and-city-views.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/magnificent-tri-level-home-on-809sqm-price-slashed.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/magnificent-tri-level-home-on-809sqm-price-slashed.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/make-an-offer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/make-an-offer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/make-this-one-yours.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/make-this-one-yours.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/mamma-mia-this-is-the-one.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/mamma-mia-this-is-the-one.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/massive-price-reduction-fully-renovated-queenslander-with-city-views.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/massive-price-reduction-fully-renovated-queenslander-with-city-views.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/mid-century-classic.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/mid-century-classic.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-and-stylish.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-and-stylish.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-apartment-in-convenient-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-apartment-in-convenient-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-apartment-with-great-convenience-including-double-garage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-apartment-with-great-convenience-including-double-garage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-brick-and-tile-lowset-price-reduced.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-brick-and-tile-lowset-price-reduced.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-brick-home-priced-to-sell-439000.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-brick-home-priced-to-sell-439000.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-granny-flat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-granny-flat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-near-new-lowset-brick-tile-must-be-sold.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-near-new-lowset-brick-tile-must-be-sold.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-two-bedroom-apartment-in-quiet-complex.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-two-bedroom-apartment-in-quiet-complex.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-two-bedroom-unit-close-to-griffith-uni.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-two-bedroom-unit-close-to-griffith-uni.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/moorooka-townhouse.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/moorooka-townhouse.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/move-straight-in.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/move-straight-in.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-be-sold-large-four-bedroom-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/must-be-sold-large-four-bedroom-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-be-sold-make-an-offer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/must-be-sold-make-an-offer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-inspect-this-one.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/must-inspect-this-one.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/must-sell-all-offers-over-650k-considered-971sqm-block-very-close-to-corso.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/must-sell-all-offers-over-650k-considered-971sqm-block-very-close-to-corso.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/near-new-freehold-townhouse-no-body-corporate-fees.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/near-new-freehold-townhouse-no-body-corporate-fees.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-and-tidy-on-599sqm-lmr.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/neat-and-tidy-on-599sqm-lmr.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-and-tidy-student-share-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/neat-and-tidy-student-share-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-as-a-pin-six-month-lease-only.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/neat-as-a-pin-six-month-lease-only.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy-one-bedroom-flat-cheap.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy-one-bedroom-flat-cheap.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy-with-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy-with-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/neat-tidy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/newly-renovated-3-bedroom-student-accommodation.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/newly-renovated-3-bedroom-student-accommodation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/not-to-be-missed.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/not-to-be-missed.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nothing-to-do-but-move-in-and-enjoy.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nothing-to-do-but-move-in-and-enjoy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nothing-to-do-except-move-in.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nothing-to-do-except-move-in.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/now-this-is-value.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/now-this-is-value.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-12km-from-brisbane-cbd.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-12km-from-brisbane-cbd.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-in-stylish-quiet-complex.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-in-stylish-quiet-complex.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-modern-townhouse-in-great-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-modern-townhouse-in-great-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-stylish-three-bedroom-townhouse.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-investment-property-stylish-three-bedroom-townhouse.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-property-ground-floor-two-bedroom-modern-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-property-ground-floor-two-bedroom-modern-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-property-ground-floor-two-bedroom-two-bathroom-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-property-ground-floor-two-bedroom-two-bathroom-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-property-two-bedroom-modern-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-property-two-bedroom-modern-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-two-bedroom-ground-floor-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-two-bedroom-ground-floor-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/nras-two-bedroom-modern-unit.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/nras-two-bedroom-modern-unit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/one-bedroom-apartment-in-woolloongabba.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/one-bedroom-apartment-in-woolloongabba.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/one-of-the-best-homes-in-this-estate.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/one-of-the-best-homes-in-this-estate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/open-plan-entertainer-price-reduced.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/open-plan-entertainer-price-reduced.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/original-high-set-with-amazing-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/original-high-set-with-amazing-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/outdoor-living-at-its-best.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/outdoor-living-at-its-best.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/outstanding-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/outstanding-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-position-build-your-new-home-here.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/outstanding-position-build-your-new-home-here.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-low-maintenance.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-low-maintenance.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-unbeatable-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-unbeatable-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-you-wont-buy-better-at-this-price.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/outstanding-value-you-wont-buy-better-at-this-price.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/owner-wants-this-sold-make-an-offer-today.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/owner-wants-this-sold-make-an-offer-today.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/oxley-brick-home-with-opportunity-to-add-your-own-touches.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/oxley-brick-home-with-opportunity-to-add-your-own-touches.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/peaceful-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/peaceful-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/peaceful-setting.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/peaceful-setting.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/perfect-for-griffith-university-public-transport.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/perfect-for-griffith-university-public-transport.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/perfect-lmr-development-site.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/perfect-lmr-development-site.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/piece-of-paradise.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/piece-of-paradise.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/plenty-of-potential-on-733sqm.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/plenty-of-potential-on-733sqm.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/plenty-of-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/plenty-of-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/position-and-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/position-and-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/possibly-the-best-home-in-this-estate.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/possibly-the-best-home-in-this-estate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/post-war-home-in-the-heart-of-moorooka.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/post-war-home-in-the-heart-of-moorooka.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/potential-plus.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/potential-plus.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/potential-subdivision-in-moorooka.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/potential-subdivision-in-moorooka.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/practicality-and-convenience.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/practicality-and-convenience.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/practicality-plus.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/practicality-plus.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-reduced-rock-solid-investment-outstanding-value.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/price-reduced-rock-solid-investment-outstanding-value.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-reduced-to-549000-you-just-cant-buy-better-then-this.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/price-reduced-to-549000-you-just-cant-buy-better-then-this.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-reduction.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/price-reduction.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-now-offers-over-530000.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-now-offers-over-530000.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-to-329000.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-to-329000.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-we-challenge-you-to-find-a-better-townhouse-at-this-price.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/price-slashed-we-challenge-you-to-find-a-better-townhouse-at-this-price.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/priced-to-sell.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/priced-to-sell.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-acacia-ridge-lmr-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/prime-acacia-ridge-lmr-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/prime-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-position-lmr.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/prime-position-lmr.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/prime-position.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/prime-position.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-and-tranquil.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-and-tranquil.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-convenient.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-convenient.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-entertainer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-entertainer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-family-oasis-on-749sqm.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-family-oasis-on-749sqm.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-family-retreat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-family-retreat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-lifestyle.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-lifestyle.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/private-sanctuary.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/private-sanctuary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-convenient-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/quiet-convenient-high-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-inner-city-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/quiet-inner-city-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-three-bedroom-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/quiet-three-bedroom-high-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/quiet-three-bedroom-highset.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/quiet-three-bedroom-highset.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-development-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rare-development-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-find-huge-family-home-in-acacia-ridge.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rare-find-huge-family-home-in-acacia-ridge.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-find-in-moorooka.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rare-find-in-moorooka.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-high-end-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rare-high-end-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-lmr-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rare-lmr-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-opportunity-582sqm-prime-land.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rare-opportunity-582sqm-prime-land.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rare-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rare-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-for-renovation.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ready-for-renovation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-set-go-under-contract.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ready-set-go-under-contract.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-set-renovate.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ready-set-renovate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ready-to-renovate.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ready-to-renovate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/refurbished-three-bedroom-beauty-top-floor-only.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/refurbished-three-bedroom-beauty-top-floor-only.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/refurbished-two-bedroom-home-close-to-everything.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/refurbished-two-bedroom-home-close-to-everything.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovate-me.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/renovate-me.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-dual-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/renovated-dual-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-four-bedroom-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/renovated-four-bedroom-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-granny-flat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/renovated-granny-flat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-highset-huge-rumpus-area.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/renovated-highset-huge-rumpus-area.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovated-home-overlooking-park.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/renovated-home-overlooking-park.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/renovators-dream.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/renovators-dream.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rental-return-renovate-or-remodel.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rental-return-renovate-or-remodel.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/residential-house-industrial-zoning.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/residential-house-industrial-zoning.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/retro-on-the-park.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/retro-on-the-park.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ripe-for-renovation.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ripe-for-renovation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/river-precinct-property.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/river-precinct-property.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rock-solid-investment.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rock-solid-investment.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/rock-solid.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/rock-solid.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/roomy-townhouse-with-a-view.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/roomy-townhouse-with-a-view.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/safe-as-houses-but-better-return.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/safe-as-houses-but-better-return.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/semi-furnished-paradise.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/semi-furnished-paradise.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/serene-location-rare-investment.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/serene-location-rare-investment.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/so-close-to-the-city.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/so-close-to-the-city.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-by-daynes-property.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/sold-by-daynes-property.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-by-daynes.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/sold-by-daynes.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-off-market.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/sold-off-market.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/sold-very-quickly-if-you-wish-to-sell-just-give-us-a-call.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/sold-very-quickly-if-you-wish-to-sell-just-give-us-a-call.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/solid-home-with-plenty-of-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/solid-home-with-plenty-of-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/something-quite-special.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/something-quite-special.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/sophisticated-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/sophisticated-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/spacious-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/spacious-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/striking-design.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/striking-design.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-accommodation-great-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/student-accommodation-great-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-accommodation-walking-distance-to-griffith-uni.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/student-accommodation-walking-distance-to-griffith-uni.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-share-accom-one-room-available.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/student-share-accom-one-room-available.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-share-house-one-room-available.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/student-share-house-one-room-available.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/student-share-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/student-share-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/studio-apartment-would-suit-single-person-only.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/studio-apartment-would-suit-single-person-only.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/studio-apartment.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/studio-apartment.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/stunning-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/stunning-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/stunning-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/stunning-high-set.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/stunning-sunsets.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/stunning-sunsets.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/stylish-home-on-769sqm-all-offers-considered.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/stylish-home-on-769sqm-all-offers-considered.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/sub-division-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/sub-division-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/summer-here-we-come.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/summer-here-we-come.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/summer-ready.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/summer-ready.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/super-cheap-cute-cottage.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/super-cheap-cute-cottage.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/the-beauty-of-dual-living.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/the-beauty-of-dual-living.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/the-jewel-in-the-crown.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/the-jewel-in-the-crown.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/the-original-entertainer.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/the-original-entertainer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/this-home-certainly-deserves-your-attention.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/this-home-certainly-deserves-your-attention.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-home-with-teenagers-retreat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-home-with-teenagers-retreat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse-in-wishart.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse-in-wishart.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse-in-yeronga.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse-in-yeronga.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-townhouse.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-unit-in-toowong-under-400k-recently-renovated.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-unit-in-toowong-under-400k-recently-renovated.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-up-market-townhouse.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/three-bedroom-up-market-townhouse.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/tidy-low-maintenance.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/tidy-low-maintenance.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/tiled-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/tiled-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/townhouse-in-moorooka.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/townhouse-in-moorooka.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquil-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/tranquil-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquil-retreat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/tranquil-retreat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquil-setting.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/tranquil-setting.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/tranquility.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/tranquility.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/two-bedroom-unit-in-lovely-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/two-bedroom-unit-in-lovely-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/two-prime-lmr-development-sites-rare.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/two-prime-lmr-development-sites-rare.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/two-story-highset.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/two-story-highset.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ultimate-lifestyle-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ultimate-lifestyle-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ultra-convenience.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ultra-convenience.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/ultra-convenient-yet-private-location-under-contract.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/ultra-convenient-yet-private-location-under-contract.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/unbeatable-value-your-own-private-retreat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/unbeatable-value-your-own-private-retreat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-at-first-open-house.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-at-first-open-house.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-bright-airy-and-neat-as-a-pin.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-bright-airy-and-neat-as-a-pin.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-call-us-for-your-free-market-appraisal.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-call-us-for-your-free-market-appraisal.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-exceptional-presentation-must-inspect.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-exceptional-presentation-must-inspect.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-happy-to-sell-more-we-always-have-buyers.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-happy-to-sell-more-we-always-have-buyers.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-lovely-highset-on-hemsworth.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-lovely-highset-on-hemsworth.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-neat-tidy-with-potential.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-neat-tidy-with-potential.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-outstanding-value-in-moorooka.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-outstanding-value-in-moorooka.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-private-family-home-in-great-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-private-family-home-in-great-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-renovated-two-bedroom-unit-in-great-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-renovated-two-bedroom-unit-in-great-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-spacious-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-spacious-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-the-one-you-have-been-waiting-for.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-the-one-you-have-been-waiting-for.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract-within-24-hours-ready-for-renovation.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract-within-24-hours-ready-for-renovation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/under-contract.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/under-contract.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/undoubtedly-the-best-location-in-acacia-ridge.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/undoubtedly-the-best-location-in-acacia-ridge.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-arrangement-with-plenty-of-options.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/unique-arrangement-with-plenty-of-options.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-investment-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/unique-investment-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-opportunity.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/unique-opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/unique-private-family-retreat-on-double-block.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/unique-private-family-retreat-on-double-block.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/value-packed-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/value-packed-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/value-packed.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/value-packed.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/versatile-family-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/versatile-family-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/very-motivated-vendor-drastically-reduced.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/very-motivated-vendor-drastically-reduced.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/very-well-presented-solid-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/very-well-presented-solid-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/walk-everywhere.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/walk-everywhere.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/walk-to-train-school-large-shed-at-rear.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/walk-to-train-school-large-shed-at-rear.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/walking-distance-to-qe2-hospital.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/walking-distance-to-qe2-hospital.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/walking-distance-to-qut-great-location.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/walking-distance-to-qut-great-location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/warm-and-welcoming.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/warm-and-welcoming.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/warm-family-home-with-granny-flat.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/warm-family-home-with-granny-flat.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/we-challenge-you-to-find-better.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/we-challenge-you-to-find-better.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/welcome-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/welcome-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/well-below-replacement-value.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/well-below-replacement-value.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/well-kept-original-charm-with-great-enclosed-entertaining-area.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/well-kept-original-charm-with-great-enclosed-entertaining-area.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/well-presented-home-act-quickly.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/well-presented-home-act-quickly.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/what-a-beauty.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/what-a-beauty.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/who-wants-me.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/who-wants-me.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/work-from-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/work-from-home.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/wow-a-townhouse-with-its-own-huge-backyard.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/wow-a-townhouse-with-its-own-huge-backyard.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-cannot-buy-better-than-this-price-reduction.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/you-cannot-buy-better-than-this-price-reduction.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-cannot-go-wrong-at-this-price-275000.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/you-cannot-go-wrong-at-this-price-275000.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-just-cant-go-wrong-with-this-one.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/you-just-cant-go-wrong-with-this-one.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/you-little-beauty.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/you-little-beauty.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/your-next-project.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/your-next-project.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/air-conditioned-high-set.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/air-conditioned-high-set.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/elevated-home.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/elevated-home.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/good-bones.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/good-bones.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/collections/listings/modern-lifestyle.md" afterPath="$PROJECT_DIR$/site/content/collections/listings/modern-lifestyle.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/content/pages/index.md" afterPath="$PROJECT_DIR$/site/content/pages/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/settings/fieldsets/home_fields.yaml" afterPath="$PROJECT_DIR$/site/settings/fieldsets/home_fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/storage/addons/CRMListings/lastsync" afterPath="$PROJECT_DIR$/site/storage/addons/CRMListings/lastsync" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/themes/daynes/templates/pages/search.html" afterPath="$PROJECT_DIR$/site/themes/daynes/templates/pages/search.html" />
     </list>
     <ignored path="daynesproperty.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -457,13 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php">
+      <file leaf-file-name="show.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30545455">
-              <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+            <state vertical-scroll-proportion="0.37333333">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="57" />
               <folding>
-                <element signature="e#75#103#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -522,12 +102,12 @@
         <option value="$PROJECT_DIR$/site/themes/daynes/layouts/default.html" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/listings/list.html" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/listings/index.html" />
-        <option value="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
         <option value="$PROJECT_DIR$/site/themes/daynes/templates/pages/search.html" />
         <option value="$PROJECT_DIR$/site/storage/addons/CRMListings/lastsync" />
         <option value="$PROJECT_DIR$/site/addons/CRMListings/routes.yaml" />
         <option value="$PROJECT_DIR$/site/addons/CRMListings/CRMListingsController.php" />
         <option value="$PROJECT_DIR$/site/addons/CRMListings/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/site/themes/daynes/templates/default.html" />
       </list>
     </option>
   </component>
@@ -1486,39 +1066,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.78060603">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="57" />
-          <folding>
-            <marker date="1565865743620" expanded="true" signature="71:89" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="90:1274" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="121:330" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="142:154" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="192:203" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="290:302" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="393:611" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="672:958" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="817:910" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="864:894" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="1065:1131" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="1200:1266" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="1347:1364" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="1365:1821" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="1861:1878" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="1879:2048" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="2058:3167" placeholder="..." />
-            <marker date="1565865743620" expanded="true" signature="2117:3158" placeholder="{...}" />
-            <marker date="1565865743620" expanded="true" signature="2434:3152" placeholder="{...}" />
-            <marker date="1565865743620" expanded="true" signature="2587:3140" placeholder="{...}" />
-            <marker date="1565865743620" expanded="true" signature="2626:3008" placeholder="{...}" />
-            <marker date="1565865743620" expanded="true" signature="2743:2988" placeholder="{...}" />
-            <marker date="1565865743620" expanded="true" signature="3014:3126" placeholder="{...}" />
-            <marker date="1565865743620" expanded="true" signature="3188:3293" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/addons/CRMListings/Repositories/SyncListings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.59272724">
@@ -1651,37 +1198,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21939394">
-          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
-          <folding>
-            <marker date="1566016293670" expanded="true" signature="29:683" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="112:204" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="143:189" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="269:399" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="464:636" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="506:621" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="777:1937" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="820:1929" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="846:1164" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="933:1149" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="1190:1456" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="1283:1441" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="1482:1762" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="1569:1747" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="1808:1918" placeholder="..." />
-            <marker date="1566016293670" expanded="false" signature="1875:1887" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="2000:3113" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="2104:3075" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="2137:2220" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="2190:2202" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="2306:3060" placeholder="..." />
-            <marker date="1566016293670" expanded="true" signature="2380:2898" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/pages/search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20363636">
@@ -1792,7 +1308,58 @@
         <state vertical-scroll-proportion="0.30545455">
           <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
           <folding>
-            <element signature="e#75#103#0#HTML" expanded="true" />
+            <marker date="1566040909614" expanded="true" signature="39:1723" placeholder="..." />
+            <marker date="1566040909614" expanded="true" signature="61:1721" placeholder="..." />
+            <marker date="1566040909614" expanded="true" signature="82:102" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6606061">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <marker date="1566082303726" expanded="true" signature="29:858" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="112:204" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="143:189" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="272:379" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="303:364" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="444:574" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="639:811" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="681:796" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="952:2112" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="995:2104" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="1021:1339" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="1108:1324" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="1365:1631" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="1458:1616" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="1657:1937" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="1744:1922" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="1983:2093" placeholder="..." />
+            <marker date="1566082303726" expanded="false" signature="2050:2062" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="2175:3288" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="2279:3250" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="2312:2395" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="2365:2377" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="2481:3235" placeholder="..." />
+            <marker date="1566082303726" expanded="true" signature="2555:3073" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/themes/daynes/templates/listings/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37333333">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

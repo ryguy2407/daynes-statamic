@@ -1,4 +1,11 @@
+page_builder:
+  -
+    type: video
+    video: 'https://youtu.be/q2qbmFJFzV0'
 home_content:
+  -
+    type: text
+    text: '<h2 class="text-center">An independent family run people focused agency</h2>'
   -
     type: video
     video: 'https://youtu.be/q2qbmFJFzV0'

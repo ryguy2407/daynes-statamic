@@ -1,11 +1,19 @@
 <div class="pageContent mb-5">
-    {{ home_content }}
+    {{ page_builder }}
 
     {{ if type == "text" }}
 
         <div class="section">
             <div class="text">
                 {{ text }}
+            </div>
+        </div>
+
+    {{ elseif type == "markdown" }}
+
+        <div class="section">
+            <div class="text">
+                {{ markdown | markdown }}
             </div>
         </div>
 
@@ -27,7 +35,7 @@
 
     {{ /if }}
 
-    {{ /home_content }}
+    {{ /page_builder }}
 </div><!-- end pageContent -->
 
 <form class="mb-5 searchForm" method="GET" action="/search-results">
