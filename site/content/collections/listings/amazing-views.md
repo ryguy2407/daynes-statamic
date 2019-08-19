@@ -7,14 +7,15 @@ rent: '440.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 602
 status: Let
 address: '18 Carowell Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/LgxE7-99NKCtt8KS1cKU3awBQro=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825879/426654818-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435586/images'
 property_id: '435586'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 98c0cf67-19e8-4171-9ea7-0cc791aa699c
+id: 975a5741-7dde-4f80-9919-6a6c19ae0265
 ---
 This is a property you would be proud to call you home. Loving renovated preserving character and style, this lovely modern three bedroom home will not disappoint. Set in a quiet pocket of Acacia Ridge, this property features lovely soft grey internal walls and beautiful timber flooring throughout. The lounge and kitchen are open plan and create a beautiful living space. The outlook from the garden area is breathtaking. There is a lovely Balinese hut set in a vantage point, all that is required is a table, some chairs and a chilled glass of wine. The view comes with no charge!
 

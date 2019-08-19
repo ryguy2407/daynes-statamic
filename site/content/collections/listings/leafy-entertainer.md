@@ -7,14 +7,15 @@ rent: '480.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Let
 address: '19 Queensthorpe Street, TARRAGINDI'
+suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/Wvf__95z42XjFBTFweNQ_I2xZBU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826589/418768722-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435668/images'
 property_id: '435668'
 price_search: null
-suburb: TARRAGINDI
-id: ea1e6cad-9bcf-4718-a448-1e3a3e9b4681
+id: b84a849d-43e0-4ac8-abf5-eaff9120cef4
 ---
 This beautiful family home promises great lifestyle with open plan kitchen, dining and living, stepping out onto the shady back deck with a leafy outlook. The home is perfect for families and those who love to entertain, with generous spaces to enjoy. The kitchen and bathroom are fresh and modern, and the home features polished hardwood floors throughout, perfect for low maintenance living. The three bedrooms are well proportioned and full of light, all with ceiling fans and all with air conditioning.
 

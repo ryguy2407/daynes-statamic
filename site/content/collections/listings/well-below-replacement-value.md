@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 3
 cars: 2
+land: 405
 status: Sold
 address: '34 Bramston Street, TARRAGINDI'
+suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/bLvlVQ3ZpySdF9dvgHowhKyWGDw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822786/117405155-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435289/images'
 property_id: '435289'
 price_search: '899000.0'
-suburb: TARRAGINDI
-id: 291bbe37-fa74-4588-bd9b-c36b511ddf47
+id: 98add48d-3ae4-42b4-98c7-932d64f6988e
 ---
 MUST BE SOLD - MAKE AN OFFER - WELL BELOW REPLACEMENT VALUE!
 

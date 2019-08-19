@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 0
+land: 0
 status: Sold
 address: '21 Brentford Road, RICHLANDS'
+suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/mE-x6UCbO3zyWKgHJ1Tl5bozSVw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820520/111217371-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435102/images'
 property_id: '435102'
 price_search: '369000.0'
-suburb: RICHLANDS
-id: 0504ae8f-d998-4a2d-a010-2c5bff081cb4
+id: 5433dc80-7858-4eb6-bfed-b666c1414ac6
 ---
 Price slashed $30,000 to $369,000
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 635
 status: Sold
 address: '14 Aldershot Street, SUNNYBANK'
+suburb: SUNNYBANK
 main_image: 'https://img.eagleagent.com.au/ib787SOwZgmY5ylS0O40vdPK7qg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821870/128144882-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435219/images'
 property_id: '435219'
 price_search: '595000.0'
-suburb: SUNNYBANK
-id: 54073781-e4a1-4cb8-a7ae-778a15348282
+id: ffe5b1fc-3a20-4283-8e1c-e0b1bd6f4977
 ---
 This partially renovated home is of desirable lowset brick construction, in a quiet and leafy pocket. The property has been internally repainted and the floors revarnished. Full of natural light, the large windows and northerly facing aspect make this home fresh and welcoming. Stepping up to the home, the private entry steps into the living room which has been beautifully finished with polished timber flooring. The eat-in kitchen steps down to the leafy backyard and patio area, perfect for alfresco entertaining. Three good-sized bedrooms are situated away from the main living of the home and the master includes a ceiling fan.
 

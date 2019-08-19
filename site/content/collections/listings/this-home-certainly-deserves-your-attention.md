@@ -7,14 +7,15 @@ rent: null
 bedrooms: 5
 bathrooms: 2
 cars: 6
+land: 0
 status: Sold
 address: '501 Beatty Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/VxeI9uhu6IOZFAfzQ8GU5frgB8o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820626/113404203-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435113/images'
 property_id: '435113'
 price_search: '559000.0'
-suburb: 'ACACIA RIDGE'
-id: 391c9178-e82e-4a86-9605-42998156beb8
+id: c1eb0581-b6d0-446b-b33b-14ae261ea49b
 ---
 This totally renovated, federation style home is situated on a very large 1,062sqm resort style landscaped block. This property is packed with features and boasts a ton of character that you won't see everyday.
 

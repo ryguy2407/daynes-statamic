@@ -7,14 +7,15 @@ rent: '450.0'
 bedrooms: 1
 bathrooms: 1
 cars: 1
+land: 0
 status: Let
 address: '27 Union Street, SPRING HILL'
+suburb: 'SPRING HILL'
 main_image: 'https://img.eagleagent.com.au/QG7lwnY0bDYCQpK0DOx97PVd7ac=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826257/416173005-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435631/images'
 property_id: '435631'
 price_search: null
-suburb: 'SPRING HILL'
-id: 4879c990-d914-48b6-be45-297d6a8f1dcb
+id: e45b20fd-b999-493e-9112-ea7b907ebe54
 ---
 This one bedroom cottage situated in a quiet cul-de-sac is available for rent now.
 

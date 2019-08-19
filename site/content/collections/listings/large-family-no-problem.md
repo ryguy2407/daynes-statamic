@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 3
+land: 966
 status: Sold
 address: '80 Arnold Street, HOLLAND PARK'
+suburb: 'HOLLAND PARK'
 main_image: 'https://img.eagleagent.com.au/vQv3_CH1WkQ42WZuj6-Wu1zaDSc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818799/104921064-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434901/images'
 property_id: '434901'
 price_search: '665000.0'
-suburb: 'HOLLAND PARK'
-id: dbadde66-1a3a-4a8e-9829-86268ebad7b4
+id: 9b23a347-5965-4190-9b4b-ada070e3f8bf
 ---
 Here is a terrific opportunity to secure a solid brick & tile home situated on a prime corner block boasting 966sqm of land on 2 lots.
 

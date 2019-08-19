@@ -1,39 +1,45 @@
 ---
 title: 'Elevated Home'
 property_type: House
-listing_type: residential_sale
-price: '$375,000'
-rent: null
+listing_type: residential_rental
+price: '$400 per week'
+rent: '400.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
-status: Active
-address: '41 Dellow Street, ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/deVCEemNi27zC3cA6XbUbBdkrNA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822849/131163894-image-M.jpg'
-images: 'http://www.eagleagent.com.au/api/v2/properties/435294/images'
-property_id: '435294'
-price_search: '375000.0'
+land: 610
+status: Let
+address: '23 Dunkeld Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
-id: c84dfa4f-2e32-48a0-8a8e-31e370c0b2a2
+main_image: 'https://img.eagleagent.com.au/errk5v89-Sobrfym2yZjRxcsL10=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825781/426085818-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435577/images'
+property_id: '435577'
+price_search: null
+id: 8e6d86fe-6642-4baa-897e-52c278fd189c
 ---
-This home is sure to impress with its leafy outlook and ample space for entertaining. Situated in an elevated position ideal to make the most of this peaceful pocket of Acacia Ridge, this home has been thoughtfully designed. Most striking about the property is the sweeping front veranda. Giving the home great street appeal and providing privacy for the interiors, this space is sure to become the focus for all family gatherings and relaxation. Inside, the polished timber floors throughout give the property a clean, low maintenance finish, much sought after to complement busy lives. In keeping with the low maintenance ideal, is the kitchen, which has been finished in a durable stainless steel. Easy to care for and providing a sleek, modern aesthetic, the stainless steel kitchen is truly a delight for those who love to cook and entertain.
+This high-set timber home is set in an elevated and peaceful position. Situated in one of the most family-friendly and convenient pockets of Acacia Ridge, this property will tick all the boxes for those looking for a little extra from their next home. Stepping up to the house, the front porch is elevated with a leafy outlook. Inside, the spacious air-conditioned living area expands into a useful sunroom which can be closed off to be utilised as a study or rumpus. Flowing off the living is the open-plan dining and kitchen, a great layout for busy families. The kitchen is well designed, with plenty of storage and good quality finishes. The three bedrooms situated to the side of the house are all generous, equipped with ceiling fans and built in wardrobes.
 
-The internal layout of the home is simple and makes the most of the spaces. The kitchen is open to the living and dining through a doorway and breakfast bar. This provides enough of an opening to allow the flow of light and space. The living and dining open out to the front verandah through the front door, and renovators will see the potential to really make a feature of this flow of space with custom doors in place of the window. As it is, this is a highly serviceable and comfortable arrangement of internal and complementary external spaces. Each of the bedrooms is generously proportioned and situated privately down a single hallway to the sunny northern side of the home. This is a property full of potential for those keen-eyed renovators and savvy investors.
+In addition to the generous spaces upstairs, downstairs has been enclosed to allow for a single lock up garage, laundry and a great room perfect to be utilised as a games room or storeroom. The yard is full of lovely trees, with the backyard grassy and fully fenced. This is a not-to-be-missed property, great for families!
 
-This property features:
+** Please note, the house will be completely repainted externally over the coming month. Please discuss at inspection.
 
-*  Elevated, breezy position in a quiet and leafy pocket
-*  Large front veranda, giving the house lovely street appeal
-*  Recently renovated kitchen with stainless steel benches and cabinetry, gas cooktop, rangehood and dishwasher
-*  Recently renovated bathroom with fresh tiled, vanity with storage and shower, separate toilet
-*  Three generously proportioned bedrooms
-*  Large laundry
-*  Polished timber floors throughout
-*  Insect and security screens throughout
-*  Two 5,000L rainwater tanks
-*  Large rear shed
-*  Two car carport under decking
-*  Terraced front yard with flat grassy areas, built in planter boxes to the rear ideal for flowers or veggies
-*  Large fully fenced block
+Features:
 
-This property is situated on a generous 754sqm block, in a convenient and desirable neighbourhood of Acacia Ridge. It is within walking distance to local parks and nature reserves, and has a lovely community surrounds. Also convenient to Acacia Ridge and Our Lady of Fatima Primary Schools, daycares and community facilities. Handy to the Elizabeth Street shopping centre, Woolworths and Aldi in the Acacia Market Place, and Souths Sports Club. Acacia Ridge is a rapidly developing suburb, situated on major transport thoroughfares and only 15km from Brisbane City. This property will not last long, call today to register your interest!
+*  High-set home, private
+*  Polished timber flooring throughout, neutral colours on the walls
+*  Front stairs up to deck with elevated outlook
+*  Large living with adjoining sunroom
+*  Spacious open-plan kitchen and dining with ceiling fan
+*  Kitchen with plenty of storage and electric oven/stove combination
+*  Three generous bedrooms, all with ceiling fans and built-in wardrobes
+*  Bathroom with shower and bath, separate toilet
+*  Fully fenced, leafy backyard
+*  Flyscreens throughout
+
+Location:
+
+*  Walking distance to Acacia Ridge State School
+*  Buses at the top of the street on Gregory Street
+*  Walking distance to local parks
+*  Short drive to Elizabeth Street Shops with IGA and other boutique shops
+*  Short drive to Acacia Marketplace on Beaudesert Road with Woolworths and Aldi

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '61 Larbert Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/P1Shx0COIDKBpsDLMO4xsks9ei0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820670/113690695-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435117/images'
 property_id: '435117'
 price_search: '265000.0'
-suburb: 'ACACIA RIDGE'
-id: b4e73226-c130-4c0c-a2a7-f6208ea51cc6
+id: bc940363-4c0a-4bf3-8720-6da6b2d917f2
 ---
 If you are into renovating or prepared to renovate then this one may be for you.
 

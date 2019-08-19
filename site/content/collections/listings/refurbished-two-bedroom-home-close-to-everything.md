@@ -7,14 +7,15 @@ rent: '380.0'
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 0
 status: Let
 address: '69 Cripps Street, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/mCiqiCIxQ8-_k2RXe9jVdRJH8M0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825960/413627851-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435594/images'
 property_id: '435594'
 price_search: null
-suburb: SALISBURY
-id: 9fecd439-9e41-499c-9a63-32528d062460
+id: e2ac42ff-990c-4b1d-9361-947154833fbe
 ---
 Features;
 * Two bedrooms with ceiling fans

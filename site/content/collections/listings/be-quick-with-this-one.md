@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '26 Gregory Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rK5Sk6OudHT2O3JvNzvqFkBOwzE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820662/113628019-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435116/images'
 property_id: '435116'
 price_search: '329000.0'
-suburb: 'ACACIA RIDGE'
-id: 90114f2b-af4a-4583-b67b-99c9d990ef2c
+id: 1e282a6a-6813-4684-9c50-981c6208d0fa
 ---
 This property's established gardens will be sure to win your hearts over. Situated on a 701sqm corner block and very secluded from the road due to the beautiful vegetation in the front yard.
 

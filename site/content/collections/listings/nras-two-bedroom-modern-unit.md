@@ -7,14 +7,15 @@ rent: '314.0'
 bedrooms: 2
 bathrooms: 2
 cars: 2
+land: 0
 status: Let
 address: '329 Lillian Avenue, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/aa0S-9Mm3hfWSadfaVi0WVtd1uI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825484/425112386-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435549/images'
 property_id: '435549'
 price_search: null
-suburb: SALISBURY
-id: a222d544-795d-460f-b86a-25bb50e9b093
+id: 7e2be680-9c77-449e-b1ea-56bd876a9669
 ---
 Ground Floor Two Bedroom Unit, Close To Griffith Uni
 

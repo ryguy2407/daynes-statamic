@@ -7,14 +7,15 @@ rent: '350.0'
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 610
 status: Let
 address: '8 Dunkeld Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/GjA8WY52gnDlWB2s3vPkGFRITQI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824815/421628674-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435483/images'
 property_id: '435483'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: cd4763ab-f757-408c-9c9a-b03bcd902949
+id: 30e6fd25-6ab7-499b-a999-8e425674de54
 ---
 This property has it all for lifestyle and functionality, a lovely family home situated in a quiet pocket of Acacia Ridge. Freshly painted throughout, the floors recently polished and the kitchen and bathroom updated, this is a very well-presented home. The easy layout of this home gives plenty of space for a growing family. The property is fully fenced, private and the front and back yards afford a generous piece of land to enjoy.
 

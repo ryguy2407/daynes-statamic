@@ -7,14 +7,15 @@ rent: '340.0'
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 759
 status: Let
 address: '3 Scouse Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/mL1nGtBLkm7gLDuzI7-Sb2POGFU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825421/424671822-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435543/images'
 property_id: '435543'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 251339f1-adfb-4ef7-ab1d-2deb60fe2d0c
+id: b9778df9-e0e0-40b8-8335-c15d79d0317c
 ---
 This home boasts a layout perfect for low maintenance and easy family living. The open-plan kitchen, living and dining area is sleek and neutral. With polished timber floors and clean finishes, this is a great place to relax and unwind. The kitchen has been newly updated with lovely grey cabinetry, modern appliances and plenty of storage. All three bedrooms are bright and airy, with the master bedroom enhanced by a generous ensuite. The living, kitchen and dining spaces are open plan and north-facing, and provide ample space for busy families. The value and functionality of this property is really enhanced by the large block size at 759sqm, meaning a beautiful grassy lawn with mature trees to enjoy. The yard also includes a shed, open potting shed and garden beds.
 

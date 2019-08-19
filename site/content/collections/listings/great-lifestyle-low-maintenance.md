@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 402
 status: Sold
 address: '38 Antrim Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ajvGHQEJfN-Dmi8RbDZLn1zwuag=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823328/120091217-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435333/images'
 property_id: '435333'
 price_search: '379000.0'
-suburb: 'ACACIA RIDGE'
-id: 73cec0d4-e7a4-4b83-bc51-53f580938ece
+id: f58c996f-ad9e-43b7-9473-d620268062fa
 ---
 This low-set brick home is situated in a quiet and leafy pocket of Acacia Ridge and represents an ideal opportunity for first home buyers, families and investors alike. This home is well proportioned for comfortable family living, with plenty of space for outdoor and indoor entertaining and relaxing. Featuring beautiful wooden flooring throughout the kitchen, living and bedrooms inside, and lovingly maintained gardens outside, this is a not to be missed opportunity.
 

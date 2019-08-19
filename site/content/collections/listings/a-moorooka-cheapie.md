@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 0
 status: Sold
 address: '1 / 65 Goodwin Terrace, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/7TdyOtu2s1V_5C-Ycgbp3emV3qU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824253/113788715-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435409/images'
 property_id: '435409'
 price_search: '250000.0'
-suburb: MOOROOKA
-id: 3458860a-6416-4b2c-9fa9-dedaba353eef
+id: e278c0f6-862b-4e6c-be47-970bbe87033f
 ---
 First Home Owners or Investors dont delay.
 

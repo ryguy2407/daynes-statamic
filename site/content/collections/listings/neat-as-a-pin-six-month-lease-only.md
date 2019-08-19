@@ -7,14 +7,15 @@ rent: '340.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 607
 status: Let
 address: '3 Galah Street, ROCKLEA'
+suburb: ROCKLEA
 main_image: 'https://img.eagleagent.com.au/v3f60L8Jd1ZbP4joZXsOtjuK-_Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824671/420524438-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435468/images'
 property_id: '435468'
 price_search: null
-suburb: ROCKLEA
-id: 6f0c0f73-4972-4997-a408-919028a14f5a
+id: 692fea7b-72cb-49a0-81a6-7027e9c88ee7
 ---
 This beautifully presented, low maintenance property is perfect for those who are after a spacious home without sacrificing convenience. Situated close to transport, Brisbane Markets, leafy parks and a great range of amenities, this property really can offer it all.
 

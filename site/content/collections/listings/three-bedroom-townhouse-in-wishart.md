@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 3
 bathrooms: 2
 cars: 0
+land: 0
 status: Let
 address: '18 Delevan Street, WISHART'
+suburb: WISHART
 main_image: 'https://img.eagleagent.com.au/Pxe-SoXznRKY-NNxYHHaaoIEfKc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824331/403589839-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435423/images'
 property_id: '435423'
 price_search: null
-suburb: WISHART
-id: 03357e11-5434-4a4c-8729-f2a448b60369
+id: 163bd9cf-868f-4841-b727-a5ab30712790
 ---
 - Kitchen with dishwasher
 - Upstairs three bedrooms with built ins

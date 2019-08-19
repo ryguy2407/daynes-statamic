@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 577
 status: Sold
 address: '17 Bartels Street, MOUNT GRAVATT'
+suburb: 'MOUNT GRAVATT'
 main_image: 'https://img.eagleagent.com.au/SLfVxkG-slG7p0roAqcWlPYG0Z8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819143/105313383-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434938/images'
 property_id: '434938'
 price_search: '419000.0'
-suburb: 'MOUNT GRAVATT'
-id: dc4c6611-d3f7-4e9b-9e0b-c8177a3f5c22
+id: 6a7a63c5-ff6b-4fcf-abeb-6e8fc0027e50
 ---
 Check this one out! Great value, entry level home!
 This three bedroom post war home is situated on 577sqm of land in a quiet leafy street.

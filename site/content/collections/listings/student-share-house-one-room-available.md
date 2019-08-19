@@ -7,14 +7,15 @@ rent: '130.0'
 bedrooms: 5
 bathrooms: 2
 cars: 0
+land: 0
 status: Let
 address: '4 Dalveen Street, COOPERS PLAINS'
+suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/R5q68CrVPaQnJGzqkCQoL3lkfFk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826127/415381743-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435615/images'
 property_id: '435615'
 price_search: null
-suburb: 'COOPERS PLAINS'
-id: 9dfe2a89-293e-4637-a901-0d78ccb903c8
+id: 22fd83f8-9eb4-44e0-b1ee-77a2b9306f9a
 ---
 5 bedroom house
 2 bathrooms

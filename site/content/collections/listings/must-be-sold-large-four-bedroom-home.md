@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 1
+land: 617
 status: Sold
 address: '16 Bracken Street, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/7YOT8JdwxaUm_Tp4liVC5HMOGrY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820688/105933621-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435120/images'
 property_id: '435120'
 price_search: '590000.0'
-suburb: MOOROOKA
-id: 4f0e0058-c3ef-4d10-9850-cbdbaee64bf2
+id: 959509e2-e23b-4298-b32c-a4971d504236
 ---
 Motivated Vendors!!
 Submit All Offers!!

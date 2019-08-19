@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 599
 status: Sold
 address: '25 Carowell Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Gk05gJmVUBBrGwG69M17Zfp6azk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821847/127906778-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435217/images'
 property_id: '435217'
 price_search: '450000.0'
-suburb: 'ACACIA RIDGE'
-id: 1d960d8e-878b-4e62-ac3f-4ac5498a9582
+id: 058f4b56-33bf-4c9c-a533-1973bd1f1f5c
 ---
 This completely renovated home is the ultimate of modern living, representing the perfect opportunity to secure one of Acacia Ridge's most prestigious properties. With an elevated position, this private family home promises years of enjoyment in the spacious interiors and tranquil surrounds. Stepping inside the living room, provides a warm and inviting space, a showcase of the fresh walls and glossy timber floors. The sleek and modern kitchen is functional and expansive, allowing the space to service busy families. The kitchen features clean white cabinetry, laminate benchtops and stainless steel appliances. Stepping down to the paved undercover outdoor area, it is easy to imagine relaxing with family and friends in this generous home.
 

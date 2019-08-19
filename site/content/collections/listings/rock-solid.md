@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 597
 status: Sold
 address: '26 Glenview Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/IlEBFo7gxlPMPjAK5gdeslg39dc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822330/129551030-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435257/images'
 property_id: '435257'
 price_search: '395000.0'
-suburb: 'ACACIA RIDGE'
-id: 8d0f162c-10bd-417a-b94b-293cdb5d2f76
+id: b3e5fb9b-d208-43ba-a024-1f7de4d06054
 ---
 This home is situated on a generous corner block, framed by beautiful poinciana tree and well-maintained gardens. Neat and tidy, this is a chamfer board home with a tiled roof in a desirable low-set design. The savvy investor will see the value of this property, not only an attractive rental property but a great first family home. With fresh paint, new carpets and air conditioning throughout, this home ticks all the boxes for move-in ready. The open plan living flows out to the front patio and also through to the generous kitchen and dining. This layout promises easy living for busy families and the opportunity to seamlessly enjoy both inside and out.
 

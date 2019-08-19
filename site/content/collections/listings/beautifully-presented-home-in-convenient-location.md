@@ -7,14 +7,15 @@ rent: '450.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 0
 status: Let
 address: '12 Bedser Streer, MACGREGOR'
+suburb: MACGREGOR
 main_image: 'https://img.eagleagent.com.au/W4dHSn1KoCdVE6j6T4-_5ActMG0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826275/416245833-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435633/images'
 property_id: '435633'
 price_search: null
-suburb: MACGREGOR
-id: 5f752440-ffcb-467d-93cb-353c0a951698
+id: aa5c4a58-e82f-4859-bfe4-ead940e8383b
 ---
 This modern family home has been lovingly renovated and is ready to go! Featuring modern appliances and fixtures, plenty of storage and great entertaining spaces, this home is perfect for the lifestyle-seeking family. Located just minutes from the newly renovated Westfield Garden City shopping centre and a fantastic range of amenities, convenience is just at your doorstep.
 

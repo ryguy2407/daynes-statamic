@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 768
 status: Sold
 address: '14 Benton Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/0bjYyeyN88t047Hfs_P5xWAlG4E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822816/117432463-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435291/images'
 property_id: '435291'
 price_search: '399000.0'
-suburb: 'ACACIA RIDGE'
-id: fae32b47-4b14-42ae-98d4-cd9a89d8c9c4
+id: a12339ad-ce31-4eb2-9783-771b2adf5d9a
 ---
 Located on a quiet, leafy street, this lovingly renovated home is ready for its next chapter of family living. Light and airy inside, this property has been designed to make the most of outdoor entertaining. The front yard is extensive, with well-maintained gardens and steps leading up to the generous front deck. The fully-equipped kitchen, combined living and dining rooms open straight out onto the deck through French doors; perfect for families and entertainers alike.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 617
 status: Sold
 address: '38 Sandpiper Street, INALA'
+suburb: INALA
 main_image: 'https://img.eagleagent.com.au/NkBA0jPwJh9svsu0mGt5_FPdXns=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820721/105979692-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435123/images'
 property_id: '435123'
 price_search: '309000.0'
-suburb: INALA
-id: 8fd40632-0be2-44bd-a10d-904be8241cea
+id: 4d932cbb-be23-47d7-8f44-e9bb25789042
 ---
 Good, tidy tenant in place on a 12 month lease until 28th May 2010 at $280 per week.
 

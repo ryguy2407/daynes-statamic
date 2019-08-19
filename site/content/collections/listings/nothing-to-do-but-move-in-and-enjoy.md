@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 2
+land: 669
 status: Sold
 address: '48 Gibraltar Circuit, PARKINSON'
+suburb: PARKINSON
 main_image: 'https://img.eagleagent.com.au/CvWx-U6WhYv-G0UK3G2swZ0ULNw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823107/117981799-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435314/images'
 property_id: '435314'
 price_search: '539000.0'
-suburb: PARKINSON
-id: 70f1f29d-f8c6-4817-8f1c-65959c282f58
+id: b3803557-2044-4e57-a2ab-76a3f9c88906
 ---
 This home brings together the best for suburban family lifestyle.
 

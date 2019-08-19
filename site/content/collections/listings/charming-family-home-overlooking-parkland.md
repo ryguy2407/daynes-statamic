@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 650
 status: Sold
 address: '23 Lismore Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/4VAxcnYDprxFmhfOa9kd57g4sqA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823646/122787350-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435362/images'
 property_id: '435362'
 price_search: '365000.0'
-suburb: 'ACACIA RIDGE'
-id: 98f88897-3474-4394-a7aa-bcc7c968061d
+id: 004fb542-5ac4-4c92-9279-e03d0ee4279a
 ---
 This beautifully presented family home is being offered for the first time in 44 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter.
 

@@ -7,14 +7,15 @@ rent: '310.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 961
 status: Let
 address: '74 Elizabeth Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/eoUnk56H7N8UFGVdYgbpvTg9RNk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825507/425174054-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435551/images'
 property_id: '435551'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 3060a811-73ca-490a-9c1d-3255f48de77d
+id: 5b93bd6b-defe-4354-90b1-710cd9f61a7d
 ---
 This low-set three bedroom family home sits on large block in a very convenient part of Acacia Ridge. The property has plenty of space for busy families in the open-plan living and dining. Living areas and bedrooms are airy and full of light, with the polished timber floors giving a low-maintenance finish. Bedrooms are privately situated to the rear of the home, all with ceiling fans and two with generous built-in storage. The tiled bathroom with a shower is spacious and the toilet is separate. The home is surrounded by a spacious backyard framed by mature trees, perfect for children and pets.
 

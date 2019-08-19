@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 3
 bathrooms: 1
 cars: 3
+land: 594
 status: Let
 address: '73 Gregory Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/OTxWeyC5bZvBoxKP6hbN5SLbTBc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825677/425810590-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435566/images'
 property_id: '435566'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: b565b454-8c62-46fb-8e95-cc5b6e8467d8
+id: 90027eb0-464d-4327-85b5-5a2c23a1d456
 ---
 Privately set back from leafy Gregory Street, this low-set family home welcomes you with its lovely street appeal. Stepping inside, you will find yourself in a lovely sitting room or study area reminiscent of a Spanish Villa with its textured walls and cool tiled flooring. It is easy to imagine kicking back with a coffee and a good book. The air conditioned lounge and dining area feature lovely white tongue and groove timber walls contrasting to the beautiful timber flooring.
 

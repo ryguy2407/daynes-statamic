@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 597
 status: Sold
 address: '27 Scouse Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ROnYfn28UUT1KU8qfggKq5iZ7P8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822500/130397786-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435270/images'
 property_id: '435270'
 price_search: '425000.0'
-suburb: 'ACACIA RIDGE'
-id: 5ff552d9-6cf0-4fd8-92c5-5cbb8bbe5ffb
+id: 16842ef4-5c85-4778-bf60-b32ee38e7960
 ---
 Sitting behind the pretty white fence sits this thoughtfully renovated home which will surely be the delight of its lucky future owners. This low-set home has been completely renovated with low-maintenance finishes and a functional layout for busy families. The front of the home is framed by lovely greenery, shading and protecting the concrete entertaining patio. Stepping inside, the home delights with open plan living and dining flowing effortlessly into the kitchen. The living spaces have been finished in neutral colours, with the vinyl wood-look flooring tastefully chosen to provide a low maintenance finish with a designer aesthetic. This perfectly complements the clean finishes of the recently installed kitchen, with cream two pac cabinetry and quality stainless steel appliances.
 

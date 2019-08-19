@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '13 / 11 Shottery Street, YERONGA'
+suburb: YERONGA
 main_image: 'https://img.eagleagent.com.au/YYpfztNsS5d-fx0tzjbKDrEmFM4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819706/106228642-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435005/images'
 property_id: '435005'
 price_search: '390000.0'
-suburb: YERONGA
-id: a36624d4-7a68-491f-9c2b-9e7dfc345dbd
+id: 35c52387-4f84-4066-869b-c446a616cd1f
 ---
 What a great opportunity! Renovated two bedroom unit in very desirable location; situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

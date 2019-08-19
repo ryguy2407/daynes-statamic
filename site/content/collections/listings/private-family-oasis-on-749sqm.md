@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 4
+land: 749
 status: Sold
 address: '64 Chardean Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/umW7MDjKFnEzCjc4rpDDdqlas5w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823543/122076566-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435356/images'
 property_id: '435356'
 price_search: '400000.0'
-suburb: 'ACACIA RIDGE'
-id: a5adb13a-8084-4d74-9b55-3b25b2a2f6d1
+id: 7de83fc3-c915-43ab-bebe-c00bcd661ce1
 ---
 Come home to this beautifully presented family property and enjoy the amazing lifestyle on offer. Situated on a large and flat 749sqm block, this property holds the potential to accommodate a growing family. It is not hard to imagine catching the morning sun over coffee and breakfast on the spacious side deck, overlooking the leafy yard. The large and functional indoor and outdoor spaces are perfect for families and entertainers alike. This home is airy and full of light, with plenty of windows attracting the fresh breezes. The property boasts a newly updated kitchen, great family bathroom and beautifully painted walls throughout in tasteful colour schemes. Simply move in and enjoy; there really is nothing left to be done!
 

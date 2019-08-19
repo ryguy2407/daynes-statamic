@@ -7,14 +7,15 @@ rent: '395.0'
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 0
 status: Let
 address: '118 Hamilton Road, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/JKgVT_VUSt9CAmYgbga9WIX6Zu4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824851/421762514-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435487/images'
 property_id: '435487'
 price_search: null
-suburb: MOOROOKA
-id: 4b28c6eb-a1f2-482e-aed5-afa41dd0b95c
+id: cd794c2f-8121-4923-87ba-747fb82b2801
 ---
 ** Please call Neil Jennings on 0432 800 753 for inspections and enquiries **
 

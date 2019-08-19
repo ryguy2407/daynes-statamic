@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 607
 status: Sold
 address: '8 Kirkley Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/lN--zkUjgzu7_NMCOCug2Gg-rGM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821425/126212862-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435183/images'
 property_id: '435183'
 price_search: '420000.0'
-suburb: 'ACACIA RIDGE'
-id: c8eb96bb-0ae5-41d6-8ead-e1b7b47674b5
+id: 3ee5f613-bec7-46a6-8250-ed17fa39a9a4
 ---
 Step inside this immaculately renovated property and immediately feel at home. Situated on an elevated and generous 607sqm block, surrounded by lovely lawns and on a quiet street. The renovation has been thoughtfully applied, with fresh neutral colours and clean finishes; this home is the perfect opportunity for those looking to move straight in! The home has had a full internal and external repaint in tasteful modern colours. The hardwood timber floors have been polished and are perfectly complimented by the fresh white walls. The modernisation has been completed with new recessed downlights throughout the home.
 

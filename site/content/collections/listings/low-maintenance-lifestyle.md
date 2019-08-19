@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 400
 status: Sold
 address: '20 Mawson Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_vOZQPI09IPEMp1UkTZuuALPXM4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821753/127456626-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435210/images'
 property_id: '435210'
 price_search: '395000.0'
-suburb: 'ACACIA RIDGE'
-id: fab7e8ce-175a-47df-81f0-2ac951d398f7
+id: d2e98025-0db9-49b1-a08d-9e3adcc47590
 ---
 This low-set brick home is situated in a quiet and leafy pocket of Acacia Ridge and represents an ideal opportunity for first home buyers, families and investors alike. The home is in good original condition and a much sought-after low set design of brick construction with a tiled roof. Well proportioned for comfortable family living, this home has plenty of space for outdoor and indoor entertaining and relaxing. The undercover patio flows off the combined kitchen and dining through sliding doors, perfect for entertainers and families.
 

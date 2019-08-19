@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 2
 cars: 2
+land: 0
 status: Active
 address: '1 / 329 Lillian Avenue, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/rSnzocTEqmobS5UvWyB1vu-a03k=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822880/131315190-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435297/images'
 property_id: '435297'
 price_search: '389000.0'
-suburb: SALISBURY
-id: f2cbcfa2-b20d-468f-b4c3-b43840bb6b21
+id: fb81993e-f98e-4db9-b588-da127104bf86
 ---
 This modern unit is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 

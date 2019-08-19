@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 0
 status: Sold
 address: '88 Littleton Road, RICHLANDS'
+suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/Emeo1IgQumAESmoTy1gICRZ0mfE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824171/116238623-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435401/images'
 property_id: '435401'
 price_search: '349000.0'
-suburb: RICHLANDS
-id: 575c4e0d-fdb9-48c4-80b0-cedc85013e0c
+id: c51def52-b16b-4a77-8340-62e5a9df4081
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

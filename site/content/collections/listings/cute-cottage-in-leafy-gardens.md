@@ -7,14 +7,15 @@ rent: '325.0'
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 658
 status: Let
 address: '14 Harden Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/52f6RACbQVNokHrdglwMCWH6LM4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826542/418364070-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435663/images'
 property_id: '435663'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: fc604469-3cfa-4897-a02f-058a42a2f8d4
+id: 4e38303d-bd83-406d-898d-4a3ba8d8be68
 ---
 This neat cottage is situated in a quiet and leafy pocket of Acacia Ridge, surrounded by shady trees and a great garden. Perfect for families, the functional layout boasts a large eat-in kitchen, a spacious living area and additional sun-room, perfect for a home office or storage. The two bedrooms are generous sized, the master including a large built-in wardrobe unit.
 

@@ -7,14 +7,15 @@ rent: '420.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Let
 address: '28 Muriel Avenue, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/ue6MXqtCrqtcll0JvnIphFl5JX8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826395/417377738-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435648/images'
 property_id: '435648'
 price_search: null
-suburb: MOOROOKA
-id: 7937d811-e47c-4153-b4ee-018915238492
+id: daa0daf4-e617-45b7-8298-9afc648612aa
 ---
 This neat three bedroom house is ideal for those who are after a private family home in a convenient location. The property is beautifully light and airy inside, and boasts a private and leafy backyard to the rear. Featuring an air conditioned open plan kitchen and dining, which opens to a good-sized living area, this property has plenty of space to enjoy time together. The porch to the front of the property is secured by gates and can be used as an extension of the living area by opening the French doors.
 

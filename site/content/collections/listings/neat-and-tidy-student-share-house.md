@@ -7,14 +7,15 @@ rent: '160.0'
 bedrooms: 5
 bathrooms: 2
 cars: 1
+land: 0
 status: Let
 address: '1 / 5 Howsan Street, MOUNT GRAVATT'
+suburb: 'MOUNT GRAVATT'
 main_image: 'https://img.eagleagent.com.au/_0NQ7Zr8aFK3dEYjfpxFXBk4nIM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826086/414872207-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435609/images'
 property_id: '435609'
 price_search: null
-suburb: 'MOUNT GRAVATT'
-id: 1ac37f7f-8c97-4adf-991a-c3035c46ef2d
+id: d3fc3c52-b17a-48dc-b7c1-ff49f4dd2642
 ---
 This 5 bedroom townhouse has a room available for rent. Fully furnished room, the property has an outdoor private patio area to sit and enjoy.
 

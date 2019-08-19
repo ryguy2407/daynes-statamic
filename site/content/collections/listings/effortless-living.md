@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 400
 status: Sold
 address: '27 Antrim Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Sty-XypjhLUmzanREED1Sd7et0I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820970/124506342-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435147/images'
 property_id: '435147'
 price_search: '385000.0'
-suburb: 'ACACIA RIDGE'
-id: 25e91f76-e605-4de8-820b-2b6bb110da05
+id: 1463b170-2bbc-49ae-9753-8b18c5c69fb8
 ---
 This low-set and low maintenance brick bungalow ticks all the boxes for families and investors alike. Set in immaculately presented gardens in a quiet pocket of Acacia Ridge, this property offers privacy and convenience, all on the one level! This home is well proportioned for comfortable family living, with plenty of space for outdoor and indoor entertaining and relaxing. The open plan kitchen and dining spaces are generous and flow out to the large under cover paved patio. This patio is an entertainers delight, featuring a built in barbecue and seating, all overlooking the beautiful gardens and lawn.
 

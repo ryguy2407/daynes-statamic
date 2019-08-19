@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 0
 status: Sold
 address: '19 Flaxton Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/tq34CGLajMGsUUFqDIfloERY2Y0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824198/116354075-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435404/images'
 property_id: '435404'
 price_search: '329000.0'
-suburb: 'ACACIA RIDGE'
-id: d34656c1-e055-4406-805d-29ac17aa2972
+id: 2116bb3f-1968-474a-a7ea-2217410c2fdf
 ---
 Check out this well presented three bedroom home situated on a 607sqm block in a quiet area of Acacia Ridge.
 

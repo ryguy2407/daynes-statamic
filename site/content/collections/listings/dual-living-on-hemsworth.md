@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 610
 status: Sold
 address: '46 Hemsworth Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/TzM920qlgIORqEfoGWr0wqQN3M4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821201/125441210-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435164/images'
 property_id: '435164'
 price_search: '525000.0'
-suburb: 'ACACIA RIDGE'
-id: e24c9a3a-f644-484c-b34e-7e99b123e011
+id: cabdf3ce-1c48-4929-8aa3-ea2fdb7262e5
 ---
 A generous family home, this property is a value-packed move in ready opportunity in one of the best neighbourhoods of Acacia Ridge. This house has been the labour of love for the current owners who have renovated it to an exceptional level of quality and thoughtful design. The upstairs portion of the home is characterised by light-filled, open plan living spaces expanding seamlessly out to the front and back decks. Perfect for easy entertaining, the back deck is spacious enough to get the family together and private to enjoy a breakfast coffee with the sunrise.
 

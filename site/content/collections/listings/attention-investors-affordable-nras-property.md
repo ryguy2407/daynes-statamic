@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 2
+land: 0
 status: Sold
 address: '50 Lilley Terrace, CHUWAR'
+suburb: CHUWAR
 main_image: 'https://img.eagleagent.com.au/wZCrVKGXrYujPBSqfszYD_v04ZA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824244/113760071-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435408/images'
 property_id: '435408'
 price_search: '349000.0'
-suburb: CHUWAR
-id: 8c4dba5f-d434-4378-9658-13eb330064af
+id: ece74828-ecca-427a-8f65-c3968cff18de
 ---
 This property is leased through the National Rental Affordable Scheme (NRAS). The NRAS period for this property expires on 09/05/2022 which means you have approximately a further 9 years of benefits from the scheme.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 8
 bathrooms: 6
 cars: 0
+land: 1962
 status: Sold
 address: '292 Archerfield Road, RICHLANDS'
+suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/kK9NsdZPY_d2DBG4sXuhbKrH728=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820794/113961251-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435131/images'
 property_id: '435131'
 price_search: '799000.0'
-suburb: RICHLANDS
-id: cf6d8b69-fe3a-42d7-94ed-b8e77d838745
+id: 9d472b50-2a0e-4b47-a4e1-fc1c0a234628
 ---
 Richlands Investment Opportunity
 

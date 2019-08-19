@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 607
 status: Sold
 address: '266 Watson Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/iKWQ21Q5LbuH1uF4HgYEROYhGBQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822176/128800954-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435245/images'
 property_id: '435245'
 price_search: '450000.0'
-suburb: 'ACACIA RIDGE'
-id: 18f167a6-22f6-421f-81f1-12441f2adca1
+id: fd7a0951-db20-4e73-a26b-7973bb73139b
 ---
 Privately set back from the road behind leafy hedges and grassy lawns, is this beautifully presented family home. This is has been the place of many happy memories for the current owners and in the offering is their inviting and immaculately cared for home. Stepping down the garden path, through the neat gardens and passed the bubbling pond, you are welcomed into tranquility. The entryway to the home is bright and stylish, flowing into the private interior beyond. Outside, the property offers a generous undercover patio, perfect to accommodate the whole family. Overlooking the sparkling above ground pool, the patio offers the ultimate in easy entertaining.
 

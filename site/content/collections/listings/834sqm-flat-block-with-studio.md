@@ -7,14 +7,15 @@ rent: '350.0'
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 834
 status: Let
 address: '18 Beatty Road, ROCKLEA'
+suburb: ROCKLEA
 main_image: 'https://img.eagleagent.com.au/Lg2bJuamxLogn2UsoaZjKIsVpf4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824941/422321794-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435497/images'
 property_id: '435497'
 price_search: null
-suburb: ROCKLEA
-id: 21926135-54ed-489c-8e99-a7c4dd0e285a
+id: 8aab7d18-0784-4057-9f08-4f9b7f659850
 ---
 Situated on a generous 834sqm block with excellent access, this property offers plenty of space and storage
 

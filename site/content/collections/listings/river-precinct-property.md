@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '8 Otaki Road, YERONGA'
+suburb: YERONGA
 main_image: 'https://img.eagleagent.com.au/j1uTpM5Qt_Y7sxp_yLgGFpIZWe8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819457/105805124-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434975/images'
 property_id: '434975'
 price_search: '670000.0'
-suburb: YERONGA
-id: 85e53693-c141-4ed6-99a2-304dff83afb0
+id: d890b5e2-5d8a-44cd-b9a8-d82866d26359
 ---
 This lovely three bedroom post war home is situated in a highly sort after area of Yeronga. Sitting proud on 541sqm of land this property is sure to impress.
 

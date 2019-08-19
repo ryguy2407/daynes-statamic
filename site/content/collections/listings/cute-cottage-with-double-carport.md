@@ -7,14 +7,15 @@ rent: '300.0'
 bedrooms: 2
 bathrooms: 1
 cars: 2
+land: 437
 status: Let
 address: '8 Sussex Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/PI_K7SyUrN9mzFJndY1u-zaXbo4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825434/424803414-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435544/images'
 property_id: '435544'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: a4c8393d-6e95-418e-97ab-9f0603da3e8b
+id: f2da00a6-8a9d-4764-a3e1-e4b7c2ee21ec
 ---
 This cute cottage is perfect for those who are after a convenient location and a low-maintenance home. Of solid construction, the house has hardwood flooring throughout, chamfer board exterior and steel roof. Internally, the rooms are well proportioned and functional with a combined living and dining off the good-sized kitchen.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 675
 status: Sold
 address: '24 Hanify Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/8e6beizfXpB9gliB_c0BwNXRmec=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822541/130838834-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435273/images'
 property_id: '435273'
 price_search: '399000.0'
-suburb: 'ACACIA RIDGE'
-id: 82496e38-159f-45fc-aebc-368eb18019cb
+id: 8df0de4d-d42d-46a9-ab6a-08c68e19d54f
 ---
 This neat low-set property is your chance to secure a spacious family home in a quiet neighbourhood.  Situated on a generous 675sqm block, surrounded by lovingly cared for gardens and lawns, this home has lovely street appeal. An entertainers delight, this home boasts two outdoor spaces perfect for enjoying the company of family and friends. The timber deck to the front of the home steps off the open-plan living and dining, expanding and adding light to an already well-proportioned space. The back undercover patio overlooks the grassy backyard and is a cool, private retreat to be enjoyed. Internally, two separate living spaces allow for plenty of space for growing families, or even the option to convert to a self contained home office. The kitchen, while dated, is functional and provides ample space to service the home. The three bedrooms are privately set to the rear of the home, all overlooking the grassy surrounds.
 

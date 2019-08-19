@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 3
 cars: 2
+land: 0
 status: Sold
 address: '119 Woff Street, SUNNYBANK'
+suburb: SUNNYBANK
 main_image: 'https://img.eagleagent.com.au/x1Lyp8KWDCaD-Thrzg1kE1HahFU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824257/113881935-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435410/images'
 property_id: '435410'
 price_search: '725000.0'
-suburb: SUNNYBANK
-id: 79fe0986-2937-44b3-bb75-406625787053
+id: 7f1492bc-ccdc-4935-92b5-ae923ba5adb8
 ---
 Massive Price Reduction. Now Best Offer Over $725,000 will buy!
 

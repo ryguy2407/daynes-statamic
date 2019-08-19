@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 500
 status: Sold
 address: '101 Mitchell Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/iUUeQIFVXCvn7ZOfiaTioxNIMvE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823981/114609879-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435385/images'
 property_id: '435385'
 price_search: '399000.0'
-suburb: 'ACACIA RIDGE'
-id: d3de7992-ce9f-45a3-abab-3f46046132b0
+id: ab7b6d07-48a9-485f-a80a-f4cf59876a50
 ---
 This home was one of the last to be built in this relatively modern estate in 1998. The original owners have resided there all this time and are reluctantly offering it for sale as they are moving south to their farm.
 

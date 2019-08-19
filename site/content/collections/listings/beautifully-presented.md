@@ -7,14 +7,15 @@ rent: '385.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 610
 status: Let
 address: '6 Dunkeld Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/cHipPykN4FqI-_H6_aB3PG6x3i8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824824/421661750-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435484/images'
 property_id: '435484'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: c7aaadf1-d0a4-4a74-ac77-cdb7e68ba655
+id: 497493ca-c4a2-44c3-928a-fe96bda21e10
 ---
 Nestled amongst the trees in a quiet pocket of Acacia Ridge is this private family home. Full of light and beautifully presented, there is plenty of room to relax in the open plan interiors and generous veranda. The open-plan living and dining flow out to the timber veranda, overlooking the leafy backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light and neutral colours on the walls making each space feel fresh and bright. With plenty of room for a growing family and clean finishes, this property is perfect for those who are after a home to be proud of.
 

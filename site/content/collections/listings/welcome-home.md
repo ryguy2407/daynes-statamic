@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 607
 status: Sold
 address: '15 Scouse Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ofn27iPEohwzsO6eQxyp1MJ-xHE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822460/130899774-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435267/images'
 property_id: '435267'
 price_search: '419000.0'
-suburb: 'ACACIA RIDGE'
-id: 64c5fe99-4b28-4dcd-91c2-9cb51759b6cc
+id: a6ae5ed9-c770-4621-bcaa-c932b7a8ab2f
 ---
 It is easy to imagine getting excited to come home to this classic Acacia Ridge property. Immaculately cared for and beautifully presented, this home is a real treat. The house is situated on a north-south facing block in a quiet but convenient pocket. Truly an entertainers delight, the open plan interiors are beautifully complemented by the outdoor spaces, perfect for evenings with family and friends. The living and dining expand out to the lovely tiled north-facing deck with a sunny, elevated outlook. The family-sized kitchen flows effortlessly out to the expansive rear verandah. This beautiful timber deck is perfect for entertaining and relaxing, with a shady southern aspect and overlooking the grassy backyard with shady trees. In addition to the great entertaining areas, this home offers a fully enclosed under-house area, with two car garage and additional bathroom. Highly sought-after, these spaces are ideal for added convenience and value.
 

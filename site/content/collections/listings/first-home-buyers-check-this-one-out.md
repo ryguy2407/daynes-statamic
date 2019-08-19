@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 2
 cars: 1
+land: 0
 status: Sold
 address: '5 / 18 Gainsborough Street, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/T-dxUsmtLInV69VHmorcs4CXGB4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819372/105651424-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434963/images'
 property_id: '434963'
 price_search: '359000.0'
-suburb: MOOROOKA
-id: b3617594-e481-459e-b96a-161ff02cf675
+id: 49cd759a-41ca-4352-a438-e1b03bd5e400
 ---
 This two bedroom unit situated on the 1st level at the rear is a first home owners dream. Only 3 years old and still like new
 

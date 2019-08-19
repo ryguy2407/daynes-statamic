@@ -7,14 +7,15 @@ rent: '410.0'
 bedrooms: 2
 bathrooms: 2
 cars: 1
+land: 0
 status: Let
 address: '11 / 329 Lillian Avenue, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/uvX4Ud4wrLplmMXaRyTsJf-Yzmk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824534/409993135-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435453/images'
 property_id: '435453'
 price_search: null
-suburb: SALISBURY
-id: 576f45c7-dc6a-4b57-910d-da9178ef6e3a
+id: 84696574-a675-4759-b479-de319fe8467f
 ---
 * Two bedroom, two bathroom
 * Built in 2011

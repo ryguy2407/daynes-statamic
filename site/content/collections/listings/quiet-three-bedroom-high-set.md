@@ -7,14 +7,15 @@ rent: '375.0'
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 607
 status: Let
 address: '21 Eirroc Street, ARCHERFIELD'
+suburb: ARCHERFIELD
 main_image: 'https://img.eagleagent.com.au/wmSmxvwLIJPdodlBZt653MFIc5o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824777/421426818-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435479/images'
 property_id: '435479'
 price_search: null
-suburb: ARCHERFIELD
-id: ac06e586-748b-443c-8dd2-fe1baf18a90a
+id: b875d34d-2c9f-4e77-8eb1-608369b273d4
 ---
 This cute, high-set home with a leafy outlook is situated in a quiet cul-de-sac. The home is private, set back from the road and surrounded by trees and lawns. With bright open plan living areas and great outdoor entertaining spaces, this home will be great for families and entertainers.
 

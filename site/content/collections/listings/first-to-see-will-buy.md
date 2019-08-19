@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 0
 status: Sold
 address: '2 / 26 Mayfield Road, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/q7qnwWXKGnjx_I2N9aB-IVy_hms=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818313/104267586-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434849/images'
 property_id: '434849'
 price_search: '330000.0'
-suburb: MOOROOKA
-id: 7f6e16c2-f425-410b-bc45-114d5f48beb1
+id: 4a5e3e9b-cdb9-4d2e-b97a-5e2d74de33db
 ---
 This tri-level 2 bedroom townhouse is in a complex of only 4 and is only 10 years old! Put that together with very low body corporate fees of just $860 p.a. and you have one VERY sought after property.
 

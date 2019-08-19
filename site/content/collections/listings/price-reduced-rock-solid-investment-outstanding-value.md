@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 4
+land: 746
 status: Sold
 address: '61 Merchiston Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/MReTm0tKCHfogNtpZWZ3QFWSat8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823372/120744353-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435339/images'
 property_id: '435339'
 price_search: '379000.0'
-suburb: 'ACACIA RIDGE'
-id: a2d2f966-a796-45f2-9470-7ddef422c5cd
+id: f78a1e18-7432-457c-875b-8d5f810f564f
 ---
 This home has been the delight of the current owners, and their love and enjoyment is evident in the attention to detail and liveability of the property. Featuring double brick fully insulated construction and fully insulated ceilings, this will be a solid investment for years to come.
 

@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 809
 status: Let
 address: '106 Gregory Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/XBSHKfydc-t55keNnb2ckQqVlN8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826775/419755958-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435688/images'
 property_id: '435688'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: ae12d351-f218-476e-ae27-a0e81ba222d1
+id: 37d9cbb1-f01f-4bac-8baf-6e8fbfd7204d
 ---
 Set amongst the trees, this split-level family home is unique in its location with only one neighbouring property. Backing on to parkland and overlooking nature reserve beyond, it is hard to believe the home is only 17km from the Brisbane CBD.
 

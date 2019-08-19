@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 618
 status: Sold
 address: '15 Gemstone Crescent, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/fjakFizwkuxvOlOIMcZKcKZ6Oh0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822192/129304534-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435247/images'
 property_id: '435247'
 price_search: '359000.0'
-suburb: 'ACACIA RIDGE'
-id: a1c5a0b4-3ec5-411d-ae72-bb9edfb0e814
+id: e2a05d14-bd1f-4416-947f-7f42f07ab005
 ---
 This low-set brick home is a brilliant example of easy living with lovely low-maintenance design. Highly sought-after, this design is both functional and full of potential. The convenient layout and clean finishes of this neat family home are sure to attract both first home buyers and investors alike. The home is full of an abundance of light and looks out to the lovely grassy lawns. The open plan eat in kitchen and living are generously proportioned and perfect for accommodating busy families.
 

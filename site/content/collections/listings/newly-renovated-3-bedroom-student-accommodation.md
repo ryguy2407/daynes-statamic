@@ -7,14 +7,15 @@ rent: '210.0'
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 0
 status: Let
 address: '954 Stanley Street East, EAST BRISBANE'
+suburb: 'EAST BRISBANE'
 main_image: 'https://img.eagleagent.com.au/pxUUYB-kocSFbGZKGB3ILSz_yv8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826146/415021567-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435617/images'
 property_id: '435617'
 price_search: null
-suburb: 'EAST BRISBANE'
-id: f253f07f-23bb-4bc5-8312-568d65506626
+id: 4b4ce77f-e44d-4b85-9f1a-df54f235a2d0
 ---
 This Three Bedroom Student House has been tastefully renovated. Open plan combined modern kitchen and living area. Great location with easy access to shops, Gabba cricket ground, there is also a bus stop outside the property which gives you easy access to QUT, Southbank and the CBD.
 

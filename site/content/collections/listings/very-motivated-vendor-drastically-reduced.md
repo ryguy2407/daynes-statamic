@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 2
+land: 625
 status: Sold
 address: '150 Sunview Road, SPRINGFIELD'
+suburb: SPRINGFIELD
 main_image: 'https://img.eagleagent.com.au/2f2a_N06B-vQvnxJ4mGtX-p2ScI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818442/104547683-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434867/images'
 property_id: '434867'
 price_search: '409000.0'
-suburb: SPRINGFIELD
-id: e8f80864-adfc-46f0-8a83-5f0b75f6fd10
+id: e3442576-4531-4bbd-ad07-eb2c330ef51a
 ---
 Do not miss out on the opportunity to secure this great family home for such a great price.
 

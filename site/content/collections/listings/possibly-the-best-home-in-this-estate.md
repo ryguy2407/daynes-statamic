@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 2
+land: 677
 status: Sold
 address: '20 Crescendo Place, CRESTMEAD'
+suburb: CRESTMEAD
 main_image: 'https://img.eagleagent.com.au/hyEnlKr6eE2qpLCl5mAihShUuA8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821641/116901227-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435199/images'
 property_id: '435199'
 price_search: '375000.0'
-suburb: CRESTMEAD
-id: 7e5d5884-c157-40fe-81ee-b599ecaf67ae
+id: a9f375f6-89cd-4a58-8cb6-2aee143f0b5b
 ---
 Priced to sell at best offer over $375,000.
 

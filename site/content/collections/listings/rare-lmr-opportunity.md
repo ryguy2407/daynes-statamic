@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 1
 cars: 1
+land: 809
 status: Sold
 address: '40 Stevens Street, YERONGA'
+suburb: YERONGA
 main_image: 'https://img.eagleagent.com.au/ImR0mHGcJYrQH1VI4895XJ6ihpY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821182/125688470-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435163/images'
 property_id: '435163'
 price_search: '700000.0'
-suburb: YERONGA
-id: 02251157-aa9b-4b1f-9140-687e3dfe1651
+id: c1237b26-a3ba-4d40-8d73-7deffd36d0ab
 ---
 Nestled in the heart of this beautiful riverfront Brisbane suburb is a prime investment opportunity. The charming post-war dwelling is set on a generous 809sqm Low-Medium Residental (LMR) zoned allotment, presenting a myriad of development opportunities.  Yeronga is a desirable inner city suburb, experiencing continued strong capital growth. These sorts of properties with such outstanding potential and position rarely become available.
 

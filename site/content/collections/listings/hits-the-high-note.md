@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 716
 status: Sold
 address: '18 Fadden Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/P40V9kYtMzjSB_O1fNXZw6ZHICc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820986/124412126-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435148/images'
 property_id: '435148'
 price_search: '425000.0'
-suburb: 'ACACIA RIDGE'
-id: ab0b71e4-7104-4ad6-8a89-350bc432ee1b
+id: 172b8ce3-1bc5-4021-a74e-51447493b9c8
 ---
 Step inside this warm inviting home and it’s not hard to imagine the easy entertaining and relaxation. The beautifully presented polished timber floors are perfectly showcased by the open-plan kitchen, living and dining areas. Also a feature of the comfortable living area is the brick fireplace, perfect for cosy winter evenings at home. The shady timber back deck steps off the kitchen, making for convenient entertaining with family and friends.
 

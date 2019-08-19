@@ -7,14 +7,15 @@ rent: '410.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 587
 status: Let
 address: '56 Sussex Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ZsURefRiIkrHBs3NWzgs5P-UQQ4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825543/425292514-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435554/images'
 property_id: '435554'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 980d391b-8bc8-491e-bdb8-439f62f5e9b6
+id: 81c6b996-3fec-457b-b669-19bc062a71a4
 ---
 Set back from the street and privately tucked away behind attractive lattice work to the front of the home, this is a lovely setting for a growing family. The home boasts an abundance of space for entertaining and relaxing amongst the gorgeous manicured gardens. No detail has been left unattended in this lovingly cared for property. The spacious open plan living and dining room is bright and airy, with the beautiful custom-made folding doors opening up to the shady front patio. The generous spaces do not end there, with the living area also stepping out to a wonderful outdoor entertaining area complete with a fully insulated ceiling and privacy screens surrounding. The kitchen and bathroom are fresh and modern, perfectly complimenting this beautifully finished property. You will not want to miss this opportunity!
 

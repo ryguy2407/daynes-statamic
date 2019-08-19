@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 0
 status: Sold
 address: '16 Maverton Street, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/DHgdHRt5-GzIyLNxBoLN7Q5c8-Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820261/108506666-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435078/images'
 property_id: '435078'
 price_search: '399000.0'
-suburb: SALISBURY
-id: 6ed80093-9530-4e51-955f-900c7a5263fa
+id: aa0e93ea-875c-4812-9f1d-f2aee017483f
 ---
 This lovely three bedroom lowset home is situated in a quiet pocket of Salisbury.
 

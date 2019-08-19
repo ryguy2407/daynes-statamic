@@ -7,14 +7,15 @@ rent: '625.0'
 bedrooms: 4
 bathrooms: 3
 cars: 2
+land: 0
 status: Let
 address: '1 / 11 Denman Street, GREENSLOPES'
+suburb: GREENSLOPES
 main_image: 'https://img.eagleagent.com.au/jUq47fVlqbhfPplPB8oXarqAaeA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824342/403710845-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435425/images'
 property_id: '435425'
 price_search: null
-suburb: GREENSLOPES
-id: f4d7e689-f08a-4686-8fca-ad3768d610f7
+id: 35457079-fc25-436b-b617-2c16679df648
 ---
 Upstairs includes
 *  2 large bedrooms upstairs, master bedroom with French doors opening to the ensuite and walk in robe

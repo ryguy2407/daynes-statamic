@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 2
 cars: 1
+land: 653
 status: Sold
 address: '49 Oxley Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/kq_1eRntOa6tuhC0Dz5R0wr1g9Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821763/127723758-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435211/images'
 property_id: '435211'
 price_search: '360000.0'
-suburb: 'ACACIA RIDGE'
-id: d2816653-b9cc-4122-8773-b852b265c5b6
+id: cb6d35bf-4f95-40de-9587-5b59fb7adf9e
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the unique design. A welcoming place to call home, this property has great street appeal with plenty of character. Oxley Street is a lovely wide street with glimpses towards Brisbane CBD, lined by well-kept homes and gardens. With the second storey extension, this property stands out and is an exciting opportunity to create a generous family home. Stepping inside, the large living spaces are open and inviting, the perfect blank slate to create functional spaces for busy families.
 

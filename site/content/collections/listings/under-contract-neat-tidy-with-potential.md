@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 0
 status: Sold
 address: '25 Hemsworth Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/xnVS3XuA-_nhGA7BBiYtIzThBhk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822679/117375799-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435281/images'
 property_id: '435281'
 price_search: '320000.0'
-suburb: 'ACACIA RIDGE'
-id: b558c558-2c19-474c-bb87-107e05f2270b
+id: da9ce111-246d-4fa1-8948-7f783cd86f31
 ---
 Located on a 607sqm block, this highset home is perfect for families with generous living areas and bedrooms. It is situated on one of Acacia Ridge’s best streets, convenient to schools, public transport and shops. The existing house would be highly suitable for a family or viable as an investment property. There is also potential to add value to this property by doubling the living space underneath.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 1
 bathrooms: 1
 cars: 1
+land: 0
 status: Sold
 address: 'S2002 269 Grey Street, SOUTH BANK'
+suburb: 'SOUTH BANK'
 main_image: 'https://img.eagleagent.com.au/4Uakjq3fMDtx5HTN9xenvEuELyM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820902/129034606-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435142/images'
 property_id: '435142'
 price_search: '560000.0'
-suburb: 'SOUTH BANK'
-id: 8c6218eb-8e3e-44fb-bb2f-eca7b19b1c65
+id: 8bf6e49a-204a-4209-9035-c65ab4dabb5c
 ---
 The Emporium Apartments are the most highly anticipated and high profile developments situated on Southbank, the bustling cultural hub for which Brisbane is world-renowned. This apartment represents a rare opportunity to secure a precious piece of this vibrant riverfront community. Situated a stone's throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development has been designed and will be executed to satisfy even the most discerning investor.
 

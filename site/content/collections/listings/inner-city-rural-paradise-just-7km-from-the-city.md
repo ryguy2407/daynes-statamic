@@ -7,14 +7,15 @@ rent: null
 bedrooms: 5
 bathrooms: 3
 cars: 5
+land: 1590
 status: Sold
 address: '27 Northview Outlook, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/ub4__M_HsEuosIDqc9fEV4uLQIM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819965/106858252-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435048/images'
 property_id: '435048'
 price_search: '1200000.0'
-suburb: MOOROOKA
-id: b36c3fb8-9328-4da2-b881-efe3834e2b3e
+id: 5ad9bd96-a0dc-4016-850c-45f4e39cd25c
 ---
 The Ultimate Family Residence and Professional Home Office
 27 Northview Outlook, Clifton Hill.

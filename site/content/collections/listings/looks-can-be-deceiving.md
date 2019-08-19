@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 476
 status: Sold
 address: '29 Medina Street, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/VATvXILPq7uHFGbhjPrpPOsw-TI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820726/106055600-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435124/images'
 property_id: '435124'
 price_search: '579000.0'
-suburb: MOOROOKA
-id: f5bc7d49-768b-4f86-8921-67c0d9874f6a
+id: 8a5e554b-aa98-427c-9dcf-e27fc6402289
 ---
 Set in a lovely street in Moorooka, this home offers an easy living lifestyle and plenty of room to entertain friends and family. Be sure to inspect this property as you will be impressed by the quality and size of this home.
 

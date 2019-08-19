@@ -7,14 +7,15 @@ rent: '500.0'
 bedrooms: 3
 bathrooms: 1
 cars: 3
+land: 0
 status: Let
 address: '19 Luprena Street, MANSFIELD'
+suburb: MANSFIELD
 main_image: 'https://img.eagleagent.com.au/_xHwygIgHe1LCaMccBx0CD2KIf4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824834/421650434-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435485/images'
 property_id: '435485'
 price_search: null
-suburb: MANSFIELD
-id: b88175d0-90d5-4438-9a07-a86b7fb6f321
+id: 35473bdf-589e-420a-8049-73cecf0bb342
 ---
 This generous and beautifully presented home is ideal for those who enjoy entertaining and relaxing in fabulous outdoor spaces. With two great outdoor entertaining areas stepping off the kitchen and living, this home offers plenty of space. The gardens are beautifully presented, fully fenced and private, perfect for children and pets. The kitchen is modern and full of light, with plenty of storage and work surfaces. Spacious, tastefully decorated and light-filled interiors make this a comfortable home, suitable for couples and growing families alike.
 

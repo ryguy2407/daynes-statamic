@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 721
 status: Sold
 address: '248 Turton Street, SUNNYBANK'
+suburb: SUNNYBANK
 main_image: 'https://img.eagleagent.com.au/Yt6EhUDLdgnHLfbrrjKVTzrIufo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821664/127322982-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435201/images'
 property_id: '435201'
 price_search: '650000.0'
-suburb: SUNNYBANK
-id: 6e190e3c-f9e5-49b8-a141-ee552e05c01c
+id: 00584144-7dbc-4d12-b163-3ab358a49338
 ---
 This home is of desirable lowset brick construction, with the perfect layout for families. The property is north facing, and combined with the neutral colours on the walls and large windows, the property is full of natural light. Stepping up to the home, the private entry steps into the living room which has been beautifully finished with polished timber flooring. The eat-in kitchen flows through from the living, a lovely convenience for busy families. The family bathroom has been recently updated with thoughtfully chosen neutral tiles and has been beautifully presented. Each of the bedrooms has neutral carpet and built in storage.
 

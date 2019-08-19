@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 4
+land: 658
 status: Sold
 address: '16 Sandeman Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/q1bqTI8BqDjsrk1qyIzl6LLVyO8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821814/127851182-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435215/images'
 property_id: '435215'
 price_search: '490000.0'
-suburb: 'ACACIA RIDGE'
-id: 7a0e6f26-06ff-456e-be3c-b2537e15dc1d
+id: a1e05681-1baa-4599-9575-f46f713d3b2d
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this large, meticulously renovated home awaiting the next chapter. Situated on one of best streets in Acacia Ridge, this is your opportunity to secure the ultimate in lifestyle and practicality. The east-facing front deck is perfect for enjoying your morning coffee in the tranquil surrounds, afforded by the quiet neighbourhood and leafy gardens. Stepping inside, the bright and spacious living area flows beautifully through to the equally well-appointed dining and kitchen spaces. The gourmet kitchen has been designed to provide the utmost in convenience, the best quality appliances, and has been finished with sleek cabinetry and benchtops. These inviting spaces are the heart of this home and provide the perfect place to enjoy relaxing with family and friends.
 

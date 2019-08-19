@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '23 Alveston Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ffBXsrYlom-_Eo66AvRDRd7t3eY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823045/117642331-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435308/images'
 property_id: '435308'
 price_search: '389000.0'
-suburb: 'ACACIA RIDGE'
-id: 1e617ed6-7a3c-402d-bb27-a021d62e6023
+id: 1066c059-2535-4a68-b9eb-c2f21ac08300
 ---
 ***Price Reduction - Slashed by $10,000***
 

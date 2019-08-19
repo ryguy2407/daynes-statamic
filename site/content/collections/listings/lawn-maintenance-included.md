@@ -7,14 +7,15 @@ rent: '350.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 784
 status: Let
 address: '20 Benton Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ODVe9OlARs_itWhjFC0hP164KcA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824718/420983586-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435473/images'
 property_id: '435473'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 07b8239f-954f-4ca4-bca3-5a2a3d45039e
+id: 52639d32-3b98-48b1-9c2f-f600b1ba5403
 ---
 Immaculately presented, this desirable high-set property with a great layout is perfect for families. The open plan living and dining is adjoined by a carpeted sunroom, easily converted into a range of useful spaces including kids playroom, study, or simply a space to relax and unwind. The kitchen steps off the living and dining, making entertaining a breeze. The kitchen has been newly renovated, preserving the retro cabinetry with a fresh coat of paint and offset by beautiful timber benchtops. The house has been completely repainted internally and the hardwood floors polished to perfection. This is a low-maintenance home, perfect for families and those after a little more space to enjoy alike.
 

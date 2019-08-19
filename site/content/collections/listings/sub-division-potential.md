@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 804
 status: Sold
 address: '12 Bellamy Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/FSJcWWxlWDWaswvAb0Cfyc0KDGA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821555/126538418-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435192/images'
 property_id: '435192'
 price_search: '430000.0'
-suburb: 'ACACIA RIDGE'
-id: f73619e0-3745-46af-ab06-2dc35957a6c9
+id: b5e99fe8-3a40-4a22-bd4e-0eabfb03b88d
 ---
 Privately tucked behind the lovely timber fence is this delightful family home. This property has been designed to to incorporate plenty of outdoor spaces, perfect to relax in the idyllic shady settings provided by the lofty trees and grassy lawns. This beautiful chamfer board home is set on an elevated 804sqm block, a generous parcel of land to enjoy. The leafy outlook is best enjoyed from the back patio which steps out from the beautifully finished kitchen making entertaining a breeze. Perfect for entertainers and families alike, this property holds the potential to become your dream home.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 5
 bathrooms: 2
 cars: 3
+land: 564
 status: Sold
 address: '104 Dalmeny Street, ALGESTER'
+suburb: ALGESTER
 main_image: 'https://img.eagleagent.com.au/JYZeyeh2UB4CN00pKpsdDSFzgzU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820300/108710601-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435081/images'
 property_id: '435081'
 price_search: '359000.0'
-suburb: ALGESTER
-id: 64d2df00-f4c6-4c08-8550-26e720cb63f8
+id: 0ac75124-4a0a-492b-8cab-870c1d20019e
 ---
 Forget all previous price indications - Owner Instructions are clear - This house must be sold!
 

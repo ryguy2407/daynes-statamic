@@ -62,6 +62,7 @@ class SyncListings {
 			'bedrooms' => $listing['attributes']['bedrooms'],
 			'bathrooms' => $listing['attributes']['bathrooms'],
 			'cars' => $listing['attributes']['car_spaces'],
+			'land' => $listing['attributes']['land_size'],
 			'status' => $listing['attributes']['status'],
 			'address' => $listing['attributes']['full_address'],
 			'suburb' => $listing['attributes']['suburb'],

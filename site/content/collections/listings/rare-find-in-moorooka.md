@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 0
 status: Sold
 address: '3 / 118 Hamilton Road, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/wiuCROcUlFc8QRCfA92ehgRwwJ0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818820/104937780-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434903/images'
 property_id: '434903'
 price_search: '365000.0'
-suburb: MOOROOKA
-id: dccc5b91-1198-4690-83f0-6f61d2cc1a17
+id: f8a572c2-b601-41fa-bb81-88064ceae110
 ---
 Secure this lovely three-bedroom, two bathroom townhouse in a complex of 30.
 Moorooka is only 8km to the city and this townhouse is close to all amenities.

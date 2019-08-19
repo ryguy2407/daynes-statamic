@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 0
 status: Sold
 address: '26 / 270 Handford Road, TAIGUM'
+suburb: TAIGUM
 main_image: 'https://img.eagleagent.com.au/8sggRKrvSLs4f4KGnTeCrGBchKE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821655/127035266-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435200/images'
 property_id: '435200'
 price_search: '255000.0'
-suburb: TAIGUM
-id: 9a547f36-690d-461f-831f-79e4ad777b3a
+id: 70dfe11b-b787-4a8f-a0aa-76dec440b445
 ---
 This spacious unit represents the ultimate blank canvas, perfect for those wishing to realise their creative dreams. The unit has been immaculately cared for, and the light-filled spaces need only cosmetic renovations to become a stylish home. The open plan living has been cleverly designed to offer the very best functionality and flows through to the private courtyard at the rear. This courtyard backs onto the local school oval, meaning no neighbours and quiet enjoyment. Situated in close proximity to ample visitor parking and the complex pool area, this property is great for those who love to entertain.
 

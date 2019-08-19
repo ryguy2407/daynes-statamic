@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 625
 status: Sold
 address: '16 Ferrand Street, TARRAGINDI'
+suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/gHlFxz5u5mLg31eU44jdClmBqaY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818436/104547461-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434866/images'
 property_id: '434866'
 price_search: '480000.0'
-suburb: TARRAGINDI
-id: 78abffea-87f4-4cf8-826c-78d850f98af6
+id: cac34806-4edd-4bd9-91f3-c25c590b589d
 ---
 Don't judge a book by its cover...
 

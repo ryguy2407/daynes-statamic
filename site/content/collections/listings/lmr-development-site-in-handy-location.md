@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 3
+land: 825
 status: Sold
 address: '47 Elizabeth Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/vDMvnTNH3ClwzV7n8iKAE-I3YyE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823059/117734291-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435309/images'
 property_id: '435309'
 price_search: '419000.0'
-suburb: 'ACACIA RIDGE'
-id: 4bcd6d0e-e648-498d-8e68-0f5146c21de1
+id: 62bc4da2-3a38-46a6-a636-9ffb3a6a7cf1
 ---
 Seize the opportunity that is presented here!
 

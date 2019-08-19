@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 1
 cars: 0
+land: 0
 status: Sold
 address: '23 Begonia Street, BROWNS PLAINS'
+suburb: 'BROWNS PLAINS'
 main_image: 'https://img.eagleagent.com.au/Ldyo6qyqdSQz9jeSy-PVXptuaQ8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824187/116353371-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435403/images'
 property_id: '435403'
 price_search: '299000.0'
-suburb: 'BROWNS PLAINS'
-id: f76c2d06-fea3-4863-9b8d-082d810904eb
+id: f642f31f-2e4f-48eb-ad45-edb4f9f16b2a
 ---
 Here we have a neat and tidy four bedroom brick and tile home situated in a desirable area of Browns Plains.
 

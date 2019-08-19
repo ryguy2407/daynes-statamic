@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '47 Hemsworth Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_Dl1JIJgwiPDRylt0p1lmJJViK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823956/114177323-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435383/images'
 property_id: '435383'
 price_search: '349000.0'
-suburb: 'ACACIA RIDGE'
-id: af91c5c3-8ea7-4b63-93b1-d05a019a1b99
+id: 72e63b3a-f021-4a2d-b13f-f8cdab6141bb
 ---
 This highset three bedroom home is located in a really lovely part of Acacia Ridge deserves your immediate inspection.
 

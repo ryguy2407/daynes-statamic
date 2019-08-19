@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 405
 status: Sold
 address: '302 Lillian Avenue, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/aIuhHhpQspBojgz9l4WANj_nVFU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820432/110373073-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435093/images'
 property_id: '435093'
 price_search: '439000.0'
-suburb: SALISBURY
-id: 45f4d957-13b4-41b6-924b-2420b39c9210
+id: f4f9de47-af51-451a-a906-b2b5b7fedbbd
 ---
 If you love to entertain family and friends then this one is for you.
 

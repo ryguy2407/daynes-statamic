@@ -7,14 +7,15 @@ rent: '340.0'
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 658
 status: Let
 address: '14 Harden Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/TUVqrf1HFZ-WkeSYUpjVaHQzzg8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826186/415576839-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435622/images'
 property_id: '435622'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 5006024c-f9d4-467d-a5ff-fdb137e79313
+id: 5dccc51d-51de-49e9-ac6c-beb0b70f78a1
 ---
 This 2 bedroom house is available for rent, the property is about 100 metres to bus stops on Mortimer Road. Also close to schools, parks, shopping centres and amenities.
 

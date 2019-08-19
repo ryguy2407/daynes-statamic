@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 2
 bathrooms: 1
 cars: 3
+land: 653
 status: Let
 address: '59 Whittingham Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/CLfczJh9IWlxaRQ2cpLzEWrAvLQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824914/422088166-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435494/images'
 property_id: '435494'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: efa89b02-0926-44fc-8147-1c72f0c7e1d1
+id: 8f2ea682-4f29-421a-b6a9-7c94b64d9be4
 ---
 This cute two bedroom cottage is situated in a quiet and leafy pocket of Acacia Ridge.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 1
+land: 405
 status: Sold
 address: '209 Ness Road, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/rGwPfz2X_Ck8WaU0xkJwH7UEZl0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820174/107550206-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435069/images'
 property_id: '435069'
 price_search: '480000.0'
-suburb: SALISBURY
-id: 9ea4a84d-3278-43c3-8996-97943fea2684
+id: 0c76553d-ea60-4ce3-8dcb-f91feaa8ce2b
 ---
 **Get in now and beat the stamp duty increase commencing 1st August 2011**
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 607
 status: Sold
 address: '8 Wray Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DiyyhPIgJOQ97N9Lkh5UmHN86T4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821218/125498106-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435165/images'
 property_id: '435165'
 price_search: '425000.0'
-suburb: 'ACACIA RIDGE'
-id: 03af7306-f635-4d3d-abca-45cb81ca6afe
+id: 85ba60fb-ade4-422e-8c3d-58efe4a79ca8
 ---
 This beautifully presented home represents the ideal of modern living and an opportunity to secure one of Acacia Ridge’s most desirable properties. This private family home, promises years of enjoyment in the spacious and fresh interiors, and tranquil surrounds. The cute east-facing front porch looks out to the beautifully kept front lawns and to parkland beyond, perfect for enjoying a morning coffee. The beautiful gardens either side of the property are privately enclosed by the recently completed timber fence. Dual street access has been afforded with double car gates opening to the large shed to the rear.
 

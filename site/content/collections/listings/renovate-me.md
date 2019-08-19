@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 766
 status: Sold
 address: '5 Coley Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/sWlv9K6uiNHSEMw0BZnJ5R1UW-g=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822733/130679722-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435285/images'
 property_id: '435285'
 price_search: '379000.0'
-suburb: 'ACACIA RIDGE'
-id: d1bf6ee2-593e-45da-ba7d-df2086bd39b0
+id: 3fafc558-dc02-46a6-98f0-27290df8d13a
 ---
 This property is an excellent example of why so many renovators are drawn to this rapidly developing suburb. Of desirable low-set rendered brick construction with hardwood timber floors, this home has been built to last. Owned by the same family since it was built, the property has been much loved throughout its history. Only minor upgrades have been applied to the kitchen and bathroom, leaving the remainder of the house the perfect blank canvas to modernise.
 

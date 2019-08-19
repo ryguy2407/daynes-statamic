@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 2
+land: 610
 status: Sold
 address: '275 Mortimer Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/N6xogFx_20wIzHO_-ekucoXkOBo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823244/118742755-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435326/images'
 property_id: '435326'
 price_search: '425000.0'
-suburb: 'ACACIA RIDGE'
-id: 96b7fe17-0969-4452-b4eb-550ea7d7228d
+id: 01626e3a-4d9b-4cb1-ae3a-6ae7896568a5
 ---
 Invite your guests into this spacious and lovingly kept home. This property is complete with large entertaining areas, including open-plan kitchen, dining and informal living stepping out to undercover paved outdoor area. This well thought-out home features plenty of space for a growing family with functional and adaptable spaces and good-sized bedrooms.
 

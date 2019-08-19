@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 1650
 status: Sold
 address: '36 Elizabeth Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/X8n1t-H9eCFjV37i0UobeD6_0_Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823201/118543659-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435322/images'
 property_id: '435322'
 price_search: '850000.0'
-suburb: 'ACACIA RIDGE'
-id: 320dd834-f6c1-4559-9aab-009965abc5e8
+id: 9d92f4ce-a368-4227-a0ac-bdb104e8bcdf
 ---
 36 Elizabeth Street & 23 Amherst Street, Acacia Ridge
 

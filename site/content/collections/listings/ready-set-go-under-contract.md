@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 0
 status: Sold
 address: '91 Mitchell Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/r1pM7odotymGTtA0chBGtzbqhEk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823163/118294267-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435318/images'
 property_id: '435318'
 price_search: '369000.0'
-suburb: 'ACACIA RIDGE'
-id: 9b4af050-9722-4689-9e87-3b0fdb6500c9
+id: 0d783bc3-4726-4c8a-ba00-3d278557750e
 ---
 Situated in a quiet and leafy pocket of Acacia Ridge, this brick and tile home would make a perfect first home. Built by Devine Homes in 2000, this property resides on a neat and tidy 390m2 block.
 

@@ -7,14 +7,15 @@ rent: '350.0'
 bedrooms: 2
 bathrooms: 1
 cars: 0
+land: 0
 status: Let
 address: '13 / 11 Shottery Street, YERONGA'
+suburb: YERONGA
 main_image: 'https://img.eagleagent.com.au/eVEhpBGSWIh5HTJOZblNdegmIIY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824312/403510429-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435420/images'
 property_id: '435420'
 price_search: null
-suburb: YERONGA
-id: 62e91ee4-d017-46b5-a66a-162a99f7b556
+id: a66991b4-a029-469a-9bcd-4db4fb64f4f3
 ---
 - 2 bedroom unit
 - recently renovated throughout including a fantastic new kitchen

@@ -7,14 +7,15 @@ rent: '480.0'
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 0
 status: Let
 address: '80 Hampstead Road, HIGHGATE HILL'
+suburb: 'HIGHGATE HILL'
 main_image: 'https://img.eagleagent.com.au/MDFSY_a3XREHCXxX2GvpI3smX9w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826800/419793782-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435690/images'
 property_id: '435690'
 price_search: null
-suburb: 'HIGHGATE HILL'
-id: d44eaeca-f4e3-405b-88a9-e986bb0ccba1
+id: 8b850557-33aa-4740-9882-e64e67f656ec
 ---
 **Six-month lease only**
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '10 Stanley Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/fNeNAUKwkZ--gsAKOfS12be1GhA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824098/115517519-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435394/images'
 property_id: '435394'
 price_search: '388000.0'
-suburb: 'ACACIA RIDGE'
-id: f5ae43c4-7674-488f-8a43-1a996b6449fa
+id: 1a96bb25-6106-4c01-90fe-9787e69725bf
 ---
 Situated on a 405m2 block in this modern estate this home was built about 15 years ago by Devine Homes.
 

@@ -7,14 +7,15 @@ rent: '395.0'
 bedrooms: 3
 bathrooms: 2
 cars: 3
+land: 0
 status: Let
 address: '42 Orange Grove Road, COOPERS PLAINS'
+suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/USN5EFFBFpMPyr8UoLbKuUK6ULI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826404/417462398-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435649/images'
 property_id: '435649'
 price_search: null
-suburb: 'COOPERS PLAINS'
-id: 0f81e923-6a92-425f-aa2a-00b18608064c
+id: 924e77d9-992b-470e-adb9-2df6878b2dd2
 ---
 Situated in a very convenient location, this three bedroom home is walking distance to Coopers Plains train station and sits across the road from Coopers Plains Primary School. Perfect for students, this property is a short bus ride away from Griffith University Nathan and Mt Gravatt Campuses. At the back of the property is a large 3 bay lock up shed.
 

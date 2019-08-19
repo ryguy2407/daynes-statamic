@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 3
+land: 541
 status: Sold
 address: '404 Watson Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/1gR_e4R0EfhVao4VM9ZbSSsoEIs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823630/122791194-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435361/images'
 property_id: '435361'
 price_search: '429000.0'
-suburb: 'ACACIA RIDGE'
-id: 98c6af62-20dc-464f-9987-b3bd7447d4a7
+id: 3133124d-f03f-42db-a464-7c2d49badd3c
 ---
 This generous home has it all for those who love to entertain and spend time with their family. The shady and beautiful timber deck opens off the spacious living area through double sliding doors, creating a great area to relax or entertain. The kitchen is also spacious, with plenty of storage and preparation space, and fresh finishes.
 

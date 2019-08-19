@@ -7,14 +7,15 @@ rent: null
 bedrooms: 5
 bathrooms: 2
 cars: 4
+land: 809
 status: Sold
 address: '235 Douglas Road, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/392MKjLJSWO_X1IRqFe88jTuhuA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820271/108611776-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435079/images'
 property_id: '435079'
 price_search: '749000.0'
-suburb: SALISBURY
-id: 2597ada0-0c1b-43a5-8207-2540e4c003b3
+id: 37ffaa59-8d3c-4c82-851c-21d9d1e230ac
 ---
 Situated on a fully landscaped 809sqm block in one of Salisbury's best streets, sits a massive contemporary home that should tick all the boxes even for the largest of families.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 0
 status: Sold
 address: '32 / 2 Diamantina Street, CALAMVALE'
+suburb: CALAMVALE
 main_image: 'https://img.eagleagent.com.au/XCZfsiOxjvKZcSJAfVfhDau7je4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823085/117896799-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435312/images'
 property_id: '435312'
 price_search: '389000.0'
-suburb: CALAMVALE
-id: 5e7a4f1d-0bb8-426d-9bbf-4b89c9ecfcb8
+id: ee9e31c9-fc30-4ddb-8205-41c14cab8a63
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

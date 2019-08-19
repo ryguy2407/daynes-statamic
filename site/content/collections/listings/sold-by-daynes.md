@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 2
 cars: 1
+land: 0
 status: Sold
 address: '2 / 69 Cook Street, OXLEY'
+suburb: OXLEY
 main_image: 'https://img.eagleagent.com.au/ZhcstAZn_LopXN0NO4R3srq-wjk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822155/130469038-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435244/images'
 property_id: '435244'
 price_search: '410000.0'
-suburb: OXLEY
-id: a12322f6-b3c7-42ec-a735-2ce06245852a
+id: 9aadabb3-652d-4756-ae51-97cd6e85f428
 ---
 Oxley Central Apartments / / Boutique Development Offering Unique Location & Lifestyle
 

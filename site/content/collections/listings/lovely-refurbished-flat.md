@@ -7,14 +7,15 @@ rent: '320.0'
 bedrooms: 2
 bathrooms: 1
 cars: 0
+land: 0
 status: Let
 address: '2 / 21 Brentford Road, RICHLANDS'
+suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/fIvuJKxZwx8iTsSHy50vpzUnmlA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825062/423165998-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435509/images'
 property_id: '435509'
 price_search: null
-suburb: RICHLANDS
-id: 85a721c7-6bc9-4a2b-98b6-119113266895
+id: 2281f6c1-2e0d-4461-88f4-2bfe23d3940b
 ---
 * Two bedrooms
 * Built-in wardrobes to bedrooms

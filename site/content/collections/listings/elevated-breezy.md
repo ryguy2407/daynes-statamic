@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 587
 status: Sold
 address: '4 Caldon Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/iYPZ8mVqDTIxL4GwqphDD02MYY4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821693/127322922-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435204/images'
 property_id: '435204'
 price_search: '360000.0'
-suburb: 'ACACIA RIDGE'
-id: 75e6853d-5a40-401f-a2b7-e43543cea825
+id: 93f07d1b-f8fc-4949-ab02-7ebacf947124
 ---
 This desirable high-set property is a great layout, perfect for families. The open plan living and dining is adjoined by a sunroom, easily utilised for a range of useful spaces including kids playroom, study, or simply a space to relax and unwind. The kitchen steps off the living and dining, making entertaining a breeze. The eat-in kitchen has been well looked after and is highly functional with plenty of bench space and storage. The property is well presented with well-chosen paint and plenty of natural light through the large windows in every room.
 

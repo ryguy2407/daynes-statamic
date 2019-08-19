@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 3
+land: 880
 status: Sold
 address: '6 Wapping Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/cEFUgUEaRPIYpktQzI3kuiMyYTM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824212/116643223-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435406/images'
 property_id: '435406'
 price_search: '365000.0'
-suburb: 'ACACIA RIDGE'
-id: 8af1fe87-0fd5-49fb-a706-8e82eae5987e
+id: 2612a05b-d4cf-43b3-9f6b-a84c84a6241a
 ---
 Be quick on this one!
 

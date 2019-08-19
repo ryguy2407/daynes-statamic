@@ -7,14 +7,15 @@ rent: '320.0'
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 575
 status: Let
 address: '1334 Beaudesert Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rJSxFQJW_xkJICy9ZoL9XJeF_yE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826030/414238219-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435602/images'
 property_id: '435602'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 8210fd96-ea6e-4e90-99e3-dedbaeaaf3e0
+id: ac1c47df-38ac-499c-9966-06a7b4e89eb4
 ---
 Entertain your friends and family with the generously sized back deck and fully fenced backyard.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 635
 status: Sold
 address: '51 Salkeld Street, TARRAGINDI'
+suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/55mzCUgfT67TRjBM-qlW9OldpIM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818556/104666222-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434881/images'
 property_id: '434881'
 price_search: '530000.0'
-suburb: TARRAGINDI
-id: 9d98bacb-773b-42fe-8e16-9745424c66a4
+id: 1158ad76-ac7c-44a4-8c85-c32148f1cbbe
 ---
 This lovely three bedroom home is situated in a quiet leafy street in Tarragindi in an elevated position.
 

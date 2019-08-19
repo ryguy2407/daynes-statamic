@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 0
 status: Sold
 address: '7 / 16 Devon Street, YERONGA'
+suburb: YERONGA
 main_image: 'https://img.eagleagent.com.au/UhzyO9sHxuB2ub9y32AEuCKlop4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820615/105886470-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435112/images'
 property_id: '435112'
 price_search: '439000.0'
-suburb: YERONGA
-id: 1c748bde-c13a-4b80-b863-8371f46fbaba
+id: 9d35bed6-cce6-46fc-91e9-f9d2a21c9166
 ---
 You will find it quite easy to entertain with this three bedroom, two bathroom unit with its large open plan living area that extends out to a good sized balcony. Situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

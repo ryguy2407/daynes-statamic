@@ -7,14 +7,15 @@ rent: '410.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 698
 status: Let
 address: '20 Farrar Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ssYwC3cb7pZEUrakJ8bLrLYzc0I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825621/425628638-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435561/images'
 property_id: '435561'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 1fec7767-6757-4d5a-b6ff-c9b1a8faa43c
+id: eeb03e38-5016-4734-bb6a-702ed71501cd
 ---
 Immaculately presented, this desirable brick low-set property with a great layout is perfect for families. The open plan living and dining is adjoined by an additional room, easily converted into a range of useful spaces including study or additional bedroom. The kitchen steps off the living and dining, making entertaining a breeze. The property also boasts a spacious pool room and undercover entertaining area separate to the house. This space is ideal for large family gatherings with an additional toilet and plenty of room to relax and enjoy. This structure holds great potential as it could easily be converted into a granny flat for those after dual occupancy, or a large home office.
 

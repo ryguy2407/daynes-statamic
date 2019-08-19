@@ -7,14 +7,15 @@ rent: '330.0'
 bedrooms: 2
 bathrooms: 1
 cars: 4
+land: 683
 status: Let
 address: '340 Watson Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/8HlNoYzyoDaOXvToTqUN5avngpk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825318/424084942-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435532/images'
 property_id: '435532'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: f0fb4222-b985-44b8-bf74-8a62d33c61a1
+id: 481523b7-7812-47de-b224-2e96a50f107f
 ---
 This cottage is situated on a fully-fenced block, surrounded by well maintained gardens and lawns. Perfect for families, the functional layout boasts a large eat-in kitchen, a spacious living area and all finished with low-maintenance polished timber floors. The two bedrooms are generous sized with ceiling fans, the master including a large built-in wardrobe unit.
 

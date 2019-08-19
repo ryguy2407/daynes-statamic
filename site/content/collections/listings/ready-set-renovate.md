@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 1
 cars: 6
+land: 531
 status: Sold
 address: '424 Watson Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Ktx0PxUpyasbvAxity2h1Vt_pbc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823231/118686831-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435325/images'
 property_id: '435325'
 price_search: '369000.0'
-suburb: 'ACACIA RIDGE'
-id: 87557a75-d6c7-4abd-8b4e-df8132065d0e
+id: c8d783d4-eebb-4e94-868f-c0975a0111c0
 ---
 Boasting beautiful polished timber floors throughout and well-proportioned living spaces, this property holds great renovation potential. The home is a solid high-set of hardwood construction giving you a great opportunity to turn this into an outstanding family home.
 

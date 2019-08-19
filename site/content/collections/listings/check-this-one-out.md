@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 2
+land: 0
 status: Sold
 address: '33 / 380 Nottingham Road, ALGESTER'
+suburb: ALGESTER
 main_image: 'https://img.eagleagent.com.au/to0Yntn7_iYOSCVM84kqvJ8cgNM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818302/104260717-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434848/images'
 property_id: '434848'
 price_search: '275000.0'
-suburb: ALGESTER
-id: a482e1a3-13f7-4123-86e1-3c5d7561135a
+id: 878211f9-64ee-4cec-8e8e-ae702adf50b7
 ---
 This two-bedroom townhouse is a beauty.
 

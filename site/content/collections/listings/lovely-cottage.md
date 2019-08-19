@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 2
 cars: 0
+land: 469
 status: Active
 address: '44 Sussex Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/tyFQ1o6NmnWhHRDnhevYjEewa44=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822859/131308106-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435295/images'
 property_id: '435295'
 price_search: '350000.0'
-suburb: 'ACACIA RIDGE'
-id: eb45e1d1-15a5-4994-96a9-731464fc2a86
+id: 780ed918-277e-4eb1-a425-04c08c0c10be
 ---
 This quaint cottage is full of charm and potential. Currently tenanted at $340 per week, this is a solid investment opportunity for the savvy buyer. Privately set behind the timber fence, the traditional gabled roofline gives a sneak-peak of this character-filled home. Set amongst leafy trees and surrounded by well-maintained lawns, this property is ideal for families. Inside, the open plan design is perfectly suited to complement busy lifestyles. Offering plenty of space to perfect the layout, the living wraps around the stylish kitchen. A carpeted area provides a cosy setting for couches and a TV, or a great play area for kids. The remainder of the living features glossy timber flooring and will easily accommodate a flowing dining and additional spaces to relax and unwind. The kitchen, situated at the heart of these beautifully flowing spaces, is a treat of generous, attractive cabinetry and plenty of bench space; the perfect balance of form and function.
 

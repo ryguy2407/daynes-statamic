@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 3
+land: 809
 status: Sold
 address: '62 Lillian Avenue, SALISBURY'
+suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/ciVpVqzcY6d2M71nMVU2zMJSsiE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818273/104192012-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434846/images'
 property_id: '434846'
 price_search: '440000.0'
-suburb: SALISBURY
-id: 67246f50-3d0b-45be-9679-77a3ca5f948b
+id: 7babd895-40ac-409b-be78-56a6038f9e7c
 ---
 I am a lovely post war home perched on a massive 809sqm block. My features and attributes include:
 

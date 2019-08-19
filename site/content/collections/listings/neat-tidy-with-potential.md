@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 674
 status: Sold
 address: '17 Olivine Place, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DPPBkvoPBKHlyPv1MHKOLt2zHzo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821330/116779323-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435174/images'
 property_id: '435174'
 price_search: '290000.0'
-suburb: 'ACACIA RIDGE'
-id: 2770cfbd-4d96-4490-8609-98355a827dbc
+id: 3b26afa1-0e29-41f1-9bf7-db8f37dda341
 ---
 Check out this neat and tidy three bedroom home situated on a 674sqm block in a quiet area of Acacia Ridge.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 673
 status: Sold
 address: '11 Courtice Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/StM7CfgqbQMrx8Wt6z_bgeohKnA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823220/118648051-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435324/images'
 property_id: '435324'
 price_search: '380000.0'
-suburb: 'ACACIA RIDGE'
-id: 03a379c2-e6aa-4bcc-b033-2d83206718f3
+id: 02917ed2-6bb9-4b1c-a5db-ff5726de9cc5
 ---
 This is another property that will be snapped up very quickly. This property is zoned LMR (Low Medium Residential) which is extremely sought-after in Acacia Ridge. Situated on 673m2 of land, this block will give potential developers plenty of project space. Courtice Street is a quiet and leafy street in a great pocket of Acacia Ridge and the property would complement a small boutique development.
 

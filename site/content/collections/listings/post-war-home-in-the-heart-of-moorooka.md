@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 0
+land: 604
 status: Sold
 address: '2 Rosling Street, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/nNMDiCmOeVs-Tv_O6DUM-NFI2Pg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818363/104372000-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434855/images'
 property_id: '434855'
 price_search: '460000.0'
-suburb: MOOROOKA
-id: 49a9b4a6-e261-4136-8871-85675c2634ad
+id: 3bfa5abb-b319-4821-bbac-87b8169fdb22
 ---
 Be quick to inspect this three bedroom post war home, on a 604sqm sized corner block in Moorooka.
 

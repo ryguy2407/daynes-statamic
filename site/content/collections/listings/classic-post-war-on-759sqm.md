@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 759
 status: Sold
 address: '3 Scouse Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/85OEXdwyKLjWgomX0PyV5XYEsN4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821163/125217298-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435161/images'
 property_id: '435161'
 price_search: '360000.0'
-suburb: 'ACACIA RIDGE'
-id: a8d87c08-6394-465c-a3f4-c1ee34d7a172
+id: bbb836c6-10eb-4c46-a958-115d5cce1abc
 ---
 This inviting family home is ideal for those who are need a little extra from their property, while retaining the chance to realise their renovating dream. It holds the potential to be the labour of love for its next owner who will be attracted by the classic design. Carpets, tiles and lino hide beautiful hardwood floors for which these homes are much sought-after and the layout is perfect for low maintenance and easy family living. The original interiors are clean and functional, perfect to move straight in and renovate at your own pace.
 

@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 0
 status: Let
 address: '12 Dodds Street, MARGATE'
+suburb: MARGATE
 main_image: 'https://img.eagleagent.com.au/DF0y21w9t7_WGfvdlCoLmRbP5Ok=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826020/414428531-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435601/images'
 property_id: '435601'
 price_search: null
-suburb: MARGATE
-id: c7f6667c-9205-41b4-8a5f-a9a2b4e3804d
+id: bcee1476-2eff-4900-a026-95bf54000b50
 ---
 This 3 bedroom house is now available for rent.
 

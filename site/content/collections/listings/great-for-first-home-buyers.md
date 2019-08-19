@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 3
+land: 0
 status: Sold
 address: '86 Oxley Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Jlr36CL7IB0JlWAXNfTQdvftTqk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819118/105286361-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434933/images'
 property_id: '434933'
 price_search: '349000.0'
-suburb: 'ACACIA RIDGE'
-id: 4b290c5f-888c-4797-b3de-7f8566a6f763
+id: e55f0314-0eb0-4051-9a07-77a8869e449b
 ---
 Situated on a 701sqm block in a great street is a lovely three bedroom house.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 1
+land: 455
 status: Sold
 address: '16 North Place, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/egZrr7EvWGhs92LULG6GonH4zdE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821716/127343954-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435207/images'
 property_id: '435207'
 price_search: '450000.0'
-suburb: 'ACACIA RIDGE'
-id: 86935108-af90-4d43-9c5a-e0936fb2df43
+id: ba3c0df7-f0cf-4e69-8dbb-b0ab059225e7
 ---
 If privacy and space is what you are looking for, this home ticks all the boxes. Backing on to lush bushland, this is a tranquil setting for families. This home is a much sought-after lowset design, of solid brick construction with low-maintenance finishes. Internally, the generous spaces are cool and flooded with natural light. Offering large, open-plan living spaces, this home is perfect for families needing a little extra from their home. The kitchen is situated at the heart of a vast tiled combined living and dining, opening out to a patio through sliding doors. The gardens are neatly presented, with the backyard separately fenced, providing a shady and secure space for children to play. Functionality and ease of living are presented with this lifestyle focused design.
 

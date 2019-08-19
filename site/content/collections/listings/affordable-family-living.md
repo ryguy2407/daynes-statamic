@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 2
+land: 657
 status: Sold
 address: '17 Clembury Place, CALAMVALE'
+suburb: CALAMVALE
 main_image: 'https://img.eagleagent.com.au/KNjikaAMI0BorQYmRWWNMHCJg1Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824149/116036819-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435399/images'
 property_id: '435399'
 price_search: '480000.0'
-suburb: CALAMVALE
-id: 5970e189-352a-496b-a622-d300e194fb7e
+id: a33b81e6-1469-488b-8faf-3a269bb5b244
 ---
 This quiet little cul-de-sac street is surely the envy of everyone in Calamvale. Privately positioned, this home will offer a unique blend of peace and tranquillity which maintains easy access to Calamvale District park.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 620
 status: Active
 address: '34 Dellow Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/syrmLUrdQOvndmFP9A54cNW8lrw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822978/131530534-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435303/images'
 property_id: '435303'
 price_search: '399000.0'
-suburb: 'ACACIA RIDGE'
-id: 3bc1c377-fb88-4cd4-a141-ad81df0c9fb7
+id: 02744d6a-8495-4c05-99d3-1598be504cb6
 ---
 This beautifully presented home offers a rarely found opportunity to secure a property ready to complement those at any stage of their investment journey. Whether first home buyer, up-sizer or investor, this lovely home is the complete package with nothing left to do. Open plan living areas flow from the front to the back of the home, with lovely flow and connection between the living dining and kitchen. Truly an entertainers delight, the stylish kitchen and living open out to an undercover patio area, making for easy times with family and friends. The patio is protected from the elements with an insulated roof and overlooks the immaculately presented backyard.
 

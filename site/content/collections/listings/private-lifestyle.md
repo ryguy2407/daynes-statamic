@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 602
 status: Sold
 address: '68 Nyngam Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Cqtwib4GGMuJwyWPLQ0Gdvam4KY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821530/126474978-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435190/images'
 property_id: '435190'
 price_search: '430000.0'
-suburb: 'ACACIA RIDGE'
-id: 7b845437-3351-4ff2-887f-b928339bba9e
+id: 355ada81-6fd4-4300-a7f4-d19384775c62
 ---
 This beautifully presented home is the perfect starting place for those seeking an ideal first home. With a convenient low-set design and low-maintenance finishes, this property is move in ready with plenty of potential to grow with you. The spacious open plan living and dining flow into the functionally designed kitchen and out to the shady back patio. Great for entertaining and busy families, this layout is the pinnacle of lifestyle and convenience-focused design. The location of this home is second to none, situated on a cul-de-sac with a school and day care across the street. With no through traffic and facing no other homes, this is a quiet and idyllic setting.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 607
 status: Sold
 address: '15 Leawarra Crescent, FERNY HILLS'
+suburb: 'FERNY HILLS'
 main_image: 'https://img.eagleagent.com.au/CIdQSep7s2iDL-w_8zO8FgtMtHk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821261/125821254-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435169/images'
 property_id: '435169'
 price_search: '500000.0'
-suburb: 'FERNY HILLS'
-id: e7b1e0e9-289d-4d30-b5fa-ae7a19d74828
+id: aefb4368-4966-4fad-a1e1-5700386028e4
 ---
 This generous family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. One of the original homes of the area, this property boasts an exceptional elevated outlook. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 

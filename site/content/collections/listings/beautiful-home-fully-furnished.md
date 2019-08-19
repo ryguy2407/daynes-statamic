@@ -7,14 +7,15 @@ rent: '420.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 0
 status: Let
 address: '119 Nursery Road, HOLLAND PARK WEST'
+suburb: 'HOLLAND PARK WEST'
 main_image: 'https://img.eagleagent.com.au/-yXgt87EYY7fqPXG7ehoXoNoLQ0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824762/421338626-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435478/images'
 property_id: '435478'
 price_search: null
-suburb: 'HOLLAND PARK WEST'
-id: 538580bf-3efb-4589-b64e-474c9ce8e6da
+id: e91a4b32-8d90-4449-9351-6f453d0fc400
 ---
 This spacious and functional family home is bright and full of light. Boasting attractive high ceilings, and fresh kitchen and bathroom, this is the perfect home to welcome guests and relax with your family. This home is being offered fully furnished, making it ideal for those relocating or starting the next chapter of their lives.
 

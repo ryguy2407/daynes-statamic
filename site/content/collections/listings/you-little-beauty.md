@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 0
 status: Sold
 address: '29 Agnes Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/J9ESiKsbG-GqZhoJ4uDzH8XktvE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824051/115305023-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435390/images'
 property_id: '435390'
 price_search: '335000.0'
-suburb: 'ACACIA RIDGE'
-id: d07604a0-20f9-4b15-b313-17e8780208b4
+id: f2917199-1763-44bd-acd0-49add46ee8ff
 ---
 Here we have a cute three bedroom workers cottage situated on 670m2 of land in quiet Agnes Street in very good condition.
 

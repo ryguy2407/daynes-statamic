@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 3
 bathrooms: 2
 cars: 1
+land: 322
 status: Let
 address: '61 Oswin Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/UiHe_fJyp75qQ7eN67c8TEkPNZk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825649/425695974-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435563/images'
 property_id: '435563'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: daf0a346-200d-49e9-b0c0-711c9a0909aa
+id: ba2d7348-d865-48bf-9274-e9ef2b513b4b
 ---
 Privately tucked away in a quiet pocket of Acacia Ridge, this delightful three bedroom family home is just a hop skip and jump from the park making it perfect for families. Lovely neutral colours throughout make it easy to imagine making this your home by adding your own homely touches. The spacious master bedroom features a generous ensuite, built in wardrobes and bay window allowing plenty of natural light. The additional two bedrooms are also well proportioned, including built in wardrobes and ceiling fans. Wood-look flooring throughout the bedrooms ensure a low maintenance and fresh finish. The kitchen is spacious and well-appointed, perfect for servicing busy families and those who love to entertain. Outside, the low-maintenance courtyard will become a place to relax and unwind, enjoying the company of family and friends.
 

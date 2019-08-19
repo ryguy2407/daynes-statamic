@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 1
 cars: 1
+land: 607
 status: Sold
 address: '12 Desgrand Street, ARCHERFIELD'
+suburb: ARCHERFIELD
 main_image: 'https://img.eagleagent.com.au/LRIjeAZUHKtBDjvV5Ir92Y-Rcb4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821246/125652794-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435167/images'
 property_id: '435167'
 price_search: '399000.0'
-suburb: ARCHERFIELD
-id: b4f73c00-8c1a-4114-8e43-3bbca1f8bcf1
+id: 3d452449-9d4d-4acf-a8af-7361c431ee45
 ---
 This generous family home has been freshened up and is ready to be snapped up by a savvy investor or homeowner alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home. Immediately as the front door is opened off the cute front patio there is a feeling of spaciousness and light. The fresh, neutral colour scheme enhances the beautiful polished timber floors and large north-facing windows, affording plenty of natural light. The open-plan family and dining room flows into the large kitchen. These spaces are also adjoined by a versatile space with lofty ceilings, with the potential to be utilised as a fourth bedroom, rumpus or study.
 

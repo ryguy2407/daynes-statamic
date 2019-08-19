@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 708
 status: Let
 address: '31 Dellow Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/WczWyLCzCNQSNzBk3ZXFze51uoo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824704/420918398-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435472/images'
 property_id: '435472'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 029ce178-af21-4e0a-9536-e4f8e6633d2e
+id: c13e2e19-561d-4595-a47a-b09c3bc62eab
 ---
 This large high-set family home is situated in one of the quietest and leafiest pockets of Acacia Ridge. This private and serene setting is perfectly complimented by the spacious, airy and bright interiors.
 

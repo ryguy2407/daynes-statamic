@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 759
 status: Sold
 address: '547 Beatty Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ozPn8I0gAahYF4mJudaUR2j0yV8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818543/104659418-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434880/images'
 property_id: '434880'
 price_search: '365000.0'
-suburb: 'ACACIA RIDGE'
-id: d5c210c0-09fd-4ee0-b7b3-75c1d4e42f12
+id: 08dbc50f-b278-4611-92a7-0327540168e3
 ---
 With some elbow grease and a bit of TLC this 3 bedroom highset on 759sqm could make a great home or solid investment.
 

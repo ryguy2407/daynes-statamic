@@ -7,14 +7,15 @@ rent: '395.0'
 bedrooms: 3
 bathrooms: 2
 cars: 0
+land: 0
 status: Let
 address: '6 / 10 Carson Street, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/lbiyP2kOx6Yp70wELuTel5tmH6Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826289/416384405-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435635/images'
 property_id: '435635'
 price_search: null
-suburb: MOOROOKA
-id: 4ec46503-1e98-424c-b8c5-a844663b234f
+id: fb489d11-c567-4612-ba11-efa14270ecbf
 ---
 Great location, walking distance to Moorooka train station
 Features of this property are;

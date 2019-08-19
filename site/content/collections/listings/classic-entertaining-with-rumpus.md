@@ -7,14 +7,15 @@ rent: '360.0'
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 647
 status: Let
 address: '72 Merchiston Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/TF_5BhmcJlgg5OCfUYhgbWBAwKk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825021/422863742-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435505/images'
 property_id: '435505'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 8d3eeff6-ec04-42ab-837f-978a4217e4bb
+id: 17748b96-fd1f-49bd-8154-6337fb22d2a5
 ---
 On an elevated block, surrounded by well-kept gardens and framed by beautiful mature trees, this property has lovely street appeal. With a sunny northern aspect, the generous internal spaces of this home are full of light. This home is an entertainers delight, with a generous billiards room and bar extension to the rear, stepping steps out to the private backyard. The kitchen and bathroom are neat and functional, both expanded for additional space and usability. Each of the three bedrooms are good-sized and include ceiling fans. The master suite has direct access to the billiards room and adjoining powder room.
 

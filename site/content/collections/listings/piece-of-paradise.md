@@ -7,14 +7,15 @@ rent: '450.0'
 bedrooms: 2
 bathrooms: 2
 cars: 1
+land: 0
 status: Let
 address: '4 / 22 Paradise Street, HIGHGATE HILL'
+suburb: 'HIGHGATE HILL'
 main_image: 'https://img.eagleagent.com.au/1TzFnM76Wh7XrINdEB0tKMYZYhg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824807/421555774-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435482/images'
 property_id: '435482'
 price_search: null
-suburb: 'HIGHGATE HILL'
-id: 269ec07c-7dc9-4976-ade6-7be76c51d8a1
+id: d35be28b-56a7-47cc-bbf3-fb6008c6e216
 ---
 This stylish open-plan apartment is the perfect compliment to the trendy Highgate Hill lifestyle. Partially filled with tasteful and comfortable furniture, this home overlooks leafy greenery and is just a stones throw away from the river.
 

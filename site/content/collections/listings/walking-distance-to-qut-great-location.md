@@ -7,14 +7,15 @@ rent: '185.0'
 bedrooms: 5
 bathrooms: 2
 cars: 1
+land: 0
 status: Let
 address: '19 Gladstone Road, HIGHGATE HILL'
+suburb: 'HIGHGATE HILL'
 main_image: 'https://img.eagleagent.com.au/aY8ZIqYfaMVrE8e-76mvdixRVWk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826231/416090093-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435628/images'
 property_id: '435628'
 price_search: null
-suburb: 'HIGHGATE HILL'
-id: 77711c1e-c517-45a3-8e4c-cf6236244378
+id: bfbdf04b-329d-4e79-8568-ee37e612bf6b
 ---
 This student house has rooms available for rent now.
 

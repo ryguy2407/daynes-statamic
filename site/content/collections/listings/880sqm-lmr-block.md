@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 1
+land: 880
 status: Sold
 address: '14 Limerick Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/SO7BcDLw9yPdWqlWsDD_TgUnmIs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822361/129758366-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435260/images'
 property_id: '435260'
 price_search: '400000.0'
-suburb: 'ACACIA RIDGE'
-id: 73f60694-5122-4256-9ac0-a5252db187d5
+id: d1fe4fc1-1231-4ace-9368-f1cb75b0af4c
 ---
 Situated on a 880sqm flat block, zoned Low Medium Residential (LMR), this property offers potential plus to the lucky future owners with amazing long-term growth. The perfect property for the savvy investor or homeowner, this investment represents the option to renovate with the aim to move in or tenant, or develop now or in the future. As an LMR site, this property has many options in both the short and long term to maximise your return on investment. Being such a generous parcel of land with a wide frontage, the land could potentially accommodate a unit, townhouse or subdivision development.
 

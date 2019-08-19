@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 607
 status: Sold
 address: '171 Orange Grove Road, COOPERS PLAINS'
+suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/9MHadH_Hwn-yYpdrrQa9Bdaa3sY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818526/104638159-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434878/images'
 property_id: '434878'
 price_search: '349000.0'
-suburb: 'COOPERS PLAINS'
-id: a7d5a72b-1358-459b-bf7e-f740d2fbfac5
+id: 0d99df43-65cb-410a-bb09-c2384ac8e33c
 ---
 This light and airy two bedroom cottage set on 607sqm is a must inspect for those trying to get into the market.
 

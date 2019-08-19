@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 733
 status: Sold
 address: '72 Oxley Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/VY4HXlJkL9nL2mo3QLjc_QvujyE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821591/126768602-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435195/images'
 property_id: '435195'
 price_search: '389000.0'
-suburb: 'ACACIA RIDGE'
-id: 7acd476d-ca5c-4ead-96a6-f9c191cdfc2d
+id: 18ad1c98-e9e7-450b-8127-e61a4708c781
 ---
 This is a lovely example of the classic Acacia Ridge home of solid construction and functional layout. With chamfer board exterior and solid timber floors throughout, this home has great bones. A promising investment for home owners and investors alike, this has the potential to be either a comfortable home or generate a tidy return. The property is currently tenanted until February 2018, allowing owner-occupiers possession in the near future and investors the opportunity to continue with a great long-term tenant.
 

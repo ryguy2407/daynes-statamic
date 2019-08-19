@@ -7,14 +7,15 @@ rent: null
 bedrooms: 1
 bathrooms: 1
 cars: 1
+land: 0
 status: Sold
 address: '435 / 20 Montague Road, SOUTH BRISBANE'
+suburb: 'SOUTH BRISBANE'
 main_image: 'https://img.eagleagent.com.au/yROAks9iV6gv_clqxALt9k-4aFM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819792/106527817-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435015/images'
 property_id: '435015'
 price_search: '274995.0'
-suburb: 'SOUTH BRISBANE'
-id: 767f781d-f769-47c9-9e5a-9b717c4ab0cd
+id: 1c1df37e-cc71-4228-bd01-311f10a2775f
 ---
 Look no further for your dream investment or first home, this is it!
 

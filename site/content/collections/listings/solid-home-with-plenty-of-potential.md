@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 2
 cars: 2
+land: 607
 status: Sold
 address: '431 Tarragindi Road, MOOROOKA'
+suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/gjBGBA9pQxrAA-mibxjVE2gKdSk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819289/105476732-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434954/images'
 property_id: '434954'
 price_search: '479000.0'
-suburb: MOOROOKA
-id: 569c75df-ccfc-4254-9e70-5a6047215fae
+id: 0850494d-a1a2-4295-a996-d19667326e14
 ---
 Here is your chance to secure a large brick & tile home in a great position. This home has loads of potential and with a bit of tender, love and care it would make a great family home.
 

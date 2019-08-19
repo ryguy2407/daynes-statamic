@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 607
 status: Sold
 address: '45 Hemsworth Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/jpt08UCIHCQJUIIwMy51a32NB-c=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824026/115016867-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435388/images'
 property_id: '435388'
 price_search: '409000.0'
-suburb: 'ACACIA RIDGE'
-id: 3e858ed4-0b7d-4ba3-b17d-ec2dfd164fa7
+id: 5bc70148-36fe-4753-91b3-bd8419a677a6
 ---
 From the front to the rear boundary this property has had a major makeover. But please, dont take my word for it, come and see for yourself!!
 

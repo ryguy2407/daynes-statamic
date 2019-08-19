@@ -7,14 +7,15 @@ rent: null
 bedrooms: 5
 bathrooms: 1
 cars: 3
+land: 647
 status: Sold
 address: '30 Saxon Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/x4seWLakoQoX4nolCnica4M62nA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823792/123413282-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435372/images'
 property_id: '435372'
 price_search: '479000.0'
-suburb: 'ACACIA RIDGE'
-id: 5b6d3326-826e-442e-8993-acbbd1daa28e
+id: 0b84150d-65fb-4a5c-8623-0ff27d1d8b9f
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this beautiful high-set home awaiting the next chapter. Thoughtfully renovated and transformed into a spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front deck, enjoying the tranquility afforded by the quiet neighbourhood and the leafy block backing onto lush nature reserve. Inside, the bright open-plan living and dining area steps through to the shady back deck, overlooking the equally as lovely backyard. This property allows plenty of space for relaxation and entertaining alike, just move in and enjoy!
 

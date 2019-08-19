@@ -7,14 +7,15 @@ rent: null
 bedrooms: 4
 bathrooms: 2
 cars: 2
+land: 0
 status: Sold
 address: '44 Melia Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ngfxBZvveoi_FXkiLQlWRin7aIM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824091/115510415-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435393/images'
 property_id: '435393'
 price_search: '369000.0'
-suburb: 'ACACIA RIDGE'
-id: 1b092ccb-016a-467e-96d7-f12e2ddc0368
+id: ff3dfad0-4c8f-48c5-988b-3f538e5668b1
 ---
 Currently rented at $870 per week
 Thatâ€™s right! $870 per week on a room to room basis.

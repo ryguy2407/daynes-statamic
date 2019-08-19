@@ -7,14 +7,15 @@ rent: '390.0'
 bedrooms: 3
 bathrooms: 1
 cars: 2
+land: 604
 status: Let
 address: '17 Oswin Street, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/dg0oRq_XkscGYXJe0QLDXjoVUGM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825193/423587866-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435521/images'
 property_id: '435521'
 price_search: null
-suburb: 'ACACIA RIDGE'
-id: 52739988-5a8d-4037-923a-004a8e1bbaf1
+id: d3388ccd-be3c-4635-895a-b8755f453c7f
 ---
 This unique home is set on an elevated 604sqm block in a quiet residential pocket of Acacia Ridge and privately set back from the road and overlooking the leafy gardens. With generous living spaces, both inside and out, this home is perfect for busy families and entertainers alike. This property is full of natural light, with the north eastern aspect best enjoyed from the sunny front verandah. Stepping into the open plan living and dining, there is a feeling of space and light. The newly renovated kitchen is also incorporated into this space and flows out to the shady back patio, ideal for relaxed entertaining. This is a thoroughly modern open-concept design and will complement low-maintenance family living.
 

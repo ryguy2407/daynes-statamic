@@ -7,14 +7,15 @@ rent: null
 bedrooms: 3
 bathrooms: 1
 cars: 4
+land: 599
 status: Sold
 address: '7 Spowers Street, ARCHERFIELD'
+suburb: ARCHERFIELD
 main_image: 'https://img.eagleagent.com.au/gxtYBjeIp6OqOcY-7161v5adwf8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823563/122124382-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435357/images'
 property_id: '435357'
 price_search: '450000.0'
-suburb: ARCHERFIELD
-id: d3e461d2-38a6-4d30-9f58-11839e8fd172
+id: 2ef819cf-5083-4207-ac76-d2c2e5d0e85b
 ---
 Set amongst the trees in this quiet, idyllic pocket of Archerfield is this beautifully presented high-set home. This property is sure to impress with plenty of space for a growing family and those who love to entertain. With a recently renovated kitchen and bathroom, and great indoor and outdoor spaces to enjoy, this property requires only those personal finishes to make this feel like your home. An added bonus of this property is the media room, partially soundproofed and with block-out curtains, this is a real plus for those who enjoy games and films. Perfect for first home buyers, this home is situated on a 599sqm flat block, in a flood-free area and in a quiet cul-de-sac with amazing convenience to a great range of amenities.
 

@@ -7,14 +7,15 @@ rent: null
 bedrooms: 2
 bathrooms: 1
 cars: 1
+land: 462
 status: Sold
 address: '503 Beatty Road, ACACIA RIDGE'
+suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6039pKK4MvU2-xcpYUq4neVIeYs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822216/128970366-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435249/images'
 property_id: '435249'
 price_search: '329000.0'
-suburb: 'ACACIA RIDGE'
-id: 8d81c864-e4d6-4ef4-9140-caacdb565b63
+id: cf39e515-e595-4b4d-9577-bb14b691ec42
 ---
 This lovely cottage is situated on a low-maintenance 462sqm block, in a handy location. Private behind leafy trees and an attractive timber fence, this property has great street appeal. Internally, the home is full of light and finished with a neutral colour scheme. Featuring lovely original features such as VJ walls, timber floors and decorative ceilings, this is a great example of an original home in the area, beautifully preserved. The open plan living and dining is expanded by the lovely sunroom, and flows well into the kitchen. The tiled kitchen and bathroom, while dated, are in great condition. The large master bedroom features a generous walk-in wardrobe and ceiling fan, while the additional bedroom is set privately to the rear of the home.
 
