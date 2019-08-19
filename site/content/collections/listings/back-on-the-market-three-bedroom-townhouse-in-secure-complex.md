@@ -13,9 +13,11 @@ address: '26 Buckingham Pl, EIGHT MILE PLAINS'
 suburb: 'EIGHT MILE PLAINS'
 main_image: 'https://img.eagleagent.com.au/TAs4aAj4THx2GTu1JHXqFhdW6R0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818537/104649316-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434879/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434879/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434879/documents'
 property_id: '434879'
 price_search: '340000.0'
-id: c6ac9496-4e6d-4a73-834a-f8ebed0aa851
+id: 4f921928-c210-4ede-8ff8-6bce19460311
 ---
 Situated in a six-year old complex of 74 villas and townhouses in Eight Mile Plains, this three bedroom, two bathroom, townhouse is a great opportunity for the astute investor.
 

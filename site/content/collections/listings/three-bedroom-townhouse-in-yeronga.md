@@ -13,9 +13,11 @@ address: '8 / 10 Christensen Street, YERONGA'
 suburb: YERONGA
 main_image: 'https://img.eagleagent.com.au/SjecbDiJ4K-ocsljdG9RSNvVSEU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818505/104633513-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434876/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434876/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434876/documents'
 property_id: '434876'
 price_search: '450000.0'
-id: 68aaf2dc-3b89-4580-8a24-9d8c0e96f066
+id: 7d855541-d01d-4907-99f4-7b23f0be13b3
 ---
 Don't miss this great opportunity of securing this free-standing three-bedroom townhouse in Yeronga
 

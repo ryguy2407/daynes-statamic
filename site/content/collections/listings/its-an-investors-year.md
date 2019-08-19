@@ -13,9 +13,11 @@ address: '5 / 118 Hamilton Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/ncriIww4-x1aNQO5awqYiDIQlaw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818053/103979683-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434795/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434795/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434795/documents'
 property_id: '434795'
 price_search: '285000.0'
-id: a3c8f991-5f02-4dff-a27d-0dcf03c28c57
+id: b12f1c55-0a40-442c-a858-2c29d680db8c
 ---
 Secure this Immaculate two-bedroom unit in Moorooka
 

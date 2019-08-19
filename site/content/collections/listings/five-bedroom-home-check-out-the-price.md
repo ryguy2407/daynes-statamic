@@ -13,9 +13,11 @@ address: '104 Dalmeny Street, ALGESTER'
 suburb: ALGESTER
 main_image: 'https://img.eagleagent.com.au/JYZeyeh2UB4CN00pKpsdDSFzgzU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820300/108710601-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435081/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435081/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435081/documents'
 property_id: '435081'
 price_search: '359000.0'
-id: 0ac75124-4a0a-492b-8cab-870c1d20019e
+id: 87f1d103-513a-49f6-98c9-8cd8b825047f
 ---
 Forget all previous price indications - Owner Instructions are clear - This house must be sold!
 

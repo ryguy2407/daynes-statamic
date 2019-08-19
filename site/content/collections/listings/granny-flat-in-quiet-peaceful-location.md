@@ -13,9 +13,11 @@ address: '9 Lanena Street, JINDALEE'
 suburb: JINDALEE
 main_image: 'https://img.eagleagent.com.au/mdnBq_zG0PCZHQnlF6fG68tCGAY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824505/408670743-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435449/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435449/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435449/documents'
 property_id: '435449'
 price_search: null
-id: e78079c7-acff-4dac-86c3-4a7bbe74929f
+id: 30387c3a-1b3a-4b22-869e-466f6345e31c
 ---
 *  Stand alone studio flat
 *  Modern, good sized kitchen

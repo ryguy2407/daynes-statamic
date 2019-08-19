@@ -13,9 +13,11 @@ address: '5 / 18 Delavan Street, WISHART'
 suburb: WISHART
 main_image: 'https://img.eagleagent.com.au/fcOXjEttnR7qIVVnlKDf39mIl6Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819676/106165543-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435002/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435002/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435002/documents'
 property_id: '435002'
 price_search: '395000.0'
-id: bd702e53-a0fa-499a-980f-c867b32288a2
+id: 6e208f5e-dbbe-4e62-b85a-d7a72d5766d6
 ---
 This renovated three bedroom townhouse, in a secured complex is one you really should inspect.
 

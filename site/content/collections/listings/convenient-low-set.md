@@ -13,9 +13,11 @@ address: '359 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/f6xgjp-ypyVFoVEWJtz3Pc68S5U=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824893/422175914-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435491/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435491/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435491/documents'
 property_id: '435491'
 price_search: null
-id: ac5619f8-874d-4a17-b630-392416f0b918
+id: cf941639-8c1e-46ef-819d-22123fb909a8
 ---
 This low-set home is a good size for busy families with a large living, eat-in kitchen and three bedrooms. Perfect for those seeking the convenience of the area, this property is handy to public transport, and walking distance to schools, shops and parks.
 

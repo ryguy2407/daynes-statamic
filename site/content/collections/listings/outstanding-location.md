@@ -13,9 +13,11 @@ address: '601 269 Grey Street, SOUTH BANK'
 suburb: 'SOUTH BANK'
 main_image: 'https://img.eagleagent.com.au/NYh7SMb7YvHW-ilS0zlDE4R1Y1M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820872/131099506-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435140/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435140/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435140/documents'
 property_id: '435140'
 price_search: '550000.0'
-id: b3dbd1fc-8094-406c-a84f-56242c896b77
+id: 5be3d0b0-72fe-42e5-9c2c-309873abc750
 ---
 ** Call for a private inspection **
 

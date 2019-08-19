@@ -13,9 +13,11 @@ address: '20 Nelson Street, COORPAROO'
 suburb: COORPAROO
 main_image: 'https://img.eagleagent.com.au/zsOpUtMmyVobucRCiOSDjvJonU0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820580/113011019-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435108/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435108/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435108/documents'
 property_id: '435108'
 price_search: '625000.0'
-id: e462e975-f586-4e73-acc0-47027a70b8de
+id: 454695cc-f4a7-4261-a184-2bdc4e5f921d
 ---
 This totally renovated home is exceptionally well presented with plenty of character features including ornate cornices, polished timber floors, picture rails and VJ's. This property does not require any more to be spent.
 

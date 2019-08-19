@@ -13,9 +13,11 @@ address: '110 Postle Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/p1CZ5b0WIc__fEhK1D-18UecICQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819470/105820046-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434976/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434976/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434976/documents'
 property_id: '434976'
 price_search: '370000.0'
-id: c87e33e4-e921-49cf-88e3-11ad1e1cd22e
+id: 00e34726-b69a-44d6-bca6-74e15beaf5ef
 ---
 *  Good level 610sqm site for future development
 *  Currently has 3 bedroom timber home + garage on site

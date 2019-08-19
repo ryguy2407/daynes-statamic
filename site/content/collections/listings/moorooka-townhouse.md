@@ -13,9 +13,11 @@ address: '118 Hamilton Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/jNC9Wc15Yy5a5k-QKT7ya4n1Rq8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824284/402898002-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435414/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435414/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435414/documents'
 property_id: '435414'
 price_search: null
-id: e9aeec74-2b14-4f01-ac69-5b575d625d02
+id: 5522f077-8cc4-4922-a801-6bdd86c12b8a
 ---
 3 bedroom townhouse for rent
 

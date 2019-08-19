@@ -13,9 +13,11 @@ address: '37 Desgrand Street, ARCHERFIELD'
 suburb: ARCHERFIELD
 main_image: 'https://img.eagleagent.com.au/4TtakjqGpQyoHJIYjDjnI1AzevU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823831/123455698-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435375/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435375/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435375/documents'
 property_id: '435375'
 price_search: '399000.0'
-id: 197b23a5-ea26-469f-a1ff-13bb5a63c5fa
+id: b8f31b0d-6c51-48a0-8108-eb9dbf025099
 ---
 Offered for the first time in more than 30 years, this delightful traditional weatherboard home is full of character and beautifully presented. Featuring lofty ceilings and spacious interiors, thoughtful renovations have created a fresh and inviting home. It is easy to imaging relaxing on the front deck of this lovely high-set home, enjoying the tranquility of the leafy surrounds and friendly neighbourhood. Inside, the bright and airy spaces are kept private with the attractive etched glass windows.
 

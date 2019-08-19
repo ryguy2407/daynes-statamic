@@ -13,9 +13,11 @@ address: '29 Hodel Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/momE8ZyJ8vWWLYXyWuTGL-jIv8s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822701/130906718-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435283/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435283/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435283/documents'
 property_id: '435283'
 price_search: '379000.0'
-id: bd61dcdc-fb6c-47f1-8968-e0e313c4b4d3
+id: 1474e641-4f58-40ec-8f76-61ea07b96419
 ---
 This charming cottage, situated in a leafy and peaceful pocket of Acacia Ridge is bursting with character and promises years of enjoyment in the comfortable interiors. Painted a fresh white and privately situated behind a timber fence and leafy trees, the home has great street appeal. Low-set, surrounded by grassy lawns and on a generous 733sqm flat block, this is great buying for those seeking their next home or investment.
 

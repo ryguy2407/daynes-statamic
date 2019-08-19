@@ -13,9 +13,11 @@ address: '292 Archerfield Road, RICHLANDS'
 suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/kK9NsdZPY_d2DBG4sXuhbKrH728=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820794/113961251-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435131/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435131/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435131/documents'
 property_id: '435131'
 price_search: '799000.0'
-id: 9d472b50-2a0e-4b47-a4e1-fc1c0a234628
+id: ef614c31-f175-47c3-a2bb-bfcc85b1094f
 ---
 Richlands Investment Opportunity
 

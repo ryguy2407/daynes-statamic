@@ -13,9 +13,11 @@ address: '42 Mitchell Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/f5zS8D7QHwFdBOHaR1WP6csiD1g=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825240/423774422-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435526/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435526/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435526/documents'
 property_id: '435526'
 price_search: null
-id: 6dd2fc27-117a-47c3-b788-2996bc13aec7
+id: 6d804993-022e-4649-9629-b192f4da5571
 ---
 This large, beautifully presented home is situated on a generous block allowing plenty of space for families. With a large living area, good-sized kitchen and three bedrooms, this property offers more space than most in the area. Completely repainted and newly tiled throughout, this is a fresh and convenient home. The bathroom and kitchen have also been updated. Within walking distance to a great range of local amenities and public transport, this is a great location.
 

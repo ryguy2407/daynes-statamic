@@ -13,9 +13,11 @@ address: '315 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/3pWEUTFnQMI-lR4s3jV7Zzga1F0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822871/131226030-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435296/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435296/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435296/documents'
 property_id: '435296'
 price_search: '400000.0'
-id: 5c6af470-01f2-48e8-baf7-d8e0cad7b4d9
+id: c015d1b7-48d4-4213-a02a-6a0a22f1b3d6
 ---
 This is a lovely, neat family home surrounded by mature trees giving it great street appeal. The property has been brought back to life with fresh paint externally and internally. Low-maintenance polished timber floors along with the neutral palette throughout make this home a great blank canvas. The living area is spacious and full of light, and steps through to the eat-in kitchen. The kitchen has been finished with attractive splashback tiles, detailed cabinetry and is equipped with plenty of storage space. The yard is large, fenced and grassy, perfect to accommodate children and pets.
 

@@ -13,9 +13,11 @@ address: '19 Queensthorpe Street, TARRAGINDI'
 suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/LXOAozJcnhK1N_e9HpAxK5GU3hU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821394/126030426-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435180/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435180/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435180/documents'
 property_id: '435180'
 price_search: '580000.0'
-id: 95ffa9ec-4cf5-4ab2-87b7-5b118ae336cc
+id: d11bfd5f-875d-48bf-8bb5-f34f18fc0e6a
 ---
 This beautiful family home promises great lifestyle and is perfect for families and those who love to entertain. A classic post war property with tiled roof and chamferboard exterior, this is a charming and desirable design. The open plan kitchen, dining and living, flows effortlessly out onto the shady back deck overlooking the leafy backyard. These generous spaces boast elevated outlooks and are full of light, offering the very best of open plan living.
 

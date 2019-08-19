@@ -13,9 +13,11 @@ address: '44 Melia Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/8giFa4SJD5Rnp6ODaDqYHZ7msCA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819168/105362320-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434941/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434941/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434941/documents'
 property_id: '434941'
 price_search: '369000.0'
-id: bb087174-da80-4979-ae9f-5c9d8d5e2684
+id: 6f266608-baa9-40fa-b324-ef1926091530
 ---
 You will be impressed by this just renovated four bedroom home on 582sqm in Acacia Ridge
 This home would be ideal for a large family looking for great value with room to move.

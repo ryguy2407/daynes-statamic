@@ -13,9 +13,11 @@ address: '17 Wardgrave Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Yvk0imQLQKyVmIRgmJtuK0Cd64w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823739/123296366-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435369/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435369/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435369/documents'
 property_id: '435369'
 price_search: '440000.0'
-id: 19800ed0-423d-435f-8e22-8b67418a5209
+id: eadd0903-bfe2-48e7-b131-c0d54d4611b5
 ---
 Come home to this stunning high-set home and relax in the spacious bright interiors and expansive veranda. Stepping up to the cute east-facing balcony, the open-plan living, dining and kitchen are offset by the stunning timber veranda, overlooking the neat backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright. With plenty of room for a growing family, this home is perfect for those who are after a little more from their investment.
 

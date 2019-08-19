@@ -13,9 +13,11 @@ address: '106 Gregory Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/9li5aAlA9TTSaWojrAIewjbBIXM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823003/131617842-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435305/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435305/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435305/documents'
 property_id: '435305'
 price_search: '400000.0'
-id: 91302515-940c-402b-8981-2f02e9537ab6
+id: 10395e4e-982f-4656-9fed-ad12e9e92f81
 ---
 Set amongst the trees, this split-level family home is unique in its location with only one neighbouring property. Backing on to parkland and overlooking nature reserve beyond, it is hard to believe the home is only 16km from the Brisbane CBD. This property is a much sought-after 809sqm block, meaning a generous parcel of land for a family to enjoy, build a granny flat or extension, or an attractive investment opportunity for those seeking a subdivision project (subject to council approval). Situated in one of the most elevated parts of the suburb, the views are second to none at sunset. The picturesque setting make it all the more attractive for each option presented by this investment.
 

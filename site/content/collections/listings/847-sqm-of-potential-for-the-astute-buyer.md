@@ -13,9 +13,11 @@ address: '262 Troughton Road, COOPERS PLAINS'
 suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/D9d1rXJFqEDF494cL-dX_yz9OaM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822111/117037179-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435241/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435241/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435241/documents'
 property_id: '435241'
 price_search: '595000.0'
-id: 1a61a81e-0682-410e-b001-828a2d8f4194
+id: a7107cb8-9fe0-4a1a-996e-4b10c53bdf90
 ---
 Astute investors will be quick to realise the potential on offer in this property. In addition to the large land area and the possibility of subdivision (subject to BCC approval) there is a very well maintained 3 bedroom family home plus a self-contained living area at the rear suitable for use as student accommodation. The student accommodation is currently rented at $220 per week.
 

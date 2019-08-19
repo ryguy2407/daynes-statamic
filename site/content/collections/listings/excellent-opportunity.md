@@ -13,9 +13,11 @@ address: '294 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/fkfO_ECdSlhHdB3BFrhxXw9UbtU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822054/130469050-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435235/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435235/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435235/documents'
 property_id: '435235'
 price_search: '399000.0'
-id: 271f6563-639d-4f7f-95ba-539f264b80d7
+id: 0ba14dd9-669a-49aa-84cd-7a672bdcec40
 ---
 With beautiful polished timber floors and solid brick exterior, this home has great bones. The kitchen and bathroom have been recently updated and there is a fresh, neutral colour scheme throughout. The living space, kitchen and bedrooms are bright, airy and full of light. The house is situated on a fully fenced, completely flat 597sqm block with two street access and plenty of yard space to utilise.
 

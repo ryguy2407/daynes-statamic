@@ -13,9 +13,11 @@ address: '266 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/c_vsd5H2ULCF5JG14GpVCeZ_S8M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818984/105179200-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434920/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434920/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434920/documents'
 property_id: '434920'
 price_search: '325000.0'
-id: e2af9e36-d487-433f-9e18-3f0aecaf9643
+id: ad07ddff-6ecc-4e44-817c-1922e8b10d74
 ---
 This three bedroom home on a 607sqm block will impress buyers looking for good presentation and practicality.
 

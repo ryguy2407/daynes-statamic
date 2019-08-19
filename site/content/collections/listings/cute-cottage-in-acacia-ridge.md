@@ -13,9 +13,11 @@ address: '44 Sussex Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/nEqU2F2AamYnyFseoUccaqgMD9k=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826624/418919406-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435673/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435673/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435673/documents'
 property_id: '435673'
 price_search: null
-id: 8036417f-f21b-412a-8dd1-91a6ab5c0a38
+id: 085561ed-9172-4fcb-bbeb-cd3963c67298
 ---
 This home is bright, airy and fresh, with plenty of space in the open-plan kitchen, living and dining, this house is perfect for families who love to entertain. The home is situated on a fully-fenced flat block, with a well-maintained grassy yard, perfect for children and pets.
 

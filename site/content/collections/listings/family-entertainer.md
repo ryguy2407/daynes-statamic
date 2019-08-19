@@ -13,9 +13,11 @@ address: '12 Gregory Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/2YweGfPOcjTpnPEoYRwzOytrtSo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823662/123045818-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435363/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435363/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435363/documents'
 property_id: '435363'
 price_search: '420000.0'
-id: 3de88260-f042-42ca-bdaf-638cf7f93ecb
+id: c5311988-1c12-47c5-a390-245d80263fb9
 ---
 This beautifully presented family home, positioned on the leafy and desirable Gregory Street, is a rare and unique opportunity for families and investors alike. Featuring expansive open plan living and entertaining areas, this home is perfect for those who love to relax and spend time with their family and friends.
 

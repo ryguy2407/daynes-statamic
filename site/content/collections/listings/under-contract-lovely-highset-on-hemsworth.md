@@ -13,9 +13,11 @@ address: '18 Hemsworth Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/aPKu29RaFMAdzGTEAEx6s69MMZA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823282/119285947-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435329/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435329/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435329/documents'
 property_id: '435329'
 price_search: '389000.0'
-id: 6137db56-4e7f-42ac-a7b6-12d382400b2a
+id: ef746102-9ee5-4e1e-a323-9a860e5f22c6
 ---
 This lovely home is full of character, well-presented and located on one of the best streets in the area. The residents of Hemsworth Street famously decorate their houses with festive cheer to celebrate Christmas. Needless to say, this is a warm community perfect for families. High-set and featuring a beautiful rear covered deck, perfect for entertaining and relaxation space for a busy family. Ideal for those wanting to enjoy their outdoor spaces, this home is situated on a fully-fenced, level 610sqm block. This property represents a prime opportunity for first-home buyers or savvy investors looking for a good rental return.
 

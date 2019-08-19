@@ -13,9 +13,11 @@ address: '52 Keble Street, CORINDA'
 suburb: CORINDA
 main_image: 'https://img.eagleagent.com.au/v_1zMuxdlZy1Z0RGnWLLUCb_wuo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819472/105828086-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434977/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434977/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434977/documents'
 property_id: '434977'
 price_search: '439000.0'
-id: 581ecdcb-6660-4ca7-b5d6-ed9a0867d185
+id: 9a9a467c-4d9d-46b4-9a65-fddd9970c175
 ---
 Check this little beauty out….
 Situated on 607m2 in the heart of Corinda, this is the perfect property to get you into your first home.  You can sit and relax in the undercover patio area while the kids play safely and securely in the fully fenced rear yard.

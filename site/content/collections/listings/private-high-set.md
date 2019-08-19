@@ -13,9 +13,11 @@ address: '33 Dunkeld Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/y0ImSWG3GCxBHMPYJkvK1QWoXJ0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821458/126234930-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435185/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435185/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435185/documents'
 property_id: '435185'
 price_search: '495000.0'
-id: 058a24f6-0a5c-4691-b27d-2d5498cb3e41
+id: a0e7d322-4ab8-45b5-8ded-8814e9b945a9
 ---
 This private family home is set on a generous and elevated block in one of the best streets in the area. Stepping inside, the open plan living spaces flow from front to back out to beautiful verandas, making the most of the leafy surrounds. The interiors are full of light and are beautifully proportioned for easy family living. The kitchen has been updated with neat cabinetry, laminate benchtops and a large gas cooker. The kitchen steps into the dining space and out to the back veranda, ideal for entertainers. The back deck overlooks the leafy backyard and sparkling pool, areas perfectly designed for endless fun and enjoyment from your surrounds. The four bedrooms are all well appointed, each with built in wardrobes and large windows with insect screens. The bathroom has also been modernised, with fresh white and neutral tiles, bath tub and shower, and functional layout.
 

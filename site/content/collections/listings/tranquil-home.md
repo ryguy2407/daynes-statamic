@@ -13,9 +13,11 @@ address: '11 Mawson Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DmF0TZCiG2m40oPWu-k3sPMv7H0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822000/128329310-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435230/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435230/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435230/documents'
 property_id: '435230'
 price_search: '450000.0'
-id: a49062e3-4408-40d4-8ca3-c43bb71365b5
+id: 78d9986f-8438-4d57-9e2d-04325d3ea97c
 ---
 Come home to this stylish and generous family home, a rare offering of space and lifestyle in a low-maintenance, low-set design. The open plan interiors are welcoming and warm, in tasteful neutral colours and plenty of room to relax and entertain. They entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. The functionality and flow of these spaces is the pinnacle of design for those wishing to enjoy their property. The outdoor entertaining area overlooks the grassy stretch of yard and the immaculately presented gardens.
 

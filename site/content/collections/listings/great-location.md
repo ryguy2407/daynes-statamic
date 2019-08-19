@@ -13,9 +13,11 @@ address: '32 Bellevue Parade, TARINGA'
 suburb: TARINGA
 main_image: 'https://img.eagleagent.com.au/jNxXQQ3gX3k4B7RhNQKzy5Yx6xc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826072/414625347-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435607/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435607/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435607/documents'
 property_id: '435607'
 price_search: null
-id: 67ca8e94-85de-445a-a438-f4464e12f448
+id: 2255cfbd-3366-4358-8c6c-5063d9dc4656
 ---
 This 4 bedroom home is available for rent now.
 

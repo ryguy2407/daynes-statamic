@@ -13,9 +13,11 @@ address: '103 Postle Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Oj50qEdjHmme7oBl0yapjsQdPWk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822096/128556854-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435239/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435239/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435239/documents'
 property_id: '435239'
 price_search: '850000.0'
-id: 15a70d92-25e8-4fcb-97ac-7b7edf9cfa8f
+id: e664d565-10b2-42c3-84e9-4e9aaff50eed
 ---
 This is an excellent opportunity to secure a sizable amount of land at 1,214sqm with a total frontage of 35.7m, zoned General Industry B. Opportunities such as these are rare, particularly in such a strategic location and with a current viable residential rental income. These are side-by-side, completely flat blocks, giving the future owner the option to develop now, or in the future.
 

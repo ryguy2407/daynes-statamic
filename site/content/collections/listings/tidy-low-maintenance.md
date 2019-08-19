@@ -13,9 +13,11 @@ address: '282 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/uxIwDbjhnMPN4c6Na0MnMgbeONU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825365/424435506-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435537/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435537/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435537/documents'
 property_id: '435537'
 price_search: null
-id: 68886b26-d194-4943-8993-30a0bf6a4fde
+id: eac76ef4-8d10-4d96-8422-3f080e05d47f
 ---
 This low-maintenance home has been beautifully updated and finished in a neutral colour scheme. The tiled from patio overlooks the neat front yard with fruit trees and grassy lawns, which surrounds around the property. Stepping inside, the glossy floor tiles and neutral walls give the home a modern feel. The open plan living and dining is spacious, perfect for families. Flowing through to the galley-style kitchen, the main areas of the home are both stylish and functional. The kitchen features plenty of storage and stainless steel appliances. Conveniently, the laundry is situated just beyond the kitchen and provides access to the yard. The bedrooms are situated privately to the rear of the home and each has been equipped with storage, a ceiling fan and an air conditioner. This is the perfect property for those looking for a comfortable and convenient place to come home.
 

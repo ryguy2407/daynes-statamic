@@ -13,9 +13,11 @@ address: '38 Granville Street, WEST END'
 suburb: 'WEST END'
 main_image: 'https://img.eagleagent.com.au/gbFB8KLRzmpE2YOHURisfqOkFbg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826236/416135609-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435629/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435629/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435629/documents'
 property_id: '435629'
 price_search: null
-id: 03195f6c-61b5-4d96-9391-f061a9dac27f
+id: eeae6962-62ef-4dd2-b835-996c22b380f6
 ---
 This 5 bedroom student house is available to rent, with Large living areas up & down and a Huge kitchen up & down the house is only 4 kilometres to the QUT Campus. Common courtyard areas, Walk to Southbank, Internal laundry (not coin operated) , 25m walk to bus, Quiet street, City views from front deck & sunroom
 

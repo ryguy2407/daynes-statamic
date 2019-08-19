@@ -13,9 +13,11 @@ address: '15 Wells Lane, TOOWONG'
 suburb: TOOWONG
 main_image: 'https://img.eagleagent.com.au/ApUFvT6fi-V3KUFzxfaycO-Pc0Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826154/415049431-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435618/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435618/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435618/documents'
 property_id: '435618'
 price_search: null
-id: 75287d52-b42a-4cfc-9e0b-54a4383fcf3a
+id: dfb36522-9a65-4dc7-948f-aacf88e0503a
 ---
 Great Value don't miss out on this one.
 

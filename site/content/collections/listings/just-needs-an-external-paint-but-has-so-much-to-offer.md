@@ -13,9 +13,11 @@ address: '23 Alveston Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ffBXsrYlom-_Eo66AvRDRd7t3eY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823045/117642331-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435308/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435308/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435308/documents'
 property_id: '435308'
 price_search: '389000.0'
-id: 1066c059-2535-4a68-b9eb-c2f21ac08300
+id: 72420b23-edfb-4b24-8ad4-a05e576408b0
 ---
 ***Price Reduction - Slashed by $10,000***
 

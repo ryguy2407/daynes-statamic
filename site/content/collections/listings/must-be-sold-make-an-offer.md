@@ -13,9 +13,11 @@ address: '61 Henry Street, GREENSLOPES'
 suburb: GREENSLOPES
 main_image: 'https://img.eagleagent.com.au/J2N_hH932aMpD1xyVTqpp40bQHk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824109/115798127-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435396/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435396/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435396/documents'
 property_id: '435396'
 price_search: '725000.0'
-id: c957c9d0-cebc-4be6-a2c0-54a09b257be7
+id: 3637aa8c-43d5-4471-97fc-525e4d596463
 ---
 Priced to sell at $749,000
 

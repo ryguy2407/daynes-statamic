@@ -13,9 +13,11 @@ address: '7 Oswin Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/KINL9OCk-K99no5YXNzRdt96jKQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822433/130105822-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435265/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435265/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435265/documents'
 property_id: '435265'
 price_search: '419000.0'
-id: 965f9da6-6a67-4f73-b82b-95acc92bd39c
+id: 2a5e9877-f927-4dec-94cc-26b4d9a7c7f6
 ---
 This stylish mid-century home has been renovated to perfection, showcasing the original features for which these homes are much sought-after. The unique A-frame roofline and chamferboard exterior have been given a thoroughly modern refresh. Inside, the hardwood timber floors have been polished to perfection and are beautifully contrasted by the fresh, neutral walls. The home is bright and airy, with the original privacy glass preserved meaning this abundance of natural light can be enjoyed. With generous storage and bench space, all with beautiful new finishes, the kitchen is perfect for enjoying time spent preparing and entertaining. Representing open plan living at its finest, the beautifully flowing living, kitchen and dining make for a comfortable and inviting home.
 

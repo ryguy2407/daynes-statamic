@@ -13,9 +13,11 @@ address: '288 Archerfield Road, RICHLANDS'
 suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/19aK1CFH2wAtYiQ5T3JoDu7rpZc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823320/119796239-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435332/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435332/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435332/documents'
 property_id: '435332'
 price_search: '419000.0'
-id: b71161b1-03c5-474a-8208-d453eebead8b
+id: e770f5f1-809d-4fcf-a1f6-08ec8a5388c7
 ---
 This recently renovated two-bedroom family home boasts a fresh kitchen, bathroom and lovely living and entertaining spaces. To the rear of the property is an un-renovated large, freestanding, fully self-contained granny flat of similar construction to the main house. This is an ideal property for growing families and investors alike, with plenty of exciting opportunities to capitalise on your investment.
 

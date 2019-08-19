@@ -13,9 +13,11 @@ address: '993 Boundary Rd, COOPERS PLAINS'
 suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/JNFDE1XrBcXvNHw3mOCtU8B_f9M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818262/104186731-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434845/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434845/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434845/documents'
 property_id: '434845'
 price_search: '349000.0'
-id: 3d0107f5-5bc6-48d8-9143-a3bd0ea0d02c
+id: 52c09027-fde6-42c6-9534-e8c6a9decc0b
 ---
 This 3 bedroom, lowest, fully fenced house on 647 m2 is a must inspect for those trying to enter the housing market!  It features a large outdoor entertaining area off the kitchen and a private deck including a childproof gate out the front, making it the perfect home for the family that likes to have friends over for a BBQ.  Other features of this delightful property include:
 

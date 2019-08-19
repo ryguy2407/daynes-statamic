@@ -13,9 +13,11 @@ address: '72 Merchiston Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/p97wjaLjN0F8BfsjSnfltQWwVcE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821627/126821766-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435198/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435198/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435198/documents'
 property_id: '435198'
 price_search: '375000.0'
-id: 88e8c342-f1e4-4b76-9066-6dfa29ea78bd
+id: 1263c231-4140-4302-a807-2e77090f3316
 ---
 This beautifully presented home is being offered to the market for the first time in more than 50 years. The place of many happy family memories, this property will no doubt bring joy into the lives of the next owners. On an elevated block, surrounded by well-kept gardens and framed by beautiful mature trees, this property has lovely street appeal. With a sunny northern aspect, the generous internal spaces of this home are full of light. Of solid brick construction, this type of home is much sought-after in the area for the hardwood timber flooring and renovation potential.
 

@@ -13,9 +13,11 @@ address: '46 Dellow Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/vgdojJybir8GFKZ4gsszwrmgNzI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821703/127352222-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435206/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435206/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435206/documents'
 property_id: '435206'
 price_search: '400000.0'
-id: 02917af1-413e-484f-8770-7dde1293ebce
+id: 0b0c4bfd-7a15-44c8-a9d6-4fd01644287f
 ---
 Come home to this stunning high-set home and relax in the spacious bright open-plan interiors and expansive veranda. Stepping up to the cute east-facing balcony, the open-plan living, dining and kitchen are offset by the stunning timber veranda, overlooking the neat backyard and offering a wonderful space to entertain. The interiors and bedrooms are also generous, with large windows allowing plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright. With plenty of room for a growing family, this home is perfect for those who are after a little more from their investment.
 

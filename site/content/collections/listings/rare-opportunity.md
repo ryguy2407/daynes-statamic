@@ -13,9 +13,11 @@ address: '14 Harden Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/w-XPWUHmQXm1I3ei86g0bf3NhAw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821482/126357110-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435187/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435187/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435187/documents'
 property_id: '435187'
 price_search: '420000.0'
-id: f1b75984-7d01-4ee5-9e2f-60d06eec3aaf
+id: 6727bd55-fce6-404d-af6d-6506b0a752a6
 ---
 This is a rare opportunity to secure a generous parcel of land in one of Brisbane’s most rapidly developing areas. This generous offering of land, zoned Low Medium Residential (LMR), comprises two individual allotments totalling 1,369sqm, representing an array of short and long term investment options.
 

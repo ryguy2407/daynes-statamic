@@ -13,9 +13,11 @@ address: '61 Merchiston Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/MReTm0tKCHfogNtpZWZ3QFWSat8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823372/120744353-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435339/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435339/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435339/documents'
 property_id: '435339'
 price_search: '379000.0'
-id: f78a1e18-7432-457c-875b-8d5f810f564f
+id: 0974be8e-76a2-49fb-9a79-34d8eec747d1
 ---
 This home has been the delight of the current owners, and their love and enjoyment is evident in the attention to detail and liveability of the property. Featuring double brick fully insulated construction and fully insulated ceilings, this will be a solid investment for years to come.
 

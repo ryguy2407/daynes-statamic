@@ -13,9 +13,11 @@ address: '73B Chalfont Street, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/TsRnenAGNYFklHaD_5HLWHZCzc4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820529/111546139-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435104/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435104/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435104/documents'
 property_id: '435104'
 price_search: '409000.0'
-id: b1da6f07-de31-4844-b115-de903f6a9d57
+id: 59ce4644-101d-43a0-9eaf-b4fb27445202
 ---
 Only 11 kms to the CBD, this home is situated on a 506sqm fully fenced block in a quiet pocket of Salisbury. It has been raised to legal height underneath which has been restumped and battened off to lock up stage ready to be build in or just leave the way it is.
 

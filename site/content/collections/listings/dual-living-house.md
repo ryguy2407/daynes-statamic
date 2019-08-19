@@ -13,9 +13,11 @@ address: '7 Cameron Street, WEST END'
 suburb: 'WEST END'
 main_image: 'https://img.eagleagent.com.au/x9fpDOf2hUSDrqSd29lvsdOo6_4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826064/414625015-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435606/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435606/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435606/documents'
 property_id: '435606'
 price_search: null
-id: e8a2e67f-43cb-4759-93bb-0fad9eabce67
+id: f0a761f7-ca9e-47c6-a7cd-d78549cc4b5a
 ---
 Situated just 1km from the CBD and walking distance to  West End Shopping/Restaurant precinct this massive home is vacant now and ready for new tenants.
 

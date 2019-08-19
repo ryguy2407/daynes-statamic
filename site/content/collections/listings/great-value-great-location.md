@@ -13,9 +13,11 @@ address: '95 Elizabeth Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/gzZMeGmZ3RfIUNTYBarm_5gnVQ8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823410/121094706-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435344/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435344/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435344/documents'
 property_id: '435344'
 price_search: '395000.0'
-id: 3ed58dc7-ed8b-4cec-a151-6905c41cd9c0
+id: 5b2be7cf-0453-44a4-a511-b959030a398e
 ---
 This great home, situated on a sweeping corner block right in the hub of Acacia Ridge is a fantastic investment opportunity in this rapidly growing area. Perfect for first home owners looking to renovate with three good-sized bedrooms, well-proportioned spaces, solid timber flooring, chamfer board exterior and a tiled roof. The property also boasts great outdoor features including veggie patches, double lock up shed with water and power and an undercover concrete patio.
 

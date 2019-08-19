@@ -13,9 +13,11 @@ address: '47 Hemsworth Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_Dl1JIJgwiPDRylt0p1lmJJViK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823956/114177323-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435383/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435383/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435383/documents'
 property_id: '435383'
 price_search: '349000.0'
-id: 72e63b3a-f021-4a2d-b13f-f8cdab6141bb
+id: 42daab56-48ac-4940-a728-b06121e6da8e
 ---
 This highset three bedroom home is located in a really lovely part of Acacia Ridge deserves your immediate inspection.
 

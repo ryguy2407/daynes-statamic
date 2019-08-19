@@ -13,9 +13,11 @@ address: '28 Ingham Street, OXLEY'
 suburb: OXLEY
 main_image: 'https://img.eagleagent.com.au/c8qQLXDrRTBIg_yL0swQxTmi5Go=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821085/125316470-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435155/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435155/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435155/documents'
 property_id: '435155'
 price_search: '380000.0'
-id: 4461c248-7aef-4b15-a55c-d49ba910a5d8
+id: 9c2f44b6-de82-4bf7-96bc-13c9efdcc6ab
 ---
 This is a rare opportunity to secure a generous parcel of land only 16km from Brisbane CBD. The Oxley area is exciting many investors and home owners for it's excellent services, amenities, connectivity and warm communities. This is a lovely 582sqm property and is situated next to a modern estate, reaping the benefits of overlooking the lush parkland. With approximately a 15.6m frontage and overall a flat block this is the perfect canvas to create your dream home.
 

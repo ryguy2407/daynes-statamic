@@ -13,9 +13,11 @@ address: '22 Ringwood Street, DURACK'
 suburb: DURACK
 main_image: 'https://img.eagleagent.com.au/Bfx5N-VMiXnSbz_fpi78xfOyuus=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825336/424284386-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435534/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435534/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435534/documents'
 property_id: '435534'
 price_search: null
-id: 4500ef13-77d4-42af-8004-43d0e5ad2428
+id: f9a44d43-8a97-43ed-b8fd-b3873b874f86
 ---
 This high-set home is spacious, full of light and beautifully presented. The polished timber floors and light coloured walls are the perfect blank canvas for you to create your own welcoming home. The open plan kitchen, living and dining step out to the large back deck, ideal for relaxing and entertaining. The kitchen has been newly renovated and finished with beautiful grey cabinetry, pale laminate benchtops and stainless steel appliances. Each of the bedrooms upstairs is equipped with ceiling fans, blockout blinds and built in storage.
 

@@ -13,9 +13,11 @@ address: '1 / 11 Denman Street, GREENSLOPES'
 suburb: GREENSLOPES
 main_image: 'https://img.eagleagent.com.au/jUq47fVlqbhfPplPB8oXarqAaeA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824342/403710845-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435425/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435425/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435425/documents'
 property_id: '435425'
 price_search: null
-id: 35457079-fc25-436b-b617-2c16679df648
+id: 5dff17ea-23c5-46cd-8bda-f109dd8d7c61
 ---
 Upstairs includes
 *  2 large bedrooms upstairs, master bedroom with French doors opening to the ensuite and walk in robe

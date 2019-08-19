@@ -13,9 +13,11 @@ address: '20 Dunkeld Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/28rVOxjtY1SCm1MQ--G-dnIeFj4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824041/115089487-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435389/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435389/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435389/documents'
 property_id: '435389'
 price_search: '325000.0'
-id: f0b1c6f7-2fbf-4614-a6f6-eea98ec52091
+id: 88bad258-bd2d-498f-89ff-dd6f84cc3baa
 ---
 This well maintained, 3 bedroom home with 3 car lock up garage is well worth your immediate inspection.
 

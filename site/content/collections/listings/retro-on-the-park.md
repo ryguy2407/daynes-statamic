@@ -13,9 +13,11 @@ address: '67 Merchiston Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DXGdgXg9ExX8aCc9NtMDGfigyK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822894/131294582-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435298/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435298/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435298/documents'
 property_id: '435298'
 price_search: '369000.0'
-id: aa728370-e214-440b-a781-6c04c43e4dfc
+id: b73350b6-880d-4bfa-946e-37833a4a0f06
 ---
 This immaculately preserved property is your chance to secure a classic piece of mid-century design. Like stepping into a time capsule, this home is a beautiful example of the era and the perfect compliment to modern living and design sensibilities. For those who love the current trend for modern, Scandinavian inspired design, the open plan living and dining with the battened feature divide would provide the perfect backdrop to furniture and finishings with this aesthetic. Retaining the timber panelled walls would complete the mid-century look, but would be equally stylish with a coat of paint in a neutral tone. The living space is also a showcase of the hardwood timber flooring, for which homes of this era are much sought after. These floors are throughout the remainder of the home, protected by lino and would be simply stunning once revealed. Because if its immaculate preservation, this investment gives the lucky future owners plenty of options, many of which could be achieved relatively inexpensively.
 

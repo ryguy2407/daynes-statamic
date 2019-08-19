@@ -13,9 +13,11 @@ address: '8 Dunkeld Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/r7gLjJZCd4TBoNfdClWEX5kUFqw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821674/127289790-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435202/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435202/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435202/documents'
 property_id: '435202'
 price_search: '320000.0'
-id: e8306072-7be2-424d-a147-94387d30a3e3
+id: 1e8affd0-1997-4663-895d-e5422f740c1f
 ---
 This property has it all for lifestyle and functionality, a lovely family home situated in a quiet pocket of Acacia Ridge. Freshly painted internally, the home has been finished in a tasteful, neutral colour palette which is complemented by the the abundance of natural light in every room. The hardwood timber floors have also been recently polished, giving the home a fresh and modern feel. The kitchen and bathroom have been updated. The easy layout of the home gives plenty of space for a growing families with the combined kitchen and dining opening to the living area and to a leafy backyard. The front sunroom also affords plenty of options as a play room, home office or simply a place to enjoy the peaceful neighbourhood.
 

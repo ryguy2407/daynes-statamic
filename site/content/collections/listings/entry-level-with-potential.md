@@ -13,9 +13,11 @@ address: '8 Sussex Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Brt3iZUb24scJfsYT4r4XiDkT7c=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823459/121485018-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435349/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435349/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435349/documents'
 property_id: '435349'
 price_search: '300000.0'
-id: 4d95b5bb-c8cf-4ba0-a76d-2639643b9cf1
+id: d74ed3f7-090d-4b4b-b1b0-a10d1be3ad6a
 ---
 This cute cottage is is an amazing opportunity for those who want to secure a piece of this rapidly developing suburb. The property is situated in a convenient location, on a low maintenance 437sqm flat block with Low Medium Residential (LMR) zoning. Of solid construction, the house has hardwood flooring throughout, chamfer board exterior and steel roof. Internally, the rooms are well proportioned and functional with a combined living and dining off the good-sized kitchen. This house is a great chance to bring your own renovation dreams to life, both investors and first home owners alike.
 

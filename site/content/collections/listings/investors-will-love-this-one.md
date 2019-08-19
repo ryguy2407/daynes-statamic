@@ -13,9 +13,11 @@ address: '22 / 215 Creek Road, MOUNT GRAVATT EAST'
 suburb: 'MOUNT GRAVATT EAST'
 main_image: 'https://img.eagleagent.com.au/_ere3fuv-4s3xv_cLoHrb78_PNQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818458/104576799-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434870/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434870/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434870/documents'
 property_id: '434870'
 price_search: '329000.0'
-id: 1bbd32bb-f781-4655-b94f-15ffc6bb9bb9
+id: 8ca4bb9a-1f52-4705-be3c-1fbb0722d083
 ---
 Currently rented at $300 per week, this lovely 2 bedroom townhouse with on-site manager will surely impress even the most astute investor!
 

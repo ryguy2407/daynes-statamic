@@ -13,9 +13,11 @@ address: '23 Dunkeld Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/errk5v89-Sobrfym2yZjRxcsL10=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825781/426085818-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435577/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435577/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435577/documents'
 property_id: '435577'
 price_search: null
-id: 8e6d86fe-6642-4baa-897e-52c278fd189c
+id: 41efb730-5253-4b0a-98f4-dbf9341bcaa5
 ---
 This high-set timber home is set in an elevated and peaceful position. Situated in one of the most family-friendly and convenient pockets of Acacia Ridge, this property will tick all the boxes for those looking for a little extra from their next home. Stepping up to the house, the front porch is elevated with a leafy outlook. Inside, the spacious air-conditioned living area expands into a useful sunroom which can be closed off to be utilised as a study or rumpus. Flowing off the living is the open-plan dining and kitchen, a great layout for busy families. The kitchen is well designed, with plenty of storage and good quality finishes. The three bedrooms situated to the side of the house are all generous, equipped with ceiling fans and built in wardrobes.
 

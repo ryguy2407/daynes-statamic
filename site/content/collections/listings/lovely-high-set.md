@@ -13,9 +13,11 @@ address: '18 Chardean Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/xxLB2evhbZN1DdZknyBOyrMCdus=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824747/421113746-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435476/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435476/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435476/documents'
 property_id: '435476'
 price_search: null
-id: 0ad06983-92fb-4d21-8306-3676bd9b1ab5
+id: 85ac6efb-3495-46d1-b53b-bd3673c60492
 ---
 This lovingly renovated home is without doubt one of the best in the area. The property boasts beautifully presented gardens, with low maintenance mature native plants and sweeping lawns. The inviting spaces continue inside with polished hardwood floors throughout and generously proportioned living areas. This home is high-set, meaning perfectly captured breezes and a beautiful outlook from the front deck. It is the small luxuries that make this home truly unique. The bathroom is a full wet-room featuring fresh neutral tiles, spa bath and a lovely custom built vanity with marble bench-top. Under the house has been renovated to include a large tiled room with plenty of storage and a single car garage. Fully fenced, flat block of land perfect for children and pets.
 

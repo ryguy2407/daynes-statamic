@@ -13,9 +13,11 @@ address: '21 Courtice Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/pvNWQ21pTeveqGsTTpqOXYjSSuQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821582/126729526-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435194/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435194/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435194/documents'
 property_id: '435194'
 price_search: '340000.0'
-id: 937705d9-4126-4ef0-baf2-007eddea5677
+id: 6f6c6662-5b86-4db7-aae5-8563a76fc11c
 ---
 This neat low-set property is your chance to secure what has been the setting of many happy family memories. Situated on a generous 673sqm block, behind the tidy timber fence and surrounded by lovingly cared for gardens and lawns, this home has lovely street appeal. Inside, the front sunroom has been converted and combined into the living area, giving plenty of space for relaxing and entertaining. The dining is also incorporated into this area and flows through to the kitchen at the rear of the property. The kitchen, while dated, is functional and services the undercover entertaining area at the back of the home. The three bedrooms are well appointed, with the master and one additional room including air conditioners.
 

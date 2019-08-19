@@ -13,9 +13,11 @@ address: '58 Abingdon Street, WOOLLOONGABBA'
 suburb: WOOLLOONGABBA
 main_image: 'https://img.eagleagent.com.au/4l_V91gGPAIl_jAA02JnC34sxjg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818032/103941692-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434793/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434793/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434793/documents'
 property_id: '434793'
 price_search: '750000.0'
-id: 885b8278-6df1-4aa9-92a3-2d3f56047a7b
+id: 5144d284-a4e7-45de-a16b-d2915c9e9029
 ---
 Here we have a huge brick and tile family home right in the heart of Woolloongabba, situated on 809sqm of land.
 

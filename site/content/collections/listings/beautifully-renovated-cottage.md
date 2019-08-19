@@ -13,9 +13,11 @@ address: '10 Whittingham Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/jymBxbFctaGRRbFNEFgu9NOibAg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825951/426801058-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435593/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435593/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435593/documents'
 property_id: '435593'
 price_search: null
-id: 27303e35-eb0d-4308-b93a-b600e4df2abd
+id: 539c68a0-4d23-44e9-b41b-cdeb40ed01e7
 ---
 This cute low set three bedroom family home has been lovingly renovated by its owner. Stepping off the welcoming porch into the spacious, light and airy living room, you cannot help but be impressed by the beautifully restored hardwood timber floors complimented by lovely neutral cream walls. The eat-in kitchen is a beautiful space, perfectly functional for busy families. Newly updated with new oven and stove, the white two pac cabinetry and generous bench spaces are fresh and modern. Each of the three bedrooms are generously proportioned, and include ceiling fans, the master with a built-in wardrobe. This property is perfect for those looking for a fresh and generous home with a nice sized yard to enjoy.
 

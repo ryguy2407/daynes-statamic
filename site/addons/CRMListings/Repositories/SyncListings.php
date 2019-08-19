@@ -68,6 +68,8 @@ class SyncListings {
 			'suburb' => $listing['attributes']['suburb'],
 			'main_image' => $listing['attributes']['primary_image'],
 			'images' => $listing['relationships']['images']['links']['related'],
+			'floorplans' => $listing['relationships']['floorplans']['links']['related'],
+			'documents' => $listing['relationships']['documents']['links']['related'],
 			'property_id' => $listing['id'],
 			'price_search' => $listing['attributes']['price']
 		];
@@ -90,18 +92,18 @@ class SyncListings {
 		}
 	}
 
-	public function getImages($image)
+	public function getRelated($url)
 	{
-		//Get the linked images
-		$images = $this->crm->getImages($image);
-		$imagesArray = [];
+		//Get the linked resources
+		$items = $this->crm->getRelated($url);
+		$itemsArray = [];
 
 		// Loop through the retrieved images and store in array
-		foreach($images['data'] as $image) {
-			$imagesArray[] = ['imageUrl' => $image['attributes']['url']];
+		foreach($items['data'] as $image) {
+			$itemsArray[] = ['url' => $image['attributes']['url']];
 		}
 
-		return $imagesArray;
+		return $itemsArray;
 	}
 
 }

@@ -13,9 +13,11 @@ address: '1 / 36 Helles Street, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/BusFOnlVaFXRB1CuuKwIGq1FDUA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818062/104008362-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434796/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434796/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434796/documents'
 property_id: '434796'
 price_search: '449000.0'
-id: 34f082a9-0e43-479f-9a2e-bedebbaeb41e
+id: da68c9dd-f29d-4d42-9aac-ff24a2bb6379
 ---
 Situated in a leafy quiet street in Moorooka.  This 3 bedroom 2 bathroom and 1 powder room townhouse  features large landscaped courtyard, spacious open plan living area, vogue kitchen  with stainless steel appliances.
 Upstairs there are three bedrooms with a study nook and a large walk in robe in the main room.

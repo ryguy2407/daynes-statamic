@@ -13,9 +13,11 @@ address: '121 Middle Street, COOPERS PLAINS'
 suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/Gk0cLHHheTMmEB3D7A6k6UGIyy8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825976/413949555-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435596/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435596/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435596/documents'
 property_id: '435596'
 price_search: null
-id: ee92c55b-9a60-47a3-b2d4-b3dd8f686230
+id: d69feef6-5e81-4523-803d-c81190d4e38b
 ---
 This lowset 3 bedroom brick house is available for rent now.
 

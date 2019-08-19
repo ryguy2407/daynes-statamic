@@ -13,9 +13,11 @@ address: '27 Scouse Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/XBAOH8O0GJycNBjADn5BHv73trY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823152/118062335-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435317/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435317/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435317/documents'
 property_id: '435317'
 price_search: '289000.0'
-id: 7b0661a6-7102-4f18-b76d-567e35e677b0
+id: 2b037877-ee93-4e06-99cc-0c6d547bbc51
 ---
 This solid post-war home is of wooden construction and has hardwood floors throughout. Low-set and with an open-plan design, this property also features three good-sized bedrooms and one bathroom with separate toilet. This is a great entry level property for those who want to renovate and reap the rewards in this rapidly growing suburb.
 

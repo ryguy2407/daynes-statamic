@@ -13,9 +13,11 @@ address: '17 Olivine Place, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/AsLO63T--ktFIDy9nmXSULnWvO8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821142/125000402-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435159/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435159/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435159/documents'
 property_id: '435159'
 price_search: '365000.0'
-id: 629b0311-539a-443e-9c9d-f7d959f25a75
+id: 9d460d68-cea6-45af-b6e0-310284080062
 ---
 This low-set brick home has been immaculately renovated and is ready to go! Easy, low maintenance living is a guarantee with the convenient layout and clean finishes of this neat family home. Surrounded by lovely grassy grounds, home is full of natural light with large windows and a north-facing aspect. This home features an open plan living, kitchen and dining, beautifully finished with timber-look flooring and a fresh paint palette. The kitchen and laundry open to the paved patio, overlooking the grassy backyard. These generous outdoor areas are perfect for entertaining and enjoying with your family.
 

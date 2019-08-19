@@ -13,9 +13,11 @@ address: '29 Annear Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/uuevXJlV-yLU9G1UbeojScyPqLE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821702/130469074-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435205/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435205/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435205/documents'
 property_id: '435205'
 price_search: '410000.0'
-id: 666f9217-7b3e-4d15-8c07-b7b089a97702
+id: f5cd453f-4b5b-46c6-b31f-8244c8d656c3
 ---
 This generous and well-appointed home offers plenty of space for busy families. To the rear of the home, the beautifully presented kitchen is adjoined by a lovely dining area or additional living space. Stepping out of the kitchen, the cute back deck and outdoor entertaining area overlook the grassy backyard, perfect for entertaining and relaxing. Each of the three bedrooms include ceiling fans, built-in wardrobes and storage. The bathroom is functional and fresh, and includes a shower over bathtub. The large living area is kept cool with a large air conditioner. The single car garage also provides additional storage.
 

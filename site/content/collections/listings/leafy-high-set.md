@@ -13,9 +13,11 @@ address: '18 Flaxton Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/B89yIw23PlwJxwCu1HT7z4ygTNc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822747/131068654-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435286/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435286/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435286/documents'
 property_id: '435286'
 price_search: '350000.0'
-id: 7937191e-175b-45ef-822a-9055e84afaff
+id: 71dd6903-2d1e-4524-b915-8388a9684357
 ---
 This lovely high-set home is ready and waiting for renovation. Neatly presented and highly functional as is, this is a great opportunity for owner occupiers to move straight in and realise their renovation dreams at their own pace. Situated in a quiet, elevated pocket of Acacia Ridge and surrounded by mature trees and neat gardens, this property has great street appeal. This home is a great example of classic mid-century design and quality construction. Original homes in the area are much sought after for their solid timber frames and flooring, and renowned for the ease at which they can be transformed into a retreat to suit the modern lifestyle.
 

@@ -13,9 +13,11 @@ address: '21 Marnham Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_WWn0Tw7JIav1MTCV-5TceFiSJA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822714/130604066-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435284/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435284/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435284/documents'
 property_id: '435284'
 price_search: '499000.0'
-id: 5e1c3d19-1a73-4e2f-96fe-60e45c1ea20b
+id: 0266f60c-f7dc-4663-b2da-3fea1bbdc1e1
 ---
 Come home to this unique and stunning home to relax in the spacious bright open-plan interiors and expansive back veranda. This is a home to be proud of, beautifully framed by tropical gardens and finished in a modern colour scheme both externally and internally. Sure to attract those who are looking for dual-living potential, the property has been cleverly converted to include a generous, self-contained studio. An amazing opportunity that must be seen to be believed!
 

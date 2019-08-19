@@ -13,9 +13,11 @@ address: '20 Tyrone Place, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/wW67mTJP72pYZRZMxaDR5Pdyyl0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823070/117848575-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435311/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435311/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435311/documents'
 property_id: '435311'
 price_search: '398000.0'
-id: df5152ad-2a78-44bf-9943-f35e68916c48
+id: 7aea19a7-52a4-4976-b014-eb0ff11b21ba
 ---
 This brick & tile three bedroom plus study family home is situated at the end of a very quiet and leafy cul-de-sac. It was built by Devine homes in 1997 and is positioned on a 451sqm block which is prominently bigger than the average in this estate. It also has beautiful landscaped gardens which are an absolute credit to its current owner. The house has been maintained to the highest standards which you will see when you come to view at the open house this Saturday.
 

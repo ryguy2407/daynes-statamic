@@ -13,9 +13,11 @@ address: '41 / 34 Albicore Street, MERMAID WATERS'
 suburb: 'MERMAID WATERS'
 main_image: 'https://img.eagleagent.com.au/r-QlktShjoW8q_XoKgWVSIPa_c8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821288/116779435-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435171/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435171/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435171/documents'
 property_id: '435171'
 price_search: '445000.0'
-id: 9d74b6d6-94b7-4180-95f4-4cfecdaeccb1
+id: 73c94afe-d81c-4234-ba33-97b08828c051
 ---
 Positioned at the end of a quiet cul-de-sac, this gated complex offers a unique blend of resort-style living with the Tuscan-inspired architecture, beautifully landscaped grounds, sparkling swimming pool and access to the canal for all your boating activities.
 

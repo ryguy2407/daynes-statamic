@@ -13,9 +13,11 @@ address: '49 Elizabeth Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/dU1eUkjXn2_dCeO0HYTsrRF6WIQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821970/128240506-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435227/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435227/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435227/documents'
 property_id: '435227'
 price_search: '500000.0'
-id: 5d00e5fe-89a7-4a4a-8ea5-d72bbca13e02
+id: 5f6af95f-5e0c-459d-a198-a6ab6de5c7ee
 ---
 This beautifully renovated three bedroom home has much to offer investors and families alike. Situated on a fully fenced 825sqm block and LMR zoned, this could be an opportunity to develop the land or enjoy the property as is. Beautifully polished floors, an open plan design and ample light make this an airy and bright residence. The extension to the rear of the property offers great lifestyle spaces with a large rumpus or family room stepping out to a lovely shady verandah overlooking the grassy backyard.
 

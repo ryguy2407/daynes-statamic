@@ -13,9 +13,11 @@ address: '25 Wapping Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6AERp_RYCORltXke4vrzQ0kO3rk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823489/121723486-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435352/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435352/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435352/documents'
 property_id: '435352'
 price_search: '449000.0'
-id: ba0b9b06-8a5c-4f37-8f7b-e382831b343a
+id: c0562feb-3a27-4f44-a9d6-9e426a23d482
 ---
 Step out onto the sweeping back veranda of this great Queensland home and enjoy the idyllic shady setting and privacy provided by the lofty trees and grassy lawns. This beautiful high-set chamfer board home is set amongst lush green gardens and shady trees. Perfect for entertainers and families alike, this property holds the potential to become your dream home.
 

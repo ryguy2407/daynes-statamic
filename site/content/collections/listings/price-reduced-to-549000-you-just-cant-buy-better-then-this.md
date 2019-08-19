@@ -13,9 +13,11 @@ address: '2 Maurice Avenue, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/vPty622JCPRP6-967wjBsqYafFQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818782/104882626-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434899/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434899/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434899/documents'
 property_id: '434899'
 price_search: '541000.0'
-id: 8076bc1c-b410-46e5-84c6-d0f07f4c34b6
+id: 68ca85ff-2559-4840-96a6-dcc07b1cd40a
 ---
 Situated on a 490sqm block, this beautiful home will not disappoint anyone who is looking for lots of room and a good looking home.
 

@@ -13,9 +13,11 @@ address: '69 Cripps Street, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/rbzf0ZKqo5UKvqoecESaJdkQrgU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823970/114476415-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435384/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435384/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435384/documents'
 property_id: '435384'
 price_search: '280000.0'
-id: 5e008dbd-000c-4c08-8107-cf705e7477c9
+id: ddbf313d-22de-4f3d-9fa8-4029c8eda8b8
 ---
 Here we have a lowset brick and tile 2 bedroom house in the heart of Salisbury and only 11 kms from the CBD. It is situated on a 602sqm corner allotment with 2 street frontages.
 

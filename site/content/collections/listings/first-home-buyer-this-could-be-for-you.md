@@ -13,9 +13,11 @@ address: '49 Ness Road, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/WvjRYbMC50BuH7tnCmSiJf-8vSE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818479/104608536-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434872/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434872/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434872/documents'
 property_id: '434872'
 price_search: '419000.0'
-id: bc28bcbb-b1a4-4b87-b658-56859c01fdd9
+id: c28ea1b6-2428-4b0b-979c-7306f243f26c
 ---
 The owners of this lovely 3 bedroom home have decided it is time for them to move on and give someone else a chance to enjoy this property.
 

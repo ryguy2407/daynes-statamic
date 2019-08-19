@@ -37,7 +37,7 @@ class EagleListings implements CRMInterface {
 		return json_decode($result->getBody()->getContents(), true);
 	}
 
-	public function getImages($url)
+	public function getRelated($url)
 	{
 		$token = $this->getToken();
 		$images = $this->client->get($url, [

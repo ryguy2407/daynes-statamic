@@ -13,9 +13,11 @@ address: '1334 Beaudesert Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rJSxFQJW_xkJICy9ZoL9XJeF_yE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826030/414238219-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435602/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435602/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435602/documents'
 property_id: '435602'
 price_search: null
-id: ac1c47df-38ac-499c-9966-06a7b4e89eb4
+id: 7059d725-0f22-46db-808a-226fb24504c1
 ---
 Entertain your friends and family with the generously sized back deck and fully fenced backyard.
 

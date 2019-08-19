@@ -13,9 +13,11 @@ address: '304 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/LaWHFh7CQ89fQqq1D3T_OvyuPMU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824127/115830403-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435397/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435397/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435397/documents'
 property_id: '435397'
 price_search: '220000.0'
-id: e8a65534-f694-42bf-a03c-1ab98ca4176f
+id: d61e97e5-f587-49b5-922b-a94fa26672f0
 ---
 Best offer over $220,000
 

@@ -13,9 +13,11 @@ address: '13 Celtis Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/zY-VG7M2bXRUexw5Zn0aU-VQgK0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825326/424109998-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435533/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435533/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435533/documents'
 property_id: '435533'
 price_search: null
-id: 681b0b8d-ebfc-4a69-9f0d-e3daf25ae76a
+id: 83884825-3f75-47a6-bbfe-f9cb35376122
 ---
 This lovely high-set home is situated in a quiet leafy pocket, a stone's throw from local parks and Acacia Ridge State School. This little corner of Acacia Ridge is popular with families as it is removed from the traffic and close to all the important amenities. The house itself is a private retreat, featuring a large, open-plan living and dining, flowing into the modern kitchen. This kitchen features lovely white cabinetry and stainless steel appliances. Polished timber floors throughout the living, dining, hallway and bedrooms gives this home an easy to maintain appeal. Additional value and attraction for this property is the additional fully enclosed space downstairs. Perfect for additional living space, a rumpus room or simply storage, this space is a great addition to an already generous home.
 

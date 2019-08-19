@@ -13,9 +13,11 @@ address: '3 Kennedy Crescent, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/uRvm9ZPQ2uByqC7Ayht_XxV9TRg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823995/114622167-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435386/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435386/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435386/documents'
 property_id: '435386'
 price_search: '390000.0'
-id: 709a7ef2-7c7a-4937-8f7f-549d92bfc373
+id: c0b2c3b0-540a-41a5-a1bf-26a133ae15fb
 ---
 This brick and tile lowset home offers three good sized bedrooms and a home office which could be used as a fourth bedroom. It is only 10 years young and has been kept in tip top condition from the previous two owners. It is situated in a quiet pocket of this relatively new estate on 403m2 of land. It has ducted air conditioning throughout which is very desirable with the hot summer months ahead of us.
 

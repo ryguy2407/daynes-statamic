@@ -13,9 +13,11 @@ address: '18 Beatty Road, ROCKLEA'
 suburb: ROCKLEA
 main_image: 'https://img.eagleagent.com.au/OjrN2Kxmrjytv4DkBNBkq2OGUkE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821063/124794958-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435153/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435153/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435153/documents'
 property_id: '435153'
 price_search: '485000.0'
-id: d1b74536-83dc-4c79-94bb-1228faac14b4
+id: 12430287-872b-41dd-b0fc-67d206074b1c
 ---
 Attention developers! This is a rare opportunity to secure an excellent site for immediate or future development. A generous 834sqm block, already on two lots and with excellent access, this property holds the potential to generate a tidy profit for the savvy investor.
 

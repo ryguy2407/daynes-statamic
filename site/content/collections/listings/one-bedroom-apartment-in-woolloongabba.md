@@ -13,9 +13,11 @@ address: '6 / 9 Lockhart Street, WOOLLOONGABBA'
 suburb: WOOLLOONGABBA
 main_image: 'https://img.eagleagent.com.au/HT717FX9PZxj-ivqJppmCuFC8lI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818499/104632209-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434875/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434875/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434875/documents'
 property_id: '434875'
 price_search: '239000.0'
-id: 583cb63d-e098-4a75-a06d-9f181df4aa1f
+id: 710aafce-3e3b-48c3-86fa-9e2e36a0a13c
 ---
 Get yourself into the real estate market with this affordable one bedroom unit located in the heart of Woolloongabba. Situated in a complex of 8, the unit has a floor area of 46sqm which comprises of a loft style bedroom with study area underneath and a separate living/kitchen area.
 

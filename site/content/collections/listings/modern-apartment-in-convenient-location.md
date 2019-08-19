@@ -13,9 +13,11 @@ address: '20 / 329 Lillian Avenue, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/wjh2TTUkNQN6un8mEbjOQ2dMnG4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824645/420478678-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435466/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435466/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435466/documents'
 property_id: '435466'
 price_search: null
-id: 5d5791cd-4341-41c9-ba3a-7a94936ce3ff
+id: 055f50bd-1095-4fc9-86e7-f223d2cbf84c
 ---
 This ground floor property is well presented and full of light, with modern fixtures and clean finishes. The kitchen features stone bench tops and two pac cabinetry, in an attractive neutral colour scheme. Quality stainless steel oven, stove, rangehood and dishwasher also make for a functional and presentable space. The floors throughout the kitchen and open plan living space are covered high quality wood-look vinyl, the bedrooms are carpeted and the bathrooms fully tiled. Stepping out to the back patio and into the courtyard through the sliding door, occupants are afforded great privacy and a great space to enjoy.
 

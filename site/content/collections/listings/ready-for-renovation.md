@@ -13,9 +13,11 @@ address: '73 Mortimer Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/PGkGBSwUGLAAXOb11E072YaTQJI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821791/130469070-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435213/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435213/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435213/documents'
 property_id: '435213'
 price_search: '300000.0'
-id: 24222a0e-ed17-43f9-936d-68049d6f160c
+id: 10b91585-6dec-46cb-b5f6-0bd4738fbdde
 ---
 This classic Acacia Ridge cottage is of solid construction with tiled roof, chamferboard exterior and hardwood floors. Original interiors will require complete renovation. Situated on a 607sqm block, across from Archerfield Airport.
 

@@ -13,9 +13,11 @@ address: '25 Janzoon Street, ARCHERFIELD'
 suburb: ARCHERFIELD
 main_image: 'https://img.eagleagent.com.au/JQxXnVp_o6dzNaKfN8THlVWecAg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822242/129139746-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435251/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435251/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435251/documents'
 property_id: '435251'
 price_search: '428000.0'
-id: a8501a5e-b77c-4725-b83c-143c308e63a4
+id: 960f8a14-bf33-409b-94bb-f48bf36d4577
 ---
 This property is full of character and creative flair, perfect for those looking for a little extra for their next home. The home is full of history and bespoke features. No detail has been left unattended both inside and out, with the home being the pride and joy of the current owner. Approaching the property, the tranquility of the area is apparent and this combined with the abundance of trees make this place a lovely escape. A home with great street appeal, the gardens have been thoughtfully planted with low maintenance and bird attracting native trees. The home itself has been freshly re-painted and is a private high-set design allowing a lovely elevated outlook.
 

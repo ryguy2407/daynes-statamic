@@ -13,9 +13,11 @@ address: '1284 Beaudesert Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6OzbxS63-AuPC3ovdh4n6e_TB-s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821297/125872574-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435172/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435172/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435172/documents'
 property_id: '435172'
 price_search: '430000.0'
-id: e8ac8ef8-3571-479c-846d-e972f0303b90
+id: e9a7bff6-96a5-42f6-bd60-7e8bb607cab6
 ---
 Secluded behind a tropical leafy frontage is this private family home, promising years of enjoyment of the spacious interiors and idillic surrounds. Generous, light-filled interiors in a neutral colour palette are hidden away behind beautiful leafy gardens and latticing. Stepping inside, you are welcomed by the lovely formal entry which leads straight into the open plan living area on one side and into the expansive kitchen on the other. The home has been thoughtfully renovated to preserve and showcase the beautiful timber floors, stunning cornices and original features.
 

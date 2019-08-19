@@ -13,9 +13,11 @@ address: '4 / 10 Oxford Terrace, TARINGA'
 suburb: TARINGA
 main_image: 'https://img.eagleagent.com.au/9Oha4GgQX8YPYOOfEUkJmRXESoE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826347/416549577-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435642/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435642/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435642/documents'
 property_id: '435642'
 price_search: null
-id: 37721356-c246-45a2-86e6-0e206cca9ff5
+id: 75594573-5503-42bc-8198-f7babfb39e62
 ---
 This Executive Style Multi Level Townhouse is available for rent now. The Townhouse is located in a small complex of 4 townhouse.
 

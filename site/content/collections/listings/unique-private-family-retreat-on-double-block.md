@@ -13,9 +13,11 @@ address: '142 Orange Grove Road, COOPERS PLAINS'
 suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/GBvyCruH9vgidZ9bZBcSBUW4MAw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823124/118035227-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435315/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435315/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435315/documents'
 property_id: '435315'
 price_search: '500000.0'
-id: 9a0d7989-c47b-4a2c-859e-d2aeb9c67392
+id: c1538d88-0eae-468f-bd15-736c5eb23abf
 ---
 Wander around the beautiful gardens of this surprisingly serene property. This is the city farmers delight with extensive developed gardens including plenty of flowering plants, fruit trees and chook pen. The two verandahs overlook the gardens and have been positioned thoughtfully to be enjoyed at all times if the day. This property has been lovingly cared for and home of many happy family gatherings.
 

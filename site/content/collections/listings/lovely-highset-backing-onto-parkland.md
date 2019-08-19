@@ -13,9 +13,11 @@ address: '24 Melia Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/tKYmtXmB0u3usX7N4r8HOez69Q0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823309/119787219-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435331/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435331/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435331/documents'
 property_id: '435331'
 price_search: '369000.0'
-id: 4eda377f-5f86-4f9b-a642-22a998338b2a
+id: fdb9f1e7-516d-434c-a076-b9ec2adadc46
 ---
 This lovely high set home is located in a quiet and leafy pocket of Acacia Ridge. Relax on the front north-east facing balcony and enjoy a leafy and elevated outlook or entertain in your spacious barbecue area. Featuring highly liveable indoor and outdoor spaces for families, there is plenty of potential in this investment.
 

@@ -13,9 +13,11 @@ address: '25 Rothesay Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Va3YOGe-JQ5C3XTBgMT9NjW7BOk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826677/419243538-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435678/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435678/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435678/documents'
 property_id: '435678'
 price_search: null
-id: 6242ee29-8433-4d05-af95-1b8e1e16293d
+id: dbef1055-46d8-4f6e-88fb-f19017757908
 ---
 This newly renovated low-set family home has been meticulously and beautifully presented. The perfect property for families, the house boasts plenty of storage and low-maintenance living. This home has been completely renovated though out with fresh paint internally and externally, newly polished timber floors to living and kitchen, new carpets to bedrooms and a new kitchen and bathroom.
 

@@ -13,9 +13,11 @@ address: '42 Mannington Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/uV8xEKJh8x1-8nCjtKRJkNU9o2s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823711/123152126-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435367/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435367/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435367/documents'
 property_id: '435367'
 price_search: '420000.0'
-id: fd553f5a-0feb-4ba0-9921-f71527dcc875
+id: 24db171c-9c86-4c1a-95af-0a2eef6e201d
 ---
 This gorgeous low-set brick bungalow has been the place of many happy family memories, and is offered for the first time in 40 years. Lovingly and attentively maintained, this home is full of character and would be a fantastic investment opportunity for any savvy buyer. Situated on a generous 716sqm block with 20m frontage, zoned Low Medium Residential (LMR), this solid home represents an array of short and long term investment options.
 

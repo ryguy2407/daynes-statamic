@@ -13,9 +13,11 @@ address: '34 Emily Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/7WpIsoIob4qVv2f5ePcyfBImOrc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819066/105220057-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434929/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434929/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434929/documents'
 property_id: '434929'
 price_search: '349000.0'
-id: 66901f7c-1827-4de0-aac6-e2b5ee33141b
+id: 50d3eeae-811d-496a-86f3-aaf82594a079
 ---
 This lovely home situated on a 602sqm block, located in a quiet street would have to be the best value home in Acacia Ridge.
 

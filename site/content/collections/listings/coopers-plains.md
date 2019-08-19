@@ -13,9 +13,11 @@ address: '252 Musgrave Rd, COOPERS PLAINS'
 suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/LHRtV-uXuMdfRVkA2FomPGQzhLY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818206/104125113-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434839/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434839/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434839/documents'
 property_id: '434839'
 price_search: '390000.0'
-id: 83b87053-c291-46d8-af90-f4e4a22f4a1c
+id: bd9af580-dfd2-4eb9-a33f-5d9820ae2ee6
 ---
 Peep through the tropical trees and find a lovely renovated 1930's home on 931 sqm of land.  This property is fully fenced and in a private, quiet location.  The lovely features are endless:-
 

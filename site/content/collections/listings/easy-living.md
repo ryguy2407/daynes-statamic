@@ -13,9 +13,11 @@ address: '5 Delong Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/wqYo7h5Y12K_JCHEUDUJtQu2abg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821319/125896234-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435173/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435173/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435173/documents'
 property_id: '435173'
 price_search: '435000.0'
-id: 65168b3f-fe69-480e-8cf0-a36d8075c4c6
+id: 5921ccbd-5669-4dbe-8b6b-51e8778b169c
 ---
 This generous family home has it all for those who are seeking lifestyle and convenience. A low-maintenance, low-set design, this comfortable home has been lovingly cared for and presents an opportunity to move straight in. Set in immaculately presented gardens in a quiet pocket of Acacia Ridge, this property offers privacy and convenience, all on the one level! Well proportioned for comfortable family living, this home boasts plenty of space for outdoor and indoor entertaining and relaxing. Generous open plan kitchen and dining spaces flow out to the large under cover paved patio. This patio is an entertainers delight, with a built in bar area and plenty of room for a barbeque, all overlooking the beautiful gardens and lawn.
 

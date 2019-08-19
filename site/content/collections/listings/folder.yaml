@@ -3,6 +3,7 @@ fieldset: listings
 template: listings/show
 columns:
   - title
+  - address
   - slug
   - status
 searchable:

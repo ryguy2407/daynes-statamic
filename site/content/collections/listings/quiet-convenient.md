@@ -13,9 +13,11 @@ address: '6 Bexhill Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/kEScByvNBlwe0SqH9t8zocwbB5o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826004/427122122-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435599/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435599/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435599/documents'
 property_id: '435599'
 price_search: null
-id: a37f9231-2b6c-42c2-8319-f709fc3318df
+id: ded786b5-d81e-4e25-b64b-0c1212db2ad8
 ---
 Be quick to see this two bedroom flat - it won't last
 

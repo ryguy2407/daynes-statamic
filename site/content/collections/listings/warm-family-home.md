@@ -13,9 +13,11 @@ address: '20 Gregory Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/izfvVEJ756gsGaw9c1E4jZb6EMI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823140/118043539-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435316/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435316/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435316/documents'
 property_id: '435316'
 price_search: '369000.0'
-id: d0b4c7d7-a93c-4b68-aca7-af57be7b81b0
+id: dd3ca571-2bda-4f3a-9175-3304edeef8eb
 ---
 This property is a perfect example of family lifestyle and practicality. The good-sized kitchen, living and dining rooms, and large outdoor area mean easy entertaining and plenty of space for a growing family.
 

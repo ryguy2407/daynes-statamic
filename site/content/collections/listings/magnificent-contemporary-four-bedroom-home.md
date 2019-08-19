@@ -13,9 +13,11 @@ address: '123A Toohey Road, TARRAGINDI'
 suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/__E8vBHKrSNnjI8DK8rzNH-Etps=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820332/109006561-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435084/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435084/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435084/documents'
 property_id: '435084'
 price_search: '589000.0'
-id: cc70730e-fce2-4456-a297-3f590ed9d812
+id: 3011c38f-6b66-49d8-89c2-d2941c940a73
 ---
 Situated on a flat, low maintenance 405sqm block is a modern two level residence which is sure to impress you. Absolutely ideal for a family looking for a modern home in a great location with plenty of space.
 

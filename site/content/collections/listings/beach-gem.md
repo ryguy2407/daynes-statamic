@@ -13,9 +13,11 @@ address: '55 Taylor Avenue, GOLDEN BEACH'
 suburb: 'GOLDEN BEACH'
 main_image: 'https://img.eagleagent.com.au/UC7HHvAgyxZcb4LDtCmpZzXS4gs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824787/421504938-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435480/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435480/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435480/documents'
 property_id: '435480'
 price_search: null
-id: 06eb8af3-6cb9-4cd3-b005-847a9f3ebeab
+id: b0a25084-ab10-4e74-b5ad-ae8de7a8c836
 ---
 ** Please contact Cherie Cooney on 0498 256 885 for enquiries **
 

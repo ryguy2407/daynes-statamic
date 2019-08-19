@@ -13,9 +13,11 @@ address: '19 / 118 Hamilton Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/hUXtke7hyWYSZQM2mn6RRMvqal0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818340/104321094-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434851/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434851/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434851/documents'
 property_id: '434851'
 price_search: '340000.0'
-id: 58e1c773-afbd-4d1d-af08-13fb3ed3cbc7
+id: 5cbea0c3-dddf-4a03-b9ee-49d33bd2270f
 ---
 Secure this lovely three-bedroom ensuited townhouse for your future!
 Currently on a long lease at $295pw in a complex of 30.

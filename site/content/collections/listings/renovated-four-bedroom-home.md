@@ -13,9 +13,11 @@ address: '27 Bale Street, ROCKLEA'
 suburb: ROCKLEA
 main_image: 'https://img.eagleagent.com.au/7vrm5iuK_N8g__D-2UTs-MOKIic=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825010/422802406-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435504/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435504/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435504/documents'
 property_id: '435504'
 price_search: null
-id: 87d7dbbd-3b01-4094-a81f-f4cd62a45968
+id: 89990e15-c71e-414f-a83d-d46c193c4e97
 ---
 This renovated four bedroom property is a stylish and immaculately presented place to call home. Spacious living areas and generous bedrooms are beautifully finished with clean, freshly painted walls and beautiful flooring. Featuring hardwood timber floors, lino and tiles throughout, this is a low-maintenance home, perfect for families. The air conditioned open plan living, dining and kitchen, is spacious and ideal for entertaining. The kitchen has clean finishes, modern appliances and plenty of storage space. A rarity in the area where four bedroom, two bathrooms are less common, this property provides the space and convenience for the modern family.
 

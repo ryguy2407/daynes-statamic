@@ -13,9 +13,11 @@ address: '6 Wapping Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/cEFUgUEaRPIYpktQzI3kuiMyYTM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824212/116643223-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435406/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435406/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435406/documents'
 property_id: '435406'
 price_search: '365000.0'
-id: 2612a05b-d4cf-43b3-9f6b-a84c84a6241a
+id: 1fe1d463-ad31-41ca-aef0-48c757c73560
 ---
 Be quick on this one!
 

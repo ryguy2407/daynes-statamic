@@ -13,9 +13,11 @@ address: '2 / 292 Archerfield Road, RICHLANDS'
 suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/Ewy502dgQcTEFyCSfNXB7sX26SI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824758/421258122-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435477/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435477/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435477/documents'
 property_id: '435477'
 price_search: null
-id: 2237907a-4c07-4099-9aae-4480ae861617
+id: 0621efa1-c052-411e-b532-f8bc740eeb51
 ---
 Be quick to see this one bedroom flat - it won't last
 

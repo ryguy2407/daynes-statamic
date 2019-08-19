@@ -13,9 +13,11 @@ address: '35 / 106 St Andrew Street, KURABY'
 suburb: KURABY
 main_image: 'https://img.eagleagent.com.au/rB8pQUYjkfLQXD-R5PB4-cz_IdE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821403/126194918-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435181/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435181/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435181/documents'
 property_id: '435181'
 price_search: '289000.0'
-id: cfeefc19-06f6-40f9-94a5-b63cc67fc2bf
+id: 32fe429b-4c2d-4f93-9ffe-eb64a6992c10
 ---
 This generous brick, dual level townhouse is set amongst the lush gardens and tranquil grounds of this quiet complex. Tucked privately and securely in this well managed, gated community, this is a value packed townhouse for investors and homeowners alike. Enjoy the privacy and ease of entertaining in the private courtyard, stepping effortlessly from the open-plan living and kitchen area. The complex also boasts a shady communal barbecue area overlooking sparkling pool, perfect for enjoying long summer afternoons.
 

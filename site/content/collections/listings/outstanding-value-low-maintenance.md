@@ -13,9 +13,11 @@ address: '19 Sussex Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Pd7xt4Gf-wTxytDTlKMitHGOziM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823430/121407430-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435347/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435347/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435347/documents'
 property_id: '435347'
 price_search: '359000.0'
-id: 85157b39-e744-45ab-b5e9-be70ec8bd817
+id: d3c42178-f041-4f61-9701-b147710e8fac
 ---
 This lovely lowset home is a fantastic investment opportunity for first home buyers, families and investors alike. The property boasts great lifestyle and liveability with airy open plan kitchen, dining and living areas stepping out to the large back deck, overlooking the leafy backyard. The gardens are beautifully presented with mature trees and shrubs surrounding the lush grassy yard areas. Lovingly cared for, the home is fresh and modern and ready for its next happy family to move in and enjoy.
 

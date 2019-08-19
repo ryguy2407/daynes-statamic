@@ -13,9 +13,11 @@ address: '8 / 34 Wilkie Street, YEERONGPILLY'
 suburb: YEERONGPILLY
 main_image: 'https://img.eagleagent.com.au/gQio31L4K-kWjfGnBb2y99q6iZo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821862/128033794-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435218/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435218/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435218/documents'
 property_id: '435218'
 price_search: '369000.0'
-id: 4a2129c3-8371-4255-ba8f-9ba2ff95f619
+id: 0eecfa43-afa0-491b-8e80-f8e75072cfea
 ---
 This bright and airy north-facing townhouse is spacious inner-city living at it’s finest. At the back of a quiet complex of eight, this home is private and tranquil. Featuring great spaces to enjoy both inside and out, this home is the perfect balance of lifestyle and convenience. The ground floor features a modern open-plan kitchen, living and dining area flowing effortlessly out to the leafy courtyard. The two bedrooms are spacious and full of light, with plenty of built in storage. The master bedroom opens out to a lovely north-facing balcony, perfect for enjoying the sunrise with coffee. This property has a lifestyle focused-design, the ideal compliment to inner-city living.
 

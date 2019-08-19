@@ -13,9 +13,11 @@ address: '2 / 11 Denman Street, GREENSLOPES'
 suburb: GREENSLOPES
 main_image: 'https://img.eagleagent.com.au/Fs-y84awrndfWXQvJERrZb37wLU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824354/403710893-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435426/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435426/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435426/documents'
 property_id: '435426'
 price_search: null
-id: 4279a022-4e36-480e-b7f7-9b71a48047af
+id: 61bcd9f9-2bb0-4543-b2f4-22a587650aa9
 ---
 This near new, three bedroom, two bathroom townhouse is located within a small complex of two townhouses and a renovated Queenslander.
 

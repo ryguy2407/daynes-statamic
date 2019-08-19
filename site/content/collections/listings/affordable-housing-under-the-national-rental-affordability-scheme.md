@@ -13,9 +13,11 @@ address: '329 Lillian Avenue, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/vngFb7xcIcQIfUDsqPxUZbGQSBY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824515/408981643-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435450/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435450/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435450/documents'
 property_id: '435450'
 price_search: null
-id: 66888697-d657-4e5a-9c8e-b1ea14cb960c
+id: e0493e6e-4d37-475b-a12e-1151c8a9dd7e
 ---
 ** This is a NRAS property - Please check eligibility requirements before making enquiry ** Email enquiries only please **
 

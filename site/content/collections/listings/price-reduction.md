@@ -13,9 +13,11 @@ address: '44 Helicia Street, ALGESTER'
 suburb: ALGESTER
 main_image: 'https://img.eagleagent.com.au/EyCQCsrKTqOhOvV4cRZZteJLKZk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819380/105651765-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434964/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434964/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434964/documents'
 property_id: '434964'
 price_search: '379000.0'
-id: f36a9a43-0004-4630-b2cd-25806135b8c0
+id: 54ecba52-17b2-4b20-8c61-412266052bb9
 ---
 You will be impressed by this modern three bedroom home on 610sqm in a quiet street in Algester.
 This home is ideal for the first home buyer looking for a modern home with great value.

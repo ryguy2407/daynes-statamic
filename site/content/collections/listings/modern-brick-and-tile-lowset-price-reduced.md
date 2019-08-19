@@ -13,9 +13,11 @@ address: '10 Stanley Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/fNeNAUKwkZ--gsAKOfS12be1GhA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824098/115517519-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435394/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435394/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435394/documents'
 property_id: '435394'
 price_search: '388000.0'
-id: 1a96bb25-6106-4c01-90fe-9787e69725bf
+id: 65a3d644-86d9-4fa6-9f9d-28a85f3e9c95
 ---
 Situated on a 405m2 block in this modern estate this home was built about 15 years ago by Devine Homes.
 

@@ -13,9 +13,11 @@ address: '348 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/vf2kdGbx19stY2UV7YRkskjjzlY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825145/423494626-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435516/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435516/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435516/documents'
 property_id: '435516'
 price_search: null
-id: 1f7c5723-feb9-4d52-8758-7f94716c5b1b
+id: 17f279b9-00e8-437c-9f90-444c2023a475
 ---
 This completely renovated home has been beautifully presented, offering modern and versatile spaces perfect for those who need a little more from their home. With dual living potential, both upstairs and downstairs are fully self contained, with living and entertaining spaces, kitchen and a bathroom. Upstairs are three bedrooms, one with air conditioning and a family bathroom with shower and bath. The upstairs is full of natural light, really showcasing the traditional high ceiling and picture rails. The kitchen is generous, featuring beautiful dark cabinetry and island bench with seating. The spacious north-facing deck is perfect for entertaining and relaxing. Below this and stepping off the downstairs living room, is an equally spacious ground floor entertaining patio. The downstairs portion of the home has also been immaculately presented and includes a bedroom with air conditioning. This is an amazing home and will not last long!
 

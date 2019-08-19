@@ -13,9 +13,11 @@ address: '361 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/llb9x57S913v-FYkoP65nubZ2PY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822344/130469014-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435258/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435258/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435258/documents'
 property_id: '435258'
 price_search: '365000.0'
-id: 3a695dff-8696-4334-a4e9-04f4f6eeda33
+id: 8b4ba844-670c-40c6-a309-d27306c21995
 ---
 This is a rare opportunity to secure a generous parcel of land in one of Brisbane’s most rapidly developing areas. This generous offering of land, zoned Low Medium Residential (LMR), comprises two individual allotments totalling 1,294sqm with a 32.4m (approx.) frontage, representing an array of short and long term investment options subject to council approval including:
 

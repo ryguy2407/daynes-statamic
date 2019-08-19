@@ -13,9 +13,11 @@ address: '46 Roseglen Street, GREENSLOPES'
 suburb: GREENSLOPES
 main_image: 'https://img.eagleagent.com.au/Vn1UMKJDDw2lCJogUQsoX4zls0M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821978/128249886-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435228/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435228/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435228/documents'
 property_id: '435228'
 price_search: '650000.0'
-id: 8777fe06-1945-4cda-a1bb-ee03ff1e544d
+id: cd3f72fd-71d5-4f3a-b305-156763ef225d
 ---
 This immaculately presented home is your opportunity to secure a property in this desirable neighbourhood. Built in the traditional style for the area, this property is a charming place to call home. With great street appeal, this generous property will surprise and delight those looking for their next family home. Passing by the wishing well and through the front gardens, along the timber decking, you are welcomed by beautiful leadlight doors. Stepping inside, the open plan interiors are light-filled and spacious. Perfect for entertaining, the open plan living and dining flow seamlessly through to the kitchen and beyond to the vast timber deck. This deck overlooks the tree-lined recreational reserve to the rear, and is the perfect place to enjoy the sunrise over your morning coffee.
 

@@ -13,9 +13,11 @@ address: '5 Caladenia Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/2k6FadjuoxVt3gpuns052mL-CX0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821067/124835430-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435154/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435154/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435154/documents'
 property_id: '435154'
 price_search: '490000.0'
-id: 0f5c1872-6490-4ec5-9352-e8a5dfedac22
+id: fd79d9c8-1c41-42c8-a7e9-a59be8d43394
 ---
 This beautifully presented family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. The original home of the Caladenia Estate, this property boasts an exceptional outlook across parkland and is situated on the pick of the lots. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 

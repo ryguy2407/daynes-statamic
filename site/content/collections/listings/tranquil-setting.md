@@ -13,9 +13,11 @@ address: '181 Mayfield Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/JB0B5981YKxZ50CwDvQCBREFcKc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825464/424975394-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435547/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435547/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435547/documents'
 property_id: '435547'
 price_search: null
-id: 2ef26530-e7d9-4c1a-9ae4-63e2dc26e9ac
+id: 836a9b7e-969f-4816-871e-ec8cf83c6696
 ---
 This generous family home is situated in a leafy and elevate position, just meters from Toohey Forest. Ideal for busy families with varying and diverse needs from their home, this property is sure to tick all the boxes. With summer fast approaching, by far the most desirable feature of this property is the beautiful pool and grassy yard. Internally, the two large living spaces on the top level and tiled rumpus on the ground floor mean everyone will have a place to relax and unwind. The layout of the top level is functional, with the multiple living areas giving families the option to customise the use of each area to suit their needs. The main living is elevated from the rest of the home making it a lovely retreat,  featuring a fireplace and sweeping views across the suburb.
 

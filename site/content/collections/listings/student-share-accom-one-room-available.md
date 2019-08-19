@@ -13,9 +13,11 @@ address: '8 / 267 Gladstone Road, DUTTON PARK'
 suburb: 'DUTTON PARK'
 main_image: 'https://img.eagleagent.com.au/0-7KnOqDy9E9VXw1HlP6u1BArEs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826856/412473711-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435697/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435697/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435697/documents'
 property_id: '435697'
 price_search: null
-id: 87beda6e-89f6-4bf6-ba7b-0198e7358e96
+id: 97c60547-c64d-49d1-abc1-8c7084db3259
 ---
 Nicely renovated 3 bedroom flat in Dutton Park/Highgate Hill. This apartment has a combined lounge dining area. All windows are double glazed so no traffic noise will be heard.
 

@@ -13,9 +13,11 @@ address: '34 Helles Street, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/LIIDgyZTT0LJ0JKDkZCTVRQp_8Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819080/105242582-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434930/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434930/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434930/documents'
 property_id: '434930'
 price_search: '475000.0'
-id: cd9c2d89-ac5d-427d-ae92-a61748a6b1fc
+id: 0e33621c-0cf5-44c6-91df-f740a0b00b0f
 ---
 Situated in a quiet leafy street in Moorooka this three bedroom townhouse offers plenty of living space and great quality.
 

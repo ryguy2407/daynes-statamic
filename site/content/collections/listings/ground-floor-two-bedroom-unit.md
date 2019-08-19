@@ -13,9 +13,11 @@ address: '20 / 329 Lillian Avenue, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/paJC3Z4Hrt6p_D9TFc47Y75yivQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820472/110756691-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435097/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435097/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435097/documents'
 property_id: '435097'
 price_search: '389000.0'
-id: 2704af86-1bab-47a2-abde-2b87cf3f3cbb
+id: da0ee84f-6d16-4031-9489-90900ae22603
 ---
 Act now to secure this terrific investment opportunity or to live with great convenience in Salisbury.
 

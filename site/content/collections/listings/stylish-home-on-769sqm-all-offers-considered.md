@@ -13,9 +13,11 @@ address: '227 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/oTt9-JjxOYiO6C536XuTXizEiA4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822487/130395230-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435269/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435269/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435269/documents'
 property_id: '435269'
 price_search: '400000.0'
-id: e2c7f446-2575-46f0-af2c-1072da8b8b33
+id: 4be7062a-03ce-43c4-9550-94dea8d00b13
 ---
 This beautifully presented home represents the ideal of modern living and an opportunity to secure one of the premiere properties in Acacia Ridge. With great street appeal, the home is privately set back from the road and has been beautifully finished with a modern colour palette. This is a home to compliment busy lifestyles, combining the convenience of a low-set design with completely renovated, low-maintenance interiors. The internal spaces are perfectly proportioned with plenty of light, neutral colours on the walls and glossy timber floors making each space feel fresh and bright.
 

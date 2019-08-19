@@ -13,9 +13,11 @@ address: '31 Gloucester Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/7-C-wa566LiShOc7hscfEQvP5Qg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824076/115463039-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435392/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435392/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435392/documents'
 property_id: '435392'
 price_search: '439000.0'
-id: d8f0bb77-9265-4b46-a66b-f576f41ce8c0
+id: ddac3e5a-d4e1-45db-b749-ad41277b4e51
 ---
 Firstly we have the fully renovated three bedroom house at front of the property which has been tastefully done. Brand new kitchen with new stainless steel appliances, a new bathroom, polished timber hardwood floors which look an absolute treat. Totally repainted internally. The property is totally fenced with a remote electric gate for additional security.
 

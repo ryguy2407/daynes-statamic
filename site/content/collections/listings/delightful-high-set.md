@@ -13,9 +13,11 @@ address: '41 Desgrand Street, ARCHERFIELD'
 suburb: ARCHERFIELD
 main_image: 'https://img.eagleagent.com.au/7vgnz0zNuPihCz_y1jq-SlZBQrc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822018/128373382-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435232/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435232/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435232/documents'
 property_id: '435232'
 price_search: '415000.0'
-id: 072b5b58-6727-4935-bdc2-babc0ee8aeff
+id: 603cc79c-4fe2-4e68-852e-e848a57e9959
 ---
 This delightful, north-facing charmferboard home is full of light and beautifully presented. Featuring lofty ceilings and spacious interiors, thoughtful renovations have created a fresh and inviting home. It is easy to imagine relaxing on the front deck of this lovely high-set home, enjoying the tranquility of the leafy surrounds and friendly neighbourhood. Inside, the bright and airy spaces are kept private with the mature trees and hedging. The three generous bedrooms are stepped up and separate from the living spaces, giving privacy and a great layout for families.
 

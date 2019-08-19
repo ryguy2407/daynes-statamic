@@ -13,9 +13,11 @@ address: '11 Woodlea Street, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/aVboJ_93MNw-ho7uCBja0K0n6ns=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819310/105537048-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434957/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434957/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434957/documents'
 property_id: '434957'
 price_search: '600000.0'
-id: 905001e3-84e5-452e-9309-a1028c709ec3
+id: c3872294-858a-4929-8ad6-eb3e16d8738a
 ---
 Located in a central Moorooka location this brand new home offers plenty of space and superior quality.
 

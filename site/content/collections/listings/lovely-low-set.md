@@ -13,9 +13,11 @@ address: '40 Hemsworth Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/W6zYxWMr9sNgHN8v6h2cTXyxGUw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825763/426064286-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435575/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435575/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435575/documents'
 property_id: '435575'
 price_search: null
-id: faa56ba3-ec3b-4863-a4dc-a4180811de0c
+id: 2a3911a4-cbac-4e9c-8f83-8aa12b869bb6
 ---
 This desirable low-set brick home is set in one of the best neighbourhoods of Acacia Ridge. Walking distance to Acacia Ridge State School and local parks, this is a warm community perfect for families. Stepping inside you are greeted by a generous lounge area, carpeted with a lovely bay window which lets in plenty of light. Also at the front of the home is the master bedroom, filled with plenty of natural light and equipped with built-in wardrobe. The additional two bedrooms are situated to the rear of the property, each with built-in wardrobes. The large, tiled eat-in kitchen is well appointed and flows out to the undercover entertaining area, perfect for entertainers. Also adjoining this space is an additional air-conditioned living or rumpus space.
 

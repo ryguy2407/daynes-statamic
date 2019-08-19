@@ -13,9 +13,11 @@ address: '14 Celtis Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rhl-uGGUAZ_nUasearFJyI_8e-s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823296/119580991-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435330/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435330/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435330/documents'
 property_id: '435330'
 price_search: '370000.0'
-id: afe5211a-6633-42ff-a1ac-77bc8c15b348
+id: 43f5ebeb-761c-4c1e-87a0-86b852b656b3
 ---
 This property has been proudly owned and lovingly maintained for 25 years, and is ready for the next era. Structurally, the home is high set and boasts hardwood construction, chamferboard exterior, a tiled roof and hardwood plank floors. The home is fresh and airy, with plenty of large windows allowing plenty of light. The property offers many lifestyle features with large entertaining areas, immaculately maintained gardens and a pool. The kitchen and bathroom, while functional, would benefit from an update and offers a way of putting your own mark on the home. Under the house is a particular treat with lock-up for two cars, large laundry, toilet and shower servicing the pool, and plenty of storage. Generously sized living and bedroom spaces, along with extensive outdoor areas mean plenty of room for a growing family and a not to be missed opportunity.
 

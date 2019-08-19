@@ -13,9 +13,11 @@ address: '9 / 118 Hamilton Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/axQGnoyPbtiZDjKelFSij3YEqlQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823256/119262127-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435327/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435327/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435327/documents'
 property_id: '435327'
 price_search: '385000.0'
-id: bda600a7-5b85-45d6-adb7-a9aa2a88791d
+id: 5f5fe193-9e04-4f17-b2f0-542da28eb17a
 ---
 This townhouse in the heart of Moorooka has been freshened up and is ready to go! In addition to new paint throughout, the property has been fitted with new quality carpets and new kitchen appliances including electric stove, oven and dishwasher. Thoughtfully designed to maximise convenience and living, the open plan kitchen and dining step out on to a paved under-cover courtyard through double sliding doors. The front and courtyard gardens are well-maintained and manageable, perfect for city living. Upstairs are three good-sized bedrooms, including the master which features an ensuite, built-in wardrobe and air-conditioning. The complex includes thirty townhouses and all grounds are maintains by the on-site manager.
 

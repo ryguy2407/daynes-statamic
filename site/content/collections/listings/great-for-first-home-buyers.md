@@ -13,9 +13,11 @@ address: '86 Oxley Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/Jlr36CL7IB0JlWAXNfTQdvftTqk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819118/105286361-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434933/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434933/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434933/documents'
 property_id: '434933'
 price_search: '349000.0'
-id: e55f0314-0eb0-4051-9a07-77a8869e449b
+id: 5d0aad7c-2621-43cd-a751-7cc79d16faa4
 ---
 Situated on a 701sqm block in a great street is a lovely three bedroom house.
 

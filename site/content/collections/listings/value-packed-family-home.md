@@ -13,9 +13,11 @@ address: '4 Croome Close, ASPLEY'
 suburb: ASPLEY
 main_image: 'https://img.eagleagent.com.au/CQTzn5UWmLq8SrOmAMoaa7vXPSk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820387/109802441-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435089/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435089/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435089/documents'
 property_id: '435089'
 price_search: '549000.0'
-id: 31d7c896-e745-438e-a2ff-643cab6655d4
+id: 43e4dbec-dd5b-41b2-bafb-a230c97301c8
 ---
 This four bedroom brick and tile home is situated on 716sqm block in a quiet cul-de-sac in this prestigious part of Aspley Grove.
 

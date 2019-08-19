@@ -13,9 +13,11 @@ address: '41 Hemsworth Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/CFMN5Q8QDJePWfgfMqi-PoNC_TM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820958/124507274-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435146/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435146/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435146/documents'
 property_id: '435146'
 price_search: '425000.0'
-id: 686cfb55-4d9d-4f10-a362-f7b8a0147f6d
+id: 7d1a198e-5ed9-447a-b88d-c46bd205dcf0
 ---
 Sitting proudly in one of Acacia Ridge’s most sought-after pockets is this chamferboard high-set home with a lovely elevated aspect. Stepping off the front balcony is the generous open plan living and dining space, flowing effortlessly into the large kitchen and back verandah beyond. This stunning timber verandah with modern balustrades and sized to capitalise on the elevated views is truly the highlight of this property. With such a convenient layout, it is easy to imagine enjoying relaxing in this lovely family home. Hardwood timber floors to the living, dining and bedrooms showcase the solid construction of this home and really highlight why these homes are so sought-after by first home owners and investors alike.
 

@@ -13,9 +13,11 @@ address: '11 Pevny Street, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/LdJdTDskHO_xhZVAkpBj_P41m70=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820500/111111951-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435100/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435100/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435100/documents'
 property_id: '435100'
 price_search: '459000.0'
-id: 17fc6aa5-27e4-4738-a47d-ae54ab637136
+id: 989ac1a0-33ff-4ff5-a72a-f05fa63f3c61
 ---
 PRICED TO SELL at $459,000
 

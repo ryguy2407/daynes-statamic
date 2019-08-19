@@ -13,9 +13,11 @@ address: '20 / 20 Kianawah Road South, MANLY WEST'
 suburb: 'MANLY WEST'
 main_image: 'https://img.eagleagent.com.au/ZNa5WVIhJ_kbOZ5dmTbR_8dV__8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823359/120544677-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435337/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435337/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435337/documents'
 property_id: '435337'
 price_search: '449000.0'
-id: bb7e8f15-63c0-4249-b76f-8c61fb1770ed
+id: f6a18434-08d9-470a-a22c-ff35dcec7de3
 ---
 This modern townhouse is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 

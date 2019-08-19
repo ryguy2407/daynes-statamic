@@ -13,9 +13,11 @@ address: '18 Oswin Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/iAK5vtzxxCzpMwvbfmpLXRgB-_8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822121/128634218-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435242/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435242/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435242/documents'
 property_id: '435242'
 price_search: '350000.0'
-id: 5b5dbe1f-22ac-4ae1-9a17-6abfa4eb3e37
+id: ff88c13e-5442-44bd-9e80-73ac1c301e5b
 ---
 This neat low-set property is your chance to secure a classic piece of mid-century design. Situated on a generous 622sqm block, this home has lovely street appeal with the striking sloped roof and tidy brick fence. The cute front patio opens off the living area and provides privacy from the street. Inside, the generous open plan living and dining flows through to the original kitchen. The kitchen, while dated, is functional and showcases the classic cabinetry. The backdoor off the kitchen leads through to the laundry and into the yard beyond. With its built in barbeque and sweeping lawns, the yard will be the delight of families with children and pets alike.
 

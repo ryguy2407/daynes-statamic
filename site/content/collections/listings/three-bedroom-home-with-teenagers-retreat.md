@@ -13,9 +13,11 @@ address: '20 Sandeman Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/7ART_P8v6SDS7GDFGKKG30V9PMs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823063/117759191-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435310/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435310/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435310/documents'
 property_id: '435310'
 price_search: '379000.0'
-id: b8e09b52-a640-457b-8412-ca33276f6b4f
+id: 1ee9cdea-5b2d-45b0-94c2-100a59126ec8
 ---
 This property which is situated in one of Acacia Ridge's best streets is now offered for sale. Situated on a 665sqm elevated block which is completely fenced with established gardens. Constructed of chamfer board with a tiled roof. This home is in very good condition and will be appreciated once you view it.
 

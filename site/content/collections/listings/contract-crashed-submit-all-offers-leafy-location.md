@@ -13,9 +13,11 @@ address: '29 Flaxton Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/MhYUEd9F57bZHO6PqbdP28yywgU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821415/126129382-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435182/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435182/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435182/documents'
 property_id: '435182'
 price_search: '370000.0'
-id: 080485fc-3968-45d5-9006-e9774b69e374
+id: bdb9a0a9-6c2d-477e-a70b-60862593f24c
 ---
 Situated on a generous 827sqm parcel of land in one of the leafiest streets of Acacia Ridge, this property represents a myriad of options to savvy investors and home buyers alike. Of much sought-after solid brick construction and functional internal layout, this home is the perfect blank slate and ripe for renovation. The lovely north-east facing front patio finished with modern timber and wire affords a picturesque outlook down the tree-lined street. The patio expands the already generous open-plan living, kitchen and dining room. These spaces are characterised by ample natural light, amplified by the neutral ceilings and walls, and glossy timber floors. The kitchen, while dated, is perfectly functional as is.
 

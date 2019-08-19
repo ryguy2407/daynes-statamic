@@ -13,9 +13,11 @@ address: '12 Harpullia Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/1rotYdTAL-ZTVPuwzMnKYwevwcQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824637/420371958-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435465/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435465/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435465/documents'
 property_id: '435465'
 price_search: null
-id: ddf34436-221f-41bd-87f5-344e7c170457
+id: 1b5595f6-a066-4793-9bc4-d8344648fa58
 ---
 This convenient high set home is situated in a quiet, friendly community in Acacia Ridge. The property has been cleverly modified to suit those with mobility challenges but would suit a wide range of tenants. The house can be accessed via stairs up to the front and back door, and also via the lift to the front of the property. The large open plan kitchen, living and dining is full of light and convenient for families. The kitchen features fresh laminate benchtops and plenty of storage, much of it at an accessible height. The living, master bedroom and ensuite are floored with an attractive vinyl finish, perfect for those after a low maintenance home. The backyard is fully fenced and securable, featuring leafy trees, chicken coop, shed and plenty of grass. Under the house is also fully enclosed and handy for those who require lockable storage spaces.
 

@@ -13,9 +13,11 @@ address: '140 Ainsworth Street, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/Gd1bYhwe5GreZEzpfxf0VzhJ5ew=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820308/108875086-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435082/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435082/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435082/documents'
 property_id: '435082'
 price_search: '368000.0'
-id: b89e3812-86c8-42ac-868f-9d3c7c1041cf
+id: 39dc615a-dd54-4913-a2c0-870566f5ffd1
 ---
 *  A superb treed 663sqm block in a quiet area
 *  Two bedrooms + study, however the study can be used as a third bedroom

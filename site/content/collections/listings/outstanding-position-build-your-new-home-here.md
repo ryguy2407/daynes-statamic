@@ -13,9 +13,11 @@ address: '48 Orsova Road, YERONGA'
 suburb: YERONGA
 main_image: 'https://img.eagleagent.com.au/VZk7QaC7FmsOdS2Hvoox0ndudsE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819405/105712628-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434966/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434966/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434966/documents'
 property_id: '434966'
 price_search: '595000.0'
-id: d7a8b046-eacb-496e-a805-c73250cf6e35
+id: 69aa38f2-a0f2-4454-91c3-2d72cceabebd
 ---
 Here is a great opportunity to secure a 650sqm level block within 150m of the Brisbane river. With plenty of high calibre homes and in close proximity to riverfront properties, this block has plenty of potential for someone to build a very special home.
 

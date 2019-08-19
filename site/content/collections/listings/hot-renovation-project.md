@@ -13,9 +13,11 @@ address: '78 Merchiston Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/eBl6730qLbZipWdAavZOQ3qgjZU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821991/128287998-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435229/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435229/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435229/documents'
 property_id: '435229'
 price_search: '350000.0'
-id: 67c547b8-5ad2-4a23-bb36-2c89b44ad8b3
+id: 6d5da615-ff0b-448c-86c5-748cdcb94330
 ---
 Step back in time and see the potential of this private family home. Sitting proudly on a generous elevated block, this home has been the place of many happy memories and is being offered for the first time in more than 40 years. Largely original interiors have had some upgrades including the installation of ceiling fans and updated kitchen cabinetry. Beyond this, the house has amazing bones with solid construction, tiled roof and hardwood floors. Homes such as these are sought after for their renovation potential and easy layouts for busy families.
 

@@ -13,9 +13,11 @@ address: '27 Alveston Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ghlOpTH7_5lfAfctTNhmXgz8vm0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822202/128885778-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435248/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435248/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435248/documents'
 property_id: '435248'
 price_search: '450000.0'
-id: 9ada1ffb-b04e-432f-92a9-b44de92b2037
+id: 0154de47-6fb5-46f2-81fb-20f27cc0b7b2
 ---
 This beautifully presented striking mid-century design is sure to attract those who are after a unique house to call home. Situated in quiet residential pocket, this is an idyllic location for families. A private family home, this property promises years of enjoyment in the spacious and fresh interiors, and tranquil surrounds. The cute north-facing front porch looks out to leafy trees, perfect for enjoying a morning coffee. Stepping into the living area, the homes revitalisation is showcased with glossy timber flooring and a clean, neutral colour palette. It is easy to imagine enjoying the warm northern sunshine or cosy fireplace in this inviting space. The open plan design encompasses the sleek designer kitchen, finished with white two pac cabinetry and an island bench accented with modern pendant lights.
 

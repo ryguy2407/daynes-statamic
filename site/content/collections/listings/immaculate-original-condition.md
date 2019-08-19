@@ -13,9 +13,11 @@ address: '68 Perkins Street, UPPER MOUNT GRAVATT'
 suburb: 'UPPER MOUNT GRAVATT'
 main_image: 'https://img.eagleagent.com.au/dGdI942CHCKsYrtNTP6nbpgd2oo=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821034/124683362-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435151/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435151/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435151/documents'
 property_id: '435151'
 price_search: '550000.0'
-id: 7868aecb-c4b5-4916-a108-dc7ee72b9077
+id: a5dbdfd4-449a-4526-93d8-ba0b6fbe9bbc
 ---
 This charming original home is a golden opportunity for the next lucky owners to realise their renovation dreams! In immaculate original condition, this property is perfect for those looking for a home where they can move in straight away and really take their time to achieve their perfect home. High-set and with an elevated outlook over this character area, this property is a must see for investors and first home buyers alike.
 

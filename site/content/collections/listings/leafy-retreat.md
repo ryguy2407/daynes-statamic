@@ -13,9 +13,11 @@ address: '198 Postle Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/0OUz6Btp7OA14gHVe8k8F-p5N-8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822447/130199278-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435266/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435266/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435266/documents'
 property_id: '435266'
 price_search: '380000.0'
-id: c6630eea-4440-4f5d-9008-adfe4aa669d6
+id: bd531196-600e-4f69-a875-424d7980693e
 ---
 This lovely family home set amongst leafy surrounds promises great lifestyle and is perfect for families. A charming low-set property with chamferboard exterior, this is a much sought-after design. Framed by neat and well-maintained gardens with an abundance of mature trees, the home is very private. Inside, the spacious open-plan living and dining flow nicely into the kitchen, and through the laundry to the back deck beyond. Perfect for entertainers those who love to relax with family and friends, this deck steps down to a paved area and grassy yard.
 

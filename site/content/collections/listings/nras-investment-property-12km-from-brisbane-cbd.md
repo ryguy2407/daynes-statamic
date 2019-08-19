@@ -13,9 +13,11 @@ address: '329 Lillian Avenue, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/2miuGoEYeS0blIgktV_j4t8sp3Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824161/116047027-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435400/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435400/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435400/documents'
 property_id: '435400'
 price_search: '379000.0'
-id: 00aacda3-d997-4ddf-afb9-c6accd718d2a
+id: 6a853168-db78-4bcd-aa45-637e58db9c70
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

@@ -13,9 +13,11 @@ address: '56 Sussex Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/29_7Jo7Vot9B0pPhP4yqpZCER7I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823842/123478510-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435376/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435376/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435376/documents'
 property_id: '435376'
 price_search: '450000.0'
-id: 4c9537db-bf35-402d-8583-5bfd07c098c7
+id: 2be9fdb4-80eb-4b06-8cce-f06aa6471a94
 ---
 It is our pleasure to bring this beautifully presented low-set brick home to the market, a seldom matched treat in the Acacia Ridge area. Encompassing all that could be desired from a premium property investment, this home has it all for those seeking maximum value for money. Situated on a 587sqm Low Medium Residential (LMR) block, this property also represents an investment with both short and long term opportunity. The savvy investor and home owner alike will see the value in this perfectly presented property with such amazing growth and development potential in this rapidly changing suburb.
 

@@ -13,9 +13,11 @@ address: '32 Gregory Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/FGhT-9xNg_vo2gBP9oKR1-8T9P4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825589/425349710-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435558/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435558/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435558/documents'
 property_id: '435558'
 price_search: null
-id: b3246cb9-65db-4063-a5e8-f958640ecc15
+id: 9e11262b-2fd6-47cb-9320-6d91204594b4
 ---
 Privately set back on the block and situated on a wide block framed by mature trees, this property has great street appeal. The home is functional and clean, with an updated kitchen and a basic but serviceable bathroom. Stepping up from the leafy front yard, the front sunroom has been converted into an extension of the living and acts as a lovely reception room. The living has a sunny outlook to the front yard and has been equipped with a ceiling fan and air conditioner. Stepping through the home, the open plan kitchen and dining are spacious and bright, also giving access through the side door to the backyard. The three bedrooms are well proportioned and have a leafy outlook to the surrounding gardens.
 

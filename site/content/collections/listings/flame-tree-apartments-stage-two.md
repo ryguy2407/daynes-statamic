@@ -13,9 +13,11 @@ address: '4 / 9 Lindwall Street, UPPER MOUNT GRAVATT'
 suburb: 'UPPER MOUNT GRAVATT'
 main_image: 'https://img.eagleagent.com.au/ss_a4DbGn4PvrtYAowgJoZ0Lb0s=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818104/104017173-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434826/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434826/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434826/documents'
 property_id: '434826'
 price_search: '375000.0'
-id: e4e62b1e-7917-446f-8271-1354a3b0f5ec
+id: 50687c64-415c-4f3c-a50e-43dcd850bc9a
 ---
 This one-bedroom unit is sure to please. With the kitchen comprising of electric European appliances, and garbage disposal and the apartments also include clothes dryer, washing machine and gas hot water.
 

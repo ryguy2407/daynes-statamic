@@ -13,9 +13,11 @@ address: '58 Bellamy Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/_vputpqQmP8Dl_OBiUl0WHnXQBI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820651/105896410-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435115/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435115/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435115/documents'
 property_id: '435115'
 price_search: '359000.0'
-id: d7228540-deed-4a21-b1a6-ec89ab26209e
+id: 728ac587-6a90-4377-a91f-0004adef3d93
 ---
 Beautifully presented four bedroom home on a very tidy 812sqm block. This is truly a great family home.
 

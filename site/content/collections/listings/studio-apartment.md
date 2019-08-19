@@ -13,9 +13,11 @@ address: '108A / 803 Ipswich Road, WOOLLOONGABBA'
 suburb: WOOLLOONGABBA
 main_image: 'https://img.eagleagent.com.au/jMgfqL17_mdaPCLah_h8FxNAt2I=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826336/416537469-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435640/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435640/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435640/documents'
 property_id: '435640'
 price_search: null
-id: f7d0a43a-c923-40eb-98f5-b14fab364959
+id: 0977aafd-a008-4ab5-a017-e2d68cb790ad
 ---
 Now is the time to hurry to Gabba Central and secure yourself that resort style living you’ve been searching for!
 

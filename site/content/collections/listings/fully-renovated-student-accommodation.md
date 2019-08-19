@@ -13,9 +13,11 @@ address: '281 Annerley Road, ANNERLEY'
 suburb: ANNERLEY
 main_image: 'https://img.eagleagent.com.au/DC1O-g-VVleRz7gPPbjeN9kWlFY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826200/415665831-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435624/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435624/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435624/documents'
 property_id: '435624'
 price_search: null
-id: a001d490-c6ed-43bd-82ce-998b455f11a3
+id: d3a20995-0534-49c5-b3c2-74a7dc65a416
 ---
 This fully renovated 5 bedroom student house is available for rent now.
 

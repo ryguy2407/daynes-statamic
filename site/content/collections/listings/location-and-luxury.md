@@ -13,9 +13,11 @@ address: '265 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/d7WJpAYULwnycf16l3kyl6mbO2k=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821777/127590330-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435212/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435212/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435212/documents'
 property_id: '435212'
 price_search: '430000.0'
-id: f07b0f97-2815-4d1c-92b8-3d26005b5f9c
+id: 9a16fc40-af38-4627-8451-3ccff85c32b0
 ---
 This immaculately presented family home represents the ideal of modern living, perfect for families and those who love to entertain. Stepping up to the shady front patio, the cool interiors are generously proportioned and a great layout. Open plan living and dining opens effortlessly into the tidy kitchen meaning both functionality and convenience. The shady timber back deck steps off the kitchen and overlooks the grassy yard, making for convenient entertaining. The back shed is large enough to accommodate a workshop and car, and can be accessed from the driveway and carport. This car accessibility to the rear of the property is a much sought after feature, and provides value for owner-occupiers and prospective tenants alike.
 

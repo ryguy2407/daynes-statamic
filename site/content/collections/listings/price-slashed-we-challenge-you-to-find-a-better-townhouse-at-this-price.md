@@ -13,9 +13,11 @@ address: '2 / 64 Armadale Street, ST LUCIA'
 suburb: 'ST LUCIA'
 main_image: 'https://img.eagleagent.com.au/70xX6e5RFiYPU7Tg3QizHhqzRus=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820697/105954775-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435121/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435121/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435121/documents'
 property_id: '435121'
 price_search: '599000.0'
-id: 5fa18381-5a53-4d99-b0e7-4de1f0c9ad5f
+id: 845ac4b2-e40a-4ebd-93f4-486c3c536973
 ---
 Situated in an enviable location on Armadale Street is this superbly renovated tri-level townhouse. Whether you are an investor or owner occupier, this property at its now reduced price offers a great opportunity in prestigious St Lucia.
 

@@ -13,9 +13,11 @@ address: '36 Hamilton Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/IXr3yHJLfYldYesTbwtShNJKX8o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818222/104133624-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434840/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434840/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434840/documents'
 property_id: '434840'
 price_search: '449000.0'
-id: 5d04e3c0-8d63-4bbe-9737-b4b1ac231719
+id: 2c920551-c45e-4833-acc0-63b1574a160e
 ---
 From the moment you step inside this gorgeous Queenslander you will feel right at home as it has the perfect blend of old world charm and an ideal position.  Bright airy colours, hoop pine floorboards and the most quaint touches throughout which will make you fall in love!
 

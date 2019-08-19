@@ -13,9 +13,11 @@ address: '17 Scouse Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/WzPba_R6cOfC2p43IHCW6TQtR3E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821569/126652282-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435193/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435193/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435193/documents'
 property_id: '435193'
 price_search: '430000.0'
-id: 44c30cf3-9169-43b4-ae13-72b22823e7e2
+id: 41ce0ad9-8d93-4920-9abf-c6ace5f8a279
 ---
 This inviting family home is ideal for those who need a little extra from their property, while retaining the chance to realise their renovating dream. Beautifully presented with lovely neutral colours throughout, this home is unique for the vaulted ceilings, giving an interesting feel to the home. Attractive and low-maintenance lino flooring hides beautiful hardwood floors for which these homes are much sought-after. The carpets to the bedrooms are in great condition and well chosen for the neutral colour scheme.
 

@@ -13,9 +13,11 @@ address: '68 Myra Road, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/UTq5wJHFmdwceE8geoLmY5sWiB0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820226/107950876-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435073/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435073/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435073/documents'
 property_id: '435073'
 price_search: '449000.0'
-id: d3ed8e61-c529-4335-9233-d4c86f9a3ed2
+id: 568e6ea8-38f7-41f8-ba50-45823efe6161
 ---
 Situated in a quiet, leafy street, this lovely replica Queenslander is a must to inspect.
 

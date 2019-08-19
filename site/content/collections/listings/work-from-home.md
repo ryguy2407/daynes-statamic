@@ -13,9 +13,11 @@ address: '47 Mannington Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/QNhyq1vphotViEgP5-iQB8qGvww=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826213/415934709-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435626/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435626/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435626/documents'
 property_id: '435626'
 price_search: null
-id: 8c2cd210-d4b5-4ef6-a9bc-c1405f3e8c3b
+id: 3741c8bb-e348-4691-91cb-ef8e03c410bb
 ---
 Situated close  to schools, public transport, pools and entertainment this 3 bedroom house is available for rent now.
 

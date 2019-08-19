@@ -13,9 +13,11 @@ address: '16 Annear Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/S3Ua0_OHOG6A94etxU5GCJ470Es=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821350/116781523-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435176/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435176/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435176/documents'
 property_id: '435176'
 price_search: '369000.0'
-id: 00a18c09-c0f7-4f4a-809b-d8b83e07b6ae
+id: 988659c6-d062-4264-9eba-ae0bcb32c929
 ---
 You decide whether you would like to develop the site as it is zoned LMR on 607m2, live in it or simply rent it.
 

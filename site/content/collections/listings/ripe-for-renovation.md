@@ -13,9 +13,11 @@ address: '26 Abbeville Street, UPPER MOUNT GRAVATT'
 suburb: 'UPPER MOUNT GRAVATT'
 main_image: 'https://img.eagleagent.com.au/8p372AQevaLVS1KBX0vDdhsJkSk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820946/124508882-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435145/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435145/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435145/documents'
 property_id: '435145'
 price_search: '550000.0'
-id: 3f80d15f-a8b3-466c-8bba-067ae72f4f39
+id: 41b4f6c2-5771-4f26-ae49-dc317121281c
 ---
 This traditional highset chamferboard home is a great opportunity to transform an original home into something your own. With the original kitchen and bathroom, this is fabulous blank canvas for the savvy investor wanting to secure a piece of this thriving area. It is a prime example of the lovely post-war homes of this much sought-after area with timber floors hidden by carpets and lino, and lofty ceilings. This is a family friendly property with great living spaces and generous bedrooms, and situated just across the road from the beautiful Abbeville Park.
 

@@ -51,11 +51,24 @@
 <div class="content p-5 mb-5" style="background: #fff;">
     <h3>{{ title }}</h3>
     {{ content | markdown }}
+
+    <div class="floorplans" style="display: none;">
+        <hr class="my-5">
+        <h3>Floorplans</h3>
+        <div class="loading text-center">
+            <h2>Fetching floorplans...</h2>
+            <img src="{{ theme:img src='ajax-loader.gif' }}" width="200">
+        </div>
+    </div>
+
     <hr class="my-5">
     <h3>Location</h3>
 
     <p id="address">{{ address }}</p>
     <div id="map"></div>
+
+    <hr class="my-5">
+    <h3>Attachments</h3>
 </div>
 
 <!--GOOGLE STUFF-->
@@ -97,7 +110,7 @@
 <script>
     jQuery(document).ready(function($){
         $.ajax({
-            url: "/!/c_r_m_listings/images?url={{ images }}",
+            url: "/!/c_r_m_listings/related?url={{ images }}",
             success: function(result) {
                 $('div.loading').hide();
                 $('div.carousel').fadeIn();
@@ -110,9 +123,26 @@
                     }
 
                     $('ul.carousel-indicators').append('<li data-target="#demo" data-slide-to='+index+' class="'+ isActive(index) +'"></li>');
-                    $('div.carousel-inner').append('<div class="carousel-item '+ isActive(index) +'" data-interval="5000"><img src="'+data.imageUrl+'" style="width: 100%;margin-top: -100px"></div>');
+                    $('div.carousel-inner').append('<div class="carousel-item '+ isActive(index) +'" data-interval="5000"><img src="'+data.url+'" style="width: 100%;margin-top: -100px"></div>');
                 });
             }
         });
+
+        $.ajax({
+            url: "/!/c_r_m_listings/related?url={{ floorplans }}",
+            success: function(result) {
+                $('div.loading').hide();
+                $('div.floorplans').fadeIn();
+                result.forEach(function(data){
+
+                    $('div.floorplans').append('<img src="'+ data.url +'">');
+                });
+            },
+            error: function(message) {
+                $('div.loading').hide();
+                $('div.floorplans').fadeIn();
+                $('div.floorplans').append('<p>'+ message.statusText +'</p>');
+            }
+        })
     });
 </script>

@@ -13,9 +13,11 @@ address: '7 Merle Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/rDOXdjcL-Mit1jF4RYK2shHTU4Q=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822837/131108638-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435293/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435293/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435293/documents'
 property_id: '435293'
 price_search: '430000.0'
-id: 4c020adb-f522-4d69-b2a0-6191c4dc26b3
+id: c72b9d2a-801c-458f-9b8c-7fa462190119
 ---
 Set privately amongst the tranquility of beautiful acreage, this home is the perfect escape for those seeking more from the place they call home. More peaceful enjoyment of your own generous piece of land, more quality time with family and friends, and simply more time to relax. Really adding to the feeling of a semi-rural setting is the abundance of fruit trees and the space to cultivate vegetable gardens, bees and chooks. The outside entertaining patio overlooks the leafy surrounds and grassy lawns really allowing the appreciation of the tranquil surrounds of this sprawling 820sqm block.
 

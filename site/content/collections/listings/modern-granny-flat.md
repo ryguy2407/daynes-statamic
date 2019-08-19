@@ -13,9 +13,11 @@ address: '397B Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/aXQ9QfJaok6ZlM-yPD8Pv6kKZBk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825995/427067230-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435598/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435598/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435598/documents'
 property_id: '435598'
 price_search: null
-id: 11f021a3-7b13-4ddf-968a-3f8287522308
+id: 527e0f2c-cb4f-47e4-8bb8-360c51657497
 ---
 This beautifully presented flat is the perfect private retreat. Fresh and modern, this home guarantees low maintenance living. Cleverly designed to maximise enjoyment of space, the front deck steps into the airy open-plan living, dining and kitchen areas. Air conditioned and filled with natural light, these are welcoming spaces.  The kitchen is modern with tasteful tiles and two pac cabinetry. The master bedroom is serviced by beautiful ensuite and large walk-in wardrobe, while the second bedroom also includes a large wardrobe. The main bathroom incorporates the laundry. Insulated roof panels make this a pleasant, cool home in the summer months and warm in winter. Tucked away from the outside world, this lovely property is a pleasure to come home to.
 

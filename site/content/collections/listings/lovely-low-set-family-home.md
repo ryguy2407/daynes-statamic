@@ -13,9 +13,11 @@ address: '11 Lilyvale Street, MANSFIELD'
 suburb: MANSFIELD
 main_image: 'https://img.eagleagent.com.au/aClB0PhzJFMXR3ZTlsxJZHMTHeA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826548/418408458-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435664/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435664/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435664/documents'
 property_id: '435664'
 price_search: null
-id: 63da007a-997d-4ab2-8802-f1710b3755ee
+id: e73f6437-3035-4d9f-95f4-494206fc1ced
 ---
 This beautifully presented home is ideal for those who enjoy entertaining and spending time outdoors. With a great outdoor entertaining area overlooking a neat garden and a beautiful park with bike track just at the end of the street, this home is perfect for those who love to enjoy getting outside. Spacious, tastefully decorated and light-filled interiors make this a comfortable home, suitable for couples and growing families alike.
 

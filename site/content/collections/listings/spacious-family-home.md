@@ -13,9 +13,11 @@ address: '47 Mannington Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/kjVkhCxbK7ir7zMETOqCV-KZquM=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826489/418000242-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435658/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435658/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435658/documents'
 property_id: '435658'
 price_search: null
-id: 7ed293ea-9926-4621-ba0a-5f9d7fdabbfb
+id: 96ce4cd5-2535-4bb2-ad8b-0702135e6907
 ---
 This spacious family home is perfect for those looking for liveability and convenience in a great area. This high set home boasts beautiful polished wooden floors, plenty of open plan living space and good sized bedrooms, the master with built in wardrobes. The bathroom has fresh tiles with a shower over the bath and separate toilet. The kitchen features plenty of storage space and a functional layout, with a convenient window through to the dining area. Downstairs is secure with a lockable garage and separate carpeted room, perfect as a storage or rumpus room. The backyard is spacious, shady and fenced, perfect for kids and privacy.
 

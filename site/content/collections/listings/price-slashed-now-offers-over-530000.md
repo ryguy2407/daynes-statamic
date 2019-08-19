@@ -13,9 +13,11 @@ address: '27 Coolbart Court, GREENBANK'
 suburb: GREENBANK
 main_image: 'https://img.eagleagent.com.au/DKhmBiA31_PmqDsX6WU0pB3PBTw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818349/104359521-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434853/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434853/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434853/documents'
 property_id: '434853'
 price_search: '570000.0'
-id: b49cb435-ca2f-4aea-bc09-be33017845f1
+id: 4788d0cb-a612-4a86-a4ed-a218672d5bb0
 ---
 Acreage In Greenbank - Close to all Amenities
 

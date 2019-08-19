@@ -13,9 +13,11 @@ address: '13 / 69 Cook Street, OXLEY'
 suburb: OXLEY
 main_image: 'https://img.eagleagent.com.au/qDeANUA4Hd4bjqb9w1e7LpzYKzE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822658/130468986-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435280/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435280/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435280/documents'
 property_id: '435280'
 price_search: '402500.0'
-id: 66a88d3a-5c6d-49cb-84ca-590c36c81273
+id: b2dc526d-73b6-47fd-b125-3105aac7f730
 ---
 Oxley Central Apartments / / Boutique Development Offering Unique Location & Lifestyle
 

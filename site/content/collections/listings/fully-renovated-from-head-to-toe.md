@@ -13,9 +13,11 @@ address: '61 Larbert Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/oIHoLVXdowqJ1mpNiUa_0lvtIUU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823020/117592511-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435306/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435306/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435306/documents'
 property_id: '435306'
 price_search: '375000.0'
-id: 2c308c8c-fd58-4f00-97f4-71d01d17967c
+id: 862b5853-b818-451f-b9b3-665bea511eae
 ---
 Here we have a fully renovated solid brick highset home on a 607m2 block in a very quiet cul-de-sac. It features three bedrooms with a further room which could be used as a single bedroom or office/study. It has lovely French doors leading out from the lounge room to a brand new north-east facing deck.
 

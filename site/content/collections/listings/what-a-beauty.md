@@ -13,9 +13,11 @@ address: '6 Gregory Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/F9k-gBubJ2SaIqoOBpZfeQRh95o=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823030/117608907-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435307/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435307/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435307/documents'
 property_id: '435307'
 price_search: '419000.0'
-id: b29d3ece-862e-4f7e-a603-0cc0428c916e
+id: 418bf00b-b8b0-4f93-a0ba-0bac90d83fe8
 ---
 You will need to be extremely quick on this one as this property is absolutely packed with value. The home has been fully renovated and includes a private fully equipped, self-contained studio.
 

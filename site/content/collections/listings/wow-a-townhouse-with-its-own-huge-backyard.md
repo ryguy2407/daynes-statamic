@@ -13,9 +13,11 @@ address: '5 / 42 Keats Street, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/aYLaId9Do-HBp5E6pu2Nq6lvuL8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818330/104300394-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434850/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434850/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434850/documents'
 property_id: '434850'
 price_search: '425000.0'
-id: c5f944d9-f432-466d-9cd2-7bba549aae4e
+id: 2d825280-ed0f-4d14-bf27-e338fb3629d7
 ---
 If you can see yourself living in a modern 3 bedroom, 2.5 bathroom townhouse with a large manicured lawn courtyard including a massive Jacaranda tree then this is the property for you!
 

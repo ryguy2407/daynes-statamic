@@ -13,9 +13,11 @@ address: '25 Landstead Street, OXLEY'
 suburb: OXLEY
 main_image: 'https://img.eagleagent.com.au/Ljkc5jTQezsgJpOjyy_NOiRTRJI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820737/115811131-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435126/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435126/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435126/documents'
 property_id: '435126'
 price_search: '369000.0'
-id: cfa82af2-25d8-4f3f-aefd-330671b718e9
+id: 767c2ae5-7a78-4bf0-b35c-8d44351caffe
 ---
 This solid brick and tile home in this quiet pocket of Oxley situated on a 607m2 block is in need of an internal renovation.
 With the potential to add your own touches, this could be the home you have been looking for!

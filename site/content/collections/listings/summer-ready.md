@@ -13,9 +13,11 @@ address: '49 Tinaroo Street, DURACK'
 suburb: DURACK
 main_image: 'https://img.eagleagent.com.au/aeJi8W92D-MnHQ0OkZshnIQvZZ8=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821021/125214386-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435150/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435150/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435150/documents'
 property_id: '435150'
 price_search: '395000.0'
-id: 3d46dd75-891b-470e-9758-f0d9730efe40
+id: f7afc77a-6a51-465c-b7e5-e7c06f3a9196
 ---
 This private low-set brick family home is peacefully nestled in a quiet residential pocket. This property is value-packed and perfect for families and those who are after a lifestyle-focused home, just in time for summer! Sweeping open-plan interiors are accentuated by the lofty vaulted ceiling. The exposed timber beams of this space are beautifully complimented by the timber panelled kitchen. The lovely timber paneling and cupboards of the kitchen give warmth and providing a lovely space to create memories. The cool tiled living and dining flow effortlessly out to the paved undercover entertaining area which overlooks the sparkling pool and landscaped gardens. Easy entertaining and relaxation is guaranteed with these great spaces.
 

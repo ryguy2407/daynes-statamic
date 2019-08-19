@@ -13,9 +13,11 @@ address: '2 / 8 Buckingham Place, EIGHT MILE PLAINS'
 suburb: 'EIGHT MILE PLAINS'
 main_image: 'https://img.eagleagent.com.au/m-JTc_ncywDfstOt-_rK6g-iA7w=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818253/104173750-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434843/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434843/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434843/documents'
 property_id: '434843'
 price_search: '310000.0'
-id: ce235986-1f45-43b6-9940-2bbad2bb52f2
+id: bf94e030-ba20-4229-a298-0fe3623c4864
 ---
 Situated in a six-year old complex of 74 dwellings in Eight Mile Plains, this three bedroom, two bathroom, free-standing home is a great opportunity for the astute investor.
 

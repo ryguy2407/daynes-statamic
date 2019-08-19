@@ -13,9 +13,11 @@ address: '118 Hamilton Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/JKgVT_VUSt9CAmYgbga9WIX6Zu4=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824851/421762514-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435487/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435487/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435487/documents'
 property_id: '435487'
 price_search: null
-id: cd794c2f-8121-4923-87ba-747fb82b2801
+id: 9185cbcc-8513-4eb1-b837-e409dbed94ba
 ---
 ** Please call Neil Jennings on 0432 800 753 for inspections and enquiries **
 

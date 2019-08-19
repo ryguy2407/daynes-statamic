@@ -13,9 +13,11 @@ address: '2 Dalveen Street, COOPERS PLAINS'
 suburb: 'COOPERS PLAINS'
 main_image: 'https://img.eagleagent.com.au/YY-6abg1YMH80XPjIYrHCDLZaSQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826209/415776067-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435625/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435625/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435625/documents'
 property_id: '435625'
 price_search: null
-id: 9c702510-3037-4fcf-93f9-88ee1d756f3e
+id: 17c79bcb-f8e1-4654-9079-9e04a52d46e5
 ---
 The Studio Apartment  is walking distance to Griffith Uni, transport & local shops.  The studio would suit a single person - NON SMOKERS
 

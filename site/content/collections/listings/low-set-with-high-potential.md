@@ -13,9 +13,11 @@ address: '39 Desgrand Street, ARCHERFIELD'
 suburb: ARCHERFIELD
 main_image: 'https://img.eagleagent.com.au/1WN_9ZgLSLa72x-HfNZTLg1HYWA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823812/123434710-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435373/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435373/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435373/documents'
 property_id: '435373'
 price_search: '399000.0'
-id: 0f3cc65f-5688-4777-97f5-32bbda80634e
+id: c24461cc-4c4a-4eaf-b590-8d14c4de48ba
 ---
 Sitting pretty behind the high timber fence is this cute low-set home, full of potential for home owners and investors alike. The open-plan and spacious layout, with an abundance of room for entertaining and relaxation is bright and airy, making the most of the tranquil surrounds. This home is situated in a quiet and leafy residential pocket, which is a hidden delight known only to those lucky enough to call the area home.
 

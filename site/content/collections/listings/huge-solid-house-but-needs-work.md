@@ -13,9 +13,11 @@ address: '17 Phaius Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ULxHEDWtQJy5aYfMWQgKcq-9AHI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824063/115408599-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435391/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435391/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435391/documents'
 property_id: '435391'
 price_search: '359000.0'
-id: cae1b667-d6ed-4648-9f28-4eb37025a581
+id: 818960f5-77aa-4d26-9893-92f52c55a3ab
 ---
 This huge brick and tile home in this quiet pocket of Acacia Ridge situated on a 546m2 block is in need of an internal renovation. Originally built in the mid 1980's it features 4 bedrooms upstairs with separate lounge and dining room.
 

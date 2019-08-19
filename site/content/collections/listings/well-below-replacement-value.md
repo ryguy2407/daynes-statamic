@@ -13,9 +13,11 @@ address: '34 Bramston Street, TARRAGINDI'
 suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/bLvlVQ3ZpySdF9dvgHowhKyWGDw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822786/117405155-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435289/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435289/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435289/documents'
 property_id: '435289'
 price_search: '899000.0'
-id: 98add48d-3ae4-42b4-98c7-932d64f6988e
+id: 2a6bb6d0-f162-4a65-8c2f-e54ab6dac26f
 ---
 MUST BE SOLD - MAKE AN OFFER - WELL BELOW REPLACEMENT VALUE!
 

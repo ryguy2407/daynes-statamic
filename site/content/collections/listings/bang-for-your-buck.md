@@ -13,9 +13,11 @@ address: '32 Heaton Street, ROCKLEA'
 suburb: ROCKLEA
 main_image: 'https://img.eagleagent.com.au/G-WMXWPV6SEaeaXyYSMka0Bwo8E=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823173/118340231-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435319/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435319/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435319/documents'
 property_id: '435319'
 price_search: '450000.0'
-id: f43e1789-1aef-4add-9076-716efc43479c
+id: 2182aeee-17da-470f-bf20-7c114ca1de25
 ---
 Wow! A near new four bedroom, two bathroom home within 11km of the CBD at this price? Yes, but you will have to act quickly. This home has so much to offer and will not break the bank.
 

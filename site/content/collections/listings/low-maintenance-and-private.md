@@ -13,9 +13,11 @@ address: '69 Cripps Street, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/KJXeMgwAzm6GxLZrKozGcWoIofE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825869/426595666-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435585/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435585/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435585/documents'
 property_id: '435585'
 price_search: null
-id: 9cad5f90-d9ab-4331-88ed-75b128b1c089
+id: 3f8b962f-1984-459a-9a3f-ba236b88a1a8
 ---
 This low-maintenance home is a great retreat for families or students. A must-see property, the tiled floors throughout make the interiors cool and comfortable, while the layout is highly functional and convenient. The open plan living space is generous, expanding into the front sunroom at the entry. An additional space to the rear of the home could be utilised as a rumpus or study space. The fresh kitchen and bathroom are stylish and well proportioned with plenty of storage. The two bedrooms are equipped with ceiling fans. This is a great home for those seeking a generous and private escape in this convenient location!
 

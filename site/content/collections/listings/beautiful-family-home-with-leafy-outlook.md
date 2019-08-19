@@ -13,9 +13,11 @@ address: '11 Harpullia Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/qmdJ66i2Tkji5TsERUsR6qPcHxU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823517/121766074-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435354/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435354/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435354/documents'
 property_id: '435354'
 price_search: '400000.0'
-id: b75ee203-f1ca-44fe-b86a-d8ce47c07660
+id: 3e9a6e61-b1c7-41b3-9bd1-ca5fe15b2dda
 ---
 This lovely high-set chamfer board house is ripe and ready to go for the final touches to make this a great lifestyle home. With a great open-plan layout, complimenting modern family living, this property makes the most of its elevated and leafy outlook. The open-plan kitchen, living and dining step out through French doors to both the front and back deck, guaranteeing bright and airy spaces with great breezes. Situated in one of the quietest and greenest pockets of Acacia Ridge, and within walking distance to schools and parks, this property is just what you have been waiting for!
 

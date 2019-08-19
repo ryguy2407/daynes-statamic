@@ -13,9 +13,11 @@ address: '4 Celtis Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/PUoj5BB-nyGWKxzaUK0EaTkNrYk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821118/124953066-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435157/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435157/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435157/documents'
 property_id: '435157'
 price_search: '495000.0'
-id: 715e8b96-7616-47db-b295-eece8a400916
+id: 61ac7cde-3e17-4077-b515-8f85ea551318
 ---
 This stunning highset home is situated in one of the most sought-after pockets of this rapidly developing suburb. A leafy pocket with no through traffic and within walking distance to Acacia Ridge Primary School, Celtis Street is the perfect place for families to call home. A picturesque property with beautifully landscaped gardens with native trees and attractive stone path framing the home. The exterior has been modernised with a neutral palette, offset by timber slatted privacy screens, giving the home a thoroughly designer feel. Inside, the open-plan living areas are generous and beautifully showcase the solid hardwood timber floors, polished to perfection. The kitchen is modern with quality cabinetry and a functional layout. Flowing off the open-plan internal spaces is the expansive entertainers deck with leafy outlook over the back yard. Perfect for relaxing and enjoying your surrounds, this deck is big enough for the whole family!
 

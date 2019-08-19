@@ -13,9 +13,11 @@ address: '8 Colborne Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/JARICIjfbotcWvtwvYvV1xDshwU=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823386/120773025-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435341/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435341/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435341/documents'
 property_id: '435341'
 price_search: '379000.0'
-id: 218ba48f-3a1b-4f58-bf85-3ee150a57ab0
+id: c20d57cf-b9e9-42b2-b4dd-711334fd009b
 ---
 Situated in arguably one of the best pockets of Acacia Ridge, this recently renovated property is definitely one to inspect. Surrounded by lovely homes, this property is very well presented and we expect it to sell quickly.
 

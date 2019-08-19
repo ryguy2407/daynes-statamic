@@ -13,9 +13,11 @@ address: '10 Harpullia Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/q7aCNGOE3M-g45FyzH8232-tPGg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823475/121671810-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435351/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435351/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435351/documents'
 property_id: '435351'
 price_search: '369000.0'
-id: a004e2c1-2cd5-461e-835c-10c379f2e676
+id: 589ebd71-651f-45de-8880-54e47b4af2e3
 ---
 This beautiful home is set on a leafy, private block in a quiet pocket of Acacia Ridge. Immaculately presented both inside and out, this home is one to fall in love with. Perfect for families and those who love to entertain, this house offers both liveability and lifestyle in excess. Stepping inside the home, the amount of light in the open plan kitchen and living areas is striking. The living spaces are airy and functional, and a perfect example of easy, open plan living. To the rear of the home, the shady back deck is expansive and overlooks the picturesque grassy yard and shady trees. This property is limitless in potential for savvy investors and those seeking an enjoyable family home alike.
 

@@ -13,9 +13,11 @@ address: '69 Cripps Street, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/mCiqiCIxQ8-_k2RXe9jVdRJH8M0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825960/413627851-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435594/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435594/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435594/documents'
 property_id: '435594'
 price_search: null
-id: e2ac42ff-990c-4b1d-9361-947154833fbe
+id: 1c1fc6ab-ac52-4dc3-b4fb-a07d7e1d895a
 ---
 Features;
 * Two bedrooms with ceiling fans

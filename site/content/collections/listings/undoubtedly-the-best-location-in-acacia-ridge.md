@@ -13,9 +13,11 @@ address: '106 Gregory Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/DvqQofRqbAj_G_SIhgG1MxBaZbc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824133/115911067-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435398/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435398/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435398/documents'
 property_id: '435398'
 price_search: '380000.0'
-id: ef4d780f-527d-4e1b-8fa9-6c3e9f755886
+id: 6ab1bfa1-2eaa-4809-9fef-1b10b8edea4f
 ---
 Please donâ€™t take my word for it because I want you to come and see for yourself as this is truly a superb location. In my opinion the best in Acacia Ridge but I want you to be the judge.
 

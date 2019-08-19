@@ -13,9 +13,11 @@ address: '16 Bracken Street, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/7YOT8JdwxaUm_Tp4liVC5HMOGrY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820688/105933621-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435120/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435120/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435120/documents'
 property_id: '435120'
 price_search: '590000.0'
-id: 959509e2-e23b-4298-b32c-a4971d504236
+id: f3777a55-69e3-4189-8530-f9f7ee5a3781
 ---
 Motivated Vendors!!
 Submit All Offers!!

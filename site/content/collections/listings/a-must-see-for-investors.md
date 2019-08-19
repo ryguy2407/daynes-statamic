@@ -13,9 +13,11 @@ address: '1 / 118 Hamilton Road, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/do54c5STp-zZh13nTDxZGw7weVk=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818359/104371236-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434854/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434854/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434854/documents'
 property_id: '434854'
 price_search: '365000.0'
-id: 5b891e82-9d0a-4a53-a180-b97e8b307981
+id: ae3bc950-1da7-496e-afbb-ea4f0dd5a4eb
 ---
 Situated in a seven-year old complex of 30 dwellings in Moorooka, this three bedroom, two bathroom villa would suit an investor greatly.
 

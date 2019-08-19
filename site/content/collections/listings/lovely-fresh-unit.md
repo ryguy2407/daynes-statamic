@@ -13,9 +13,11 @@ address: '1 / 21 Brentford Road, RICHLANDS'
 suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/UTLfy3cusvfjVQXvw9sFiKdg3UI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825557/425292546-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435555/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435555/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435555/documents'
 property_id: '435555'
 price_search: null
-id: 9106bb3e-9d8c-45ca-8034-fa10bb531cc4
+id: 5548a99c-0e63-4d25-9a38-dd77e8d77661
 ---
 This cute two bedroom unit is situated at the front of a duplex in a quiet area. Privately tucked away from the road, the unit is surrounded by shady trees and the yard enclosed by timber fences. The front patio overlooks the yard and steps into the spacious open plan living, dining and kitchen. Fresh and modern, the kitchen features plenty of storage and sleek finishes. The two bedrooms are generously sized and full of light. The unit is serviced by the family bathroom, including a shower over bathtub and separate toilet. Glossy hardwood timber floors throughout are low maintenance and compliment the crisp white walls.
 

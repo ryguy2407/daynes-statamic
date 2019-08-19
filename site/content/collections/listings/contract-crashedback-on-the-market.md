@@ -13,9 +13,11 @@ address: '16 Ferrand Street, TARRAGINDI'
 suburb: TARRAGINDI
 main_image: 'https://img.eagleagent.com.au/gHlFxz5u5mLg31eU44jdClmBqaY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818436/104547461-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434866/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434866/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434866/documents'
 property_id: '434866'
 price_search: '480000.0'
-id: cac34806-4edd-4bd9-91f3-c25c590b589d
+id: 6569e2e7-577f-4bbe-b904-0ba27e023a83
 ---
 Don't judge a book by its cover...
 

@@ -13,9 +13,11 @@ address: '5 Corkwood Street, ALGESTER'
 suburb: ALGESTER
 main_image: 'https://img.eagleagent.com.au/Fdni0LLXxqiigI7r-wPgmrE2-34=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6822083/116968255-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435238/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435238/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435238/documents'
 property_id: '435238'
 price_search: '440000.0'
-id: d906370e-2295-4579-b6e7-88a70ed770b1
+id: 2c1dfd28-d5ae-40f1-8983-29dc41f5791b
 ---
 This lovely two story brick and tile home is conveniently positioned in the heart of Algester.
 The house itself backs onto Timberland Park - a rarity in Algester. Well maintained, it has been designed with flexible living in mind and would suit any family or professional couples.

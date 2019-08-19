@@ -13,9 +13,11 @@ address: '7 Mason Court, SAMSONVALE'
 suburb: SAMSONVALE
 main_image: 'https://img.eagleagent.com.au/yu8at2hutpaBltXNw1kwVHExtBI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820042/107156624-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435056/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435056/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435056/documents'
 property_id: '435056'
 price_search: '790000.0'
-id: 538653d1-2486-463d-ac64-2a400c89d1b7
+id: c42ed68f-0e8d-49b6-98ab-b6cdc46f08de
 ---
 ***The owner has reduced the price from $839,000 to now best offer over $790,000. Don't miss your chance! ***
 

@@ -13,9 +13,11 @@ address: '2 / 228 Pickering Street, ENOGGERA'
 suburb: ENOGGERA
 main_image: 'https://img.eagleagent.com.au/HtLHar_muSwwE00PySXQmMIXuQg=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6818422/104525172-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/434864/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434864/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/434864/documents'
 property_id: '434864'
 price_search: '439000.0'
-id: 60c1828f-4220-4575-b4e0-6581cb8a0406
+id: ddc24fbd-243a-4f35-b82b-8469b3ad05f2
 ---
 Here is your last chance to secure a brand new three bedroom townhouse in this development.
 

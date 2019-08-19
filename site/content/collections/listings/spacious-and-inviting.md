@@ -13,9 +13,11 @@ address: '8 Saxon Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/oicBfmK9T89qLQ8cEZ9ej1rq7QI=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821727/127660638-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435208/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435208/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435208/documents'
 property_id: '435208'
 price_search: '425000.0'
-id: 83e9ab60-e717-497a-85f6-b25389630b1c
+id: d3ecf90b-09f4-487d-bd5c-1691450728f4
 ---
 Beyond the modern timber fence and gorgeous manicured gardens of this immaculately presented property is this low-set rendered brick home awaiting its next chapter. A spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front patio, enjoying the tranquility afforded by the quiet neighbourhood. Inside, the clever layout affords families a bright open-plan living and large eat-in kitchen down a generous wide hallway. The kitchen steps out to a cute patio, perfect for a veggie patch or for children to play.
 

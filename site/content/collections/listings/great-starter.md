@@ -13,9 +13,11 @@ address: '94A Elizabeth Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/6RZyFeIj6tbCZzM8jkgauhgvIjE=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6821235/125642094-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435166/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435166/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435166/documents'
 property_id: '435166'
 price_search: '350000.0'
-id: 1d85bf28-4c58-4fd8-9eb1-4a5972a01cec
+id: 13fdcb9b-da31-49a5-a264-ce3a65680e47
 ---
 This lovely three bedroom home is ripe for renovation and a fantastic investment opportunity in this rapidly growing area. Conveniently situated right in the hub of Acacia Ridge, this property is close to transport and a great range of amenities. Recently repainted and freshened up internally, this is a functional family home with bright and airy interiors. North facing on a low maintenance 446sqm block, the home is privately set back from the road behind leafy hedges and framed by a beautiful Jacaranda. The fully-fenced front yard is the perfect setting for children and pets to play in the shade.
 

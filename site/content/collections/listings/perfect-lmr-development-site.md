@@ -13,9 +13,11 @@ address: '23 Amherst Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/-QT7uMC8hHxvzla-3zOCPUaup7Y=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823195/118543347-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435321/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435321/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435321/documents'
 property_id: '435321'
 price_search: '445000.0'
-id: 5420f2fd-f178-449a-bd20-73b7fde10795
+id: d468cd12-d978-4bc8-a608-f744c85773f5
 ---
 Here we have a flat 825sqm (Low-Medium Density Residential) block with a tenanted three bedroom house situated very close to Elizabeth Street Shopping Centre.
 

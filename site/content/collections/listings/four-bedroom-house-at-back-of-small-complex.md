@@ -13,9 +13,11 @@ address: '5-292 Archerfield Road, RICHLANDS'
 suburb: RICHLANDS
 main_image: 'https://img.eagleagent.com.au/K1V2POj96VFbEZAgiRahqTWu0Ig=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826850/411905803-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435696/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435696/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435696/documents'
 property_id: '435696'
 price_search: null
-id: 2d1aa84d-a1bd-4256-b753-52597ddaf0ff
+id: 4fbf555d-a0a9-4623-ae07-15781a080fa3
 ---
 *  Four bedrooms and a study
 *  The master bedroom has WIR and ensuite

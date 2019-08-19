@@ -13,9 +13,11 @@ address: '4 Scott Street, REDLAND BAY'
 suburb: 'REDLAND BAY'
 main_image: 'https://img.eagleagent.com.au/jmm-ZNt7Y-1p14zH_eQQF8THU5U=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826192/415613235-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435623/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435623/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435623/documents'
 property_id: '435623'
 price_search: null
-id: 258be17b-8b43-45e9-9670-1d439ebce8c4
+id: 011444c1-fe9b-44c7-b701-ac31558ec725
 ---
 Recently completely renovated this spacious, fully self-contained and security screened granny flat is available for rent now.
 

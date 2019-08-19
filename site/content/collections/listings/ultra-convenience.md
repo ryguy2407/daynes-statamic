@@ -13,9 +13,11 @@ address: '293 Lister Street, SUNNYBANK'
 suburb: SUNNYBANK
 main_image: 'https://img.eagleagent.com.au/AFAkq_jevYIS9L5AWj4yJAwl7uc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6825848/426510694-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435583/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435583/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435583/documents'
 property_id: '435583'
 price_search: null
-id: 6ebf2c2e-b790-4490-b51d-a43df29b69c8
+id: 2f8ed8b0-6a55-42fb-9286-1dd7b85b03bc
 ---
 This charming family home has beautiful character, and is a home to be truly proud of. Stepping inside from the inviting front deck, you are welcomed into the light and airy home. The living area beckons you in with the lovely Hampton's colour scheme of grey walls, white trim and lovely timber floors. A delightful wood heater conjures up images of sitting in the warmth on a winter's evening with a cup of cocoa. Lovely double french doors open from the living area onto the back deck.
 

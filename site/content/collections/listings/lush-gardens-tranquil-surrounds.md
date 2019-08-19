@@ -13,9 +13,11 @@ address: '18 / 66 Tuckett Road, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/dP09CkMU9X4DG3uFv8A61nmmZu0=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823863/123500246-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435377/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435377/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435377/documents'
 property_id: '435377'
 price_search: '395000.0'
-id: c26a5c13-7d70-465b-9702-40cdb114d0ee
+id: c6db468c-b1b9-49ad-8ada-5f3b7616a84d
 ---
 This generous brick, dual level townhouse is set amongst the lush gardens and tranquil grounds of this sleepy complex. Backing onto neighbouring suburban houses, this is one of the most peaceful and protected properties in Salisbury Gardens, a complex of only nineteen dwellings. Situated in the desirable and rapidly developing suburb of Salisbury, this property is perfect for those looking for a low-maintenance lifestyle without sacrificing the warmth of a well-established community. Enjoy the privacy and ease of entertaining in the private north-facing courtyard, stepping effortlessly from the open-plan living and kitchen area. The complex also boasts a shady communal barbecue area overlooking sparkling pool, perfect for enjoying the long summer afternoons.
 

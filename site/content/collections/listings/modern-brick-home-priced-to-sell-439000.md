@@ -13,9 +13,11 @@ address: '15 Kirkley Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/ycmNs6fnAA5BG_A43oWNadIasdc=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820673/113714103-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435118/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435118/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435118/documents'
 property_id: '435118'
 price_search: '439000.0'
-id: 5377d6a0-10e5-4609-9a65-2ac3382c0695
+id: 52dc40b4-617c-4daa-9b41-983b56c65108
 ---
 This home has so many attributes that I am sure you will agree that it ticks all the boxes.
 

@@ -13,9 +13,11 @@ address: '16 Blackwood Road, MANLY WEST'
 suburb: 'MANLY WEST'
 main_image: 'https://img.eagleagent.com.au/Ur2Hq6n7JUUUQ37jmu7bJir8b9g=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820562/112712563-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435107/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435107/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435107/documents'
 property_id: '435107'
 price_search: '439000.0'
-id: bc0ab21e-2b3b-4a95-af7f-07472cdd130c
+id: 2b58248d-57d7-43b9-8382-d0d86b0f15c1
 ---
 This home is a beauty for those wishing to have double living areas. It is situated on a 607sqm block in a leafy quiet street in Manly West. So close to all schools including pre schools. Very handy to shopping centres and a 7 minute walk to the rail. It is also approximately 2 kms to the Manly marina and the bay.
 

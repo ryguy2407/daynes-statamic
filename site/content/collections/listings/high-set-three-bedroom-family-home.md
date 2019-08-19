@@ -13,9 +13,11 @@ address: '418 Watson Road, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/WBGudRk3aRUAA16sL4vbkDdlClY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6826436/417546406-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435652/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435652/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435652/documents'
 property_id: '435652'
 price_search: null
-id: 49f5cda2-ef84-450a-81b3-969f00e4f0cf
+id: 52f49fa9-1ce6-44bb-9c52-48f8b2789631
 ---
 This highset family home is on a large 541sqm completely flat block. Situated in a quiet part of Acacia Ridge, this property would be ideal for families. The house has good bones with solid hardwood floors and chamfer board exterior.
 

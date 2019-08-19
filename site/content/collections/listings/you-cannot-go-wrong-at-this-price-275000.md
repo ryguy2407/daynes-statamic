@@ -13,9 +13,11 @@ address: '4 / 65 Goodwin Terrace, MOOROOKA'
 suburb: MOOROOKA
 main_image: 'https://img.eagleagent.com.au/ZHByFnffISsUYqfYLUTKOWbJiVw=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6819949/106791531-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435046/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435046/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435046/documents'
 property_id: '435046'
 price_search: '275000.0'
-id: 7ddf86a7-e90c-4f54-9339-f342411cfd01
+id: 95b4484b-59d8-4281-8ea0-1402510c9b51
 ---
 UNBEATABLE PRICE
 

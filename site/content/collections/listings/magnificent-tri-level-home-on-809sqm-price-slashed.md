@@ -13,9 +13,11 @@ address: '235 Douglas Road, SALISBURY'
 suburb: SALISBURY
 main_image: 'https://img.eagleagent.com.au/392MKjLJSWO_X1IRqFe88jTuhuA=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820271/108611776-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435079/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435079/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435079/documents'
 property_id: '435079'
 price_search: '749000.0'
-id: 37ffaa59-8d3c-4c82-851c-21d9d1e230ac
+id: e27b2688-c3c3-41df-9a33-e380b5f7c243
 ---
 Situated on a fully landscaped 809sqm block in one of Salisbury's best streets, sits a massive contemporary home that should tick all the boxes even for the largest of families.
 
