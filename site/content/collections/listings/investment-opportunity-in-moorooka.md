@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434851/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434851/documents'
 property_id: '434851'
 price_search: '340000.0'
-id: 5cbea0c3-dddf-4a03-b9ee-49d33bd2270f
+id: f7978303-d1a6-4910-99cc-a32a72942101
 ---
 Secure this lovely three-bedroom ensuited townhouse for your future!
 Currently on a long lease at $295pw in a complex of 30.

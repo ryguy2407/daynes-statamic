@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434847/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434847/documents'
 property_id: '434847'
 price_search: '380000.0'
-id: b259a87b-0504-43f2-a433-c880d86d30e4
+id: 08f5f3fe-b3c6-4b2c-bb63-522a34b7a2d5
 ---
 This is your chance to secure a quality apartment in the highly sort after inner-city suburb of New Farm.  This 101sqm, 2 bedroom, 2 bathroom apartment is located within a complex of 28 and is approximately 7 years old.
 

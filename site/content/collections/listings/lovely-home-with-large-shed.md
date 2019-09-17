@@ -2,16 +2,16 @@
 title: 'Lovely Home with Large Shed'
 property_type: House
 listing_type: residential_rental
-price: '$360 per week'
-rent: '360.0'
+price: '$370 per week'
+rent: '370.0'
 bedrooms: 2
 bathrooms: 1
 cars: 3
 land: 653
-status: Let
+status: Active
 address: '59 Whittingham Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/CLfczJh9IWlxaRQ2cpLzEWrAvLQ=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6824914/422088166-image-M.jpg'
+main_image: 'https://img.eagleagent.com.au/GyVIJb5GmhzWIbTo9SsUYncgAkI=/1280x854/smart/http://s3-us-west-2.amazonaws.com/eagleagent-orig/uploads%252F1568184267119-cfpjw7p7mjm-67208d33d3f52bb360de040a0eaef967%252FWhittingham-59-Front-Daynes-Property.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435494/images'
 floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435494/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435494/documents'

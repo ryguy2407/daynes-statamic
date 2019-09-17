@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435601/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435601/documents'
 property_id: '435601'
 price_search: null
-id: ac5fd51f-863d-43d2-a706-212e2d147356
+id: 81023273-2445-4072-a46c-f574ef76349c
 ---
 This 3 bedroom house is now available for rent.
 

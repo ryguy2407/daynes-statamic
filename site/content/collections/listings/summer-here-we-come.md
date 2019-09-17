@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435348/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435348/documents'
 property_id: '435348'
 price_search: '409000.0'
-id: d650e293-b294-40c1-a5a5-6f44640e251b
+id: d9e86582-9828-4c47-9cc7-c6b2f26b344d
 ---
 This spacious property has it all for a great lifestyle for families who love to entertain and enjoy their time together. With two large outdoor entertaining areas overlooking the lush gardens and sparkling pool, this property will not disappoint. The outdoor spaces do not end there with the yard looking out to the local park, and a back gate allowing access to even more playing space. Inside the home, the open plan kitchen, living and dining room are fresh  and modern. High set chamfer board and situated on a 582sqm block, this property will not disappoint!
 

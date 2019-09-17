@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435227/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435227/documents'
 property_id: '435227'
 price_search: '500000.0'
-id: 5f6af95f-5e0c-459d-a198-a6ab6de5c7ee
+id: 6514b885-a513-4dda-9e8d-ec95be36aacc
 ---
 This beautifully renovated three bedroom home has much to offer investors and families alike. Situated on a fully fenced 825sqm block and LMR zoned, this could be an opportunity to develop the land or enjoy the property as is. Beautifully polished floors, an open plan design and ample light make this an airy and bright residence. The extension to the rear of the property offers great lifestyle spaces with a large rumpus or family room stepping out to a lovely shady verandah overlooking the grassy backyard.
 

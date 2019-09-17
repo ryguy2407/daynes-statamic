@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435642/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435642/documents'
 property_id: '435642'
 price_search: null
-id: 75594573-5503-42bc-8198-f7babfb39e62
+id: c389b9dd-e290-49fe-baec-3913fe7bd002
 ---
 This Executive Style Multi Level Townhouse is available for rent now. The Townhouse is located in a small complex of 4 townhouse.
 

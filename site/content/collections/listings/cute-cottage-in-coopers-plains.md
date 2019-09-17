@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434878/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434878/documents'
 property_id: '434878'
 price_search: '349000.0'
-id: 99d4c197-2b20-4239-80d3-1ef72502c7bb
+id: 33a4c5b2-df0f-4aec-945b-6e9416a65589
 ---
 This light and airy two bedroom cottage set on 607sqm is a must inspect for those trying to get into the market.
 

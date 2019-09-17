@@ -8,7 +8,7 @@ bedrooms: 4
 bathrooms: 1
 cars: 2
 land: null
-status: Active
+status: Let
 address: '15 Marnham Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
 main_image: 'https://img.eagleagent.com.au/5TDYagUZrz3gcjyOU4_IOraZFxw=/1280x854/smart/http://s3-us-west-2.amazonaws.com/eagleagent-orig/uploads%252F1565839122917-f4h4fu6tfds-d1f4198e9bbf7c02e518397389343fb3%252FMarnham-15-Front2-Daynes-Property.jpeg'

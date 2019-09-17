@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435013/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435013/documents'
 property_id: '435013'
 price_search: '369000.0'
-id: d7da380b-014c-4dfe-a59f-f0f11a652ee1
+id: cb4b10f8-7251-4695-838a-dfeb0da02bf0
 ---
 Great opportunity to acquire this three bedroom villa in a neat & quiet complex of 35.
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435607/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435607/documents'
 property_id: '435607'
 price_search: null
-id: 2255cfbd-3366-4358-8c6c-5063d9dc4656
+id: b9945942-735a-409a-87e3-54e9d70db605
 ---
 This 4 bedroom home is available for rent now.
 

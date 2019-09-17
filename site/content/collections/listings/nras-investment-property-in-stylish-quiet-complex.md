@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435312/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435312/documents'
 property_id: '435312'
 price_search: '389000.0'
-id: 5d6142b2-c04c-4697-a941-45f783898292
+id: e572fe0e-f6ef-4c41-9352-38be8e6a1b53
 ---
 This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS provides financial incentives to investors and is designed to encourage the supply of affordable housing.
 

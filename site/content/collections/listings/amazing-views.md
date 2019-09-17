@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435586/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435586/documents'
 property_id: '435586'
 price_search: null
-id: 010087e1-3a9d-4edc-bfc6-69b86b08f54f
+id: f5976bb6-71a3-4a21-95db-bf7dd7879da5
 ---
 This is a property you would be proud to call you home. Loving renovated preserving character and style, this lovely modern three bedroom home will not disappoint. Set in a quiet pocket of Acacia Ridge, this property features lovely soft grey internal walls and beautiful timber flooring throughout. The lounge and kitchen are open plan and create a beautiful living space. The outlook from the garden area is breathtaking. There is a lovely Balinese hut set in a vantage point, all that is required is a table, some chairs and a chilled glass of wine. The view comes with no charge!
 

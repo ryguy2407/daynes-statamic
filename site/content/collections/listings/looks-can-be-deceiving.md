@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435124/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435124/documents'
 property_id: '435124'
 price_search: '579000.0'
-id: d3910354-a6ff-4bfa-9df7-952a0f20b5c3
+id: b85010f9-04bf-4c29-abde-eb9a9cced801
 ---
 Set in a lovely street in Moorooka, this home offers an easy living lifestyle and plenty of room to entertain friends and family. Be sure to inspect this property as you will be impressed by the quality and size of this home.
 

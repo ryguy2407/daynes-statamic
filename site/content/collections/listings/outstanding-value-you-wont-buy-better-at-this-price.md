@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434920/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434920/documents'
 property_id: '434920'
 price_search: '325000.0'
-id: ad07ddff-6ecc-4e44-817c-1922e8b10d74
+id: 3e832b72-6d3e-4052-a805-aa577549f6d2
 ---
 This three bedroom home on a 607sqm block will impress buyers looking for good presentation and practicality.
 

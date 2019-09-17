@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435449/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435449/documents'
 property_id: '435449'
 price_search: null
-id: 30387c3a-1b3a-4b22-869e-466f6345e31c
+id: 1a3449c5-e79c-4d83-9f49-07d26555d313
 ---
 *  Stand alone studio flat
 *  Modern, good sized kitchen

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435111/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435111/documents'
 property_id: '435111'
 price_search: '389000.0'
-id: aefeab57-2811-4ed1-851e-093e2078d313
+id: 19baa77a-ac55-41dd-8ab9-5723533f7a0e
 ---
 You will be hard pressed to find a recently renovated three bedroom unit in Toowong for under $400,000. The property is currently tenanted and achieves $450 per week!
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435695/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435695/documents'
 property_id: '435695'
 price_search: null
-id: 3a18cc28-ba43-462d-8075-4ae6357fd1f8
+id: 97997871-eca6-444e-9d4f-574d36d93b12
 ---
 Ground Floor Two Bedroom Unit, Close To Griffith Uni
 

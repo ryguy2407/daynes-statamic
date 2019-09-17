@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435609/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435609/documents'
 property_id: '435609'
 price_search: null
-id: b5bc8483-60d7-41bc-8b54-9700899f7bcd
+id: e002f2c4-3125-41d7-96cf-b3af16f6295d
 ---
 This 5 bedroom townhouse has a room available for rent. Fully furnished room, the property has an outdoor private patio area to sit and enjoy.
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434840/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434840/documents'
 property_id: '434840'
 price_search: '449000.0'
-id: 2c920551-c45e-4833-acc0-63b1574a160e
+id: c4fd70a4-7489-4fa9-a9ce-92a65e095c65
 ---
 From the moment you step inside this gorgeous Queenslander you will feel right at home as it has the perfect blend of old world charm and an ideal position.  Bright airy colours, hoop pine floorboards and the most quaint touches throughout which will make you fall in love!
 

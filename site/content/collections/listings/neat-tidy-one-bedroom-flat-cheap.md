@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435641/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435641/documents'
 property_id: '435641'
 price_search: null
-id: 7aa04ff8-327c-43e3-bc82-96f2ddfedcc3
+id: bcf97c2e-8331-45eb-925e-c341d54f8a0f
 ---
 Be quick to see this one bedroom flat - it won't last
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435534/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435534/documents'
 property_id: '435534'
 price_search: null
-id: f9a44d43-8a97-43ed-b8fd-b3873b874f86
+id: 92e9aaa9-a67c-4b0d-b766-3a3511c0b417
 ---
 This high-set home is spacious, full of light and beautifully presented. The polished timber floors and light coloured walls are the perfect blank canvas for you to create your own welcoming home. The open plan kitchen, living and dining step out to the large back deck, ideal for relaxing and entertaining. The kitchen has been newly renovated and finished with beautiful grey cabinetry, pale laminate benchtops and stainless steel appliances. Each of the bedrooms upstairs is equipped with ceiling fans, blockout blinds and built in storage.
 

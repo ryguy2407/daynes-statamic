@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435503/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435503/documents'
 property_id: '435503'
 price_search: null
-id: 29f259ea-d070-46c7-b393-3f40fd30ede8
+id: 739ae71b-4650-4d18-8347-b255294e337a
 ---
 This high-set clad home sits proudly at the top of one of Acacia Ridge's most sought-after streets. A generous family home upstairs with bright, open-plan living and kitchen areas, beautifully off-set by polished timber floors. The bedrooms are all good-sized and the bathroom is modern and beautifully presented. Under the house has been enclosed and tiled, featuring two large rooms, bathroom and kitchenette.
 

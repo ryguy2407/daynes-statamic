@@ -9,7 +9,7 @@ bathrooms: 1
 cars: 1
 land: 0
 status: Active
-address: '601 269 Grey Street, SOUTH BANK'
+address: '269 Grey Street, SOUTH BANK'
 suburb: 'SOUTH BANK'
 main_image: 'https://img.eagleagent.com.au/NYh7SMb7YvHW-ilS0zlDE4R1Y1M=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6820872/131099506-image-M.jpg'
 images: 'http://www.eagleagent.com.au/api/v2/properties/435140/images'
@@ -23,7 +23,7 @@ id: 5be3d0b0-72fe-42e5-9c2c-309873abc750
 
 The Emporium Apartments have been the most highly anticipated and high profile developments situated on Southbank, the bustling cultural hub for which Brisbane is world-renowned. This apartment represents a rare opportunity to secure a precious piece of this vibrant riverfront community. Situated a stone’s throw from the central business district, this is a home which promises to both enrich and streamline busy lives. This development was designed and executed to satisfy even the most discerning investor.
 
-Situated within the Emporium Apartments, as an occupant of this building you can make the most of hotel amenities including but not limited to room service, maid services and cleaning. This one bedroom, one bathroom apartment on the 6th floor is the perfect inner city pad, ideal for those looking to simplify and streamline their lifestyle. Cleverly designed to maximise the functionality and flow of the internal spaces, the unit promises the pinnacle of lifestyle-focused design. With unbelievable city and river views, this is a great opportunity to secure a priceless piece of Brisbane to enjoy.
+Situated within the Emporium Apartments, as an occupant of this building you can make the most of hotel amenities including but not limited to room service, maid services and cleaning. This one bedroom, one bathroom apartment is the perfect inner city pad, ideal for those looking to simplify and streamline their lifestyle. Cleverly designed to maximise the functionality and flow of the internal spaces, the unit promises the pinnacle of lifestyle-focused design. With unbelievable city and river views, this is a great opportunity to secure a priceless piece of Brisbane to enjoy.
 
 The apartment features:
 

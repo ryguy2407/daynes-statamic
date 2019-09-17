@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435223/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435223/documents'
 property_id: '435223'
 price_search: '450000.0'
-id: 1955af46-702f-424a-b6d4-9fec268ea644
+id: 52c67670-c2f4-46ba-a8f6-2981f037ceb5
 ---
 Completely renovated and immaculately presented both inside and out, this home is one to fall in love with. The home is a classic of mid-century design, with open plan interiors offering liveability and lifestyle in excess. Stepping into the home, the tiled sunroom is both a lovely reception and an extension of the living area. The flowing open plan design integrates the living, dining and kitchen into an airy and functional space, perfect for easy entertaining and relaxation. The modern kitchen has been finished with granite benchtops and glossy two pac cabinetry, and equipped with stainless steel appliances. The tiled floor and finishes have been well-chosen to ensure a low-maintenance and convenient design in the kitchen. The original hardwood timber floors, for which these homes are much sought after, have been polished to perfection throughout the living, hallways and bedrooms.
 

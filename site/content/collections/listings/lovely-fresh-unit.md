@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435555/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435555/documents'
 property_id: '435555'
 price_search: null
-id: 5548a99c-0e63-4d25-9a38-dd77e8d77661
+id: c7d2980d-6606-4740-ac8e-4d6cfb05f9cc
 ---
 This cute two bedroom unit is situated at the front of a duplex in a quiet area. Privately tucked away from the road, the unit is surrounded by shady trees and the yard enclosed by timber fences. The front patio overlooks the yard and steps into the spacious open plan living, dining and kitchen. Fresh and modern, the kitchen features plenty of storage and sleek finishes. The two bedrooms are generously sized and full of light. The unit is serviced by the family bathroom, including a shower over bathtub and separate toilet. Glossy hardwood timber floors throughout are low maintenance and compliment the crisp white walls.
 

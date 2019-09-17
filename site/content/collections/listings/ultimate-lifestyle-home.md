@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435215/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435215/documents'
 property_id: '435215'
 price_search: '490000.0'
-id: 71f9f647-d390-488b-923f-da7a36f1e5c8
+id: 5227dd9a-cae1-4e70-a4a0-9afcad6e2317
 ---
 Beyond the gorgeous manicured gardens of this immaculately presented property is this large, meticulously renovated home awaiting the next chapter. Situated on one of best streets in Acacia Ridge, this is your opportunity to secure the ultimate in lifestyle and practicality. The east-facing front deck is perfect for enjoying your morning coffee in the tranquil surrounds, afforded by the quiet neighbourhood and leafy gardens. Stepping inside, the bright and spacious living area flows beautifully through to the equally well-appointed dining and kitchen spaces. The gourmet kitchen has been designed to provide the utmost in convenience, the best quality appliances, and has been finished with sleek cabinetry and benchtops. These inviting spaces are the heart of this home and provide the perfect place to enjoy relaxing with family and friends.
 

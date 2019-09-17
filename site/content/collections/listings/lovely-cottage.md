@@ -2,7 +2,7 @@
 title: 'Lovely Cottage'
 property_type: House
 listing_type: residential_sale
-price: '$369,000+'
+price: '$350,000+'
 rent: null
 bedrooms: 2
 bathrooms: 2

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434857/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434857/documents'
 property_id: '434857'
 price_search: '449000.0'
-id: 7d13d8a9-7575-46e6-8875-076b6b0560e8
+id: b17c0be1-0134-4d20-bd3c-e8ab4130d5b1
 ---
 Secure a brand new three bedroom townhouse
 

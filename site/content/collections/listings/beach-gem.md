@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435480/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435480/documents'
 property_id: '435480'
 price_search: null
-id: b0a25084-ab10-4e74-b5ad-ae8de7a8c836
+id: a8b5b8e5-23a4-4e19-a675-8335c2e98aa1
 ---
 ** Please contact Cherie Cooney on 0498 256 885 for enquiries **
 

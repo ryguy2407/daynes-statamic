@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434963/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434963/documents'
 property_id: '434963'
 price_search: '359000.0'
-id: fa04c4a8-d451-49cb-94d1-76b37bcf3638
+id: 1f798f23-2f63-4e8c-86a4-3f699fe8451d
 ---
 This two bedroom unit situated on the 1st level at the rear is a first home owners dream. Only 3 years old and still like new
 

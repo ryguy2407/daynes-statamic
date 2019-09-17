@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435364/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435364/documents'
 property_id: '435364'
 price_search: '375000.0'
-id: 7a038c2a-5875-482d-9080-eef7b3568624
+id: b7557348-55de-43a8-ab8d-85298984d123
 ---
 This property is a solid family home situated on a large 1,062sqm block, a prime opportunity for those looking for the potential of a subdivision or simply to enjoy a great block of land. With an approximately 21m frontage and a depth of approximately 50.5m, this is a generous space with plenty of options. The block next door provides a great example of the subdivision potential, with the back battle-axe block featuring a newly built dwelling.
 

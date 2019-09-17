@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435408/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435408/documents'
 property_id: '435408'
 price_search: '349000.0'
-id: 731fc7d2-b66b-490c-96a9-8c811b2642a5
+id: 255f717d-76f5-4424-8614-e249eef91208
 ---
 This property is leased through the National Rental Affordable Scheme (NRAS). The NRAS period for this property expires on 09/05/2022 which means you have approximately a further 9 years of benefits from the scheme.
 

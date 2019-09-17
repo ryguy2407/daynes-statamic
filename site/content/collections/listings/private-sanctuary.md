@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435485/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435485/documents'
 property_id: '435485'
 price_search: null
-id: 53b7b2c5-dfb3-42a6-b25d-7afe4e1e4645
+id: 4aaeeeb2-64ba-432c-9ede-11a18343fe97
 ---
 This generous and beautifully presented home is ideal for those who enjoy entertaining and relaxing in fabulous outdoor spaces. With two great outdoor entertaining areas stepping off the kitchen and living, this home offers plenty of space. The gardens are beautifully presented, fully fenced and private, perfect for children and pets. The kitchen is modern and full of light, with plenty of storage and work surfaces. Spacious, tastefully decorated and light-filled interiors make this a comfortable home, suitable for couples and growing families alike.
 

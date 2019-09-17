@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435011/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435011/documents'
 property_id: '435011'
 price_search: '395000.0'
-id: 9479f6cc-9425-4654-b0b0-5ab332b9e9de
+id: 83aeca5c-30c8-443d-bfca-bedb30fc44be
 ---
 Secure this lovely three-bedroom, two bathroom townhouse in a complex of 30.
 

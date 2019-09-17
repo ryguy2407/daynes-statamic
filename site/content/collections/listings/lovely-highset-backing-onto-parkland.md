@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435331/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435331/documents'
 property_id: '435331'
 price_search: '369000.0'
-id: fdb9f1e7-516d-434c-a076-b9ec2adadc46
+id: fa9c20dd-3945-4a25-832a-ff025e313b9c
 ---
 This lovely high set home is located in a quiet and leafy pocket of Acacia Ridge. Relax on the front north-east facing balcony and enjoy a leafy and elevated outlook or entertain in your spacious barbecue area. Featuring highly liveable indoor and outdoor spaces for families, there is plenty of potential in this investment.
 

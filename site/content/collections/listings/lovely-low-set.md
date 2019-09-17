@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435575/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435575/documents'
 property_id: '435575'
 price_search: null
-id: 2a3911a4-cbac-4e9c-8f83-8aa12b869bb6
+id: 9536bae7-93ba-4af4-a8bd-5321456e7e28
 ---
 This desirable low-set brick home is set in one of the best neighbourhoods of Acacia Ridge. Walking distance to Acacia Ridge State School and local parks, this is a warm community perfect for families. Stepping inside you are greeted by a generous lounge area, carpeted with a lovely bay window which lets in plenty of light. Also at the front of the home is the master bedroom, filled with plenty of natural light and equipped with built-in wardrobe. The additional two bedrooms are situated to the rear of the property, each with built-in wardrobes. The large, tiled eat-in kitchen is well appointed and flows out to the undercover entertaining area, perfect for entertainers. Also adjoining this space is an additional air-conditioned living or rumpus space.
 

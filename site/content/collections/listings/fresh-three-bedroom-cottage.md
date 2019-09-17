@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435462/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435462/documents'
 property_id: '435462'
 price_search: null
-id: ca40d861-790c-4f71-b1c6-465d1985b920
+id: b8fc1030-1380-45ed-af72-892ac623ebc3
 ---
 This freshly renovated three bedroom cottage is immaculately presented and ready to go! The home is bright and airy, with fresh paint, polished floorboards and beautiful tiles throughout. The living spaces and bedrooms are generously proportioned, designed to maximise enjoyment and lifestyle.
 

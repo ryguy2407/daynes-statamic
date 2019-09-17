@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435315/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435315/documents'
 property_id: '435315'
 price_search: '500000.0'
-id: c1538d88-0eae-468f-bd15-736c5eb23abf
+id: ccf6792b-ef91-43c6-9b1c-aef2d8d4a805
 ---
 Wander around the beautiful gardens of this surprisingly serene property. This is the city farmers delight with extensive developed gardens including plenty of flowering plants, fruit trees and chook pen. The two verandahs overlook the gardens and have been positioned thoughtfully to be enjoyed at all times if the day. This property has been lovingly cared for and home of many happy family gatherings.
 

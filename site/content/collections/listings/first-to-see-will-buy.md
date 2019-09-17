@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434849/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434849/documents'
 property_id: '434849'
 price_search: '330000.0'
-id: 7165e2e2-3c6a-4c37-be25-edecc151a2c7
+id: e9960bb0-714a-4a90-b283-3e8e9dc4dff9
 ---
 This tri-level 2 bedroom townhouse is in a complex of only 4 and is only 10 years old! Put that together with very low body corporate fees of just $860 p.a. and you have one VERY sought after property.
 

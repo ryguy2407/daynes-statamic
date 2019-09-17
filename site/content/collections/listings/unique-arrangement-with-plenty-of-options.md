@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435392/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435392/documents'
 property_id: '435392'
 price_search: '439000.0'
-id: ddac3e5a-d4e1-45db-b749-ad41277b4e51
+id: b2498598-aa27-4799-962e-bc8dc422967f
 ---
 Firstly we have the fully renovated three bedroom house at front of the property which has been tastefully done. Brand new kitchen with new stainless steel appliances, a new bathroom, polished timber hardwood floors which look an absolute treat. Totally repainted internally. The property is totally fenced with a remote electric gate for additional security.
 

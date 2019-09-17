@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435395/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435395/documents'
 property_id: '435395'
 price_search: '370000.0'
-id: 4ff2097d-52e7-4687-8155-50c9c9fa91b9
+id: af05db8d-1b00-44a3-8930-2384d9a5187e
 ---
 This brand new, well presented 2 bedroom unit is in a small complex of 5 units. It is only a stones throw to the Fairfield railway station with only a few stops to Central Station and Fairfield shopping Centre just a short stroll away.
 

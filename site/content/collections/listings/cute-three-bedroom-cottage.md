@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435648/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435648/documents'
 property_id: '435648'
 price_search: null
-id: 0c0ffeb9-1899-4811-baed-4d5a29dc66cb
+id: 16c49515-32c6-408c-8bc1-ad03ee0e6255
 ---
 This neat three bedroom house is ideal for those who are after a private family home in a convenient location. The property is beautifully light and airy inside, and boasts a private and leafy backyard to the rear. Featuring an air conditioned open plan kitchen and dining, which opens to a good-sized living area, this property has plenty of space to enjoy time together. The porch to the front of the property is secured by gates and can be used as an extension of the living area by opening the French doors.
 

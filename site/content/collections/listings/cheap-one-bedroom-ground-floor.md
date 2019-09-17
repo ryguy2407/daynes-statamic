@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435700/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435700/documents'
 property_id: '435700'
 price_search: null
-id: 307d0454-f4cc-485f-9585-d7d4863b469e
+id: 3c6e77dd-7f4f-4a57-8dbe-f11411be3658
 ---
 *  One Bedroom with built in wardrobe
 *  Tiled throughout

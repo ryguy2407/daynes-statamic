@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435317/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435317/documents'
 property_id: '435317'
 price_search: '289000.0'
-id: 2b037877-ee93-4e06-99cc-0c6d547bbc51
+id: b7c39f74-08c9-46a1-bf84-326dfff5b881
 ---
 This solid post-war home is of wooden construction and has hardwood floors throughout. Low-set and with an open-plan design, this property also features three good-sized bedrooms and one bathroom with separate toilet. This is a great entry level property for those who want to renovate and reap the rewards in this rapidly growing suburb.
 

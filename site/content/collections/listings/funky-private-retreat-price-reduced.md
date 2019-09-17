@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435093/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435093/documents'
 property_id: '435093'
 price_search: '439000.0'
-id: c82c4b83-cc31-49a3-a4d7-3725f36ad856
+id: 220e3600-2333-4b4a-b83b-4adb0067a9b0
 ---
 If you love to entertain family and friends then this one is for you.
 

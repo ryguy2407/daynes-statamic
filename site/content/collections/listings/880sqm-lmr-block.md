@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435260/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435260/documents'
 property_id: '435260'
 price_search: '400000.0'
-id: 34a7d899-fad9-409b-a045-6a39f9b52db0
+id: eec56651-bb05-48ff-b026-9c45062cf4f9
 ---
 Situated on a 880sqm flat block, zoned Low Medium Residential (LMR), this property offers potential plus to the lucky future owners with amazing long-term growth. The perfect property for the savvy investor or homeowner, this investment represents the option to renovate with the aim to move in or tenant, or develop now or in the future. As an LMR site, this property has many options in both the short and long term to maximise your return on investment. Being such a generous parcel of land with a wide frontage, the land could potentially accommodate a unit, townhouse or subdivision development.
 

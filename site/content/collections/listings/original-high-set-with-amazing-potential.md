@@ -1,45 +1,49 @@
 ---
-title: 'Original High Set with Amazing Potential'
+title: 'Original High-Set with Amazing Potential'
 property_type: House
 listing_type: residential_sale
-price: 'Offers Over $360,000'
+price: 'Offers Over $370,000'
 rent: null
-bedrooms: 4
-bathrooms: 1
-cars: 2
-land: 554
+bedrooms: 3
+bathrooms: 2
+cars: 1
+land: 675
 status: Sold
-address: '260 Mortimer Road, ACACIA RIDGE'
+address: '7 Celtis Street, ACACIA RIDGE'
 suburb: 'ACACIA RIDGE'
-main_image: 'https://img.eagleagent.com.au/yqUcEWladaN7QG2V71ZlqsTVXxs=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823506/121763450-image-M.jpg'
-images: 'http://www.eagleagent.com.au/api/v2/properties/435353/images'
-floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435353/floorplans'
-documents: 'http://www.eagleagent.com.au/api/v2/properties/435353/documents'
-property_id: '435353'
-price_search: '400000.0'
+main_image: 'https://img.eagleagent.com.au/_VQhVbfHtRN53bG5_6eFYbwAayY=/1280x854/smart/https://s3-us-west-2.amazonaws.com/eagleagent-orig/images/6823525/122273186-image-M.jpg'
+images: 'http://www.eagleagent.com.au/api/v2/properties/435355/images'
+floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435355/floorplans'
+documents: 'http://www.eagleagent.com.au/api/v2/properties/435355/documents'
+property_id: '435355'
+price_search: '370000.0'
 id: 568094f0-89f9-4094-91cf-f1bd138e4bce
 ---
-This lovingly maintained family home is in perfect, original condition and ready for its next chapter. This property has great bones with hardwood flooring hidden under linoleum and a wonderful layout, perfect for modern living. The house is spacious and bright, with generous open plan living areas and good sized bedrooms. There is also the potential to double the space of this house by enclosing downstairs. High-set with clad exterior and set on a fully fenced 554sqm flat block, this property has amazing potential for the savvy investor or those seeking a lovely family home.
+This original high-set home is ready and rearing to go for it's next chapter. Beautifully cared for, this is the perfect opportunity for those who want to put their own mark on a home with good bones. The carpets and linoleum hide the lovely hardwood floors, making these homes desirable to renovators. The layout of this home needs no adjustment, with modern proportions in the spacious open plan kitchen, living and dining area. The original kitchen boasts a trendy mid-century charm, providing plenty of potential for a creative renovation. With a recently updated bathroom, the job is half done!
 
-This property features:
+This property also boasts the most incredible leafy backyard, overlooked by a wonderful undercover patio. The yard is not only perfect for entertainers but also those with a green thumb, featuring a specialised fern house and established produce garden beds. This property is the perfect opportunity for investors and families alike.
 
-*  Enclosed sunroom to the front of the living area with elevated outlook
-*  Large open plan kitchen, living and dining with ceiling fan and air conditioner
-*  Kitchen is original but has been lovingly maintained
-*  Study off the kitchen which could be used as an additional bedroom
-*  Three good sized bedrooms with wardrobes, one with air conditioning
-*  Bathroom original but great condition
-*  Bathroom with separate shower and bath, toilet separate
-*  Lino to floors in living areas and bedrooms, tiles to the bathroom
-*  Large linen cupboard in hallway
-*  Security and insect screens to many windows and doors
-*  Laundry under the house, enclosed
-*  Under the house is plenty of space for cars, storage and the opportunity to be built in
-*  Large, leafy backyard with greenhouse, hills hoist clothes line, fully fenced
-*  Well cared for gardens with garden beds and plenty of mature, hardy trees
-*  Rainwater tank
-*  Two driveway access into two separately locking garages under the house
+This home features:
 
-While this property is situated on Mortimer Road, it is set back from the road on a small cul-de-sac which provides a safer frontage and on-street parking options. The location is great, with access to public transport, major transport thoroughfares and is in close proximity to industrial and commercial hubs. The convenience is of the property is excellent, it is within walking distance to Souths Sports Club, Lady Fatima Primary School and local shops.
+*  Chamfer-board exterior upstairs, brick downstairs and tiled roof
+*  Open plan kitchen, living and dining
+*  Original kitchen, ready for an upgrade but highly functional as is
+*  Modern air conditioner and ceiling fan to living
+*  Living opens up to front balcony through sliding door with security and insect screen
+*  Three bedrooms, one with built in wardrobe, master with remote controlled ceiling fan
+*  Insect screens to all windows, security grills to master
+*  External shade shutters to two of the bedrooms and front balcony provide privacy
+*  Recently upgraded bathroom with fresh tiles, double shower, and modern vanity and toilet
+*  Storage or linen cupboard in hallway
+*  Insect and security screens to front and back door
+*  Back door off kitchen steps down to under cover patio, ideal for entertaining
+*  Patio features concreted ground, inbuilt barbecue and solid timber construction
+*  Leafy, completely flat back yard with established and fully irrigated fern house, and produce garden beds
+*  Downstairs features a concrete floored space with insect screened windows which could be used as a rumpus room, storage or guest accommodation
+*  Downstairs is also an additional modern bathroom with shower and toilet
+*  Recently upgraded 250L hot water system
+*  Single lock up garage under the house with plenty of room for storage
 
-This is the perfect opportunity for those who are seeking a great property with the potential to put their own creativity into their next investment. This home will not last long!
+Celtis Street is located in one of the quietest pockets of Acacia Ridge, with only a few streets and no through access to any main roads. Situated on a completely flat, fully fenced block this property is perfect for those with kids and pets. Within walking distance to Acacia Ridge Primary School and a short distance to a great range of childcare centres and other community  facilities. Also handy to a great range of amenities including Elizabeth Street Shopping Centre and Acacia Market Place which includes Woolworths and Aldi.
+
+Properties like these are in high demand and do not last long, call today to arrange an inspection!

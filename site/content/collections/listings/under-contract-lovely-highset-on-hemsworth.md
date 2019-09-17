@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435329/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435329/documents'
 property_id: '435329'
 price_search: '389000.0'
-id: ef746102-9ee5-4e1e-a323-9a860e5f22c6
+id: e4d75843-7a23-4bf3-8f2f-5eee4d397184
 ---
 This lovely home is full of character, well-presented and located on one of the best streets in the area. The residents of Hemsworth Street famously decorate their houses with festive cheer to celebrate Christmas. Needless to say, this is a warm community perfect for families. High-set and featuring a beautiful rear covered deck, perfect for entertaining and relaxation space for a busy family. Ideal for those wanting to enjoy their outdoor spaces, this home is situated on a fully-fenced, level 610sqm block. This property represents a prime opportunity for first-home buyers or savvy investors looking for a good rental return.
 

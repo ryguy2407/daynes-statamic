@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435241/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435241/documents'
 property_id: '435241'
 price_search: '595000.0'
-id: a7107cb8-9fe0-4a1a-996e-4b10c53bdf90
+id: ed0e6999-913e-4ca3-bed1-ade49b55019a
 ---
 Astute investors will be quick to realise the potential on offer in this property. In addition to the large land area and the possibility of subdivision (subject to BCC approval) there is a very well maintained 3 bedroom family home plus a self-contained living area at the rear suitable for use as student accommodation. The student accommodation is currently rented at $220 per week.
 

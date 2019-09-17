@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435651/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435651/documents'
 property_id: '435651'
 price_search: null
-id: ac57af9a-883c-4173-9afa-862525776290
+id: d8c45191-bab8-435b-857b-0dd74b2b441a
 ---
 This cute, high-set home with a leafy outlook  is situated in a quiet cul-de-sac. The home is private, set back from the road and surrounded by trees and lawns. With bright open plan living areas and great outdoor entertaining spaces, this home will be great for families and entertainers.
 

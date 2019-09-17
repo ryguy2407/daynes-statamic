@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435420/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435420/documents'
 property_id: '435420'
 price_search: null
-id: d5822a00-1337-4dcf-96e2-805d6001a798
+id: 19cdb3f3-dc06-4f43-b384-2b0aefd75a11
 ---
 - 2 bedroom unit
 - recently renovated throughout including a fantastic new kitchen

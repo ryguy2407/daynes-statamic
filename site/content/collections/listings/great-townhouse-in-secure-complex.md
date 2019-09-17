@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435002/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435002/documents'
 property_id: '435002'
 price_search: '395000.0'
-id: 6e208f5e-dbbe-4e62-b85a-d7a72d5766d6
+id: ccede8a0-7985-4c5a-a35f-214bd73e1523
 ---
 This renovated three bedroom townhouse, in a secured complex is one you really should inspect.
 

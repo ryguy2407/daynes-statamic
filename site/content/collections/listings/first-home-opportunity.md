@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435389/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435389/documents'
 property_id: '435389'
 price_search: '325000.0'
-id: 88bad258-bd2d-498f-89ff-dd6f84cc3baa
+id: 9b93b0a9-1979-47a3-98e1-cab116c0834a
 ---
 This well maintained, 3 bedroom home with 3 car lock up garage is well worth your immediate inspection.
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435426/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435426/documents'
 property_id: '435426'
 price_search: null
-id: 61bcd9f9-2bb0-4543-b2f4-22a587650aa9
+id: cc1aae27-c298-45ac-a9fe-de7325093881
 ---
 This near new, three bedroom, two bathroom townhouse is located within a small complex of two townhouses and a renovated Queenslander.
 

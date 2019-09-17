@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434854/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434854/documents'
 property_id: '434854'
 price_search: '365000.0'
-id: ae3bc950-1da7-496e-afbb-ea4f0dd5a4eb
+id: b36c1f1f-0fff-45ef-9aba-b39e6dd557f4
 ---
 Situated in a seven-year old complex of 30 dwellings in Moorooka, this three bedroom, two bathroom villa would suit an investor greatly.
 

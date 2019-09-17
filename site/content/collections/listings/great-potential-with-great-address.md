@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434904/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434904/documents'
 property_id: '434904'
 price_search: '490000.0'
-id: 9fda6311-485f-4554-9490-ebca9cc5f95c
+id: b295d892-6d26-4aa3-87b4-dee53b1d29ac
 ---
 Here is your chance to secure a solid brick home in a great position for under $500,000. This three bedroom home is situated on a 675sqm block on quiet and leafy Bracken Street, one of the higher positions in Moorooka.
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435377/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435377/documents'
 property_id: '435377'
 price_search: '395000.0'
-id: c6db468c-b1b9-49ad-8ada-5f3b7616a84d
+id: afeb3619-d773-4e51-9f3b-09f468d872cd
 ---
 This generous brick, dual level townhouse is set amongst the lush gardens and tranquil grounds of this sleepy complex. Backing onto neighbouring suburban houses, this is one of the most peaceful and protected properties in Salisbury Gardens, a complex of only nineteen dwellings. Situated in the desirable and rapidly developing suburb of Salisbury, this property is perfect for those looking for a low-maintenance lifestyle without sacrificing the warmth of a well-established community. Enjoy the privacy and ease of entertaining in the private north-facing courtyard, stepping effortlessly from the open-plan living and kitchen area. The complex also boasts a shady communal barbecue area overlooking sparkling pool, perfect for enjoying the long summer afternoons.
 

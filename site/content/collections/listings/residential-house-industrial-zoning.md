@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434976/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434976/documents'
 property_id: '434976'
 price_search: '370000.0'
-id: 00e34726-b69a-44d6-bca6-74e15beaf5ef
+id: d24f8504-4779-45aa-b72f-0a4bb4d12cf7
 ---
 *  Good level 610sqm site for future development
 *  Currently has 3 bedroom timber home + garage on site

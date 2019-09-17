@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434876/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434876/documents'
 property_id: '434876'
 price_search: '450000.0'
-id: 7d855541-d01d-4907-99f4-7b23f0be13b3
+id: 78973785-382c-43a5-a3b8-d1d08bed0eaa
 ---
 Don't miss this great opportunity of securing this free-standing three-bedroom townhouse in Yeronga
 

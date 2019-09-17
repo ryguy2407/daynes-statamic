@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434870/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434870/documents'
 property_id: '434870'
 price_search: '329000.0'
-id: 8ca4bb9a-1f52-4705-be3c-1fbb0722d083
+id: 3a454af7-c0b2-4919-b295-d31d0bbfcd16
 ---
 Currently rented at $300 per week, this lovely 2 bedroom townhouse with on-site manager will surely impress even the most astute investor!
 

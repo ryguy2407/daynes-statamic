@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435254/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435254/documents'
 property_id: '435254'
 price_search: '425000.0'
-id: 70c3cff6-215d-42ca-82a4-46507dfdae33
+id: 646ee117-bd5b-4f96-b601-80bb23abc09a
 ---
 This convenient family home is beautifully presented with great street appeal, and perfect for those looking for classic design. Lovely garden beds and Macadamia tree frame the home which has been finished in a tasteful, traditional colour scheme with coordinated tiled roof. Inside, the hardwood timber floors throughout the air conditioned living showcase the open plan and convenient design. The timber floors continue into the bedrooms, while the kitchen and bathroom are finished with tiles. These spaces are dated but in great condition and functional. The kitchen features plenty of storage, gas cooking, with the bathroom including storage and shower over bath. Each of the bedrooms is equipped with ceiling fans and blockout blinds for privacy. Security and insect screens throughout give peace of mind and enjoyment of cool breezes. Overlooking the grassy backyard is an undercover and paved entertaining pavillion, ideal for enjoying the company of family and friends.
 

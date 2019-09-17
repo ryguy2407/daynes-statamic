@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435284/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435284/documents'
 property_id: '435284'
 price_search: '499000.0'
-id: 0266f60c-f7dc-4663-b2da-3fea1bbdc1e1
+id: bb1f8289-d9fe-4050-a863-042b90638ebe
 ---
 Come home to this unique and stunning home to relax in the spacious bright open-plan interiors and expansive back veranda. This is a home to be proud of, beautifully framed by tropical gardens and finished in a modern colour scheme both externally and internally. Sure to attract those who are looking for dual-living potential, the property has been cleverly converted to include a generous, self-contained studio. An amazing opportunity that must be seen to be believed!
 

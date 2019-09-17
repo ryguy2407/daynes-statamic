@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434966/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434966/documents'
 property_id: '434966'
 price_search: '595000.0'
-id: 69aa38f2-a0f2-4454-91c3-2d72cceabebd
+id: dc5edde5-9332-4b11-a2d5-c69f73d2f75a
 ---
 Here is a great opportunity to secure a 650sqm level block within 150m of the Brisbane river. With plenty of high calibre homes and in close proximity to riverfront properties, this block has plenty of potential for someone to build a very special home.
 

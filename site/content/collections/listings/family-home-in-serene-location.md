@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435688/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435688/documents'
 property_id: '435688'
 price_search: null
-id: 0af9da34-2011-44d9-a2e8-52df63f2a915
+id: 874992f8-4b31-4a8d-bac9-06948fa863bd
 ---
 Set amongst the trees, this split-level family home is unique in its location with only one neighbouring property. Backing on to parkland and overlooking nature reserve beyond, it is hard to believe the home is only 17km from the Brisbane CBD.
 

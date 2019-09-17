@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435403/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435403/documents'
 property_id: '435403'
 price_search: '299000.0'
-id: 90da8870-9b54-4181-a9ac-abc099b57181
+id: 6cbb0b0e-afd3-4a54-9113-d21ecc2a3efa
 ---
 Here we have a neat and tidy four bedroom brick and tile home situated in a desirable area of Browns Plains.
 

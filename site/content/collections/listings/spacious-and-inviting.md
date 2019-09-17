@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435208/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435208/documents'
 property_id: '435208'
 price_search: '425000.0'
-id: d3ecf90b-09f4-487d-bd5c-1691450728f4
+id: ccf5e3fa-065d-4d32-946d-0d65b3a6110f
 ---
 Beyond the modern timber fence and gorgeous manicured gardens of this immaculately presented property is this low-set rendered brick home awaiting its next chapter. A spacious and inviting family home, this property represents the ultimate in lifestyle and practicality. Sit on the lovely north-facing front patio, enjoying the tranquility afforded by the quiet neighbourhood. Inside, the clever layout affords families a bright open-plan living and large eat-in kitchen down a generous wide hallway. The kitchen steps out to a cute patio, perfect for a veggie patch or for children to play.
 

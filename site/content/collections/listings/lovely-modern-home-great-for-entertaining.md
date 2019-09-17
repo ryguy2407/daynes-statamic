@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435385/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435385/documents'
 property_id: '435385'
 price_search: '399000.0'
-id: f0a4bb9d-980d-4684-af29-73635a246be6
+id: 3ab42514-ff7b-422d-8b40-cdf2c305ba07
 ---
 This home was one of the last to be built in this relatively modern estate in 1998. The original owners have resided there all this time and are reluctantly offering it for sale as they are moving south to their farm.
 

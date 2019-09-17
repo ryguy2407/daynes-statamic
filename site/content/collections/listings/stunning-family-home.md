@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435154/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435154/documents'
 property_id: '435154'
 price_search: '490000.0'
-id: fd79d9c8-1c41-42c8-a7e9-a59be8d43394
+id: 668490ad-0777-49c9-8321-e6bf9fbd0f18
 ---
 This beautifully presented family home is being offered for the first time in more than 40 years. Lovingly cared for and the place of many happy memories, this property is ready for it's next chapter. The original home of the Caladenia Estate, this property boasts an exceptional outlook across parkland and is situated on the pick of the lots. A fine example of lifestyle-focused design, the property features spacious living and outdoor spaces, perfect for families and entertainers alike.
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435165/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435165/documents'
 property_id: '435165'
 price_search: '425000.0'
-id: 030faa14-b197-4380-93ef-be5638c50833
+id: ca560eeb-0123-4808-acde-b50b5679c0c9
 ---
 This beautifully presented home represents the ideal of modern living and an opportunity to secure one of Acacia Ridge’s most desirable properties. This private family home, promises years of enjoyment in the spacious and fresh interiors, and tranquil surrounds. The cute east-facing front porch looks out to the beautifully kept front lawns and to parkland beyond, perfect for enjoying a morning coffee. The beautiful gardens either side of the property are privately enclosed by the recently completed timber fence. Dual street access has been afforded with double car gates opening to the large shed to the rear.
 

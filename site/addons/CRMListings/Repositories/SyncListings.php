@@ -52,6 +52,10 @@ class SyncListings {
 //			$imagesArray[] = ['url' => $image['attributes']['url']];
 //		}
 
+		if(! $listing['attributes']['headline']) {
+			return false;
+		}
+
 		$dataArray = [
 			'title' => $listing['attributes']['headline'],
 			'property_type' => $listing['attributes']['property_type'],

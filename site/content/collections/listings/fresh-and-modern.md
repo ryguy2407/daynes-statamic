@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435572/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435572/documents'
 property_id: '435572'
 price_search: null
-id: be1e6b85-0f7d-49e4-8642-7d43b4a34097
+id: f3c16515-ca53-4c29-9791-a20d25b72b1f
 ---
 This generous brick, dual level townhouse is tucked privately and securely in this well managed, gated community. Enjoy the privacy and ease of entertaining in the private yard, stepping effortlessly from the open-plan living and kitchen area. Internally, this townhouse is expansive and full of light. The two well-appointed bedrooms have lovely neutral carpets, storage and ceiling fans. The bedrooms are perfectly complemented by the fresh main bathroom, immaculately kept and beautifully presented.
 

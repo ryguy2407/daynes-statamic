@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435112/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435112/documents'
 property_id: '435112'
 price_search: '439000.0'
-id: cfb27b05-6e2e-467f-a280-d65b6e808113
+id: 2afa4a88-8247-4cef-ae2b-f3c5ca9cbc1b
 ---
 You will find it quite easy to entertain with this three bedroom, two bathroom unit with its large open plan living area that extends out to a good sized balcony. Situated conveniently within walking distance of Yeronga Train Station and shopping centre.
 

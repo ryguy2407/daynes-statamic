@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435690/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435690/documents'
 property_id: '435690'
 price_search: null
-id: b7c752f3-d095-4018-b293-f08601dbb456
+id: c12e943d-fd28-48d6-903b-2631943cc3c4
 ---
 **Six-month lease only**
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435235/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435235/documents'
 property_id: '435235'
 price_search: '399000.0'
-id: 0ba14dd9-669a-49aa-84cd-7a672bdcec40
+id: a1157eb0-24a9-452e-ae7a-41cbf0645df2
 ---
 With beautiful polished timber floors and solid brick exterior, this home has great bones. The kitchen and bathroom have been recently updated and there is a fresh, neutral colour scheme throughout. The living space, kitchen and bedrooms are bright, airy and full of light. The house is situated on a fully fenced, completely flat 597sqm block with two street access and plenty of yard space to utilise.
 

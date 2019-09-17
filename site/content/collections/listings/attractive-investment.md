@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435255/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435255/documents'
 property_id: '435255'
 price_search: '430000.0'
-id: 19e16065-f6c0-4d6b-a721-379254eaa46e
+id: 21d54c66-5b76-4c3b-8996-26bb4e015159
 ---
 With great street appeal, this home is set on a lovely low-maintenance block in a quiet neighbourhood. Generously proportioned both inside and out, this property is a rare offering of space and lifestyle in a low-set design. Stepping through the front door, you are welcomed by sophisticated and cool interiors, with stylish flooring and neutral colours on the walls. The entry hall flows graciously through to the main living spaces and arrives at the kitchen, and further to the shady outdoor entertaining area. The generous open-plan kitchen and dining opens out through sliding doors and also overlook the grassy yard with beautiful gardens. Each of these well-appointed spaces are perfect for those who entertain and enjoy relaxing with family, both inside and out.
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/434845/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/434845/documents'
 property_id: '434845'
 price_search: '349000.0'
-id: 52c09027-fde6-42c6-9534-e8c6a9decc0b
+id: c8b4d6db-8e2b-42bf-a353-4bc347d597a0
 ---
 This 3 bedroom, lowest, fully fenced house on 647 m2 is a must inspect for those trying to enter the housing market!  It features a large outdoor entertaining area off the kitchen and a private deck including a childproof gate out the front, making it the perfect home for the family that likes to have friends over for a BBQ.  Other features of this delightful property include:
 

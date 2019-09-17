@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435187/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435187/documents'
 property_id: '435187'
 price_search: '420000.0'
-id: 6727bd55-fce6-404d-af6d-6506b0a752a6
+id: 5e8c8fad-3b08-48c8-ae45-817c4171b870
 ---
 This is a rare opportunity to secure a generous parcel of land in one of Brisbane’s most rapidly developing areas. This generous offering of land, zoned Low Medium Residential (LMR), comprises two individual allotments totalling 1,369sqm, representing an array of short and long term investment options.
 

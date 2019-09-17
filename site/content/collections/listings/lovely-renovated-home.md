@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435559/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435559/documents'
 property_id: '435559'
 price_search: null
-id: 894474a8-7c74-444a-9cc1-3772ba3bbbb2
+id: ba5ae824-27fb-4fb5-98fd-babd14e7b97a
 ---
 Step inside and enjoy the tastefully updated interiors and immediately feel at home. The updates have been thoughtfully applied, with fresh neutral colours and clean finishes; this home is the perfect opportunity for those looking to move! The hardwood timber floors have been polished and are perfectly complemented by the fresh walls. The open plan living and dining flow into the functional kitchen. Neat and tidy, the kitchen has plenty of storage and bench space.
 

@@ -17,7 +17,7 @@ floorplans: 'http://www.eagleagent.com.au/api/v2/properties/435337/floorplans'
 documents: 'http://www.eagleagent.com.au/api/v2/properties/435337/documents'
 property_id: '435337'
 price_search: '449000.0'
-id: f6a18434-08d9-470a-a22c-ff35dcec7de3
+id: 29c6f11a-a438-454d-9662-3eada7960b4e
 ---
 This modern townhouse is beautifully presented with high quality finishes and fixtures, promising excellent future returns for the savvy investor. This property is leased through the National Rental Affordability Scheme (NRAS). Over a period of ten years, NRAS was designed to provide financial incentives to investors and was designed to encourage the supply of affordable housing.
 
